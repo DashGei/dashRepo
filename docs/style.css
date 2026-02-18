@@ -1,7 +1,7 @@
 body {
 
     /*background:papayaWhip*/
-    background: LightSteelBlue;
+    background: DarkSeaGreen;
     font-family: Comic-sans, Arial, Helvetica, sans-serif;
 }
 
@@ -15,6 +15,6 @@ img {
 }
 
 .featureBlock {
-    background-color:pink;
+    background-color:orange;
     font-size: smaller;
 }
