@@ -3,6 +3,7 @@ body {
     /*background:papayaWhip*/
     background: #78EBCE;
     font-family: Comic-sans, Arial, Helvetica, sans-serif;
+    color: #034226;
 }
 
 div.side-by-side {
@@ -17,4 +18,26 @@ img {
 .featureBlock {
     background-color:lightblue;
     font-size: smaller;
+}
+a{
+    color: #008f5a
+}
+.styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font: 0.9em;
+    font-family:Helvetica;
+    min-width: 400px;
+    box-shadow: 0 5px 10px #036e47
+}
+.styled-table th tr {
+    background-color: #008f5a;
+    color: #034226;
+}
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+}
+.styled-table tbody tr {
+    border-bottom: 1px solid #
 }
