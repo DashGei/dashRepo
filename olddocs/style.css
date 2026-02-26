@@ -1,9 +1,8 @@
 body {
 
     /*background:papayaWhip*/
-    background: #78EBCE;
+    background: DarkSeaGreen;
     font-family: Comic-sans, Arial, Helvetica, sans-serif;
-    color: #093b25;
 }
 
 div.side-by-side {
@@ -16,9 +15,6 @@ img {
 }
 
 .featureBlock {
-    background-color:lightblue;
+    background-color:orange;
     font-size: smaller;
-}
-a{
-    color: #008f5a
 }
