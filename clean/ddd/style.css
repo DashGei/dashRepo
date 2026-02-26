@@ -1,7 +1,7 @@
 body {
 
     /*background:papayaWhip*/
-    background: #78EBCE;
+    background: #c7eddf;
     font-family: Comic-sans, Arial, Helvetica, sans-serif;
     color: #034226;
 }
@@ -31,13 +31,19 @@ a{
     box-shadow: 0 5px 10px #036e47
 }
 .styled-table th tr {
-    background-color: #008f5a;
+    background-color: #c7eddf;
     color: #034226;
+    text-align: left;
 }
-.styled-table th,
+.styled-table th {
+    padding: 12px 15px;
+}
 .styled-table td {
     padding: 12px 15px;
 }
 .styled-table tbody tr {
-    border-bottom: 1px solid #
+    border-bottom: 0px solid #0d4d30
+}
+.styled-table tr.active-row {
+    background-color: #ace3cf
 }
