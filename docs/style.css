@@ -4,10 +4,7 @@ body {
     background: #c7eddf;
     font-family: Comic-sans, Arial, Helvetica, sans-serif;
     color: #034226;
-}
-
-div.side-by-side {
-    display: flex;
+    cursor: url("mainimages/cursorpassive.png"), auto;
 }
 
 img {
@@ -15,9 +12,16 @@ img {
     max-width: 500px;
 }
 
-.featureBlock {
-    background-color:lightblue;
-    font-size: smaller;
+figure.block {
+    background-color:Red;
+    display: flex;
+    border: #339575;
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 a{
     color: #008f5a
