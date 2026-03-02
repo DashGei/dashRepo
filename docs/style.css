@@ -4,7 +4,7 @@ body {
     background: #c7eddf;
     font-family: Comic-sans, Arial, Helvetica, sans-serif;
     color: #034226;
-    cursor: url("mainimages/cursorpassive.png"), auto;
+    cursor: url("images/cursorpassive.png"),auto;
 }
 
 img {
@@ -13,18 +13,21 @@ img {
 }
 
 figure.block {
-    background-color:Red;
-    display: flex;
+    background-color:#c7eddf;
+    display: inline-flex;
     border: #339575;
     border-style: solid;
-    border-width: 10px;
-    border-radius: 10px;
+    border-width: 5px;
+    padding: 50px;
+    border-radius:10px;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    box-shadow: 0 5px 10px #036e47
 }
 a{
-    color: #008f5a
+    color: #008f5a;
+    cursor: url("images/cursoractive.png"),auto;
 }
 .styled-table {
     border-collapse: collapse;
