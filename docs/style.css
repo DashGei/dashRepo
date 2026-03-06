@@ -1,7 +1,6 @@
 body {
-
-    /*background:papayaWhip*/
-    background: #c7eddf;
+    background: url(images/wallpaperfgif.gif);
+    background-attachment: fixed;
     font-family: Comic-sans, Arial, Helvetica, sans-serif;
     color: #034226;
     cursor: url("images/cursorpassive.png"),auto;
@@ -21,7 +20,9 @@ img {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    box-shadow: 0 5px 10px #036e47
+    box-shadow: 0 5px 10px #036e47;
+    margin: 50px 
+    
 }
 .centered {
     text-align: center;
@@ -39,9 +40,13 @@ figure.block {
     flex-direction: column;
     box-shadow: 0 5px 10px #036e47
 }
+section.box {
+    
+}
 a{
     color: #008f5a;
     cursor: url("images/cursoractive.png"),auto;
+    text-decoration: none;
 }
 .styled-table {
     border-collapse: collapse;
