@@ -54,6 +54,9 @@ a {
     min-width: 400px;
     box-shadow: 0 5px 10px #036e47
 }
+.styled-table tbody tr:nth-child(odd) {
+    background-color: #ace3cf;
+}
 .styled-table th,
 tr {
     background-color: #c7eddf;
