@@ -26,7 +26,7 @@ img {
 .centered {
     text-align: center;
 }
-figure.block:hover {
+figure.block {
     background-color: #c7eddf;
     display: inline-flex;
     border: #339575;
@@ -38,7 +38,6 @@ figure.block:hover {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    width: 35%;
     box-shadow: 0 5px 10px #036e47
     
     
@@ -55,11 +54,11 @@ figure.block:hover {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    transform: scale(1.4);
     transition-duration: 0.2s;
     transition-timing-function: linear;
     transition-delay: 0s;
     transition-property: all;
-    width: 35%;
     box-shadow: 0 7px 15px #036e47
     
     
