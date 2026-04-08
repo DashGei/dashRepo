@@ -38,9 +38,30 @@ figure.block:hover {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    
-    
+    width: 35%;
     box-shadow: 0 5px 10px #036e47
+    
+    
+}
+figure.block:hover {
+    background-color: #c7eddf;
+    display: inline-flex;
+    border: #339575;
+    border-style: solid;
+    border-width: 5px;
+    padding: 25px;
+    margin-left: 50px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    transition-duration: 0.2s;
+    transition-timing-function: linear;
+    transition-delay: 0s;
+    transition-property: all;
+    width: 35%;
+    box-shadow: 0 7px 15px #036e47
+    
     
 }
 section.box {
