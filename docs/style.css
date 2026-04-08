@@ -56,8 +56,6 @@ figure.block:hover {
     flex-direction: column;
     transform: scale(1.4);
     transition-duration: 0.2s;
-    transition-timing-function: linear;
-    transition-delay: 0s;
     transition-property: all;
     box-shadow: 0 7px 15px #036e47
     
