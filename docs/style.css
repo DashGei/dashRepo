@@ -32,12 +32,14 @@ figure.block {
     border: #339575;
     border-style: solid;
     border-width: 5px;
-    padding: 50px;
+    padding: 25px;
+    margin-left: 50px;
     border-radius: 10px;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     box-shadow: 0 5px 10px #036e47
+    
 }
 section.box {
 }
@@ -53,6 +55,7 @@ a {
     font-family: Helvetica;
     min-width: 400px;
     box-shadow: 0 5px 10px #036e47
+    
 }
 .styled-table tbody tr:nth-child(odd) {
     background-color: #ace3cf;
