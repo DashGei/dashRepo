@@ -6,7 +6,7 @@ body {
     cursor: url("images/cursorpassive.png"), auto;
 }
 img {
-    width: 59%;
+        width: 100%;
     max-width: 500px;
 }
 .text-frame {
@@ -32,8 +32,9 @@ figure.block {
     border: #339575;
     border-style: solid;
     border-width: 5px;
-    padding: 25px;
-    margin-left: 50px;
+    padding: 20px;
+    max-width: 350px;
+    margin-left: 0px;
     border-radius: 10px;
     justify-content: center;
     align-items: center;
