@@ -99,6 +99,9 @@ tr {
 .styled-table tr.active-row {
     background-color: #ace3cf
 }
+button {
+cursor: url("images/cursoractive.png"), auto;
+}
 .footer {
     position: fixed;
     background-color: #c7eddf;
