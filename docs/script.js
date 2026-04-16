@@ -9,7 +9,8 @@ addButton.addEventListener("click", () => {
     let current = Number(counter.innerHTML);
     current++;
     counter.innerHTML = current;
-    
+    const audio = new Audio('images/gain.mp3');
+    audio.play();
     localStorage.setItem("counterValue", current.toString());
 });
 
