@@ -26,6 +26,11 @@ img {
 .centered {
     text-align: center;
 }
+iframe {
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
 figure.block {
     background-color: #c7eddf;
     display: inline-flex;
