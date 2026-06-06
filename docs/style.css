@@ -1,3 +1,119 @@
+.heading1 summary {
+    position: relative;
+    display: inline-block;
+
+    color: #4da3ff;
+    font-size: 40px;
+    letter-spacing: 1px;
+        font-family: Draconis;
+
+        cursor: url("images/cursoractive.png"), auto;
+    list-style: none;
+
+    padding-bottom: 6px;
+}
+
+.heading1 summary::after {
+    content: "";
+    position: absolute;
+    left: -1px;
+    right: -300px;
+    bottom: 2px;
+    height: 3px;
+
+    background: linear-gradient(
+        to right,
+        currentColor, currentColor,
+        transparent
+    );
+}
+
+.heading2 summary {
+    position: relative;
+    display: inline-block;
+
+    color: #B5A642;
+    font-size: 30px;
+    letter-spacing: 1px;
+        font-family: Draconis;
+
+        cursor: url("images/cursoractive.png"), auto;
+    list-style: none;
+
+    padding-bottom: 6px;
+}
+
+.heading2 summary::after {
+    content: "";
+    position: absolute;
+    left: -1px;
+    right: -300px;
+    bottom: 2px;
+    height: 2px;
+
+    background: linear-gradient(
+        to right,
+        currentColor, currentColor,
+        transparent
+    );
+}
+
+.heading3 summary {
+    position: relative;
+    display: inline-block;
+
+    color: #5c9ce0;
+    font-size: 20px;
+    letter-spacing: 1px;
+        font-family: Draconis;
+
+        cursor: url("images/cursoractive.png"), auto;
+    list-style: none;
+
+    padding-bottom: 6px;
+}
+
+.heading3 summary::after {
+    content: "";
+    position: absolute;
+    left: -1px;
+    right: -300px;
+    bottom: 2px;
+    height: 1px;
+
+    background: linear-gradient(
+        to right,
+        #B5A642, #B5A642,
+        transparent
+    );
+}
+
+h1 {
+    background-image: linear-gradient(to top right, #f7da00, #e1aa6c, #e16cc6,  #e16cc6);
+    background-clip: text;
+    color: transparent;
+    font-size: 40px;
+    letter-spacing: 1px;
+        font-family: Draconis;
+}
+
+h2 {
+    color: #bdb252;
+    font-size: 30px;
+    letter-spacing: 1px;
+        font-family: Draconis;
+}
+
+h3 {
+    color: #77a5fb;
+    font-size: 25px;
+    letter-spacing: 1px;
+        font-family: Draconis;
+}
+
+
+
+
 body {
     background: url(images/wallpaperfgif.gif);
     background-attachment: fixed;
@@ -12,7 +128,7 @@ img {
 }
 
 .content {
-    border: 2px solid;
+    border: 3px solid;
     border-image: linear-gradient(to top left, #c1ba86, #B5A642, #758e42) 1;
     padding: 10px;
 }
@@ -71,8 +187,10 @@ figure.block:hover {
 section.box {}
 
 a {
-    background-image: linear-gradient(to top right, #c1b876, #c1b56b, #a09552);
+    background-image: linear-gradient(to top right, #c1b876, #cbbc5a, #a09552);
     background-clip: text;
+        font-family: Bookerly, Draconis;
+    font-weight: 50px;
     color: transparent;
     cursor: url("images/cursoractive.png"), auto;
     text-decoration: none;
