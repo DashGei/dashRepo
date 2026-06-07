@@ -6,7 +6,7 @@
     font-size: 40px;
     letter-spacing: 1px;
         font-family: Draconis;
-
+    line-height: 60px;
         cursor: url("images/cursoractive.png"), auto;
     list-style: none;
 
@@ -23,7 +23,7 @@
 
     background: linear-gradient(
         to right,
-        currentColor, currentColor,
+        #4da3ff, #e44dff, #e16cc6, #e16cc6, #e16cc6, #e06868,
         transparent
     );
 }
@@ -36,7 +36,7 @@
     font-size: 30px;
     letter-spacing: 1px;
         font-family: Draconis;
-
+    line-height: 40px;
         cursor: url("images/cursoractive.png"), auto;
     list-style: none;
 
@@ -66,7 +66,7 @@
     font-size: 20px;
     letter-spacing: 1px;
         font-family: Draconis;
-
+    line-height: 30px;
         cursor: url("images/cursoractive.png"), auto;
     list-style: none;
 
@@ -89,9 +89,10 @@
 }
 
 h1 {
-    background-image: linear-gradient(to top right, #f7da00, #e1aa6c, #e16cc6,  #e16cc6);
+    background-image: linear-gradient(to top, #f7da00, #e1aa6c, #e16cc6,  #e16cc6);
     background-clip: text;
     color: transparent;
+        line-height: 40px;
     font-size: 40px;
     letter-spacing: 1px;
         font-family: Draconis;
@@ -99,6 +100,7 @@ h1 {
 
 h2 {
     color: #bdb252;
+        line-height: 40px;
     font-size: 30px;
     letter-spacing: 1px;
         font-family: Draconis;
@@ -106,6 +108,7 @@ h2 {
 
 h3 {
     color: #77a5fb;
+        line-height: 40px;
     font-size: 25px;
     letter-spacing: 1px;
         font-family: Draconis;
@@ -117,6 +120,7 @@ h3 {
 body {
     background: url(images/wallpaperfgif.gif);
     background-attachment: fixed;
+    line-height: 22px;
     font-family: Bookerly, Draconis;
     color: #eaebe2;
     cursor: url("images/cursorpassive.png"), auto;
@@ -133,6 +137,23 @@ img {
     padding: 10px;
 }
 
+.content-close {
+    border: 3px solid;
+    border-image: linear-gradient(to top left, #c1ba86, #B5A642, #758e42) 1;
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-top: 50px
+}
+
+.text-frame-close {
+    background-color: #104a6c;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 5px 10px #03456e;
+    margin: 500px;
+    margin-top: 20px
+}
+
 .txtgrad {
     background-image: linear-gradient(to bottom left, #b8ae68, #c1b56b, #b1a55a) 0;
 }
@@ -144,6 +165,7 @@ img {
     box-shadow: 0 5px 10px #03456e;
     margin: 50px
 }
+
 
 .centered {
     text-align: center;
@@ -183,8 +205,6 @@ figure.block:hover {
     transition-property: all;
     box-shadow: 0 7px 15px #036e47
 }
-
-section.box {}
 
 a {
     background-image: linear-gradient(to top right, #c1b876, #cbbc5a, #a09552);
