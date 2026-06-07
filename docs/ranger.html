@@ -1,23 +1,33 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
-    <head>
-        <title>Ranger</title>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link rel="stylesheet" type="text/css" href="style.css" />
-        <link rel="icon" type="image/x-icon" href="images/scenic-d20.webp" />
-    </head>
-    <body>
-        <figure><div class="text-frame"><div class="content">
-                <nav class="centered"><h2><a href="classes.html">Classes</a></h2></nav>
-            </div></div></figure>
-        <figure><div class="text-frame">
 
-                <h1>Ranger</h1>
+<head>
+    <title>Ranger</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="icon" type="image/x-icon" href="images/scenic-d20.webp" />
+</head>
+
+<body>
+    <figure>
+        <div class="text-frame">
+            <div class="content">
+                <nav class="centered">
+                    <h2><a href="classes.html">Classes</a></h2>
+                </nav>
+            </div>
+        </div>
+    </figure>
+    <figure>
+        <div class="text-frame">
+            <div class="content">
+
+                <h1 class="centered">Ranger</h1>
 
                 <h2>Class Features</h2>
 
-                <table class="styled-table"><div class="content">
+                <table class="styled-table">
                     <thead>
                         <tr>
                             <th>Level</th>
@@ -222,12 +232,11 @@
 
                 <h2>Hunter's Mark: 1st-Level Ranger Feature</h2>
 
-                <p>Beginning at 1st level, with an action you designate an enemy you can see within
-                    90 feet of you as your chosen enemy. While this enemy is marked you have
-                    advantage on any Wisdom (Perception or Survival) checks you make to find or
-                    track it. You deal a number of d4 force damage equalto your proficiency bonus when you hit a
-                    marked creature with an attack. When you designate a new creature as marked, the
-                    last creature you marked becomes unmarked.</p>
+                <p>Beginning at 1st level, with an action you designate an enemy you can see within 90 feet of you as
+                    your chosen enemy. While this enemy is marked you have advantage on any Wisdom (Perception or
+                    Survival) checks you make to find or track it. Whenever you hit a marked creature with an attack you
+                    may roll a number of d4s equal to your proficiency bonus and add them to the damage total.</p>
+                    <p>The mark lasts until you next take a long rest, until the creature dies, or you spend a Feat Slot as a free action to remove the mark. The creature is marked A creature has no way of knowing that it has been marked</p>
 
                 <h2>Aspect Bond: 1</h2>
 
@@ -454,29 +463,25 @@
                     immediately apply hunter’s mark to a new creature without the use of an
                     action.</p>
 
-                <p>Once per turn when you deal damage with your Hunter’s Mark feature you may force
-                    the effected creature to make a Mental DC saving throw (their save stat is your
-                    choice) on a failure the creature lowers their proficiency bonus by one until
-                    they are no longer marked by you. At level 11, this effect can stack.</p>
+                <p>When your Hunter's mark has persisted on the same creature for a minute, the extra d4s of damage you deal become d6s</p>
 
                 <h2>Nature's Veil: 10</h2>
 
                 <p>You can draw on the aspects of creatures that blend into their surroundings. As
-                    an action, you can become invisible until the start of your next turn.</p>
+                    an action, you can become invisible until the end of your next turn. While invisible in this way, a creature effected by Hunter's Mark has disadvantage on Intitiative rolls.</p>
 
                 <p>This feature requires the use of a Feat Slot, when you use this feature, mark one
                     Feat Slot.</p>
 
                 <h2>Analyzed II: 13</h2>
 
-                <p>An enemy marked by you is considered fatigued when attacking you with any
-                    action.</p>
+                <p>When you hit a marked creature with an attack, instead of dealing extra damage from your Hunter's Mark feature, you can instead choose to remove one damage resistance it has until the start of your next turn. </p>
 
-                <h2>Foe Slayer: 15</h2>
+                <p>Additionally, once per turn when you miss a marked creature with an attack roll you may make another with disadvantage. This roll always has disadvantage even if it would be neutralized by a source of advantage</p>
 
-                <p>You become an unparalleled hunter of your marked prey. Once on each of your turns
-                    when you hit your Hunter's Mark target with a weapon attack, you can add your
-                    Wisdom modifier to the attack roll or the damage roll.</p>
+                <h2>Traversal Master: 15</h2>
+
+                <p>You learn all feats with the Exploration tag, and you no longer have to expend feat slots to use them.</p>
 
                 <h2>Evasion: 17</h2>
 
@@ -486,13 +491,11 @@
 
                 <h2>Feral Senses: 18</h2>
 
-                <p>You gain preternatural senses that help you fight creatures you can't see. When
-                    you attack a creature you can't see, your inability to see it doesn't impose
-                    disadvantage on your attack rolls against it. You are also aware of the location
-                    of any invisible creature within 30 feet of you, provided that the creature
-                    isn't hidden from you and you aren't blinded or deafened.</p>
+                <p>You gain preternatural senses that help you fight creatures you can't see. You have Blindsight out to 30 feet.</p>
 
-            </div></div>
-        </figure>
-    </body>
+            </div>
+        </div>
+    </figure>
+</body>
+
 </html>
