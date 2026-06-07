@@ -1,18 +1,27 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
-    <head>
-        <title>Hexblood</title>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link rel="stylesheet" type="text/css" href="style.css" />
-        <link rel="icon" type="image/x-icon" href="images/scenic-d20.webp" />
-    </head>
 
-    <body>
-        <figure><div class="text-frame"><div class="content">
-                <nav class="centered"><h2><a href="classes.html">Classes</a></h2></nav>
-            </div></div></figure>
-        <figure><div class="text-frame"><div class="content">
+<head>
+    <title>Hexblood</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="icon" type="image/x-icon" href="images/scenic-d20.webp" />
+</head>
+
+<body>
+    <figure>
+        <div class="text-frame">
+            <div class="content">
+                <nav class="centered">
+                    <h2><a href="classes.html">Classes</a></h2>
+                </nav>
+            </div>
+        </div>
+    </figure>
+    <figure>
+        <div class="text-frame">
+            <div class="content">
 
                 <h1 class="centered">Hexblood</h1>
 
@@ -34,14 +43,14 @@
                             <td>1st</td>
                             <td>+2</td>
                             <td>2</td>
-                            <td>Fighting Style, Brand with Blood, Blood Sense, Blood Curses</td>
+                            <td>Fighting Style, Pact of Doom</td>
                         </tr>
 
                         <tr>
                             <td>2nd</td>
                             <td>+2</td>
                             <td>2</td>
-                            <td>Martial Feats, Blood Mending</td>
+                            <td>Martial Feats, Blood Hound</td>
                         </tr>
 
                         <tr>
@@ -55,28 +64,28 @@
                             <td>4th</td>
                             <td>+2</td>
                             <td>2</td>
-                            <td>Ability Score Improvement</td>
+                            <td>Ability Score Improvement, Pain Bank</td>
                         </tr>
 
                         <tr>
                             <td>5th</td>
                             <td>+2</td>
                             <td>2</td>
-                            <td>Extra Attack, Heightened Curses I</td>
+                            <td>Fatigue Resistance</td>
                         </tr>
 
                         <tr>
                             <td>6th</td>
                             <td>+3</td>
                             <td>3</td>
-                            <td>Order Feature</td>
+                            <td>Shadowfell Magicks, Crimson Chain</td>
                         </tr>
 
                         <tr>
                             <td>7th</td>
                             <td>+3</td>
                             <td>3</td>
-                            <td>Blood Bond</td>
+                            <td>Double the Pain</td>
                         </tr>
 
                         <tr>
@@ -90,14 +99,14 @@
                             <td>9th</td>
                             <td>+3</td>
                             <td>3</td>
-                            <td>Heightened Curses II</td>
+                            <td>Hunter of the Heart</td>
                         </tr>
 
                         <tr>
                             <td>10th</td>
                             <td>+4</td>
                             <td>4</td>
-                            <td>Order Feature</td>
+                            <td>Order Feature, Comfortably Numb</td>
                         </tr>
 
                         <tr>
@@ -227,93 +236,32 @@
 
                 <h2>Hemorrhage Dice: 1</h2>
 
-                <p>You have a pool of d6 Hemorrhage Dice equal to your proficiency bonus. You regain
-                    all expended dice when you finish a short or long rest.</p>
+                <p>You possess a pool of Hemorrhage Dice, representing the vital power you sacrifice to fuel your
+                    curses. You have a number of Hemorrhage Dice equal to your proficiency bonus + your Charisma
+                    modifier (minimum 2). All expended Hemorrhage Dice are regained when you finish a short or long
+                    rest.
 
-                <p><strong>Regeneration.</strong> When a friendly creature within 10 feet of you
-                    takes damage, you regain one expended Hemorrhage Die. You can regain no more
-                    than one die per round this way, and you cannot exceed your maximum.</p>
+                    Your Hemorrhage Die is a d6. This die changes as you gain hexblood levels, becoming a d8 at 9th
+                    level and a d10 at 17th level.</p>
 
-                <p>Your Hemorrhage Dice are used to fuel various class features. Some features
-                    require a saving throw, which is called your Hexblood DC. It is calculated
-                    as:</p>
+                <h2>Pact of Doom: 1</h2>
 
-                <p>8 + your proficiency bonus + your Wisdom or Intelligence modifier (chosen when
-                    you gain this feature)</p>
+                <p>As an action, choose a creature you can see within 30 feet. Expend one Hemorrhage Die and roll it.
+                    You take necrotic damage equal to the number rolled (this damage cannot be reduced or prevented in
+                    any way), and the target is Doomed for 10 minutes.</p>
 
-                <h2>Brand with Blood: 1</h2>
+                <p>The next time a creature deals damage to the Doomed target, one Hemorrhage Die is added to the damage
+                    roll (the attacker rolls an additional Hemorrhage Die and adds it to the damage). The attacker and
+                    you each regain hit points equal to the extra damage dealt. If the damage was dealt by you, you
+                    regain hit points only once. The Doom then ends on that target.</p>
 
-                <p>You sacrifice your own vitality to place a curse on a foe. As an action, target
-                    one creature you can see within 30 feet. You expend one Hemorrhage Die and roll
-                    it. You take damage equal to the number rolled (this damage cannot be reduced in
-                    any way). The target is afflicted with one of your Blood Curses for 1
-                    minute.</p>
+            
 
-                <p>A creature can be afflicted by only one of your Blood Curses at a time. If you
-                    apply another curse, the previous one ends. The curse ends early if the creature
-                    is reduced to 0 hit points or if the curse is exploited.</p>
+                <h2>Bloodhound</h2>
 
-                <p><strong>Exploiting a Curse.</strong> Each curse has an exploitation trigger. When
-                    that trigger occurs, roll a Hemorrhage Die without expending it. You regain hit
-                    points equal to the number rolled, and a creature you choose within 30 feet of
-                    you regains hit points equal to the number rolled + your Wisdom or Intelligence
-                    modifier. The curse then ends.</p>
+                The scent of spilled blood sharpens your senses. You have advantage on Wisdom (Perception) and Wisdom
+                (Survival) checks made to track a creature that is below its hit point maximum.
 
-                <h2>Blood Curses: 1</h2>
-
-                <p>You know all five Blood Curses. They cannot be unlearned—your blood remembers
-                    every way it can be spilled.</p>
-
-                <p><strong>Curse of the Fumbling Hand</strong></p>
-                <p>You hamper the target's precision. While cursed, the target subtracts your
-                    Hemorrhage Die from any ability check it makes (roll the die when the check is
-                    made).</p>
-                <p>Exploitation Trigger: The target fails an ability check.</p>
-                <p>Exploitation Effect: As described in Brand with Blood.</p>
-
-                <p><strong>Curse of the Wavering Blade</strong></p>
-                <p>You disrupt the target's attacks. While cursed, the target subtracts your
-                    Hemorrhage Die from any attack roll it makes (roll the die when the attack is
-                    made).</p>
-                <p>Exploitation Trigger: The target misses an attack roll by more than its
-                    proficiency bonus. (If it misses by less than its proficiency bonus, the curse
-                    ends with no effect—no healing for anyone.)</p>
-                <p>Exploitation Effect: As described in Brand with Blood.</p>
-
-                <p><strong>Curse of the Trembling Body</strong></p>
-                <p>You weaken the target's physical resistance. While cursed, the target subtracts
-                    your Hemorrhage Die from any Strength or Dexterity saving throw it makes (roll
-                    the die when the save is made).</p>
-                <p>Exploitation Trigger: The target fails a Strength or Dexterity saving throw.</p>
-                <p>Exploitation Effect: As described in Brand with Blood.</p>
-
-                <p><strong>Curse of the Silenced Voice</strong></p>
-                <p>You interfere with the target's magical capabilities. While cursed, when the
-                    target attempts to cast a spell, roll your Hemorrhage Die. If the roll is higher
-                    than the target's proficiency bonus, the spell fails and has no effect.</p>
-                <p>Exploitation Trigger: The spell fails due to this curse.</p>
-                <p>Exploitation Effect: As described in Brand with Blood.</p>
-
-                <p><strong>Curse of the Heavy Foot</strong></p>
-                <p>You weigh down the target's movement. While cursed, the target's movement is
-                    hindered.</p>
-                <p>Exploitation Trigger: The target moves more than 15 feet during its turn.</p>
-                <p>Exploitation Effect: As described in Brand with Blood.</p>
-
-                <h2>Blood Sense: 1</h2>
-
-                <p>You have an innate awareness of the life force of wounded creatures. As an
-                    action, you can sense the location of any creatures that are not at their
-                    maximum hit points within 30 feet of you. You know their general direction but
-                    not their exact location. This awareness lasts for 1 minute, and you can use it
-                    a number of times equal to your proficiency bonus per long rest.</p>
-
-                <h2>Blood Mending: 2</h2>
-
-                <p>You can use your Hemorrhage Dice to heal yourself. As an action, you can expend
-                    one Hemorrhage Die and roll it. You regain hit points equal to the roll + your
-                    Wisdom or Intelligence modifier (chosen when you gained Hemorrhage Dice). You
-                    cannot use this feature on allies.</p>
 
                 <h2>Martial Feats: 2</h2>
 
@@ -481,25 +429,21 @@
                 <p>When taking the attack action you do not suffer any penalties from the fatigued
                     condition.</p>
 
-                <h2>Heightened Curses I: 5</h2>
+<h2>Shadowfell Magicks: 6</h2> <p>If you consume a drop of a creature’s blood, you forge a temporary supernatural bond. The creature makes a Physical DC Charisma save. If they fail, then for 1 hour, you know the cardinal direction to that creature, and you know when it is lying to you. After the hour ends, that creature becomes immune to this effect until you finish a long rest.</p>
 
-                <p>Your curses grow more potent. The first time each round that a creature fails a
-                    save or check against one of your curses, you regain one expended Hemorrhage
-                    Die.</p>
+<h2>Crimson Chain: 6</h2> <p>Once per turn, when an allied creature you can see within 10 feet of you takes damage, you can regain one expended Hemorrhage Die.</p>
 
-                <p>Additionally, Curse of the Wavering Blade now triggers exploitation if the target
-                    misses by any amount (no proficiency bonus comparison).</p>
 
-                <h2>Blood Bond: 7</h2>
+                <h2>Double the Pain: 7</h2>
 
-                <p>Your curses strengthen. The Hemorrhage Die used for your curses increases to
-                    d8.</p>
+                <p>Once per turn, when you hit a creature with a melee weapon attack, you can apply your Pact of Doom to that target as part of the same attack (no additional action required). You still expend a Hemorrhage Die and take the damage as normal.</p>
 
-                <h2>Heightened Curses II: 9</h2>
+                <h2>Comfortably Numb: 10</h2>
 
-                <p>Whenever exploitation occurs, the target takes damage equal to the roll on your
-                    Hemorrhage Die or dice.</p>
+                <p>When you start your turn with temporary hit points from your Pain Bank, you can choose to gain resistance to all damage except psychic and radiant until the start of your next turn. If you do, the Bleeding Shield loss at the start of your turn is doubled (roll two Hemorrhage Dice and lose that many temporary hit points). You can use this feature a number of times equal to your Charisma modifier (minimum once), and you regain all expended uses when you finish a long rest.</p>
 
+                <h2>Deepend Bond: 9</h2>
+                <p>Your Hemorrhage Die becomes a d8. In addition, when you roll a Hemorrhage Die for self‑damage from your class features, you can roll it twice and take the lower or higher result.</p>
                 <h2>Shared Vitality: 11</h2>
 
                 <p>Your blood connection to allies deepens. When you use Blood Mending on yourself,
@@ -525,6 +469,9 @@
                 <p>Your curses approach their final form. The Hemorrhage Die used for your curses
                     increases to d10.</p>
 
-            </div></div></figure>
-    </body>
+            </div>
+        </div>
+    </figure>
+</body>
+
 </html>
