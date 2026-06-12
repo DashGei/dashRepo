@@ -23,7 +23,7 @@
 
     background: linear-gradient(
         to right,
-        #4da3ff, #e44dff, #e16cc6, #e16cc6, #e16cc6, #e06868,
+        #4da3ff, #4da3ff, #4da3ff, #e06868,
         transparent
     );
 }
@@ -53,7 +53,7 @@
 
     background: linear-gradient(
         to right,
-        currentColor, currentColor,
+        #B5A642, #67a540,
         transparent
     );
 }
@@ -122,6 +122,7 @@ body {
     background-attachment: fixed;
     line-height: 22px;
     font-family: Bookerly, Draconis;
+    font-size: 20px;
     color: #eaebe2;
     cursor: url("images/cursorpassive.png"), auto;
 }
@@ -132,26 +133,42 @@ img {
 }
 
 .content {
+    column-width: 500px;
+    column-gap: 15px;
+    column-count:2;
     border: 3px solid;
     border-image: linear-gradient(to top left, #c1ba86, #B5A642, #758e42) 1;
     padding: 10px;
 }
 
 .content-close {
+
+    column-width: 500px;
+    column-gap: 30px;
+    column-count:2;    border: 3px solid;
+    border-image: linear-gradient(to top left, #c1ba86, #B5A642, #758e42) 1;
+    padding: 10px;
+}
+
+.content-nocol {
+
     border: 3px solid;
     border-image: linear-gradient(to top left, #c1ba86, #B5A642, #758e42) 1;
-    padding-left: 500px;
-    padding-right: 500px;
-    padding-top: 50px
+    padding: 10px;
 }
 
 .text-frame-close {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: #104a6c;
     padding: 10px;
     border-radius: 5px;
     box-shadow: 0 5px 10px #03456e;
-    margin: 500px;
-    margin-top: 20px
+    max-width: 900px;
+    min-width: 300px;
+    margin: 10px auto 0
+
 }
 
 .txtgrad {
@@ -165,7 +182,6 @@ img {
     box-shadow: 0 5px 10px #03456e;
     margin: 50px
 }
-
 
 .centered {
     text-align: center;
@@ -205,52 +221,56 @@ figure.block:hover {
     transition-property: all;
     box-shadow: 0 7px 15px #036e47
 }
-
 a {
     background-image: linear-gradient(to top right, #c1b876, #cbbc5a, #a09552);
     background-clip: text;
-        font-family: Bookerly, Draconis;
+    font-family: Bookerly, Draconis;
     font-weight: 50px;
     color: transparent;
     cursor: url("images/cursoractive.png"), auto;
     text-decoration: none;
 }
 
+
+
 .styled-table {
     border-collapse: collapse;
-    margin: 25px 0;
-    font: 0.9em;
-    font-family: Helvetica;
-    min-width: 400px;
-    box-shadow: 0 5px 10px #062131
+    font: Bookerly;
+    width: 100%;
+    max-width: 100%;
+    box-shadow: 0 5px 10px #062131;
+    background-color: #1b5b80;
+    color: #eaebe2;
+
+    text-align: left;
+    font-size: 20px;
+    padding: 12px 15px;
+
+}
+
+.table-scroll {
+    overflow-x: auto;
+    break-inside: avoid;
+        box-shadow: 0 5px 10px #062131;
 }
 
 .styled-table tbody tr:nth-child(odd) {
     background-color: #104a6c;
 }
 
-.styled-table th,
-tr {
-    background-color: #1b5b80;
-    color: #eaebe2;
-    text-align: left;
-}
-
+.styled-table td,
 .styled-table th {
     padding: 12px 15px;
-}
-
-.styled-table td {
-    padding: 12px 15px;
-}
-
-.styled-table tbody tr {
-    border-bottom: 0px solid #062131
 }
 
 .styled-table tr.active-row {
     background-color: #114360;
 }
+
+
+
+
+
 
 button {
     cursor: url("images/cursoractive.png"), auto;
