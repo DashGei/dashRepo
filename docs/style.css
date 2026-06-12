@@ -177,10 +177,10 @@ img {
 
 .text-frame {
     background-color: #104a6c;
-    padding: 10px;
+    padding-top: 10px;
+    padding: 3px;
     border-radius: 5px;
-    box-shadow: 0 5px 10px #03456e;
-    margin: 50px
+    box-shadow: 0 5px 10px #03456e
 }
 
 .centered {
