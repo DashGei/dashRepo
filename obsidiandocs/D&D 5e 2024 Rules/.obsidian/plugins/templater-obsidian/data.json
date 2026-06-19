@@ -1,0 +1,106 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "z. Load Bearing Folders/Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Backgrounds",
+      "template": "z. Load Bearing Folders/Templates/Background.md"
+    },
+    {
+      "folder": "Equipment",
+      "template": "z. Load Bearing Folders/Templates/Equipment.md"
+    },
+    {
+      "folder": "Equipment/Armor",
+      "template": "z. Load Bearing Folders/Templates/Armor.md"
+    },
+    {
+      "folder": "Equipment/Magic Items",
+      "template": "z. Load Bearing Folders/Templates/Magic Item.md"
+    },
+    {
+      "folder": "Equipment/Poison",
+      "template": "z. Load Bearing Folders/Templates/Poison.md"
+    },
+    {
+      "folder": "Equipment/Tools",
+      "template": "z. Load Bearing Folders/Templates/Tool.md"
+    },
+    {
+      "folder": "Equipment/Weapons",
+      "template": "z. Load Bearing Folders/Templates/Weapon.md"
+    },
+    {
+      "folder": "Feats",
+      "template": "z. Load Bearing Folders/Templates/Feat.md"
+    },
+    {
+      "folder": "Lore",
+      "template": "z. Load Bearing Folders/Templates/Auto Tag/Lore Tag.md"
+    },
+    {
+      "folder": "Rules",
+      "template": "z. Load Bearing Folders/Templates/Auto Tag/Rule Tag.md"
+    },
+    {
+      "folder": "Rules/Actions",
+      "template": "z. Load Bearing Folders/Templates/Auto Tag/Action Tag.md"
+    },
+    {
+      "folder": "Rules/Conditions",
+      "template": "z. Load Bearing Folders/Templates/Auto Tag/Condition Tag.md"
+    },
+    {
+      "folder": "Rules/Properties",
+      "template": "z. Load Bearing Folders/Templates/Auto Tag/Weapon Property Tag.md"
+    },
+    {
+      "folder": "Rules/Senses",
+      "template": "z. Load Bearing Folders/Templates/Auto Tag/Sense Tag.md"
+    },
+    {
+      "folder": "Rules/Skills",
+      "template": "z. Load Bearing Folders/Templates/Auto Tag/Skill Tag.md"
+    },
+    {
+      "folder": "Species",
+      "template": "z. Load Bearing Folders/Templates/Species.md"
+    },
+    {
+      "folder": "Spells",
+      "template": "z. Load Bearing Folders/Templates/Spell.md"
+    },
+    {
+      "folder": "Stat Blocks",
+      "template": "z. Load Bearing Folders/Templates/Creature.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1
+}

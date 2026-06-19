@@ -1,0 +1,16 @@
+{
+  "promptDelete": false,
+  "showInlineTitle": false,
+  "readableLineLength": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "z. Load Bearing Folders/Attachments",
+  "livePreview": false,
+  "foldHeading": true,
+  "foldIndent": false,
+  "showIndentGuide": false,
+  "defaultViewMode": "preview",
+  "trashOption": "system",
+  "openBehavior": "file:z. Help Desk/z. Help Desk",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Unsorted"
+}

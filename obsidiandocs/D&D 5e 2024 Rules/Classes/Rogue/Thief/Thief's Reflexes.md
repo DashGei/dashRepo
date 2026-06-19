@@ -1,0 +1,2 @@
+#### Thief's Reflexes
+You are adept at laying ambushes and quickly escaping danger. You can take two turns during the first round of any combat. You take your first turn at your normal [[Initiative]] and your second turn at your Initiative minus 10.

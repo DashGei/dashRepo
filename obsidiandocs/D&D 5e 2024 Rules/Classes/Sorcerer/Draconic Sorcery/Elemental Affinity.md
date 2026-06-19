@@ -1,0 +1,2 @@
+#### Elemental Affinity
+Your draconic magic has an affinity with a damage type associated with dragons. Choose one of those types: Acid, Cold, Fire, Lightning, or Poison. You have [[Rules/Common Terms/Resistance|Resistance]] to that damage type, and when you cast a spell that deals damage of that type, you can add your Charisma modifier to one damage roll of that spell.

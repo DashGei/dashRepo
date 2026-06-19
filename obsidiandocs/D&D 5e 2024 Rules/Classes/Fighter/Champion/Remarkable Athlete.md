@@ -1,0 +1,2 @@
+#### Remarkable Athlete
+Thanks to your athleticism, you have [[Advantage]] on [[Initiative]] rolls and Strength ([[Athletics]]) checks. In addition, immediately after you score a [[Critical Hit]], you can move up to half your [[Speed]] without provoking [[Opportunity Attacks]].

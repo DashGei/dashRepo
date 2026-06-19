@@ -1,0 +1,2 @@
+#### Smite of Protection
+Your magical smite now radiates protective energy. Whenever you cast *[[Divine Smite]]*, you and your allies have [[Half Cover]] while in your [[Aura of Protection]]. The aura has this benefit until the start of your next turn.

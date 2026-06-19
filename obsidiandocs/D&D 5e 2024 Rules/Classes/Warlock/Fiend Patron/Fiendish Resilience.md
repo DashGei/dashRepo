@@ -1,0 +1,2 @@
+#### Fiendish Resilience
+Choose one damage type, other than Force, whenever you finish a [[Short Rest|Short]] or [[Long Rest]]. You have [[Rules/Common Terms/Resistance|Resistance]] to that damage type until you choose a different one with this feature.
