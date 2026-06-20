@@ -1,233 +1,3 @@
-# Core Rules
-
-- Ability Check
-- Ability Score
-- Ability Modifier
-- Action
-- Adventure
-- Ally
-- Armor Class
-- Armor Training
-- Attack Roll
-- Campaign
-- Character Sheet
-- Creature
-- Creature Type
-- Difficulty Class
-- Enemy
-- Encounter
-- Experience Points
-- Friendly Creature
-- Hostile Creature
-- Initiative
-- Monster
-- Nonplayer Character
-- Object
-- Occupied Space
-- Player Character
-- Proficiency
-- Round Down
-- Size
-- Stat Block
-- Target
-- Unoccupied Space
-- Willing Creature
-- Unwilling Creature
-
-# Actions
-
-- Attack Action
-- Dash Action
-- Disengage Action
-- Dodge Action
-- Help Action
-- Hide Action
-- Influence Action
-- Magic Action
-- Ready Action
-- Search Action
-- Use an Object Action
-
-# Dice & Modifiers
-
-- Advantage
-- Disadvantage
-- Expertise
-- Physical Modifier
-- Mental Modifier
-- Physical DC
-- Mental DC
-
-# Combat
-
-- Attack Roll
-- Bloodied
-- Cover
-- Critical Hit
-- Critical Range
-- Damage
-- Damage Threshold
-- Death Saving Throw
-- Difficult Terrain
-- Fatigued
-- Fatigue Resistance
-- Healing
-- Hit Points
-- Improvised Weapons
-- Knock Out
-- Movement
-- Reach
-- Reaction
-- Resistance
-- Saving Throw
-- Surprise
-- Temporary Hit Points
-- Unarmed Strike
-- Vulnerability
-- Weapon
-- Weapon Attack
-
-# Damage Types
-
-- Bludgeoning Damage
-- Piercing Damage
-- Slashing Damage
-- Physical Damage
-- Fire Damage
-- Cold Damage
-- Lightning Damage
-- Thunder Damage
-- Acid Damage
-- Poison Damage
-- Radiant Damage
-- Necrotic Damage
-- Psychic Damage
-- Force Damage
-
-# Conditions
-
-- Condition
-- Blinded
-- Charmed
-- Deafened
-- Exhaustion
-- Frightened
-- Grappled
-- Incapacitated
-- Invisible
-- Paralyzed
-- Petrified
-- Poisoned
-- Prone
-- Restrained
-- Stunned
-- Unconscious
-
-# Movement
-
-- Burrow Speed
-- Climbing
-- Crawling
-- Flying
-- High Jump
-- Hover
-- Jumping
-- Long Jump
-- Speed
-- Swimming
-- Teleportation
-
-# Vision & Senses
-
-- Blindsight
-- Bright Light
-- Darkness
-- Darkvision
-- Dim Light
-- Heavily Obscured
-- Lightly Obscured
-- Passive Perception
-- Telepathy
-- Tremorsense
-- Truesight
-
-# Areas of Effect
-
-- Area of Effect
-- Cone
-- Cube
-- Cylinder
-- Emanation
-- Line
-- Sphere
-
-# Adventuring
-
-- Attitude
-- Friendly
-- Hostile
-- Indifferent
-- Carrying Capacity
-- Hazard
-- Burning
-- Dehydration
-- Falling
-- Malnutrition
-- Suffocation
-
-# Magic
-
-- Cantrip
-- Concentration
-- Magical Effect
-- Prepared Spell
-- Primary Spell Slot
-- Secondary Spell Slot
-- Tertiary Spell Slot
-- Ritual Casting
-- Shape-Shifting
-- Spell
-- Spell Attack
-- Spell Level
-- Spell Slot
-- Spellcasting Focus
-- Upcasting
-
-# Equipment & Treasure
-
-- Attunement
-- Cursed Item
-- Possession
-
-# Resting & Recovery
-
-- Dead
-- Dying
-- Long Rest
-- Short Rest
-- Stable
-- Stabilized
-
-# Character Creation
-
-- Background
-- Class
-- Class Health Number
-- Fighting Style
-- Health Bonus
-- Species
-
-# Martial Feats
-
-- Martial Feat
-- Feat Slot
-- Feat Tier
-- Feat Tag
-- Combat Feat
-- Social Feat
-
-
-
 # Ability Check
 
 Whenever a character attempts an action with a meaningful chance of failure, the Dungeon Master may call for an ability check.
@@ -288,15 +58,6 @@ Some features, spells, and abilities allow creatures to perform special Actions.
 
 ---
 
-# Adventure
-
-An Adventure is a series of challenges, encounters, and events undertaken by a group of characters.
-
-An Adventure may involve exploration, social interaction, combat, investigation, travel, or any combination of these elements.
-
-A single campaign often consists of many Adventures.
-
----
 
 # Ally
 
@@ -350,41 +111,7 @@ A creature benefits from armor only if it has the appropriate Armor Training.
 
 If you wear Light, Medium, or Heavy armor and lack training with it, you gain one point of exhaustion when you finish a turn with both actions used.
 
-Class features, species traits, and other abilities may grant additional Armor Training.
-
----
-
-# Attack Action
-
-When you take the Attack Action, you make one attack roll against a target with a weapon or an Unarmed Strike
-
-Choose a target, make an Attack Roll, and resolve the attack's effects on a hit.
-
-Taking the Attack Action inflicts the @Fatigued condition unless a feature states otherwise.
-
----
-
-# Attack Roll
-
-An Attack Roll determines whether an attack hits its target.
-
-To make an Attack Roll, roll a d20 and add the appropriate modifiers.
-
-If the total equals or exceeds the target's Armor Class, the attack hits.
-
-A natural 20 may result in a Critical Hit if it falls within your critical range.
-
----
-
-# Attitude
-
-A creature's Attitude reflects how it currently feels about another creature.
-
-The three common Attitudes are Friendly, Indifferent, and Hostile.
-
-You have advantage on an ability check to influence a Friendly creature, 
-
-A creature's Attitude may change as a result of roleplaying, successful social interaction, magic, or events during play.
+Class features, species traits, and other abilities may grant additional Armor Training
 
 ---
 
@@ -465,35 +192,11 @@ Objects can be harmed by attacks and by some spells, using the rules below. If a
 
 ---
 
-# Bright Light
-
-Bright Light is normal illumination, such as a well-lit room or a sunny day.
-
----
-
-# Burrow Speed
-
-A creature with a Burrow Speed can move through earth, sand, snow, or similar materials.
-
-The creature moves through these materials at the listed speed.
-
-Unless otherwise stated, burrowing does not allow movement through solid stone, metal, or other exceptionally dense materials.
-
----
-
 # Cantrip
 
 A Cantrip is a simple spell that can be cast without expending a Spell Slot.
 
 Casting a Cantrip requires the Magic Action and costs one Action to cast on your turn.
-
----
-
-# Carrying Capacity
-
-Carrying Capacity measures how much weight a creature can reasonably carry.
-
-The Dungeon Master determines when a creature is carrying enough weight to become hindered or encumbered.
 
 ---
 
@@ -515,89 +218,19 @@ A Character Sheet contains the game statistics, features, equipment, and other i
 
 ---
 
-# Climbing
-
-A creature can climb walls, ropes, trees, and other climbable surfaces.
-
-Unless a creature has a Climb Speed, climbing usually requires an Ability Check when the surface is especially difficult or dangerous.
-
-The Dungeon Master determines whether a climb requires a check.
-
----
-
-# Concentration
-
-Some spells and abilities require Concentration to maintain their effects. If the effect has a duration, the caster loses Concentration on the effect when the duration is up.
-
-A creature can concentrate on only one effect at a time. If a creature begins concentrating on a new effect, its previous Concentration immediately ends.
-
-Taking damage while concentrating may require a Concentration Check. The DC equals 10 or half the damage taken, whichever is higher.
-
-A creature loses Concentration if it becomes Incapacitated, dies, or chooses to end Concentration.
-
----
-
-# Condition
-
-A Condition is a temporary state that alters a creature's capabilities.
-
-Conditions are imposed by spells, abilities, hazards, and other effects.
-
-A creature suffers the effects of a Condition until the Condition ends.
-
-The game's Conditions are detailed individually in this glossary.
-
----
-
-# Cover
-
-Obstacles can provide protection from attacks and effects.
-
-The Dungeon Master determines whether a target has Cover.
-
-|Cover|Effect|
-|---|---|
-|Half Cover|+2 AC|
-|Three-Quarters Cover|+5 AC|
-|Total Cover|Cannot be targeted directly|
-
-Cover is determined from the perspective of the attacker or effect's point of origin.
-
----
-
-# Crawling
-
-While prone, a creature can move by crawling.
-
-Each foot of movement while crawling costs an additional foot of movement unless a feature states otherwise.
-
----
-
 # Creature
 
 A Creature is any living, animate, or otherwise active being in the game.
 
 Player characters, monsters, animals, summoned beings, and nonplayer characters are all creatures.
 
-Objects, terrain features, and unattended equipment are not creatures unless a rule states otherwise.
-
-# Creature Type
-
 Every creature belongs to one or more creature types. A creature’s type is listed in its stat block and can affect how spells, abilities, and other game effects interact with it.
 
-Common creature types include Aberration, Beast, Celestial, Construct, Dragon, Elemental, Fey, Fiend, Giant, Humanoid, Monstrosity, Ooze, Plant, and Undead.
+Common creature types include Aberration, Beast, Celestial, Construct, Dragon, Elemental, Fey, Fiend, Giant, Monstrosity, Mortal,  Ooze, Plant, and Undead.
 
 If an effect applies to a specific creature type, it affects only creatures of that type unless stated otherwise.
 
----
-
-# Critical Hit
-
-A Critical Hit occurs when an attack roll meets the attacker's critical range. A Critical Hit automatically hits the target regardless of its Armor Class.
-
-When you score a Critical Hit, roll all damage dice of the attack twice and add them together before applying modifiers.
-
-Additional damage dice granted by features, spells, or abilities are also doubled unless a feature states otherwise.
+Objects, terrain features, and unattended equipment are not creatures unless a rule states otherwise.
 
 ---
 
@@ -633,20 +266,6 @@ Some features modify D20 Tests by granting @Advantage, @Disadvantage, bonuses, o
 
 ---
 
-# Damage
-
-Damage reduces a creature’s @Hit Points.
-
-When a creature takes damage, subtract the damage from its current Hit Points.
-
-If a creature has @Temporary Hit Points, damage is deducted from those first.
-
-Damage has a type. Some creatures have @Resistance, @Immunity, or @Vulnerability to certain damage types.
-
-Damage cannot reduce a creature below 0 Hit Points unless a feature specifically states otherwise.
-
----
-
 # Damage Threshold
 
 A creature or an object that has a damage threshold has @Immunityto all damage unless it takes an amount of damage from a single attack or effect equal to or greater than its damage threshold, in which case it takes that entire instance of damage. Any damage that fails to meet or exceed the damage threshold is superficial and doesn’t reduce @Hit Points. For example, if an object has a damage threshold of 10, the object takes no damage if 9 damage is dealt to it, since that damage fails to exceed the threshold. If the same object is dealt 11 damage, it takes all of that damage.
@@ -678,14 +297,6 @@ If an effect deals multiple damage types, each type is applied separately for th
 
 ---
 
-# Darkness
-
-Darkness creates an area without light.
-
-An area of Darkness is @Heavily Obscured
-
----
-
 # Darkvision
 
 If you have Darkvision, you can see in @Dim Light within a specified range as if it were @Bright Light and in @Darkness within that range as if it were Dim Light. You discern colors in that Darkness only as shades of gray.
@@ -697,16 +308,6 @@ If you have Darkvision, you can see in @Dim Light within a specified range as 
 A dead creature has no @Hit Points and can’t regain them unless it is first revived by magic such as the @Raise Dead or @Revify spell. When such a spell is cast, the spirit knows who is casting it and can refuse. The spirit of a dead creature has left the body and departed for the Outer Planes, and reviving the creature requires calling the spirit back.
 
 If the creature returns to life, the revival effect determines the creature’s current Hit Points. Unless otherwise stated, the creature returns to life with any conditions, magical contagions, or curses that were affecting it at death if the durations of those effects are still ongoing. If the creature died with any @Exhaustion levels, it returns with 5 fewer levels. If the creature had @Attunemtn to one or more magic items, it is no longer attuned to them.
-
----
-
-# Death Saving Throw
-
-A Death Saving Throw is a special saving throw made when a creature begins its turn at 0 Hit Points.
-
-The rules for Death Saving Throws are detailed in the @Dropping to 0 Hit Points section of the game.
-
-Unlike other saving throws, a Death Saving Throw is not tied to an ability score.
 
 ---
 
@@ -732,24 +333,6 @@ If a roll equals the DC, it succeeds.
 
 ---
 
-# Dim Light
-
-Dim Light, such as foggy terrain or rubble, is @Lightly Obscured.
-
----
-
-# Disadvantage
-
-Disadvantage represents unfavorable circumstances.
-
-When you make a roll with Disadvantage, roll two d20s and use the lower result.
-
-If multiple effects grant Disadvantage, you still roll only two dice.
-
-If a roll has both @Advantage and Disadvantage, they cancel each other out and you roll normally.
-
----
-
 # Enemy
 
 An enemy is a creature actively opposed to you.
@@ -758,21 +341,6 @@ Whether a creature is an enemy is determined by the circumstances of the game ra
 
 Effects that refer to enemies affect only creatures hostile to you.
 
----
-
-# Expertise
-
-Expertise is a feature that enhances your use of a skill proficiency. When you make an ability check with a skill proficiency in which you have Expertise, your Proficiency Bonus is doubled for that check unless the bonus is doubled by another feature.
-
-If you gain Expertise, you gain it in one skill in which you have proficiency. You can’t have Expertise in the same skill proficiency more than once.
-
----
-
-# Flying
-
-A variety of effects allow a creature to fly. While flying, you fall if you have the @Incapacitated or Prone condition or your Fly Speed is reduced to 0. You can stay aloft in those circumstances if you can hover.
-
----
 
 # Grappling
 
@@ -784,14 +352,6 @@ A creature can grapple another creature. Characters typically grapple by using a
 
 **_Ending a Grapple._** A Grappled creature can use its action to make a Strength (@Athletics) or Dexterity (@Acrobatics) check against the grapple’s escape DC, ending the condition on itself on a success. The condition also ends if the grappler has the @Incapacitated condition or if the distance between the Grappled target and the grappler exceeds the grapple’s range. In addition, the grappler can release the target at any time (no action required).
 
-While you have the Grappled condition, you experience the following effects.
-
-**_Speed 0._** Your @Speed is 0 and can’t increase.
-
-**_Attacks Affected._** You have @Disadvantage on attack rolls against any target other than the grappler.
-
-**_Movable._** The grappler can drag or carry you when it moves, but every foot of movement costs it 1 extra foot unless you are Tiny or two or more sizes smaller than it.
-
 ---
 
 # Hazard
@@ -802,87 +362,54 @@ A Hazard is an environmental danger.
 
 # Burning [Hazard]
 
-Burning represents ongoing exposure to fire.
-
-A burning creature takes Fire damage at the end of each of its turns until the flames are extinguished.
-
-A creature can typically end Burning by entering sufficient water, smothering the flames, or through similar means determined by the Dungeon Master.
+A burning creature or object takes 1d4 Fire damage at the start of each of its turns. As an action, you can extinguish fire on yourself by giving yourself the [[Prone]] condition and rolling on the ground. The fire also goes out if it is doused, submerged, or suffocated.
 
 ---
 
 # Dehydration [Hazard]
+A creature requires an amount of water per day based on its size, as shown in the Water Needs per Day table. A creature that drinks less than half the required water for a day gains 1 [[Exhaustion]] level at the day’s end. Exhaustion caused by dehydration can’t be removed until the creature drinks the full amount of water required for a day.
+###### Water Needs per Day
+| Size       | Food       |
+| ---------- | ---------- |
+| Tiny       | 1/4 gallon |
+| Small      | 1 gallon   |
+| Medium     | 1 gallon   |
+| Large      | 4 gallons  |
+| Huge       | 16 gallons |
+| Gargantuan | 64 gallons |
 
-Dehydration occurs when a creature goes too long without adequate water.
-
-The Dungeon Master determines when dehydration becomes relevant.
-
-A dehydrated creature may suffer penalties, exhaustion, or other effects until it consumes sufficient water.
 
 ---
 
 # Falling [Hazard]
 
-A creature that falls descends immediately.
+A creature that falls takes 1d6 Bludgeoning damage at the end of the fall for every 10 feet it fell, to a maximum of 20d6. When the creature lands, it has the [[Prone]] condition unless it avoids taking any damage from the fall.
 
-Unless a rule states otherwise, a falling creature takes 1d6 Physical damage for every 10 feet fallen, to a maximum of 20d6.
-
-The creature falls prone when it lands unless it avoids the fall's effects.
-
-The Dungeon Master may modify damage based on the circumstances.
+A creature that falls into water or another liquid can use its Reaction to make a DC 15 Strength ([[Athletics]]) or Dexterity ([[Acrobatics]]) check to hit the surface head or feet first. On a successful check, any damage resulting from the fall is halved.
 
 ---
 
 # Malnutrition [Hazard]
 
-Malnutrition occurs when a creature goes too long without adequate food.
+A creature needs an amount of food per day based on its size, as shown in the Food Needs per Day table. A creature that eats but consumes less than half the required food for a day must succeed on a DC 10 Strength saving throw or gain 1 [[Exhaustion]] level at the day’s end. A creature that eats nothing for 5 days automatically gains 1 Exhaustion level at the end of the fifth day as well as an additional level at the end of each subsequent day without food.
 
-Extended malnutrition can result in Exhaustion and other penalties at the Dungeon Master's discretion.
+Exhaustion caused by malnutrition can’t be removed until the creature eats the full amount of food required for a day.
+###### Food Needs per Day
+| Size       | Food      |
+| ---------- | --------- |
+| Tiny       | 1/4 pound |
+| Small      | 1 pound   |
+| Medium     | 1 pound   |
+| Large      | 4 pounds  |
+| Huge       | 16 pounds |
+| Gargantuan | 64 pounds |
 
-These effects remain until the creature receives sufficient nourishment.
 
 ---
 
 # Suffocation [Hazard]
 
-A creature that cannot breathe risks suffocation.
-
-A creature can hold its breath for a duration determined by the Dungeon Master or the effect causing the suffocation.
-
-When a creature can no longer breathe, it begins suffocating and may quickly fall unconscious or die if air is not restored.
-
----
-
-# Healing
-
-Healing restores lost Hit Points.
-
-A creature regains Hit Points equal to the amount healed, up to its Hit Point maximum.
-
-Healing has no effect on a creature at full Hit Points unless a feature states otherwise.
-
----
-
-# Heavily Obscured
-
-You have the Blinded condition while trying to see something in a Heavily Obscured space.
-
-Examples include Darkness, thick fog, or dense foliage.
-
----
-
-# Hit Points
-
-Hit Points represent durability, endurance, and the will to continue fighting.
-
-A creature cannot have more than its Hit Point maximum, and it cannot have less than 0.
-
-When a creature's Hit Points are 0, it is @Dying.
-
----
-
-# Hover
-
-Some creatures can hover, as noted in their stat blocks, and some spells and other effects grant the ability to hover. Hovering while flying prevents you from falling in certain circumstances.
+A creature can hold its breath for 1 minute in combat or 2 minutes out of combat before suffocation begins. When a creature runs out of breath or is choking, it gains 2 [[Exhaustion]] levels at the end of each of its turns. When a creature can breathe again, it removes all levels of Exhaustion it gained from suffocating.
 
 ---
 
@@ -966,7 +493,7 @@ A player character is a character controlled by a player.
 
 # Possession
 
-Some effects cause a creature to be possessed by another creature or entity. A possessing effect defines how the possession operates. Possession can be prevented by the [Protection from Evil and Good](https://www.dndbeyond.com/spells/2618912-protection-from-evil-and-good) spell and ended by the [Dispel Evil and Good](https://www.dndbeyond.com/spells/2619096-dispel-evil-and-good) spell.
+Some effects cause a creature to be possessed by another creature or entity. A possessing effect defines how the possession operates. Possession can be prevented by the @Protection from Good and Evil spell and ended by the @Dispel Evil and Good spell.
 
 ---
 
@@ -1028,7 +555,7 @@ The ability score used for a Saving Throw is determined by the effect creating i
 
 # Shape-Shifting
 
-If an effect, such as Wild Shape or the [Polymorph](https://www.dndbeyond.com/spells/2618876-polymorph) spell, lets you shape-shift, its description specifies what happens to you. Unless that description says otherwise, any ongoing effects on you—conditions, spells, curses, and the like—carry over from one form to the other. You revert to your true form if you die.
+If an effect, such as Wild Shape or the @Polymorph spell, lets you shape-shift, its description specifies what happens to you. Unless that description says otherwise, any ongoing effects on you—conditions, spells, curses, and the like—carry over from one form to the other. You revert to your true form if you die.
 
 ---
 
@@ -1085,61 +612,20 @@ A creature's size affects the space it occupies, what it can carry, and how cert
 
 # Skill
 
-A Skill represents training in a specific area of expertise.
+A skill is an area of specialization associated with an ability check.
 
 When a rule calls for a skill check, make an Ability Check using the associated skill. If you have Proficiency in that skill, add your Proficiency Bonus to the D20 Test.
 
-Skills can be used with different abilities if the Dungeon Master determines that another ability is more appropriate.
+Skills can be used with different abilities if the DM determines that another ability is more appropriate.
 
 ---
 
-# Speed
-
-A creature has a Speed, which is the distance in feet the creature can cover when it moves on its turn.
-
-Some creatures possess additional movement speeds, such as a Climb Speed, Fly Speed, Burrow Speed, Teleport Speed, or Swim Speed each of which is defined in this glossary. If you have more than one speed, choose which one to use when you move; you can switch between the speeds during your move. Whenever you switch, subtract the distance already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can’t use the new speed during the current move. For example, if you have a Speed of 30 and a Fly Speed of 40, you could fly 10 feet, walk 10 feet, and leap into the air to fly 20 feet more.
-
-**_Changes to Your Speeds._** If an effect increases or decreases your Speed for a time, any special speed you have increases or decreases by an equal amount for the same duration. For example, if your Speed is reduced to 0 and you have a Climb Speed, your Climb Speed is also reduced to 0. Similarly, if your Speed is halved and you have a Fly Speed, your Fly Speed is also halved.
-
----
-
-# Spell
-
-A Spell is a magical effect created through spellcasting.
-
-Every spell belongs to a specific level, school, and class spell list.
-
-A spell's description explains its effects, duration, range, targets, and any special rules that apply.
-
-The rules governing spellcasting are described in the @Magic chapter.
-
----
-
-# Spell Attack
-
-A Spell Attack is an attack roll made as part of a spell.
-
-To make a Spell Attack, roll a d20 and add your Proficiency Bonus and Mental Modifier to the roll.
-
-If the result equals or exceeds the target's Armor Class, the attack hits.
-
-A Spell Attack is an @Attack Roll.
-
----
-
-# Spellcasting Focus
-
-A Spellcasting Focus is an object that certain creatures can use in place of a spell’s Material components if those materials aren’t consumed by the spell and don’t have a cost specified. Some classes allow its members to use certain types of Spellcasting Focuses.
-
----
 
 # Stable
 
-A Stable creature is at 0 Hit Points but is no longer dying.
+A Stable creature is at 0 Hit Points but is no longer dying. If a Stable creature takes damage, it is no longer Stable and resumes making Death Saving Throws as normal.
 
-A Stable creature does not make Death Saving Throws.
-
-If a Stable creature takes damage, it is no longer Stable and resumes making Death Saving Throws as normal.
+You can take the [[Help]] action to try to stabilize a creature with 0 Hit Points, which requires a successful DC 10 Wisdom ([[Medicine]]) check.
 
 ---
 
@@ -1185,13 +671,15 @@ A creature without telepathy can receive telepathic messages but can’t initiat
 
 # Temporary Hit Points
 
-Temporary Hit Points are a buffer against damage.
+Some spells and other effects confer Temporary Hit Points, which are a buffer against losing actual [[Hit Points]], as explained below.
 
-When you take damage, Temporary Hit Points are lost before normal Hit Points.
+***Lose Temporary Hit Points First.*** If you have Temporary Hit Points and take damage, those points are lost first, and any leftover damage carries over to your Hit Points. For example, if you have 5 Temporary Hit Points and take 7 damage, you lose those points and then lose 2 Hit Points.
 
-Temporary Hit Points do not stack. If you gain Temporary Hit Points while already having them, choose which amount to keep.
+***Duration.*** Temporary Hit Points last until they’re depleted or you finish a [[Long Rest]].
 
-Temporary Hit Points last until they are depleted or until you finish a @Long Rest unless the effect granting them states otherwise.
+***They Don’t Stack.*** Temporary Hit Points can’t be added together. If you have Temporary Hit Points and receive more of them, you decide whether to keep the ones you have or to gain the new ones. For example, if a spell grants you 12 Temporary Hit Points when you already have 10, you can have 12 or 10, not 22.
+
+***They’re Not Hit Points or Healing.*** Temporary Hit Points can’t be added to your Hit Points, healing can’t restore them, and receiving Temporary Hit Points doesn’t count as healing. Because Temporary Hit Points aren’t Hit Points, a creature can be at full Hit Points and receive Temporary Hit Points. If you have 0 Hit Points, receiving Temporary Hit Points doesn’t restore you to consciousness. Only true healing can save you.
 
 ---
 
@@ -1205,23 +693,29 @@ Tremorsense can’t detect creatures or objects in the air, and it doesn’t cou
 
 # Truesight
 
-Truesight allows a creature to perceive things beyond normal vision.
+If you have Truesight, your vision is enhanced within a specified range. Within that range, your vision pierces through the following:
 
-A creature with Truesight can see in normal and magical darkness, perceive invisible creatures, automatically detect visual illusions, and perceive the true form of shape-shifters within the specified range.
+**Darkness.** You can see in normal and magical [[Rules/Common Terms/Darkness|Darkness]].
+
+**Invisibility.** You see creatures and objects that have the [[Invisible]] condition.
+
+**Visual Illusions.** Visual illusions appear transparent to you, and you automatically succeed on saving throws against them.
+
+**Transformations.** You discern the true form of any creature or object you see that has been transformed by magic.
 
 ---
 
 # Unarmed Strike
 
-Instead of using a weapon to make a melee attack, you can use a punch, kick, headbutt, or similar forceful blow. In game terms, this is an Unarmed Strike—a melee attack that involves you using your body to damage, grapple, or shove a target within 5 feet of you.
+Instead of using a weapon to make a melee attack, you can use a punch, kick, headbutt, or similar forceful blow. In game terms, this is an Unarmed Strike - a melee attack that involves you using your body to damage, grapple, or shove a target within 5 feet of you.
 
 Whenever you use your Unarmed Strike, choose one of the following options for its effect.
 
-**_Damage._** You make an @Attack Roll against the target. Your bonus to the roll equals your Strength modifier plus your Proficiency Bonus. On a hit, the target takes Bludgeoning damage equal to 1 plus your Strength modifier.
+***Damage.*** You make an attack roll against the target. Your bonus to the roll equals your Strength modifier plus your Proficiency Bonus. On a hit, the target takes Bludgeoning damage equal to 1 plus your Strength modifier.
 
-**_Grapple._** The target must succeed on a Strength or Dexterity saving throw (it chooses which), or it has the @Grappled condition. The DC for the saving throw and any escape attempts equals 8 plus your Strength modifier and Proficiency Bonus. This grapple is possible only if the target is no more than one size larger than you and if you have a hand free to grab it.
+***Grapple.*** The target must succeed on a Strength or Dexterity saving throw (it chooses which), or it has the [[Grappled]] condition. The DC for the saving throw and any escape attempts equals 8 plus your Strength modifier and Proficiency Bonus. This grapple is possible only if the target is no more than one size larger than you and if you have a hand free to grab it.
 
-**_Shove._** The target must succeed on a Strength or Dexterity saving throw (it chooses which), or you either push it 5 feet away or cause it to have the @Prone condition. The DC for the saving throw equals 8 plus your Strength modifier and Proficiency Bonus. This shove is possible only if the target is no more than one size larger than you.
+***Shove.*** The target must succeed on a Strength or Dexterity saving throw (it chooses which), or you either push it 5 feet away or cause it to have the [[Prone]] condition. The DC for the saving throw equals 8 plus your Strength modifier and Proficiency Bonus. This shove is possible only if the target is no more than one size larger than you.
 
 ---
 
@@ -1239,93 +733,90 @@ If an effect can move, teleport, transform, or otherwise affect an unwilling cre
 
 If an effect does not state that it can affect an unwilling creature, it affects only willing creatures.
 
-# Combat Rules
-
 ---
 # Attack Action
 
-The Attack Action allows you to make one weapon attack.
+Cost: 1 Action
 
-Choose a target within range of a weapon you are wielding and make an @Attack Roll. On a hit, the target takes damage according to the weapon's damage entry and any applicable modifiers.
+When you take the Attack action, you make an attack. Some other actions and Reactions also let you make an attack. Whether you strike with a Melee weapon, fire a Ranged weapon, or make an attack roll as part of a spell, an attack has the following structure:
 
-After taking the Attack Action, you gain the @Fatigued condition until the start of your next turn unless a feature states otherwise.
-
-Some class features modify or enhance the Attack Action.
+1. **Choose a Target.** Pick a target within your attack’s range: a creature, an object, or a location.
+2. **Determine Modifiers.** The DM helps you determine whether the target has @Cover (later in the chapter) and whether you have @Advantage or @Disadvantage against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.
+3. **Resolve the Attack.** Make the attack roll, as detailed later in this chapter. On a hit, you roll damage unless the particular attack has rules that specify otherwise. Some attacks cause special effects in addition to or instead of damage.
 
 ---
 
 # Dash Action
 
-The Dash Action increases your mobility.
+Cost: 1 Action
 
-When you take the Dash Action, your Speed increases by 15 feet until the end of the current turn.
-
-Multiple uses of the Dash Action stack unless a rule states otherwise.
+When you take the Dash action, your Speed increases by 15 feet until the start of your next turn.
 
 ---
 
 # Disengage Action
 
-The Disengage Action allows you to move without provoking hostile reactions.
+Cost: 2 Actions
 
-When you take the Disengage Action, your movement does not provoke reactions for the remainder of the turn.
-
-The Disengage Action costs 2 Actions.
+Creatures cannot take the Attack action against you with reactions, such as with the Opportunity Attack or Riposte features.
 
 ---
 
 # Dodge Action
 
-The Dodge Action focuses entirely on defense.
+Cost: 2 Actions
 
-Until the start of your next turn:
+When you take the Dodge action, until the start of your next turn:
 
-- Attack rolls against you have Disadvantage.
+- Attack rolls against you have @Disadvantage.
     
-- You have Advantage on Dexterity Saving Throws.
-    
-
-You lose these benefits if you become @Incapacitated.
-
-The Dodge Action costs 2 Actions.
+- You have @Advantage on Dexterity saving throws.
 
 ---
 
 # Help Action
 
-The Help Action allows you to assist another creature.
+Cost: 2 Actions
 
-Choose a creature within 5 feet of you. That creature gains Advantage on the next Ability Check or Attack Roll it makes before the start of your next turn.
+When you take the Help action, you do one of the following.
 
-The Help Action costs 2 Actions.
+**_Assist an Ability Check._** Choose one of your skill or tool proficiencies and one ally who is near enough for you to assist verbally or physically when they make an ability check. That ally has @Advantage on the next ability check they make with the chosen skill or tool. This benefit expires if the ally doesn’t use it before the start of your next turn. The DM has final say on whether your assistance is possible.
 
-The Dungeon Master may determine that certain situations prevent meaningful assistance.
+**_Assist an Attack Roll._** You momentarily distract an enemy within 5 feet of you, giving Advantage to the next attack roll by one of your allies against that enemy until the start of your next turn. Alternatively you can take the Help action on an ally within 5 feet giving them Advantage on the next attack roll they make before the start of your next turn.
 
 ---
 
 # Hide Action
 
-The Hide Action allows you to conceal yourself.
+Cost: 2 Actions
 
-Make a Dexterity (Stealth) check.
+With the Hide action, you try to conceal yourself. To do so, you must succeed on a DC 15 Dexterity (@Stealth) check while you’re @Heavily Obscured or behind @Three-Quarters Cover or @Total Cover, and you must be out of any enemy’s line of sight; if you can see a creature, you can discern whether it can see you.
 
-The result of this check becomes the DC creatures must overcome to locate you through sight, sound, or other obvious means.
+On a successful check, you have the @Invisible condition while hidden. Make note of your check’s total, which is the DC for a creature to find you with a Wisdom (@Perception) check.
 
-You cannot hide from a creature that can clearly perceive you unless a feature or circumstance allows it.
-
-The Hide Action costs 2 Actions.
+You stop being hidden immediately after any of the following occurs: you make a sound louder than a whisper, an enemy finds you, you make an attack roll, or you cast a spell with a Verbal component.
 
 ---
 
 # Influence Action
 
-The Influence Action allows you to alter a creature's attitude through conversation, negotiation, threats, deception, or similar interaction.
+Cost: 1 Action
 
-Choose a creature that can understand you and make an appropriate Charisma check. The Dungeon Master determines the skill used and the Difficulty Class.
+With the Influence action, you urge a monster to do something. Describe or roleplay how you’re communicating with the monster. Are you trying to deceive, intimidate, amuse, or gently persuade? The DM then determines whether the monster feels willing, unwilling, or hesitant due to your interaction; this determination establishes whether an ability check is necessary, as explained below.
 
-The outcome depends on the creature's current @Attitude, your approach, and the circumstances.
+**_Willing._** If your urging aligns with the monster’s desires, no ability check is necessary; the monster fulfills your request in a way it prefers.
 
-The Influence Action normally requires 1 Action, though some social interactions may take longer at the Dungeon Master's discretion.
+**_Unwilling._** If your urging is repugnant to the monster or counter to its alignment, no ability check is necessary; it doesn’t comply.
+
+**_Hesitant._** If you urge the monster to do something that it is hesitant to do, you must make an ability check, which is affected by the monster’s attitude: @Indifferent, @Friendly, or @Hositle, each of which is defined in this glossary. The Influence Checks table suggests which ability check to make based on how you’re interacting with the monster. The DM chooses the check, which has a default DC equal to 15 or the monster’s Intelligence score, whichever is higher. On a successful check, the monster does as urged. On a failed check, you must wait 24 hours (or a duration set by the DM) before urging it in the same way again.
+
+| Ability Check             | Interaction                               |
+| ------------------------- | ----------------------------------------- |
+| Charisma (@Deception)     | Deceiving a monster that understands you  |
+| Charisma (@Intimidation)  | Intimidating a monster                    |
+| Charisma (@Perfermance)   | Amusing a monster                         |
+| Charisma (@Persuasion)    | Persuading a monster that understands you |
+| Wisdom (@Animal Handling) | Gently coaxing a Beast or Monstrosity
 
 ---
 
@@ -1342,9 +833,6 @@ The number of Actions required depends on the effect being used:
 - Spells cast with a Secondary Slot require 2 Actions.
     
 - Spells cast with a Tertiary Slot require preparation before they can be cast.
-    
-
-After taking the Magic Action to cast a spell, you gain the @Fatigued condition until the start of your next turn unless a feature states otherwise.
 
 The complete rules for spellcasting are described in the @Magic chapter.
 
@@ -1352,26 +840,19 @@ The complete rules for spellcasting are described in the @Magic chapter.
 
 # Ready Action
 
-The Ready Action allows you to prepare a response to a future event.
+Cost: 2 Actions
 
-When you take the Ready Action, choose:
+You prepare a single action with a cost of one action and specify a trigger.
 
-- A perceivable trigger.
-    
-- An Action you will take when that trigger occurs.
-    
+When the trigger occurs before the start of your next turn, you may immediately perform the chosen action as a reaction.
 
-When the trigger occurs before the start of your next turn, you may use your Reaction to perform the chosen Action.
-
-If the trigger never occurs, the prepared action is lost.
-
-The Ready Action costs 2 Actions.
-
-You cannot Ready an action that normally requires more Actions than you have prepared.
+If the trigger never occurs, the action is lost.
 
 ---
 
 # Search Action
+
+Cost: 2 Actions
 
 The Search Action allows you to actively look for something.
 
@@ -1380,19 +861,38 @@ Make either:
 - A Wisdom (Perception) check, or
     
 - An Intelligence (Investigation) check.
-    
+
 
 The Dungeon Master determines which skill is appropriate based on what you are attempting to find.
 
 The Search Action can reveal hidden creatures, concealed objects, clues, hazards, tracks, or other information.
 
-The Search Action costs 2 Actions.
-
 ---
 
-# Use an Object Action
+# Study
 
-The Use an Object Action allows you to interact with an object that requires more effort than a simple interaction.
+Cost: 1 Action
+
+When you take the Study action, you make an Intelligence check to study your memory, a book, a clue, or another source of knowledge and call to mind an important piece of information about it.
+
+The Areas of Knowledge table suggests which skills are applicable to various areas of knowledge.
+
+### Areas of Knowledge
+
+| Skill          | Areas                                                                                                                                                               |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| @Arcana        | Spells, magic items, eldritch symbols, magical traditions, planes of existence, and certain creatures (Aberrations, Constructs, Elementals, Fey, and Monstrosities) |
+| @History       | Historic events and people, ancient civilizations, wars, and certain creatures (Giants and Humanoids)                                                               |
+| @Investigation | Traps, ciphers, riddles, and gadgetry                                                                                                                               |
+| @Nature        | Terrain, flora, weather, and certain creatures (Beasts, Dragons, Oozes, and Plants)                                                                                 |
+| @Religion      | Deities, religious hierarchies and rites, holy symbols, cults, and certain creatures (Celestials, Fiends, and Undead)                                               |
+
+
+# Utilize Action
+
+Cost: 1 or 2 Actions
+
+The Utilize  Action allows you to interact with an object that requires more effort than a simple interaction.
 
 Examples include:
 
@@ -1407,35 +907,25 @@ Examples include:
 - Lighting a torch
 
 
-The Dungeon Master determines whether an interaction requires the Use an Object Action.
-
-The Use an Object Action costs 1 Action.
+The Dungeon Master determines whether an interaction requires the Utilize Action.
 
 # Advantage
 
-Advantage represents favorable circumstances.
+If you have Advantage on a [[D20 Test]], roll two d20s and use the lower roll. If multiple situations affect a roll and they all grant Advantage on it, you still roll only two d20s.
 
-When you make a roll with Advantage, roll two d20s and use the higher result.
+If circumstances cause a roll to have both Advantage and [[Disadvantage]], the roll has neither of them, and you roll one d20. This is true even if multiple circumstances impose Disadvantage and only one grants Advantage or vice versa. In such a situation, you have neither Advantage nor Disadvantage.
 
-If multiple effects grant Advantage, you still roll only two dice.
-
-If a roll has both Advantage and @Disadvantage, they cancel each other out and you roll normally.
-
-Advantage can apply to any D20 Test, including @Ability Checks, @Attack Rolls, and @Saving Throws.
+When you have Advantage or Disadvantage and something in the game lets you reroll or replace the d20, you can reroll or replace only one die, not both. You choose which one.
 
 ---
 
 # Disadvantage
 
-Disadvantage represents unfavorable circumstances.
+If you have Disadvantage on a [[D20 Test]], roll two d20s and use the lower roll. If multiple situations affect a roll and they all grant Disdvantage on it, you still roll only two d20s.
 
-When you make a roll with Disadvantage, roll two d20s and use the lower result.
+If circumstances cause a roll to have both [[Advantage]] and Disadvantage, the roll has neither of them, and you roll one d20. This is true even if multiple circumstances impose Disadvantage and only one grants Advantage or vice versa. In such a situation, you have neither Advantage nor Disadvantage.
 
-If multiple effects grant Disadvantage, you still roll only two dice.
-
-If a roll has both @Advantage and Disadvantage, they cancel each other out and you roll normally.
-
-Disadvantage can apply to any D20 Test, including @Ability Checks, @Attack Rolls, and @Saving Throws.
+When you have Advantage or Disadvantage and something in the game lets you reroll or replace the d20, you can reroll or replace only one die, not both. You choose which one.
 
 ---
 
@@ -1457,16 +947,7 @@ Many abilities, feats, and class features refer to your Physical Modifier.
 
 Your Physical Modifier is determined by your class and represents the physical attribute that class relies on most heavily.
 
-Depending on your class, your Physical Modifier may be:
-
-- Strength
-    
-- Dexterity
-    
-- Strength or Dexterity (chosen or determined by the class)
-    
-
-Your class description specifies which ability score is used as your Physical Modifier.
+Depending on your class, your Physical Modifier may be Strength or Dexterity. Your class description specifies which ability score can be used as your Physical Modifier.
 
 Whenever a rule refers to your Physical Modifier, use the modifier associated with that ability score.
 
@@ -1478,18 +959,7 @@ Many abilities, spells, and class features refer to your Mental Modifier.
 
 Your Mental Modifier is determined by your class and represents the mental attribute that class relies on most heavily.
 
-Depending on your class, your Mental Modifier may be:
-
-- Intelligence
-    
-- Wisdom
-    
-- Charisma
-    
-- Intelligence, Wisdom, or Charisma (chosen or determined by the class)
-    
-
-Your class description specifies which ability score is used as your Mental Modifier.
+Depending on your class, your Mental Modifier may be Intelligence, Wisdom, or Charisma. Your class description specifies which ability score can be used as your Mental Modifier.
 
 Whenever a rule refers to your Mental Modifier, use the modifier associated with that ability score.
 
@@ -1521,8 +991,6 @@ When a feature calls for a Mental DC Saving Throw, the feature specifies which a
 
 For example, a spell might require a creature to make a Mental DC Wisdom Saving Throw, while another effect might require a Mental DC Charisma Saving Throw.
 
-Spell Save DCs are usually equal to a character's Mental DC.
-
 # Attack Roll
 
 An Attack Roll determines whether an attack hits a target.
@@ -1532,16 +1000,6 @@ To make an Attack Roll, roll a d20 and add any applicable modifiers. If the tota
 Attack Rolls can be made with weapons, spells, or other abilities that specify an attack.
 
 Unless otherwise stated, Attack Rolls are affected by @Advantage and @Disadvantage.
-
----
-
-# Bloodied
-
-A creature is Bloodied when it has half its Hit Point maximum or fewer remaining Hit Points.
-
-Being Bloodied has no inherent game effect.
-
-Some abilities, feats, spells, and monster features may interact with a Bloodied creature.
 
 ---
 
@@ -1565,11 +1023,7 @@ A creature can benefit from Cover only when the obstacle lies between it and the
 
 # Critical Hit
 
-A Critical Hit occurs when an Attack Roll falls within the attacker's @Critical Range and the attack hits.
-
-When you score a Critical Hit, roll all damage dice of the attack twice and add the results together. Then apply any modifiers as normal.
-
-Additional damage dice granted by abilities, spells, feats, or class features are also doubled unless the feature states otherwise.
+If you roll a 20 on the d20 for an attack roll, you score a Critical Hit, and the attack hits regardless of any modifiers or the target’s AC. A Critical Hit lets you roll extra dice for the attack’s damage against the target. Roll all of the attack’s damage dice twice and add them together. Then add any relevant modifiers.
 
 ---
 
@@ -1582,32 +1036,6 @@ Most creatures have a Critical Range of 20, meaning only a roll of 20 on the d20
 Some features expand this range. For example, a Critical Range of 19–20 means that a roll of 19 or 20 can score a Critical Hit.
 
 A roll must still hit the target in order to become a Critical Hit.
-
----
-
-# Damage
-
-Damage reduces a creature's @Hit Points.
-
-Whenever a creature takes damage, subtract that amount from its current Hit Points.
-
-Different effects deal different types of damage, such as physical, fire, cold, radiant, or poison damage.
-
-If damage reduces a creature to 0 Hit Points, follow the rules for @Dropping to 0 Hit Points and @Death Saving Throws.
-
----
-
-# Damage Threshold
-
-Some objects and structures are exceptionally durable.
-
-A Damage Threshold is the minimum amount of damage a single source must deal to affect the object.
-
-If an attack or effect deals damage equal to or greater than the Damage Threshold, the object takes damage normally.
-
-If the damage is less than the Damage Threshold, the object takes no damage.
-
-Damage Thresholds are most commonly used for doors, walls, siege equipment, and similar objects.
 
 ---
 
@@ -1647,38 +1075,6 @@ A space is Difficult Terrain if the space contains any of the following or somet
 
 ---
 
-# Fatigued
-
-Fatigued is a temporary combat condition caused by exertion.
-
-When you take the @Attack Action or @Magic Action, you gain the Fatigued condition after the attack or spell is resolved.
-
-While Fatigued:
-
-- You do not add your ability modifier to Attack Rolls.
-    
-- You do not add your ability modifier when calculating Spell Save DCs.
-    
-
-Fatigued ends at the start of your next turn.
-
-A creature cannot become more Fatigued by gaining the condition multiple times.
-
----
-
-# Fatigue Resistance
-
-Fatigue Resistance allows a creature to ignore the penalties imposed by the @Fatigued condition for a specific type of action.
-
-Most martial classes gain Fatigue Resistance for the @Attack Action at 5th level.
-
-Most full casters gain Fatigue Resistance for the @Magic Action at 5th level.
-
-If you have Fatigue Resistance for an action, taking that action still causes you to become Fatigued, but you ignore the condition's penalties when making rolls associated with that action.
-
-Some features may grant broader or more specialized forms of Fatigue Resistance.
-
----
 
 # Healing
 
@@ -1773,77 +1169,6 @@ When you take a Reaction, you can't take another one until the start of your nex
 If a Reaction interrupts another creature's turn, that creature continues its turn immediately after the Reaction resolves.
 
 Unless a rule states otherwise, a Reaction occurs immediately after its trigger.
-
----
-
-# Resistance
-
-Resistance reduces incoming damage.
-
-If a creature has Resistance to a damage type, it takes half damage from that type.
-
-Apply Resistance after all other damage modifiers unless a rule states otherwise.
-
-Multiple instances of Resistance to the same damage type do not stack.
-
----
-
-# Saving Throw
-
-A Saving Throw represents an attempt to resist a harmful effect, avoid danger, or endure an adverse condition.
-
-To make a Saving Throw, roll a d20 and add the appropriate modifier.
-
-If the result equals or exceeds the effect's DC, the Saving Throw succeeds.
-
-The effect causing the Saving Throw determines which ability score is used.
-
-Some Saving Throws use a creature's @Physical DC or @Mental DC.
-
----
-
-# Surprise
-
-Sometimes one side of an encounter catches another completely unaware.
-
-At the start of combat, the Dungeon Master determines whether any creatures are surprised.
-
-A surprised creature:
-
-- Cannot take Reactions until the start of its first turn.
-    
-- Has Disadvantage on Initiative rolls.
-    
-
-Additional effects of Surprise may be granted by features, feats, spells, or monster abilities.
-
----
-
-# Temporary Hit Points
-
-Temporary Hit Points represent magical protection, determination, momentum, or other effects that absorb damage.
-
-If you have Temporary Hit Points and take damage, those points are lost first. Any remaining damage is then applied to your Hit Points.
-
-Temporary Hit Points last until they are depleted or until you finish a @Long Rest unless a feature states otherwise.
-
-Temporary Hit Points cannot be added together. If you gain Temporary Hit Points while you already have some, choose which amount to keep.
-
-For example, if you have 8 Temporary Hit Points and gain 12 more, you can keep either 8 or 12, not 20.
-
----
-
-# Unarmed Strike
-
-An Unarmed Strike is a melee attack made without a weapon.
-
-When you hit with an Unarmed Strike, you deal physical damage equal to:
-
-**1 + your Strength Modifier**
-
-Some classes, fighting styles, feats, and features replace or modify this damage.
-
-An Unarmed Strike is considered a melee weapon attack unless a rule states otherwise.
 
 ---
 
@@ -2088,53 +1413,31 @@ While you have the Unconscious condition, you experience the following effects.
 
 # Burrow Speed
 
-A creature with a Burrow Speed can move through earth, sand, mud, ice, or similar material.
-
-A creature cannot normally burrow through solid stone, worked masonry, metal, or other unusually durable materials unless its stat block or feature says otherwise.
-
-A creature that burrows leaves a tunnel only if the feature allowing the burrow movement states that it does.
+A creature that has a Burrow Speed can use that speed to move through sand, earth, mud, or ice. The creature can’t burrow through solid rock unless the creature has a trait that allows it to do so.
 
 ---
 
-# Climbing
+# Climbing speed
 
-While climbing, each foot of movement costs 1 additional foot of Speed unless you have a Climb Speed.
+While you’re climbing, each foot of movement costs 1 extra foot (2 extra feet in @Difficult Terrain). You ignore this extra cost if you have a @Climb and use it to climb.
 
-You can climb walls, trees, ropes, cliffs, and other surfaces that can reasonably support your weight.
-
-The Dungeon Master determines whether a surface can be climbed and whether an Ability Check is required.
+At the DM’s option, climbing a slippery surface or one with few handholds might require a successful DC 15 Strength (@Athletics) check.
 
 ---
 
-# Crawling
+# Crawling speed
 
-While Prone, you can move by crawling.
-
-Each foot of movement while crawling costs 1 additional foot of Speed.
-
-Difficult Terrain increases this cost normally.
+While you’re crawling, each foot of movement costs 1 extra foot
 
 ---
 
-# Flying
+# Fly Speed
 
 A creature with a Fly Speed can move through the air.
 
-Unless a feature states otherwise, flying creatures must be able to move in order to remain airborne.
+A Fly Speed can be used to travel through the air. While you have a Fly Speed, you can stay aloft until you land, fall, or die.
 
 If a flying creature is knocked Prone, has its Speed reduced to 0, or otherwise loses the ability to fly, it falls unless it has the @Hover trait.
-
----
-
-# High Jump
-
-When you make a High Jump, you leap vertically into the air.
-
-If you move at least 10 feet immediately before the jump, you can jump a number of feet equal to 3 + your Strength Modifier.
-
-If you do not move at least 10 feet immediately before jumping, the maximum height is halved.
-
-The Dungeon Master may allow Ability Checks to exceed these distances under exceptional circumstances.
 
 ---
 
@@ -2150,49 +1453,35 @@ A creature with Hover can still fall if it is knocked unconscious or if the effe
 
 # Jumping
 
-Jumping uses movement.
+When you jump, you make either a Long Jump (horizontal) or a High Jump (vertical).
 
-Each foot jumped consumes an equal amount of your available Speed.
+***High Jump.*** When you make a High Jump, you leap into the air a number of feet equal to 3 plus your Strength modifier (minimum of 0 feet) if you move at least 10 feet on foot immediately before the jump. When you make a standing High Jump, you can jump only half that distance. Either way, each foot of the jump costs a foot of movement.
 
-You cannot jump farther than your remaining movement allows.
+You can extend your arms half your height above yourself during the jump. Thus, you can reach a distance equal to the height of the jump plus 1½ times your height.
 
-Special forms of jumping are described under @High Jump and @Long Jump.
+***Long Jump.*** When you make a Long Jump, you leap horizontally a number of feet up to your Strength score if you move at least 10 feet immediately before the jump. When you make a standing Long Jump, you can leap only half that distance. Either way, each foot you jump costs a foot of movement.
 
----
+If you land in [[Difficult Terrain]], you must succeed on a DC 10 Dexterity ([[Acrobatics]]) check or have the [[Prone]] condition.
 
-# Long Jump
-
-When you make a Long Jump, you leap horizontally.
-
-If you move at least 10 feet immediately before the jump, you can jump a number of feet equal to your Strength Score.
-
-If you do not move at least 10 feet immediately before jumping, the maximum distance is halved.
-
-The Dungeon Master may require an Ability Check when terrain, obstacles, or hazards make the jump particularly difficult.
+This Long Jump rule assumes that the height of the jump doesn’t matter, such as a jump across a stream or chasm. At your DM’s option, you must succeed on a DC 10 Strength ([[Athletics]]) check to clear a low obstacle (no taller than a quarter of the jump’s distance), such as a hedge or low wall. Otherwise, you hit the obstacle.
 
 ---
 
 # Speed
 
-Speed measures how far a creature can move.
+A creature has a Speed, which is the distance in feet the creature can cover when it moves on its turn.
 
-A creature can move up to its Speed during its turn. Movement can be split before, between, or after actions unless a rule states otherwise.
+***Special Speeds.*** Some creatures have special speeds, such as a [[Burrowing|Burrow]] Speed, [[Climbing|Climb]] Speed, [[Flying|Fly]] Speed, or [[Swimming|Swim]] Speed. If you have more than one speed, choose which one to use when you move; you can switch between the speeds during your move. Whenever you switch, subtract the distance already moved from the new speed. The result determines how much farther you can move. If the result is 0 or less, you can’t use the new speed during the current move. For example, if you have a Speed of 30 and a Fly Speed of 40, you could fly 10 feet, walk 10 feet, and leap into the air to fly 20 feet more.
 
-A creature's Speed is measured in feet.
-
-Some creatures possess multiple Speeds, such as a Fly Speed, Swim Speed, Burrow Speed, or Climb Speed.
-
-If an effect modifies a creature's Speed, the change applies to all of its movement unless the effect states otherwise.
+***Changes to Your Speeds.*** If an effect increases or decreases your Speed for a time, any special speed you have increases or decreases by an equal amount for the same duration. For example, if your Speed is reduced to 0 and you have a Climb Speed, your Climb Speed is also reduced to 0. Similarly, if your Speed is halved and you have a Fly Speed, your Fly Speed is also halved.
 
 ---
 
 # Swimming
 
-While swimming, each foot of movement costs 1 additional foot of Speed unless you have a Swim Speed.
+A Swim Speed can be used to swim without expending the extra movement normally associated with swimming.
 
-Swimming includes movement through water and other liquids capable of supporting a creature.
-
-The Dungeon Master may require an Ability Check to swim through dangerous currents, rough waters, or similar hazards.
+While you’re swimming, each foot of movement costs 1 extra foot (2 extra feet in [[Difficult Terrain]]). You ignore this extra cost if you have a Swim Speed and use it to swim. At the DM’s option, moving any distance in rough water might require a successful DC 15 Strength ([[Athletics]]) check.
 
 ---
 
@@ -2218,11 +1507,7 @@ Creatures in Bright Light can perceive their surroundings without penalty unless
 
 Darkness creates an area where vision is severely limited.
 
-A creature cannot see through Darkness unless it possesses a feature that allows it to do so, such as @Darkvision or @Truesight.
-
-Darkness is typically considered @Heavily Obscured.
-
-Some magical effects create Darkness that even special senses cannot penetrate.
+An area of Darkness is [[Heavily Obscured]].
 
 ---
 
@@ -2272,66 +1557,6 @@ The Dungeon Master determines whether a particular effect creates a Lightly Obsc
 
 ---
 
-# Passive Perception
-
-Passive Perception represents how aware a creature is when it is not actively searching.
-
-A creature's Passive Perception equals:
-
-**10 + its Perception modifier**
-
-The Dungeon Master may use Passive Perception to determine whether a creature notices hidden creatures, traps, hazards, or other details without making a roll.
-
-If a creature has Advantage on Perception checks, the Dungeon Master may increase its Passive Perception. If it has Disadvantage, the Dungeon Master may reduce it.
-
----
-
-# Telepathy
-
-Telepathy allows a creature to communicate mentally.
-
-A creature with Telepathy can transmit thoughts to another creature within a specified range.
-
-Unless a feature states otherwise, Telepathy does not allow a creature to read thoughts or compel responses.
-
-A creature must typically understand at least one language to communicate through Telepathy.
-
-Specific Telepathic abilities may have additional limitations or requirements.
-
----
-
-# Tremorsense
-
-Tremorsense allows a creature to detect vibrations through a surface.
-
-A creature with Tremorsense can perceive the location of creatures and objects in contact with the same ground, surface, or medium within a specified range.
-
-Tremorsense does not rely on sight.
-
-A creature generally cannot detect flying or hovering creatures with Tremorsense unless they are also in contact with the relevant surface.
-
----
-
-# Truesight
-
-Truesight grants extraordinary perception.
-
-A creature with Truesight can perceive its surroundings within a specified range regardless of normal visual limitations.
-
-Within that range, a creature with Truesight can:
-
-- See in normal and magical Darkness.
-    
-- See invisible creatures and objects.
-    
-- Automatically perceive visual illusions and determine their true nature.
-    
-- Perceive the true form of a shape-shifted creature or transformed object.
-    
-- See into certain magical or supernatural disguises, as determined by the Dungeon Master.
-
-Truesight does not automatically reveal information beyond what is physically present, nor does it grant knowledge of hidden thoughts, intentions, or secrets.
-
 # Attitude
 
 A creature's Attitude reflects how it currently feels toward another creature.
@@ -2346,145 +1571,23 @@ The Dungeon Master determines a creature's Attitude and whether it changes.
 
 ---
 
-# Friendly
-
-A Friendly creature is inclined to help, cooperate with, or support another creature.
-
-Friendly creatures are generally willing to listen, provide assistance, and accept reasonable requests.
-
-Being Friendly does not require complete trust or agreement.
-
-A Friendly creature may still refuse requests that place it in danger or conflict with its goals.
-
----
-
-# Hostile
-
-A Hostile creature opposes, distrusts, or seeks to harm another creature.
-
-Hostile creatures are unlikely to cooperate and may react aggressively to requests or negotiations.
-
-A Hostile creature does not necessarily attack immediately, but it generally acts against the interests of those it opposes.
-
----
-
-# Indifferent
-
-An Indifferent creature has no strong positive or negative feelings toward another creature.
-
-Most strangers begin with an Indifferent Attitude.
-
-An Indifferent creature may be persuaded to help if given sufficient reason, incentive, or reassurance.
-
-Likewise, poor treatment may cause an Indifferent creature to become Hostile.
-
----
-
 # Carrying Capacity
 
-Carrying Capacity represents how much weight a creature can comfortably carry.
+Your size and Strength score determine the maximum weight in pounds that you can carry, as shown in the Carrying Capacity table. The table also shows the maximum weight you can drag, lift, or push.
 
-A creature's Carrying Capacity equals:
+While dragging, lifting, or pushing weight in excess of the maximum weight you can carry, your Speed can be no more than 5 feet.
 
-**15 × its Strength Score**
-
-A creature can carry weight up to this amount without penalty.
-
-The Dungeon Master may determine that especially awkward, bulky, or unusual objects are more difficult to carry than their weight alone would suggest.
-
----
-
-# Hazard
-
-A Hazard is an environmental danger capable of harming, hindering, or threatening creatures.
-
-Hazards may occur naturally or be created by creatures, spells, traps, or other effects.
-
-Examples include fire, starvation, suffocation, collapsing structures, and extreme weather.
-
-The Dungeon Master determines when a Hazard applies and what effects it causes.
+###### Carrying Capacity
+| Creature Size | Carry         | Drag/Lift/Push |
+| ------------- | ------------- | -------------- |
+| Tiny          | Str. x 15 lb  | Str. x 30 lb   |
+| Small/Medium  | Str. x 30 lb  | Str. x 60 lb   |
+| Large         | Str. x 60 lb  | Str. x 120 lb  |
+| Huge          | Str. x 120 lb | Str. x 240 lb  |
+| Gargantuan    | Str. x 240 lb | Str. x 480 lb  |
 
 ---
 
-# Burning
-
-A Burning creature is engulfed in flames or otherwise suffering ongoing fire damage.
-
-At the end of each of its turns, a Burning creature takes 1d6 Fire damage.
-
-A creature can end this Hazard by using an action to extinguish the flames or by entering a sufficient source of water.
-
-The Dungeon Master may determine that certain circumstances automatically extinguish or intensify the effect.
-
-Multiple instances of Burning do not stack unless a feature states otherwise.
-
----
-
-# Dehydration
-
-Dehydration occurs when a creature goes without sufficient water.
-
-A creature typically requires one gallon of fresh water each day, though environmental conditions may increase this requirement.
-
-At the end of each day without adequate water, a creature gains 1 point of @Exhaustion.
-
-A creature that receives sufficient water removes no Exhaustion automatically but can prevent additional Dehydration.
-
-The Dungeon Master may modify these requirements based on climate and circumstances.
-
----
-
-# Falling
-
-A creature that falls takes damage upon impact.
-
-A falling creature takes **1d6 Physical damage for every 10 feet fallen**, to a maximum of **20d6**.
-
-If a creature takes damage from a fall, it lands @Prone unless a feature states otherwise.
-
-The Dungeon Master determines whether surfaces, water, magical effects, or other circumstances reduce or negate falling damage.
-
----
-
-# Malnutrition
-
-Malnutrition occurs when a creature goes without sufficient food.
-
-A creature typically requires one pound of food each day.
-
-At the end of each day without adequate food, a creature gains 1 point of @Exhaustion.
-
-The Dungeon Master may determine that certain environments, abilities, or circumstances alter these requirements.
-
----
-
-# Suffocation
-
-A creature can survive without breathing for a limited time.
-
-A creature can hold its breath for a number of minutes equal to **1 + its Strength Modifier** (minimum 30 seconds).
-
-When a creature can no longer breathe, it begins suffocating.
-
-At the end of each of its turns while suffocating, the creature gains 1 point of @Exhaustion.
-
-If a creature reaches 10 points of Exhaustion due to suffocation, it dies.
-
-The Dungeon Master may determine that certain toxins, environments, or magical effects alter these rules.
-
-# Dead
-
-A creature is Dead when its life has ended.
-
-A Dead creature can take no actions, move, speak, perceive its surroundings, or benefit from most effects.
-
-A creature dies immediately if it reaches 10 points of @Exhaustion.
-
-Some spells, features, and magical effects can restore life to a Dead creature.
-
-The Dungeon Master determines what happens to a creature's body and possessions after death.
-
----
 
 # Dying
 
@@ -2554,15 +1657,7 @@ An interrupted Short Rest confers no benefits.
 
 # Stable
 
-A Stable creature is no longer in immediate danger of dying.
-
-A Stable creature at 0 Hit Points does not make @Death Saving Throws.
-
-A Stable creature remains unconscious and incapacitated while it has 0 Hit Points unless a rule states otherwise.
-
-A Stable creature ceases to be Stable if it takes damage.
-
-A Stable creature that regains Hit Points is no longer Stable because it is no longer at 0 Hit Points.
+A Stable creature at 0 hitpoints does not make @Death Saving throws, but resumes dying if they take damage.
 
 ---
 
@@ -2580,30 +1675,13 @@ Cantrips are considered spells and follow all normal rules for spells unless sta
 
 # Concentration
 
-Some spells and magical effects require Concentration to maintain.
+Some spells and other effects require Concentration to remain active, as specified in their descriptions. If the effect’s creator loses Concentration, the effect ends. If the effect has a maximum duration, the effect’s description specifies how long the creator can concentrate on it: up to 1 minute, 1 hour, or some other duration. The creator can end Concentration at any time (no action required). The following factors break Concentration.
 
-A creature can concentrate on only one effect at a time.
+***Another Concentration Effect.*** You lose Concentration on an effect the moment you start casting a spell that requires Concentration or activate another effect that requires Concentration.
 
-If you begin concentrating on a new effect, your previous Concentration immediately ends.
+***Damage.*** If you take damage, you must succeed on a Mental Modifier saving throw to maintain Concentration. The DC equals 10 or half the damage taken (round down), whichever number is higher, up to a maximum DC of 30.
 
-Concentration ends if:
-
-- You become @Incapacitated.
-    
-- You die.
-    
-- You voluntarily end it.
-    
-- You fail a Concentration check.
-    
-
-Whenever you take damage while concentrating, you must make a Strength saving throw.
-
-The DC equals 10 or half the damage taken, whichever is higher.
-
-On a failure, your Concentration ends immediately.
-
-When Concentration ends, the effect ends unless its description states otherwise.
+***Incapacitated or Dead.*** Your Concentration ends if you have the [[Incapacitated]] condition or you [[Dead|die]].
 
 ---
 
@@ -2655,21 +1733,31 @@ When a spell is cast using a Secondary Spell Slot, it is automatically cast at t
 
 # Tertiary Spell Slot
 
-A Tertiary Spell Slot represents a spellcaster's most powerful and limited magical resources.
+Tertiary Slots represent the pinnacle of your magical power. Such spells require preparation before they can be unleashed.
 
-To cast a spell using a Tertiary Spell Slot, you must first charge the spell by spending one action.
+To cast a spell using a Tertiary Slot, you must first charge the spell.
 
-On a later turn, you may spend two actions to complete the casting and expend the slot.
+### Charging a Spell
 
-While a spell is charged, you must maintain @Concentration.
+As an action, choose the spell you want to cast with a Tertiary Spell slot. The spell becomes charged, but no spell slot is expended yet. 
 
-Whenever you take damage while holding a charged spell, you must make a Concentration check as normal.
+Charging a spell is not a subtle thing, and requires an incredible amount of control while the arcane energy is formed. Because of this, it immediately drops the @Invisible condition if you have it, and creatures within 100 feet are alerted via sound and sight to your actions.
 
-You may hold a charged spell for a number of turns equal to your @Mental Modifier.
+### Casting a Charged Spell
 
-For each turn you continue holding the spell after it is charged, the spell is upcast by one additional level.
+At the start of one of your turns while the spell remains charged, you may spend 2 actions to cast it, and when the spell is cast, the Tertiary Slot is expended.
 
-If the spell is never completed, no spell slot is expended.
+### Holding Power
+
+You can maintain a charged spell for a number of turns equal to your @Mental Modifier, with a minimum of 2 turns. If you hold it for any longer the spell dissipates and you retain the spell slot.
+
+For each turn you continue holding the spell before casting it, the spell is automatically cast as though using a spell slot one level higher.
+
+A spell cannot be upcast beyond the 9th level in this way.
+
+### Taking Damage
+
+Whenever you take damage while charging a spell, you must make a Concentration Check as described later in this chapter, failing this check causes the spell to fade and you must begin the process again.
 
 ---
 
@@ -2743,9 +1831,9 @@ Some features interact differently with spells based on their level.
 
 A Spell Slot is a magical resource used to cast leveled spells.
 
-When you cast a spell using a Spell Slot, that slot is expended.
+When you finish casting a spell using a Spell Slot, that slot is expended.
 
-Expended Spell Slots are restored as described by your class.
+Expended Spell Slots are restored upon completion of a Long Rest, or with certain class features.
 
 There are three categories of Spell Slot in Mordschlag:
 
@@ -2754,9 +1842,6 @@ There are three categories of Spell Slot in Mordschlag:
 - @Secondary Spell Slot
     
 - @Tertiary Spell Slot
-    
-
-The level of a Spell Slot is determined by your class and level.
 
 ---
 
@@ -2768,9 +1853,9 @@ A creature holding an appropriate Spellcasting Focus can use it when casting spe
 
 Different classes may use different types of Spellcasting Focus.
 
-A Spellcasting Focus can replace non-costly material components when a spell requires them.
+A Spellcasting Focus can replace any material components that have no cost when a spell requires them.
 
-A focus provides no benefit unless a rule specifically allows it to be used.
+A focus provides no benefit unless a rule specifically gives it one.
 
 ---
 
@@ -2819,15 +1904,27 @@ Some features allow a creature to use specific Martial Feats without expending a
 
 Martial Feats are organized into four tiers representing increasing levels of skill and mastery.
 
-The four tiers are:
-
-- Tier 1
-    
-- Tier 2
-    
-- Tier 3
-    
-- Tier 4
+| Level | Feat Tier Available |
+| ----- | ------------------- |
+| 2nd   | Tier 1              |
+| 3rd   | Tier 1              |
+| 4th   | Tier 1              |
+| 5th   | Tier 2              |
+| 6th   | Tier 2              |
+| 7th   | Tier 2              |
+| 8th   | Tier 2              |
+| 9th   | Tier 2              |
+| 10th  | Tier 2              |
+| 11th  | Tier 3              |
+| 12th  | Tier 3              |
+| 13th  | Tier 3              |
+| 14th  | Tier 3              |
+| 15th  | Tier 3              |
+| 16th  | Tier 3              |
+| 17th  | Tier 4              |
+| 18th  | Tier 4              |
+| 19th  | Tier 4              |
+| 20th  | Tier 4              |
 
 You can learn and prepare Martial Feats only from tiers you have unlocked.
 
@@ -2849,41 +1946,14 @@ Tags may describe:
     
 - Which classes commonly learn it.
     
-- Whether it is intended for combat or social encounters.
+- Whether it is intended for certain encounters.
     
 - Other rules interactions.
-    
 
 A feat's tags have no inherent effect unless another rule refers to them.
 
 ---
 
-# Combat Feat
-
-A Combat Feat is a Martial Feat with the **[Combat]** tag.
-
-Combat Feats are primarily intended for use during encounters involving danger, conflict, or tactical action.
-
-Combat Feats often improve attacks, movement, defenses, positioning, reactions, or other battlefield capabilities.
-
-Unless a feature states otherwise, Combat Feats follow all normal rules for Martial Feats.
-
----
-# Exploration Feat
-
-An Exploration feat
-
---- 
-
-# Social Feat
-
-A Social Feat is a Martial Feat with the **[Social]** tag.
-
-Social Feats are primarily intended for use during conversations, negotiations, investigations, leadership situations, and other non-combat encounters.
-
-Social Feats often enhance skill checks, influence attitudes, gather information, command allies, or manipulate social situations.
-
-Unless a feature states otherwise, Social Feats follow all normal rules for Martial Feats.
 
 # Area of Effect
 

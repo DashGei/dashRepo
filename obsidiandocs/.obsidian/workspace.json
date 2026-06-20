@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHB/Chapter 4, Combat.md",
+                "file": "PHB/Chapter 10, The Planescape.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 4, Combat"
+              "title": "Chapter 10, The Planescape"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHB/Chapter 6, Martial Classes and Feats.md",
+                "file": "D&D 5e 2024 Rules/Rules/Common Terms/Critical Hit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 6, Martial Classes and Feats"
+              "title": "Critical Hit"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,36 +197,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "428d2ff79cf93e29",
+  "active": "7d33fb361f8a640b",
   "lastOpenFiles": [
-    "PHB/Chapter 7, Spell Classes and Spellcasting.md",
-    "PHB/Chapter 8, Exploration and Party Progression.md",
-    "PHB/Chapter 10, The Planescape.md",
-    "The Planescape/The Planescape.md",
-    "The Planescape/Deities, Favor, and Religion.md",
-    "The Planescape/Regions of Gaia.md",
-    "PHB/Chapter 6, Martial Classes and Feats.md",
     "PHB/Rules Glossary.md",
-    "PHB/Chapter 4, Combat.md",
+    "PHB/Chapter 7, Spell Classes and Spellcasting.md",
+    "D&D 5e 2024 Rules/Rules/Common Terms/Critical Hit.md",
+    "D&D 5e 2024 Rules/Rules/Senses/Tremorsense.md",
+    "D&D 5e 2024 Rules/Rules/Common Terms/Darkness.md",
+    "D&D 5e 2024 Rules/Rules/Common Terms/Concentration.md",
+    "D&D 5e 2024 Rules/Rules/Senses/Truesight.md",
+    "D&D 5e 2024 Rules/Rules/Actions/Attack.md",
+    "D&D 5e 2024 Rules/Rules/Common Terms/Carrying Capacity.md",
+    "D&D 5e 2024 Rules/Rules/Actions/Utilize.md",
+    "D&D 5e 2024 Rules/Rules/Environmental Effects/Deep Water.md",
     "PHB/Chapter 3, Adventuring.md",
-    "PHB/Chapter 2, Dice, Ability Scores, and Proficiency.md",
-    "PHB/Chapter 9, Equipment.md",
-    "PHB/Chapter 5, Creating a Character.md",
-    "The Planescape/Magic and Spellcasting.md",
-    "PHB/Classes.md",
-    "Glossary.md",
-    "PHB/Chapter 1, Introduction to Mordschlag.md",
-    "PHB/Chapter 8, Magic.md",
-    "Equipment.md",
-    "Character Races.md",
+    "D&D 5e 2024 Rules/Rules/Environmental Effects/Extreme Cold.md",
+    "D&D 5e 2024 Rules/Rules/Hazards/Malnutrition.md",
+    "D&D 5e 2024 Rules/Rules/Hazards/Suffocation.md",
+    "D&D 5e 2024 Rules/Rules/Miscellaneous/Underwater Combat.md",
+    "D&D 5e 2024 Rules/Rules/Miscellaneous/Multiclassing.md",
+    "D&D 5e 2024 Rules/Rules/Miscellaneous/Mounted Combat.md",
+    "D&D 5e 2024 Rules/Rules/Miscellaneous/Fear and Mental Stress.md",
+    "D&D 5e 2024 Rules/Rules/Conditions/Exhaustion.md",
+    "D&D 5e 2024 Rules/Rules/Hazards/Falling.md",
+    "D&D 5e 2024 Rules/Rules/Hazards/Burning.md",
+    "D&D 5e 2024 Rules/Rules/Hazards/Dehydration.md",
+    "PHB/Chapter 4, Combat.md",
+    "D&D 5e 2024 Rules/Rules/Common Terms/Grappling.md",
+    "PHB/Chapter 10, The Planescape.md",
     "Pasted image 20260617173522.png",
-    "PHB notes.md",
     "PHB",
-    "D&D 5e 2024 Rules/Spellblade.md",
-    "Testing Classes.md",
-    "Class Depot/Warlord.md",
-    "Monsters/Unaligned Mortals.md",
-    "Monsters/The Sym.md",
     "The Planescape",
     "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Tutorial Images/Obsidian Logo to Color PIck From.png",
     "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Tutorial Images/Nax's Font and Zoom Example.png",

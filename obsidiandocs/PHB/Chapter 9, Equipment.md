@@ -26,50 +26,50 @@ The Weapons table in this section shows the game’s main weapons. The table lis
 
 **Properties.** Any properties a weapon has are listed in the Properties column. Each property is defined in the “Properties” section.
 
-| Name                     | Damage          | Properties                                                  | Weight  | Cost   |
-| ------------------------ | --------------- | ----------------------------------------------------------- | ------- | ------ |
-| _Simple Melee Weapons_   |                 |                                                             |         |        |
-| Club                     | 1d4 Bludgeoning | Light                                                       | 2 lb.   | 1 SP   |
-| Dagger                   | 1d4 Piercing    | Finesse, Light, Thrown (Range 20/60)                        | 1 lb.   | 2 GP   |
-| Greatclub                | 1d8 Bludgeoning | Two-Handed                                                  | 10 lb.  | 2 SP   |
-| Handaxe                  | 1d6 Slashing    | Light, Thrown (Range 20/60)                                 | 2 lb.   | 5 GP   |
-| Javelin                  | 1d6 Piercing    | Thrown (Range 30/120)                                       | 2 lb.   | 5 SP   |
-| Light Hammer             | 1d4 Bludgeoning | Light, Thrown (Range 20/60)                                 | 2 lb.   | 2 GP   |
-| Mace                     | 1d6 Bludgeoning | —                                                           | 4 lb.   | 5 GP   |
-| Quarterstaff             | 1d6 Bludgeoning | Versatile (1d8)                                             | 4 lb.   | 2 SP   |
-| Sickle                   | 1d4 Slashing    | Light                                                       | 2 lb.   | 1 GP   |
-| Spear                    | 1d6 Piercing    | Thrown (Range 20/60), Versatile (1d8)                       | 3 lb.   | 1 GP   |
-| _Simple Ranged Weapons_  |                 |                                                             |         |        |
-| Dart                     | 1d4 Piercing    | Finesse, Thrown (Range 20/60)                               | 1/4 lb. | 5 CP   |
-| Light Crossbow           | 1d8 Piercing    | Ammunition (Range 80/320; Bolt), Two-Handed, Hunker         | 5 lb.   | 25 GP  |
-| Shortbow                 | 1d6 Piercing    | Ammunition (Range 80/320; Arrow), Two-Handed                | 2 lb.   | 25 GP  |
-| Sling                    | 1d4 Bludgeoning | Ammunition (Range 30/120; Bullet)                           | —       | 1 SP   |
-| Musket                   | 3d6 Piercing    | Ammunition (Range 40/120; Shot), Matchlock, Two-Handed      | 10 lb.  | 200 GP |
-| Pistol                   | 3d4 Piercing    | Ammunition (Range 30/90; Shot), Matchlock                   | 3 lb.   | 80 GP  |
-| _Martial Melee Weapons_  |                 |                                                             |         |        |
-| Battleaxe                | 1d8 Slashing    | Versatile (1d10)                                            | 4 lb.   | 10 GP  |
-| Flail                    | 1d8 Bludgeoning | —                                                           | 2 lb.   | 10 GP  |
-| Glaive                   | 1d10 Slashing   | Heavy, Reach, Two-Handed                                    | 6 lb.   | 20 GP  |
-| Greataxe                 | 1d12 Slashing   | Heavy, Two-Handed                                           | 7 lb.   | 30 GP  |
-| Greatsword               | 2d6 Slashing    | Heavy, Two-Handed                                           | 6 lb.   | 50 GP  |
-| Halberd                  | 1d10 Slashing   | Heavy, Reach, Two-Handed                                    | 6 lb.   | 20 GP  |
-| Lance                    | 1d10 Piercing   | Heavy, Reach, Two-Handed (unless mounted)                   | 6 lb.   | 10 GP  |
-| Longsword                | 1d8 Slashing    | Versatile (1d10)                                            | 3 lb.   | 15 GP  |
-| Maul                     | 2d6 Bludgeoning | Heavy, Two-Handed                                           | 10 lb.  | 10 GP  |
-| Morningstar              | 1d8 Piercing    | —                                                           | 4 lb.   | 15 GP  |
-| Pike                     | 1d10 Piercing   | Heavy, Reach, Two-Handed                                    | 18 lb.  | 5 GP   |
-| Rapier                   | 1d8 Piercing    | Finesse                                                     | 2 lb.   | 25 GP  |
-| Scimitar                 | 1d6 Slashing    | Finesse, Light                                              | 3 lb.   | 25 GP  |
-| Shortsword               | 1d6 Piercing    | Finesse, Light                                              | 2 lb.   | 10 GP  |
-| Trident                  | 1d8 Piercing    | Thrown (Range 20/60), Versatile (1d10)                      | 4 lb.   | 5 GP   |
-| Warhammer                | 1d8 Bludgeoning | Versatile (1d10)                                            | 5 lb.   | 15 GP  |
-| War Pick                 | 1d8 Piercing    | Versatile (1d10)                                            | 2 lb.   | 5 GP   |
-| Whip                     | 1d4 Slashing    | Finesse, Reach                                              | 3 lb.   | 2 GP   |
-| _Martial Ranged Weapons_ |                 |                                                             |         |        |
-| Blowgun                  | 1 Piercing      | Ammunition (Range 25/100; Needle)                           | 1 lb.   | 10 GP  |
-| Hand Crossbow            | 1d6 Piercing    | Ammunition (Range 30/120; Bolt), Light, Hunker              | 3 lb.   | 75 GP  |
-| Crossbow                 | 1d10 Piercing   | Ammunition (Range 100/400; Bolt), Heavy, Two-Handed, Hunker | 18 lb.  | 50 GP  |
-| Longbow                  | 1d8 Piercing    | Ammunition (Range 250/600; Arrow), Heavy, Two-Handed        | 2 lb.   | 50 GP  |
+| Name                     | Damage | Properties                                                  | Weight  | Cost   |
+| ------------------------ | ------ | ----------------------------------------------------------- | ------- | ------ |
+| _Simple Melee Weapons_   |        |                                                             |         |        |
+| Club                     | 1d4    | Light                                                       | 2 lb.   | 1 SP   |
+| Dagger                   | 1d4    | Finesse, Light, Thrown (Range 20/60)                        | 1 lb.   | 2 GP   |
+| Greatclub                | 1d8    | Two-Handed                                                  | 10 lb.  | 2 SP   |
+| Handaxe                  | 1d6    | Light, Thrown (Range 20/60)                                 | 2 lb.   | 5 GP   |
+| Javelin                  | 1d6    | Thrown (Range 30/120)                                       | 2 lb.   | 5 SP   |
+| Light Hammer             | 1d4    | Light, Thrown (Range 20/60)                                 | 2 lb.   | 2 GP   |
+| Mace                     | 1d6    | —                                                           | 4 lb.   | 5 GP   |
+| Quarterstaff             | 1d6    | Versatile (1d8)                                             | 4 lb.   | 2 SP   |
+| Sickle                   | 1d4    | Light                                                       | 2 lb.   | 1 GP   |
+| Spear                    | 1d6    | Thrown (Range 20/60), Versatile (1d8)                       | 3 lb.   | 1 GP   |
+| _Simple Ranged Weapons_  |        |                                                             |         |        |
+| Dart                     | 1d4    | Finesse, Thrown (Range 20/60)                               | 1/4 lb. | 5 CP   |
+| Light Crossbow           | 1d8    | Ammunition (Range 80/320; Bolt), Two-Handed, Hunker         | 5 lb.   | 25 GP  |
+| Shortbow                 | 1d6    | Ammunition (Range 80/320; Arrow), Two-Handed                | 2 lb.   | 25 GP  |
+| Sling                    | 1d4    | Ammunition (Range 30/120; Bullet)                           | —       | 1 SP   |
+| Musket                   | 3d6    | Ammunition (Range 40/120; Shot), Matchlock, Two-Handed      | 10 lb.  | 200 GP |
+| Pistol                   | 3d4    | Ammunition (Range 30/90; Shot), Matchlock                   | 3 lb.   | 80 GP  |
+| _Martial Melee Weapons_  |        |                                                             |         |        |
+| Battleaxe                | 1d8    | Versatile (1d10)                                            | 4 lb.   | 10 GP  |
+| Flail                    | 1d8    | —                                                           | 2 lb.   | 10 GP  |
+| Glaive                   | 1d10   | Heavy, Reach, Two-Handed                                    | 6 lb.   | 20 GP  |
+| Greataxe                 | 1d12   | Heavy, Two-Handed                                           | 7 lb.   | 30 GP  |
+| Greatsword               | 2d6    | Heavy, Two-Handed                                           | 6 lb.   | 50 GP  |
+| Halberd                  | 1d10   | Heavy, Reach, Two-Handed                                    | 6 lb.   | 20 GP  |
+| Lance                    | 1d10   | Heavy, Reach, Two-Handed (unless mounted)                   | 6 lb.   | 10 GP  |
+| Longsword                | 1d8    | Versatile (1d10)                                            | 3 lb.   | 15 GP  |
+| Maul                     | 2d6    | Heavy, Two-Handed                                           | 10 lb.  | 10 GP  |
+| Morningstar              | 1d8    | —                                                           | 4 lb.   | 15 GP  |
+| Pike                     | 1d10   | Heavy, Reach, Two-Handed                                    | 18 lb.  | 5 GP   |
+| Rapier                   | 1d8    | Finesse                                                     | 2 lb.   | 25 GP  |
+| Scimitar                 | 1d6    | Finesse, Light                                              | 3 lb.   | 25 GP  |
+| Shortsword               | 1d6    | Finesse, Light                                              | 2 lb.   | 10 GP  |
+| Trident                  | 1d8    | Thrown (Range 20/60), Versatile (1d10)                      | 4 lb.   | 5 GP   |
+| Warhammer                | 1d8    | Versatile (1d10)                                            | 5 lb.   | 15 GP  |
+| War Pick                 | 1d8    | Versatile (1d10)                                            | 2 lb.   | 5 GP   |
+| Whip                     | 1d4    | Finesse, Reach                                              | 3 lb.   | 2 GP   |
+| _Martial Ranged Weapons_ |        |                                                             |         |        |
+| Blowgun                  | 1      | Ammunition (Range 25/100; Needle)                           | 1 lb.   | 10 GP  |
+| Hand Crossbow            | 1d6    | Ammunition (Range 30/120; Bolt), Light, Hunker              | 3 lb.   | 75 GP  |
+| Crossbow                 | 1d10   | Ammunition (Range 100/400; Bolt), Heavy, Two-Handed, Hunker | 18 lb.  | 50 GP  |
+| Longbow                  | 1d8    | Ammunition (Range 250/600; Arrow), Heavy, Two-Handed        | 2 lb.   | 50 GP  |
 
 ### Weapon Proficiency
 
@@ -190,32 +190,6 @@ On a hit, roll the weapon's damage die and apply any additional modifiers or eff
 Unless a rule states otherwise, melee weapons use your Strength modifier and ranged weapons use your Dexterity modifier.
 
 Some weapons possess the @Finesse property, allowing either Strength or Dexterity to be used.
-
----
-
-## Damage Types
-
-Weapons inflict one of three physical damage types.
-
-### Bludgeoning
-
-Bludgeoning damage is caused by heavy impacts, crushing force, and blunt weapons.
-
-Examples include clubs, maces, hammers, and fists.
-
-### Piercing
-
-Piercing damage is caused by thrusting, puncturing, or impaling attacks.
-
-Examples include spears, arrows, daggers, and rapiers.
-
-### Slashing
-
-Slashing damage is caused by cutting or cleaving attacks.
-
-Examples include swords, axes, and scimitars.
-
-Some creatures have resistances, vulnerabilities, or immunities to specific damage types.
 
 ---
 
@@ -563,7 +537,7 @@ These tools support adventure and other pursuits.
 
 When you take the **Attack** action, you can replace one of your attacks with throwing a vial of Acid.
 
-Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Phys DC Dexterity saving throw or take **2d8 Acid damage**.
+Target one creature or object you can see within 20 feet of yourself. The target must succeed on a Phys DC Dexterity saving throw or take **2d6 Acid damage**.
 
 # Alchemist's Fire (50 GP)
 
@@ -799,7 +773,7 @@ A Diplomat's Pack contains:
 - Perfume
     
 - Tinderbox
-    
+
 
 # Druidic Focus (Varies)
 
@@ -896,11 +870,9 @@ The hook catches if you succeed on a **DC 13 Dexterity (Acrobatics)** check.
 
 If you tied a Rope to the hook, you can then climb it.
 
-# Healer's Kit (5 GP)
+# Healer's Kit (5 SP)
 
-A Healer's Kit has **10 uses**.
-
-As a **Utilize** action, you can expend one use to stabilize an Unconscious creature that has 0 Hit Points without making a Wisdom (Medicine) check.
+As 2 actions, expend the and make a DC 10 Wisdom (Medicine) check on a creature within 5 feet. On a success, the target regains **1d4 + your Medicine skill bonus** hit points. If you begin your turn adjacent to that creature, haven't taken damage or moved more than 5 feet since your last turn, and have used your actions only to tend it, you can expend another use and 2 actions to continue care: the check automatically succeeds, healing the same amount. 
 
 # Holy Symbol (Varies)
 
@@ -968,7 +940,7 @@ A Lamp burns Oil as fuel and casts:
 - **Bright Light:** 15-foot radius
     
 - **Dim Light:** Additional 30 feet
-    
+
 
 # Lantern, Bullseye (10 GP)
 
@@ -977,7 +949,7 @@ A Bullseye Lantern burns Oil as fuel and casts:
 - **Bright Light:** 60-foot cone
     
 - **Dim Light:** Additional 60 feet
-    
+
 
 # Lantern, Hooded (5 GP)
 
@@ -986,7 +958,6 @@ A Hooded Lantern burns Oil as fuel and casts:
 - **Bright Light:** 30-foot radius
     
 - **Dim Light:** Additional 30 feet
-    
 
 As an Action, you can lower the hood to reduce the light to Dim Light in a 5-foot radius, or raise it again.
 
@@ -1060,7 +1031,7 @@ The Net can also be destroyed:
 - **HP:** 5
     
 - **Immunities:** Bludgeoning, Poison, and Psychic damage
-    
+
 
 Destroying the Net frees the target and ends the effect.
 
@@ -1242,8 +1213,7 @@ If the spell requires a saving throw or an attack roll:
 
 - **Spell Save DC:** 13
     
-- **Spell Attack Bonus:** +5
-    
+	- **Spell Attack Bonus:** +5
 
 The scroll disintegrates when the casting is completed.
 
@@ -1430,7 +1400,6 @@ For each **1 Hit Point** repaired:
 - **Time:** 1 day
     
 - **Cost:** 20 GP
-    
 
 If repairs are made where supplies and skilled labor are abundant (such as a city shipyard), both the time and cost are halved.
 
@@ -1463,7 +1432,6 @@ They cover:
 - Equipment maintenance
     
 - Other necessities
-    
 
 At the start of each week or month (DM's choice), choose a lifestyle and pay the price to sustain it.
 
@@ -1551,7 +1519,7 @@ Skilled hirelings include anyone hired to perform a service that involves a prof
 - Scribes
     
 - Other trained workers
-    
+
 
 The listed pay is a minimum; experts may demand higher rates.
 

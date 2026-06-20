@@ -210,8 +210,6 @@ The amount of actions requires depends on the complexity of what you are trying 
 
 ---
 
----
-
 # Travel
 
 Adventurers often spend days or weeks journeying between destinations.
@@ -270,31 +268,6 @@ Visibility may also be affected by:
 - Dense vegetation
     
 - Magical effects
-
-
----
-
-# Environmental Hazards
-
-The world contains dangers beyond monsters and enemies.
-
-Examples include:
-
-- Extreme heat
-    
-- Extreme cold
-    
-- Deep water
-    
-- Falling
-    
-- Suffocation
-    
-- Disease
-    
-- Poison
-
-The Dungeon Master determines the effects of these hazards and may call for ability checks or saving throws to avoid them.
 
 ---
 

@@ -149,7 +149,7 @@ If the result equals or exceeds the target's Armor Class, the attack hits.
 ---
 
 
-# Magic Action
+# @Magic Action
 
 Cost: Varies
 
@@ -176,7 +176,7 @@ Rules for @spellcasting are explained in Chapter 8.
 
 Cost: 1 Action
 
-When you take the Dash action, your Speed increases by 15 feet until the end of the turn.
+When you take the Dash action, your Speed increases by 15 feet until the start of your next turn.
 
 ---
 
