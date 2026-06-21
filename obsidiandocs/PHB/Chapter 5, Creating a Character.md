@@ -73,13 +73,13 @@ Your character's personality is also important at this step, what led to them be
 | Sul           | Eastern Orcs, Giants, and Goliaths |
 | Pache         | Western Humans                     |
 | Deem          | Eastern Humans                     |
-| Aquan         | Northern Aquatic mortals           |
+| Aquan         | Northern aquatic mortals           |
 | **Scholarly** | **Scholarly and Rare**             |
-| Celestial     | Angles and heavenly beings         |
+| Celestial     | Angles                             |
 | Abyssal       | Demons                             |
 | Malefic       | Maels                              |
 | Infernal      | Devils                             |
-|               |                                    |
+| Ancient       | Elementals                         |
 | Old Elvish    | Scholars                           |
 
  - **Choose four experiences which align with your character's background.**
@@ -175,21 +175,21 @@ Support
 - Cleric - Spellcaster
 - Druid - Spellcaster
 Defender
- - Paladin - Mystic
- - Hexblood - Martial
- - Barbarian - Martial
+- Paladin - Mystic
+- Hexblood - Martial
+- Barbarian - Martial
  Striker
-  - Ranger - Martial
-  - Rogue - Martial
-  - Scoundrel - Martial
-  - Spellblade - Mystic
+- Ranger - Martial
+- Rogue - Martial
+- Fighter - Martial
+- Vigilante - Martial
 Specialist
- - Wizard - Spellcaster
- - Warlock - Spellcaster
- - Fighter - Martial
- - Warlord - Martial
+- Spellblade - Mystic
+- Wizard - Spellcaster
+- Warlock - Spellcaster
+- Warlord - Martial
 
-These roles are just to explain roughly what your class will feel like while playing it. It is very easy to build a defense orientated Fighter or Spellblade, and a Wizard can deal just as much damage as a Rogue if they pick damage focused spells.
+These roles are just to explain roughly what your class will feel like while playing it. It is very easy to build a defense orientated Fighter or Spellblade, and a Wizard or Cleric can deal just as much damage as a Rogue if they pick damage focused spells and subclasses.
 
 # Fighting Styles
 
@@ -224,7 +224,7 @@ When you gain a level, increase your maximum Hit Points by the listed amount.
 | Hunter +2     No requirement                                | When you finish a long rest, you can cast the Find Familiar spell without the use of a spell slot or Material components.                                         | Distracting Strike \| Tags: [Combat] [Physical] [FTR] [RGR] [ROG] [SCN] [WLD] When you hit a creature with an attack, you can activate this feat. The next attack roll against that creature made by an attacker other than you has advantage if the attack is made before the start of your next turn.                                                                                                                                                                                                               |
 | Skirmisher +2   Weapon with the Finesse or Ranged property  | If you start your turn with no enemies within 5 feet, add a d4 to all damage rolls you make against enemies within 30 ft until the end of your turn.              | Blinding Strike \| Tags: [Combat] [Physical] When you hit a creature with a weapon attack, you can activate this feat. The target must make a **Physical DC** Strength saving throw. On a failure, it is blinded until the end of your next turn.                                                                                                                                                                                                                                                                     |
 | Polearm +2   Weapon with the Reach property                 | Add a d4 to damage rolls against creatures more than 5ft away from you.                                                                                           | Brace \| Tags: [Combat] [Physical] When a creature you can see moves into the reach you have with a melee weapon you are wielding, you can use your reaction to activate this feat and make one melee weapon attack against that creature.                                                                                                                                                                                                                                                                            |
-| Unarmed +2    Both hands empty or grappling                 | When rolling for damage with unarmed strikes, you deal 2d4 + your Strength modifier, and you add a +1 to all Athletics checks you make when not holding anything. | Grapple \| Tags: [Combat] [Physical] When you hit a creature with a melee weapon attack, you can activate this feat to attempt to grapple a target that is no more than one size larger than you. The target must make a **Physical DC** Strength or Dexterity saving throw (its choice). On a failure, it is grappled by you. The condition ends if you are incapacitated, if you move away from the target, or if the target successfully escapes.                                                                  |
+| Unarmed +2    Both hands empty or grappling                 | Your Unarmed Strikes have the Finesse Property, and you deal an additional 1d8 Physical damage when you hit an enemy with an Unarmed Strike.                      | Repositioning Shove Tags: [Combat] [Physical]  When you hit a creature with a melee weapon attack, you can activate this feat. The target must make a **Physical DC** Strength saving throw. On a failure, you move it up to 10 feet to an unoccupied space you can see. You can then move up to half your speed in any direction. This movement does not provoke opportunity attacks.                                                                                                                                |
 | Two Weapon +2 Wielding a weapon in both hands               | When rolling for damage, you can choose to deal 2d6 instead of your weapon’s damage die.                                                                          | Opportunity Attack \| Tags: [Combat] [Physical] When a hostile creature that you can see moves out of your reach, you can use your reaction to activate this feat and make one melee weapon attack against that creature. This attack occurs immediately before the creature leaves your reach. If the attack hits, you may also choose to reduce the creature's speed by 10 until the end of its turn.                                                                                                               |
 | Brawler +3   Both hands empty or grappling                  | When rolling for damage with unarmed strikes, you deal 1d8 + your Strength modifier, and you add a +1 to all Athletics checks you make when not holding anything. | Hurl \| Tags: [Combat] [Physical] When you have a creature grappled, you can activate this feat as an action. The target must be no more than one size larger than you. The target must make a **Physical DC** Strength saving throw. On a failure, you throw it up to 15 feet to an unoccupied space you can see, it takes physical damage equal to 1d6 + your Strength modifier, and it falls prone. If the thrown creature collides with another creature or a solid surface before landing, both take the damage. |
 | Guardian +3   No requirement                                | When taking the dodge action, another ally within 5ft can take the dodge action as a reaction.                                                                    | Interception \| Tags: [Combat] [Physical] When a creature within 5 feet of you is hit with an attack roll, you can take a Reaction to reduce the damage dealt to the target by PB x 1d6. You must have be holding a melee weapon, shield, or have heavy armor equipped to use this feat.                                                                                                                                                                                                                              |

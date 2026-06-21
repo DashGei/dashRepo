@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHB/Chapter 10, The Planescape.md",
+                "file": "PHB/Rules Glossary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 10, The Planescape"
+              "title": "Rules Glossary"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D&D 5e 2024 Rules/Rules/Common Terms/Critical Hit.md",
+                "file": "PHB/Chapter 6, Martial Classes and Feats.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Critical Hit"
+              "title": "Chapter 6, Martial Classes and Feats"
             }
           }
         ]
@@ -199,9 +199,12 @@
   },
   "active": "7d33fb361f8a640b",
   "lastOpenFiles": [
+    "PHB/Chapter 10, The Planescape.md",
+    "PHB/Chapter 5, Creating a Character.md",
+    "PHB/Chapter 6, Martial Classes and Feats.md",
+    "D&D 5e 2024 Rules/Rules/Common Terms/Critical Hit.md",
     "PHB/Rules Glossary.md",
     "PHB/Chapter 7, Spell Classes and Spellcasting.md",
-    "D&D 5e 2024 Rules/Rules/Common Terms/Critical Hit.md",
     "D&D 5e 2024 Rules/Rules/Senses/Tremorsense.md",
     "D&D 5e 2024 Rules/Rules/Common Terms/Darkness.md",
     "D&D 5e 2024 Rules/Rules/Common Terms/Concentration.md",
@@ -222,9 +225,6 @@
     "D&D 5e 2024 Rules/Rules/Hazards/Falling.md",
     "D&D 5e 2024 Rules/Rules/Hazards/Burning.md",
     "D&D 5e 2024 Rules/Rules/Hazards/Dehydration.md",
-    "PHB/Chapter 4, Combat.md",
-    "D&D 5e 2024 Rules/Rules/Common Terms/Grappling.md",
-    "PHB/Chapter 10, The Planescape.md",
     "Pasted image 20260617173522.png",
     "PHB",
     "The Planescape",

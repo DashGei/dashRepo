@@ -2,28 +2,28 @@
 
 ## Class Features
 
-|Level|Proficiency Bonus|Rage Bonus|Features|
-|---|---|---|---|
-|1st|+2|+1d2|Rage, Unarmored Defense, Fighting Style|
-|2nd|+2|+1d2|Danger Sense, Martial Feats|
-|3rd|+2|+1d2|Primal Path, Primal Knowledge|
-|4th|+2|+1d4|Ability Score Improvement|
-|5th|+2|+1d4|Fatigue Resistance, Rage Action|
-|6th|+3|+1d4|Fast Movement|
-|7th|+3|+1d6|Primal Path Feature|
-|8th|+3|+1d6|Ability Score Improvement|
-|9th|+3|+1d6|Brutal Critical I|
-|10th|+4|+1d8|Insurmountable|
-|11th|+4|+1d8|Relentless Rage|
-|12th|+4|+1d8|Ability Score Improvement|
-|13th|+4|+2d4|Brutal Critical II|
-|14th|+5|+2d4|Primal Path Feature|
-|15th|+5|+2d4|For the Fences|
-|16th|+5|+2d6|Ability Score Improvement|
-|17th|+5|+2d6|Brutal Critical III, Impeccable Guardian|
-|18th|+6|+2d6|Indomitable Might|
-|19th|+6|+2d8|Ability Score Improvement|
-|20th|+6|+2d8|Primal Path Capstone,|
+| Level | Proficiency Bonus | Rage Bonus | Features                                 |
+| ----- | ----------------- | ---------- | ---------------------------------------- |
+| 1st   | +2                | +1d2       | Rage, Unarmored Defense, Fighting Style  |
+| 2nd   | +2                | +1d2       | Danger Sense, Martial Feats              |
+| 3rd   | +2                | +1d2       | Primal Path, Primal Knowledge            |
+| 4th   | +2                | +1d4       | Ability Score Improvement                |
+| 5th   | +2                | +1d4       | Fatigue Resistance, Rage Action          |
+| 6th   | +3                | +1d4       | Fast Movement                            |
+| 7th   | +3                | +1d6       | Primal Path Feature                      |
+| 8th   | +3                | +1d6       | Ability Score Improvement                |
+| 9th   | +3                | +1d6       | Brutal Critical I                        |
+| 10th  | +4                | +1d8       | Insurmountable                           |
+| 11th  | +4                | +1d8       | Relentless Rage                          |
+| 12th  | +4                | +1d8       | Ability Score Improvement                |
+| 13th  | +4                | +2d4       | Brutal Critical II                       |
+| 14th  | +5                | +2d4       | Primal Path Feature                      |
+| 15th  | +5                | +2d4       | For the Fences                           |
+| 16th  | +5                | +2d6       | Ability Score Improvement                |
+| 17th  | +5                | +2d6       | Brutal Critical III, Impeccable Guardian |
+| 18th  | +6                | +2d6       | Indomitable Might                        |
+| 19th  | +6                | +2d8       | Ability Score Improvement                |
+| 20th  | +6                | +2d8       | Primal Path Capstone,                    |
 
 ## Hit Points
 
@@ -1037,99 +1037,129 @@ This feature requires the use of a Feat Slot, when you use this feature, mark on
 
 
 
-# Rogue
+# Vigilante
 
 ## Class Features
 
-|Level|Proficiency Bonus|Features|
-|---|---|---|
-|1st|+2|Fancy Footwork, Exploit Opening, Second Reaction, Fighting Style|
-|2nd|+2|Panache, Martial Feats"/td>|
-|3rd|+2|Scoundrel Archetype|
-|4th|+2|Ability Score Improvement|
-|5th|+2|Extra Attack|
-|6th|+3|Elegant Escape|
-|7th|+3|Archetype Feature|
-|8th|+3|Ability Score Improvement|
-|9th|+3|Taunt|
-|10th|+4|Improved Panache|
-|11th|+4|Duelist's Defiance|
-|12th|+4|Ability Score Improvement|
-|13th|+4|Skill Specialization|
-|14th|+5|Archetype Feature|
-|15th|+5|Scoundrel's Panache|
-|16th|+5|Ability Score Improvement|
-|17th|+5|Evasion|
-|18th|+6|Elusive|
-|19th|+6|Ability Score Improvement|
-|20th|+6|Archetype Capstone, Legendary Panache|
+| Level | Proficiency Bonus | Features                                    |
+| ----- | ----------------- | ------------------------------------------- |
+| 1st   | +2                | Fighting Style, Swift Stride, Combo         |
+| 2nd   | +2                | Unarmored Defense, Martial Feats            |
+| 3rd   | +2                | Vigilante Persona                           |
+| 4th   | +2                | Ability Score Improvement                   |
+| 5th   | +2                | Martial Fatigue Resistance, Daring Flourish |
+| 6th   | +3                | Acrobatic Movement                          |
+| 7th   | +3                | Persona Feature                             |
+| 8th   | +3                | Ability Score Improvement                   |
+| 9th   | +3                | Deflect Harm                                |
+| 10th  | +4                | Dazzling Evasion                            |
+| 11th  | +4                | Combo Flourish                              |
+| 12th  | +4                | Ability Score Improvement                   |
+| 13th  | +4                | Graceful Landing                            |
+| 14th  | +5                | Persona Feature                             |
+| 15th  | +5                | Taunting Flair                              |
+| 16th  | +5                | Ability Score Improvement                   |
+| 17th  | +5                | Perfect Rhythm                              |
+| 18th  | +6                | Unfaltering Ego                             |
+| 19th  | +6                | Ability Score Improvement                   |
+| 20th  | +6                | Persona Capstone                            |
+
+---
 
 ## Hit Points
 
-**Class Health Number:** 5
+- **Hit Points at 1st Level:** `10 + your fighting style health bonus`
+    
+- **Hit Points at Higher Levels:** `5 + your fighting style health bonus per vigilante level after 1st`
+    
 
-**Hit Points at 1st Level:** 10 + your fighting style health bonus
-
-**Hit Points at Higher Levels:** 5 + your fighting style health bonus per scoundrel level after 1st
+---
 
 ## Proficiencies
 
-- **Armor:** Light armor
-- **Weapons:** Simple weapons, rapiers, short swords, scimitars, whips, hand crossbows
-- **Tools:** Choose one type of gaming set or a musical instrument
+- **Armor:** Light armor 
+    
+- **Weapons:** Simple weapons, plus the rapier, short sword, scimitar, and whip
+    
+- **Tools:** None
+    
 - **Saving Throws:** Dexterity, Charisma
-- **Skills:** Choose three from Acrobatics, Athletics, Deception, Insight, Intimidation, Performance, Persuasion, Sleight of Hand, and Stealth
+    
+- **Skills:** Choose three from Acrobatics, Athletics, Deception, Insight, Intimidation, Perception, Performance, Sleight of Hand, and Stealth
 
-## Physical and Mental Modifiers: 1
+---
 
-Some of your abilities will require your Mental or Physical Modifier.
+## Physical and Mental Modifiers
 
-Your Physical Modifier is your Strength or Dexterity Modifier.
+Some of your abilities require your Mental or Physical Modifier.
 
-Your Mental Modifier is your Intelligence, Wisdom, or Charisma Modifier.
+- **Your Physical Modifier** is your Strength or Dexterity Modifier
+    
+- **Your Mental Modifier** is your Intelligence, Wisdom, or Charisma Modifier 
 
-## Fighting Style: 1
+---
 
-You adopt a particular style of fighting as your specialty. Choose one of the following options. Each Fighting style grants you a bonus at level 1, you must be wielding one of your fighting style’s respective item to gain this benefit. At level 7, your fighting style provides you with a Martial Feat, this feat does not count against your Feats known, and it does not require a slot when you use it. You must be wielding one of your fighting style’s respective item to use this feature, but you can use this feat regardless of your class.
+## Fighting Style (Level 1)
 
-- Archery: You gain a +1 health bonus at each level.
-- Dueling: You gain a +2 health bonus at each level.
-- Unarmed: You gain a +2 health bonus at each level.
-- Skirmisher: You gain a +2 health bonus at each level.
-- Thrown Weapon: You gain a +2 health bonus at each level.
-- Two-Weapon Fighting: You gain a +2 health bonus at each level.
+You adopt a particular style of fighting as your specialty. Choose one of the following options. Each Fighting style grants you a health bonus at level 1; you must be wielding one of your fighting style’s respective items to gain this benefit. At level 7, your fighting style provides you with a Martial Feat; this feat does not count against your Feats known, and it does not require a slot when you use it.
+
+- **Dueling:** +2 health per level
+    
+- **Skirmisher:** +2 health per level
+    
+- **Thrown Weapon:** +2 health per level
+    
+- **Unarmed:** +2 health per level
+    
+- **Two-Weapon:** +2 health per level
+    
+- **Sage:** +2 health per level
+    
+- **Brawler:** +3 health per level
+    
+- **Guardian:** +3 health per level
 
 The health bonus is added to your hit point maximum at 1st level and whenever you gain a level in this class.
 
-## Fancy Footwork: 1
+---
 
-Your elegant movement confounds your foes. When you make a melee attack against a creature, you gain the benefits of the disengage action against that creature until the start of your next turn.
 
-## Combo: 1
+## Unarmored Defense (Level 1)
 
-Once per round when you take the attack action, you can roll a number of d4 up to your proficiency bonus. If you don't roll a one on any of the dice, you can make an additional attack action for free for every die you rolled. The damage die for these attacks is always 1d6.
+While you are not wearing any armor, your base Armor Class equals 10 + your Dexterity modifier + your Mental modifier. 
 
-Rolling a 1 on the Combo dice means you automatically miss the attacks you would make.
 
-## Unarmored Combat: 2
+---
 
-Your mental prowess allows you to see blows incoming, or trick foes into missing. 
+## Combo (Level 1)
 
-While you aren't wearing armor or holding a shield your Armor Class is equal to 10 + your Physical Modifier + your Mental Modifier.
+When you take the **Attack action**, you can forgo your normal attacks to initiate a **Combo**.
 
-Additionally, when you aren't wearing armor your speed increases by 10 feet.
+Make a melee attack roll against a creature within your reach. On a hit, you deal **1d4 + your Physical Modifier** damage (regardless of what the attack was made with). If the result of the **1d4 damage die** is not a 1, you can immediately make another attack as part of the same Combo. You can continue this chain until you miss an attack, roll a 1 on a damage die, or have made a number of attacks equal to your **Proficiency Bonus**.
 
-## Martial Feats: 2
+On a critical hit, you roll double the damage dice for that attack (2d4 + modifier), but you still check the **base d4** (or the first die rolled) to determine if the combo continues. If that base die shows a 1, the combo ends.
+
+---
+
+
+## Swift Stride (Level 2)
+
+Your speed increases by 10 feet while you aren't wearing armor.
+
+---
+
+## Martial Feats (Level 2)
 
 You have trained in special techniques that give you an edge in combat and beyond. You gain access to martial feats, as described in the Martial Feats section. You may only use one Feat Slot per turn.
 
-**Primary Slots.** You have 2 Primary Slots, which you expend to activate your feats. You regain all expended slots when you finish a short rest. Your number of Primary Slots increases as you gain levels, as shown in the Feats Progression table.
+- **Primary Slots.** You have 2 Primary Slots, which you expend to activate your feats. You regain all expended slots when you finish a short rest. Your number of Primary Slots increases as you gain levels, as shown in the Feats Progression table.
+    
+- **Feats Known.** You know 2 martial feats of your choice from your feat list. The Feats Known column of the Feats Progression table shows when you learn more feats. Additionally, when you gain a level in this class, you can replace one feat you know with another feat of your choice from your class feat list.
+    
+- **Feat Tier.** You can learn feats of Tier 1 at level 2. At higher levels you gain access to higher tiers, as shown in the table.
 
-**Feats Known.** You know 2 martial feats of your choice from your feat list. The Feats Known column of the Feats Progression table shows when you learn more feats. Additionally, when you gain a level in this class, you can replace one feat you know with another feat of your choice from your class feat list.
 
-**Feat Tier.** You can learn feats of Tier 1 at level 2. At higher levels you gain access to higher tiers, as shown in the table.
-
-**Feats Progression**
+### Feats Progression
 
 |Level|Primary Slots|Feats Known|Feat Tier Available|
 |---|---|---|---|
@@ -1153,68 +1183,93 @@ You have trained in special techniques that give you an edge in combat and beyon
 |19th|7|5|Tier 4|
 |20th|7|6|Tier 4|
 
-## Roguish Archetype: 3
+---
 
-You choose a Roguish Archetype that embodies your particular style of daring. Your archetype grants you features at 3rd level, and then again at 7th, 14th, and 20th level.
+## Vigilante Persona (Level 3)
+
+You adopt a Vigilante Persona that defines how you show off, fight, and survive. Your choice grants you features at 3rd level, and then again at 7th, 14th, and 20th level.
+
+---
 
 ## Ability Score Improvement
 
-At 4th, 8th, 12th, 16th, and 19th level, you can increase an ability score by 1
+At 4th, 8th, 12th, 16th, and 19th level, you can increase an ability score of your choice by 1. You can't increase an ability score above 5 using this feature.
 
-## Martial Fatigue Resistance: 5
+---
 
-Taking the attack action does not inflict you with the fatigued condition.
+## Martial Fatigue Resistance (Level 5)
 
-## Acrobatic Movement: 6
+When taking the Attack action, you do not suffer any penalties from the fatigued condition.
 
-When you aren't wearing armor, you can move along walls and calm liquid surfaces as if they were standard terrain. However if you end your turn on a wall or liquid surface you fall.
+---
 
-You also ignore the negative effects (such as damage, required checks/saving throws, or difficult terrain) of these surfaces as long as you do not end your turn on them with 0 movement left or with no movement spent for the round (you stood still).
+## Daring Flourish (Level 5)
 
-Hot surfaces like burning coals or even lava.
+Your confidence surges when a combo goes your way. If you hit one creature with **all attacks** in your Combo, that creature becomes stunned until the end of their next turn.
 
-Sharp surfaces like broken glass or caltrops.
+---
 
-Acid Surfaces.
+## Acrobatic Movement (Level 6)
 
-Thin surfaces like tightropes.
+Your dazzling movement reaches new heights. When you aren't wearing armor, you can move along walls and calm liquid surfaces as if they were standard terrain. However, if you end your turn on a wall or liquid surface, you fall.
 
-## Improved Exploit: 9
+You also ignore the negative effects (such as damage, required checks/saving throws, or difficult terrain) of these surfaces as long as you do not end your turn on them with 0 movement left or with no movement spent for the round (you stood still):
 
-You are difficult to pin down. When making strength or dexterity saving throws, you can choose to use your charisma modifier instead.
+- Hot surfaces like burning coals or lava.
+    
+- Sharp surfaces like broken glass or caltrops.
+    
+- Acid surfaces.
+    
+- Thin surfaces like tightropes.
 
-## Improved Panache: 10
+---
 
-Your Panache can now affect multiple creatures at once. When you use Panache, you can choose any number of creatures within 30 feet. Make a single Charisma ability check contested by the highest Wisdom (Insight) check among your targets. Any creature whose Insight check is lower than your Charisma check is affected as normal.
+## Deflect Attacks (Level 9)
 
-## Wealth of Experience: 11
+When an attack roll hits you and its damage includes Physical damage, you can take a Reaction to reduce the attack’s total damage against you. The reduction equals 1d10 plus your Dexterity modifier and Monk level.
 
-As an action, choose an object that you can see within 30 feet of you. You learn its properties and how to use them, whether it requires attunement to use, and how many charges it has, if any. You learn whether any spells are affecting the item and what they are. If the item was created by a spell, you learn which spell created it. You also immediately know the identity of any organization that lead to the creation of the object if any mortal in the universe shares this knowledge.
+If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of the attack’s force. If you do so, choose a creature you can see within 5 feet of yourself if the attack was a melee attack or a creature you can see within 60 feet of yourself that isn’t behind Total Cover if the attack was a ranged attack. That creature must succeed on a Phys DC Dexterity saving throw or take Physical damage equal to two rolls of your Martial Arts die plus your Physical modifier. 
 
-Once you use this feature, may not do so again until you finish a long rest.
+---
 
-## Improved Exploit: 13
+## Dazzling Evasion (Level 10)
 
-Your Exploit Opening damage die increases to a d6 and Exploit Opening may be applied twice until a creature becomes immune.
+When a creature misses you with a melee attack, you can use your reaction to move up to 10 feet without provoking reactions and impose disadvantage on that creature's next attack roll.
 
-## Scoundrel's Panache: 15
+---
 
-Your flair extends beyond combat. You gain the following benefits:
+## Combo Flourish (Level 11)
 
-- You can add your Charisma modifier to your initiative rolls.
-- You have advantage on Charisma ability checks made in social situations.
 
-## Extra Fancy Footwork: 17
+**Fluid Rhythm (Level 11)**  
+When you roll a **1** on a Combo damage die, you can choose to **re-roll that die** once. You must use the new result. You can use this feature a number of times equal to your **Mental Modifier** (minimum 1) per long rest.
 
-Your speed increases to 40 feet, you gain a climbing and swimming speed equal to your walking speed.
+---
 
-## Irresistible: 18
+## Graceful Landing (Level 13)
 
-As long as a creature has made a check against your Panache, successful or not, you may apply Exploit Opening.
+You have advantage on saving throws against being knocked prone. Additionally, when you fall, you can use your reaction to reduce any falling damage by an amount equal to five times your Vigilante level.
 
-## Archetype Capstone: 20
+---
 
-At 20th level, you gain the ultimate expression of your chosen archetype, as detailed in your scoundrel Archetype description.
+## Deflect Energy (Level 15)
+
+You can now use Deflect Attacks against any damage type, not just Physical.
+
+---
+
+## Perfect Rhythm (Level 17)
+
+Your mastery is absolute. When you roll a **1** on a Combo damage die, you can instead treat it as a **2**. This effectively removes the _damage-roll_ failure condition from your Combo. Your combo still ends if you miss.
+
+---
+
+## Unfaltering Ego (Level 18)
+
+You have advantage on saving throws against being charmed or frightened. Additionally, if you fail a saving throw, you can use your reaction to reroll it with advantage. You must use the new result.
+
+---
 
 
 
