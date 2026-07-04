@@ -1,3 +1,11 @@
+To keep the game running as smooth as possible, it is important to delegate which parts of the game are kept track of by which players, and who is responsible for knowing certain rules.
+
+ - If your class has spellcasting or martial feats, it is your job to know 
+
+
+
+
+
 **Sometimes** a session might have or call for an extended period of time between social or combat encounters during this period characters have time to explore the world, for connections, and work on their equipment.
 
 This chapter also covers the powers and mechanics the entire party gain access to at certain levels once they become fully fledged adventurers.
@@ -49,7 +57,7 @@ A character who has proficiency with the **Herbalism Kit** can create a **Potion
 
 Doing so requires:
 
-- An Herbalism Kit
+- A Herbalism Kit
 - **25 GP** of raw materials
 - **1 day** (8 hours of work)
 
@@ -97,9 +105,9 @@ If the scribed spell is a cantrip, the version on the scroll works as if the cas
 | 9th         | 120 days | 50,000 GP |
 
 
-## Level 4, Mentorship
+# Level 4, Mentorship
 
-When the party reaches level 4 , they are able to share with each other their skills and knowledge. During a long rest a party member (The Mentor) can impart a portion of their learned skills to another party member (The Student).
+When the party reaches level 4, they are able to share with each other their skills and knowledge. During a long rest a party member (The Mentor) can impart a portion of their learned skills to another party member (The Student).
 
 ### Mentorship Process
 
@@ -107,7 +115,7 @@ When the party reaches level 4 , they are able to share with each other their sk
     
 2. **Teaching.** The Mentor selects one proficiency or minor ability they possess, from the list below, to impart. The Student must lack that proficiency or ability.
     
-3. **Rest Completion.** At the end of the long rest, the Student makes an ability check using the Mentoring ability.
+3. **Rest Completion.** At the end of the long rest, the Student makes an ability check using the Mentoring ability, the DC is lowered by the Mentor's Intelligence Modifier.
     
     - **Success:** The Student gains the taught feature immediately. See below the table for what each lesson gives you.
         
@@ -117,17 +125,17 @@ When the party reaches level 4 , they are able to share with each other their sk
 
 | Category               | Examples                                      | Mentoring Ability                               | Mentoring DC |
 | ---------------------- | --------------------------------------------- | ----------------------------------------------- | ------------ |
-| **Language**           | One language the Mentor speaks                | Intelligence                                    | 21           |
+| **Language**           | One language the Mentor speaks and writes in. | Intelligence                                    | 21           |
 | **Tool Proficiency**   | One tool kit, vehicle, or gaming set          | Dexterity or Intelligence (appropriate to tool) | 18           |
 | **Skill Proficiency**  | One skill the Mentor is proficient in         | The skill’s associated ability                  | 20           |
 | **Cantrip**            | One cantrip the Mentor knows                  | The Mentor’s Mental Modifier                    | 21           |
 | **Weapon Proficiency** | One weapon the Mentor is proficient in        | Dexterity or Strength                           | 18           |
 | **Martial Feat**       | One Martial Feat from the Mentor's class list | The Mentor’s Intelligence or Wisdom Modifier    | 20           |
-**Language**: The student adds the language to their languages known.
+**Language**: The student adds the language to their languages known, or learns to write in that language if they already knew how to speak it.
 
 **Tool**: The student has proficiency in the tool.
 
-**Skill**: The student has proficiency in that skill.
+**Skill**: The student has half proficiency in that skill, adding half of their proficiency bonus to checks made with that skill.
 
 **Cantrip**: That student learns the cantrip, using their Mental Modifier for attack rolls and spell save DC.
 
@@ -146,7 +154,7 @@ When the party reaches level 4 , they are able to share with each other their sk
 - You cannot teach a feature that is granted by a class, feature, or background that you only have access to temporarily (e.g., from a spell effect or ranger aspect).
 
 
-## Level 6, Divine Favor
+# Level 6, Divine Favor
 
 **For many in the world of Gaia**, Religion plays a communal and utilitarian role in one's life. Rarely will individuals devote themselves to singular gods, or swear all of them off outright.
 
@@ -174,13 +182,13 @@ A party’s standing with a deity ranges from -5 to +10.
 | ----------- | ---------- | ----------- |
 | -5          | Disfavored | Greater Woe |
 | -4 to -3    | Displeased | Minor Woe   |
-| 0           | Neutral    | ---         |
-| 1 - 2       | Noticed    | ---         |
+| 0           | Neutral    | -           |
+| 1 - 2       | Noticed    | -           |
 | 3 - 5       | Favored    | Minor Boon  |
 | 6 - 9       | Honored    | Boon        |
 | 10          | Champion   | Major Boon  |
 
-Favor Points adjust at the end of a session at the DM’s discretion. The party cannot lose or gain more than 5 FP per session with a given god through direct offense, and minor slights may not change the score at all.
+Favor Points adjust at the end of a long rest or session at the DM’s discretion. The party cannot lose or gain more than 5 FP per session with a given god through direct offense, and minor slights may not change the score at all.
 
 
 The party can hold a maximum of 30 Favor Points invested across a maximum of 5  deities at any time. Negative Favor Points do not add to this total, and the party can have a maximum of 10 total negative Favor Points invested. If the party would gain FP that would push their total above 30, those points are lost.
@@ -191,7 +199,7 @@ Every deity has a **Worship Method** that dictates how the party gains Favor. 
 
 | Method         | Description                                                                                                                                                                                                             |
 | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Devotion**   | The god grows stronger through worship. FP is earned by spreading the faith, building shrines, converting NPCs, or leading communal prayers.                                                                            |
+| **Devotion**   | The god grows stronger through worship. FP is earned by spreading the faith, building shrines, converting otherss, or leading communal prayers.                                                                         |
 | **Discipline** | The god values the practice of a craft, skill, or way of life. FP is earned by engaging in the associated discipline. Creating art, mastering a trade, or upholding a code may be the best way to earn this gods favor. |
 | **Ideals**     | The god cares that their ideals are enacted. FP is earned by championing those ideals, defeating opposing forces, or shifting a community’s values.                                                                     |
 
@@ -199,8 +207,10 @@ Every deity has a **Worship Method** that dictates how the party gains Favor. 
 
 Boons are occasional minor bonuses that the party may obtain by maintaining good relationships with gods. Each god has their own set of boons, some may give players resources to spend during the day, some may only activate when the DM chooses.
 
+Some Boons and Woes require the tracking of the Velthraen Calendar. Also if a Boon or Woe effects one party member a day or week, it only happens the time that party member triggers it, ignoring subsequent triggers by other party members until the Boon or Woe refreshes.
 
-
+| Lucae | Prydei | Bahaphay | Hephdach | Frejdag | Sulsdak | Same'ih |
+| ----- | ------ | -------- | -------- | ------- | ------- | ------- |
 
 
 # Marching Order

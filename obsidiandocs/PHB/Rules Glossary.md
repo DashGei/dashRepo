@@ -44,17 +44,11 @@ Ability Modifiers are added to many rolls, including Ability Checks, Attack Roll
 
 # Action
 
-An Action is a significant task a creature performs during its turn.
+Most activities in and out of combat require actions. A creature has two actions to use on their turn, and regains these actions when their next turn starts. 
 
-Most creatures can take two Actions on each of their turns. The Actions available to a creature are described throughout this book and by its features.
+Actions have different costs, for example the attack action costs one action, and so does the dash action, so you can dash and attack to use all of your actions in one turn.
 
-Combat Actions: Attack, Dodge, Dash, Magic
-
-Adventuring Actions: Influence, Utilize
-
-Common Actions include the Attack Action, Dash Action, Dodge Action, and Magic Action.
-
-Some features, spells, and abilities allow creatures to perform special Actions.
+If an action requires you to use more than the two actions you get on your turn, such as some spell casting or firearms, the cost is spread throughout multiple turns. If an action costs 3 total actions, you use two actions on one turn, and then must use one action on your next turn to complete the action.
 
 ---
 
@@ -63,33 +57,23 @@ Some features, spells, and abilities allow creatures to perform special Actions.
 
 An Ally is a creature that is friendly toward you and is generally working toward the same goals.
 
-Many features and abilities affect allies.
-
 The Dungeon Master determines whether a creature counts as an ally in situations where it is unclear.
 
 ---
 
-# Area of Effect
 
-Some features, spells, and abilities affect an area rather than a single target.
-
-An Area of Effect has a defined shape and size that determines which creatures, objects, and spaces are affected.
-
-Common Area of Effect shapes include Cones, Cubes, Cylinders, Emanations, Lines, and Spheres.
-
-An area of effect has a point of origin, a location from which the effect’s energy erupts. The rules for each shape specify how to position its point of origin. If all straight lines extending from the point of origin to a location in the area of effect are blocked, that location isn’t included in the area of effect. To block a line, an obstruction must provide @Total Cover.
-
-If the creator of an area of effect places it at an unseen point and an obstruction—such as a wall—is between the creator and that point, the point of origin comes into being on the near side of the obstruction.
-
----
 
 # Armor Class
 
-Armor Class (AC) measures how difficult a creature is to hit with an attack.
+A creature’s Armor Class represents how well the creature avoids being wounded in combat. The AC of a character is determined at character creation (see [chapter 2](https://www.dndbeyond.com/sources/dnd/phb-2024/creating-a-character)), whereas the AC of a monster appears in its stat block.
 
-When a creature makes an Attack Roll, the roll must equal or exceed the target's Armor Class to hit.
+**_Calculating AC._** All creatures start with the same base AC calculation:
 
-Your base Armor Class is 10 plus your Dexterity Modifier
+**Base AC** = 10 + the creature’s Dexterity modifier
+
+A creature’s AC can then be modified by armor, magic items, spells, and more.
+
+**_Only One Base AC._** Some spells and class features give characters a different way to calculate their AC. A character with multiple features that give different ways to calculate AC must choose which one to use; only one base calculation can be in effect for a creature.
 
 ---
 
@@ -200,18 +184,6 @@ Casting a Cantrip requires the Magic Action and costs one Action to cast on your
 
 ---
 
-# Challenge Rating
-
-Challenge Rating (CR) is a measure of a monster's relative power.
-
-The Dungeon Master uses Challenge Rating as a guideline when building encounters and assessing difficulty.
-
-Challenge Rating does not guarantee a particular encounter will be easy or difficult.
-
-Terrain, tactics, resources, and circumstances can significantly affect encounter difficulty.
-
----
-
 # Character Sheet
 
 A Character Sheet contains the game statistics, features, equipment, and other information that define a player character.
@@ -311,16 +283,6 @@ If the creature returns to life, the revival effect determines the creature’s 
 
 ---
 
-# Difficult Terrain
-
-Difficult Terrain slows movement.
-
-Each foot of movement through Difficult Terrain costs 1 additional foot of movement.
-
-Multiple sources of Difficult Terrain do not stack unless a rule specifically states otherwise.
-
----
-
 # Difficulty Class
 
 A Difficulty Class (DC) is the target number a creature must meet or exceed to succeed on an @Ability Check or @Saving Throw.
@@ -391,7 +353,7 @@ A creature that falls into water or another liquid can use its Reaction to make 
 
 # Malnutrition [Hazard]
 
-A creature needs an amount of food per day based on its size, as shown in the Food Needs per Day table. A creature that eats but consumes less than half the required food for a day must succeed on a DC 10 Strength saving throw or gain 1 [[Exhaustion]] level at the day’s end. A creature that eats nothing for 5 days automatically gains 1 Exhaustion level at the end of the fifth day as well as an additional level at the end of each subsequent day without food.
+A creature needs an amount of food per day based on its size, as shown in the Food Needs per Day table. A creature that eats but consumes less than half the required food for a day must succeed on a DC 10 Strength saving throw or gain 2 Exhaustion levels at the day’s end. A creature that eats nothing for 5 days automatically gains 3 Exhaustion levels at the end of the fifth day as well as an additional level at the end of each subsequent day without food.
 
 Exhaustion caused by malnutrition can’t be removed until the creature eats the full amount of food required for a day.
 ###### Food Needs per Day
@@ -429,7 +391,7 @@ If you have Immunity to a damage type or a condition, it doesn’t affect you in
 
 # Improvised Weapons
 
-An improvised weapon is an object wielded as a makeshift weapon, such as broken glass, a table leg, or a frying pan. A Simple or Martial weapon also counts as an improvised weapon if it’s wielded in a way contrary to its design; if you use a Ranged weapon to make a melee attack or throw a Melee weapon that lacks the [Thrown](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Thrown) property, the weapon counts as an improvised weapon. An improvised weapon follows the rules below.
+An improvised weapon is an object wielded as a makeshift weapon, such as broken glass, a table leg, or a frying pan. A Simple or Martial weapon also counts as an improvised weapon if it’s wielded in a way contrary to its design; if you use a Ranged weapon to make a melee attack or throw a Melee weapon that lacks the Thrown property, the weapon counts as an improvised weapon. An improvised weapon follows the rules below.
 
 **_Proficiency._** Don’t add your Proficiency Bonus to attack rolls with an improvised weapon.
 
@@ -513,7 +475,7 @@ A creature has a reach of 5 feet unless a rule says otherwise.
 
 # Reaction
 
-A Reaction is a special action taken in response to a trigger defined in the Reaction’s description. You can take a Reaction on another creature’s turn, and if you take it on your turn, you can do so even if you also take an Action.. Once you take a Reaction, you can’t take another one until the start of your next turn.
+A Reaction is a special action taken in response to a trigger defined in the Reaction’s description. You can take a Reaction on another creature’s turn, and if you take it on your turn, you can do so even if you also take an Action. Once you take a Reaction, you can’t take another one until the start of your next turn.
 
 ---
 
@@ -744,6 +706,8 @@ When you take the Attack action, you make an attack. Some other actions and Rea
 2. **Determine Modifiers.** The DM helps you determine whether the target has @Cover (later in the chapter) and whether you have @Advantage or @Disadvantage against the target. In addition, spells, special abilities, and other effects can apply penalties or bonuses to your attack roll.
 3. **Resolve the Attack.** Make the attack roll, as detailed later in this chapter. On a hit, you roll damage unless the particular attack has rules that specify otherwise. Some attacks cause special effects in addition to or instead of damage.
 
+Immediately after resolving the Attack action, a player has the fatigued condition until the start of their next turn.
+
 ---
 
 # Dash Action
@@ -766,11 +730,7 @@ Creatures cannot take the Attack action against you with reactions, such as with
 
 Cost: 2 Actions
 
-When you take the Dodge action, until the start of your next turn:
-
-- Attack rolls against you have @Disadvantage.
-    
-- You have @Advantage on Dexterity saving throws.
+When you take the Dodge action, you gain the following benefits: until the start of your next turn, any attack roll made against you has Disadvantage, and you make Dexterity saving throws with Advantage
 
 ---
 
@@ -833,6 +793,8 @@ The number of Actions required depends on the effect being used:
 - Spells cast with a Secondary Slot require 2 Actions.
     
 - Spells cast with a Tertiary Slot require preparation before they can be cast.
+
+Immediately after resolving the Magic action, a player has the fatigued condition until the start of their next turn.
 
 The complete rules for spellcasting are described in the @Magic chapter.
 
@@ -1146,31 +1108,6 @@ Movement may be affected by terrain, conditions, spells, and other effects.
 
 ---
 
-# Reach
-
-Reach is the distance from which a creature can make melee attacks or interact with certain effects.
-
-Most creatures have a Reach of 5 feet.
-
-Some weapons, creatures, and abilities increase Reach.
-
-When determining whether a target is within Reach, measure from the attacker's space to the target's space.
-
----
-
-# Reaction
-
-Certain abilities, spells, and situations allow you to take a special action called a Reaction.
-
-A Reaction is an instant response to a trigger of some kind, which can occur on your turn or on someone else's.
-
-When you take a Reaction, you can't take another one until the start of your next turn.
-
-If a Reaction interrupts another creature's turn, that creature continues its turn immediately after the Reaction resolves.
-
-Unless a rule states otherwise, a Reaction occurs immediately after its trigger.
-
----
 
 # Vulnerability
 
@@ -1266,6 +1203,20 @@ When a creature starts its turn with 8 levels of Exhaustion is has the Unconscio
 When a creature reaches 10 levels of Exhaustion, it dies.
 
 Unless a rule states otherwise, a @Short Rest or @Long Rest removes 2 levels of Exhaustion.
+
+---
+
+# Fatigued
+
+A creature with the Fatigued condition suffers the following effects:
+
+**Attack Rolls Effected**. You do not add ability modifiers or extra dice to attack rolls.
+
+**DCs Effected**. You do not add ability modifiers when calculating saving throw DCs.
+
+**Damage Rolls Effected**. You do not add ability modifiers or extra dice to damage rolls.
+
+The Fatigued condition is always removed when a creature starts their turn.
 
 ---
 
@@ -1876,13 +1827,9 @@ Some spells gain no additional benefits from being upcast. In such cases, the sp
 
 A Martial Feat is a special technique that can be learned by martial classes and activated during play.
 
-Martial Feats represent practiced combat maneuvers, leadership techniques, athletic prowess, social expertise, and other extraordinary abilities developed through training rather than spellcasting.
+Unless otherwise stated, activating a Martial Feat requires the expenditure of a @Feat Slot. A creature knows all Feats associated with their class list, but can only prepare a limited number of them to be used at any given moment.
 
-Each Martial Feat includes a description explaining its effects, requirements, and any associated costs.
-
-Unless otherwise stated, activating a Martial Feat requires the expenditure of a @Feat Slot.
-
-You cannot activate more than one Martial Feat on your turn. Martial Feats activated as Reactions on another creature's turn do not count toward this limit.
+You cannot activate more than one Martial Feat on your turn. Martial Feats activated as Reactions do not count toward this limit.
 
 ---
 
@@ -1957,13 +1904,15 @@ A feat's tags have no inherent effect unless another rule refers to them.
 
 # Area of Effect
 
-Many spells, features, and hazards affect an area rather than a single target.
+Some features, spells, and abilities affect an area rather than a single target.
 
-An Area of Effect defines the shape and size of the space affected. Unless an effect states otherwise, the area extends around corners and affects all valid targets within it.
+An Area of Effect has a defined shape and size that determines which creatures, objects, and spaces are affected.
 
-A creature is affected if any part of its space is inside the area.
+Common Area of Effect shapes include Cones, Cubes, Cylinders, Emanations, Lines, and Spheres.
 
-The most common Area of Effect shapes are Cone, Cube, Cylinder, Emanation, Line, and Sphere.
+An area of effect has a point of origin, a location from which the effect’s energy erupts. The rules for each shape specify how to position its point of origin. If all straight lines extending from the point of origin to a location in the area of effect are blocked, that location isn’t included in the area of effect. To block a line, an obstruction must provide @Total Cover.
+
+If the creator of an area of effect places it at an unseen point and an obstruction—such as a wall—is between the creator and that point, the point of origin comes into being on the near side of the obstruction.
 
 ---
 

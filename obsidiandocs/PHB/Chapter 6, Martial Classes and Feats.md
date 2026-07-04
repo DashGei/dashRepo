@@ -1539,6 +1539,7 @@ Feat Slots represent your endurance, training, and ability to perform exceptiona
 When you activate a feat that requires a Feat Slot, you expend one of your available slots. You regain all expended Feat Slots when you finish a Short Rest.
 
 Most martial classes use the following progression:
+Fighters get a few more.
 
 | Level | Primary Slots | Feats Prepared | Feat Tier Available |
 | ----- | ------------- | -------------- | ------------------- |
@@ -1562,8 +1563,6 @@ Most martial classes use the following progression:
 | 19th  | 7             | 5              | Tier 4              |
 | 20th  | 7             | 6              | Tier 4              |
 
-Fighters gain additional Feat Slots beyond this progression.
-
 ---
 
 ## Learning Feats
@@ -1579,7 +1578,7 @@ Each feat belongs to one of four tiers:
 |Tier 3|11th|
 |Tier 4|17th|
 
-When you learn a new feat, you may choose any feat from a tier you have access to.
+When you prepare a new feat, you may choose any feat from a tier you have access to.
 
 Some class features, subclasses, and @Fighting Styles grant additional feats. Unless stated otherwise, these feats do not count against your Feats Prepared.
 
@@ -1611,7 +1610,6 @@ A feat that lists:
 
 means the target makes a Strength saving throw against your Physical DC.
 
-A feat that lists:
 
 **Mental DC Wisdom**
 

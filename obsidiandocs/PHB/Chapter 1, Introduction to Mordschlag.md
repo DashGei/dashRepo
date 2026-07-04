@@ -61,20 +61,6 @@ This flexible action economy encourages meaningful decisions every round.
 
 Positioning, forward thinking, and a careful eye are the ways to survive and thrive in the throws of battle.
 
-### Distinct Class Identity
-
-Every class possesses a unique gameplay engine that defines how it approaches challenges.
-
-A Hexblood maintains their vitality leading to deadly outbursts.
-
-A Paladin gathers Zeal and protects allies by wading into enemies.
-
-A Warlord succeeds by maintaining the push and pull of combat.
-
-A Druid controls the battlefield through their Guardian Aura.
-
-Each class is designed to feel mechanically distinct from every other class with distinct gameplay loops.
-
 ### Martial Feats
 
 Martial characters possess access to powerful combat techniques known as Martial Feats.

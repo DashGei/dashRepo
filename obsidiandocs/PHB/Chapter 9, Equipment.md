@@ -35,7 +35,7 @@ The Weapons table in this section shows the game’s main weapons. The table lis
 | Handaxe                  | 1d6    | Light, Thrown (Range 20/60)                                 | 2 lb.   | 5 GP   |
 | Javelin                  | 1d6    | Thrown (Range 30/120)                                       | 2 lb.   | 5 SP   |
 | Light Hammer             | 1d4    | Light, Thrown (Range 20/60)                                 | 2 lb.   | 2 GP   |
-| Mace                     | 1d6    | —                                                           | 4 lb.   | 5 GP   |
+| Mace                     | 1d6    | -                                                           | 4 lb.   | 5 GP   |
 | Quarterstaff             | 1d6    | Versatile (1d8)                                             | 4 lb.   | 2 SP   |
 | Sickle                   | 1d4    | Light                                                       | 2 lb.   | 1 GP   |
 | Spear                    | 1d6    | Thrown (Range 20/60), Versatile (1d8)                       | 3 lb.   | 1 GP   |
@@ -43,12 +43,12 @@ The Weapons table in this section shows the game’s main weapons. The table lis
 | Dart                     | 1d4    | Finesse, Thrown (Range 20/60)                               | 1/4 lb. | 5 CP   |
 | Light Crossbow           | 1d8    | Ammunition (Range 80/320; Bolt), Two-Handed, Hunker         | 5 lb.   | 25 GP  |
 | Shortbow                 | 1d6    | Ammunition (Range 80/320; Arrow), Two-Handed                | 2 lb.   | 25 GP  |
-| Sling                    | 1d4    | Ammunition (Range 30/120; Bullet)                           | —       | 1 SP   |
+| Sling                    | 1d4    | Ammunition (Range 30/120; Bullet)                           | -       | 1 SP   |
 | Musket                   | 3d6    | Ammunition (Range 40/120; Shot), Matchlock, Two-Handed      | 10 lb.  | 200 GP |
 | Pistol                   | 3d4    | Ammunition (Range 30/90; Shot), Matchlock                   | 3 lb.   | 80 GP  |
 | _Martial Melee Weapons_  |        |                                                             |         |        |
 | Battleaxe                | 1d8    | Versatile (1d10)                                            | 4 lb.   | 10 GP  |
-| Flail                    | 1d8    | —                                                           | 2 lb.   | 10 GP  |
+| Flail                    | 1d8    | -                                                           | 2 lb.   | 10 GP  |
 | Glaive                   | 1d10   | Heavy, Reach, Two-Handed                                    | 6 lb.   | 20 GP  |
 | Greataxe                 | 1d12   | Heavy, Two-Handed                                           | 7 lb.   | 30 GP  |
 | Greatsword               | 2d6    | Heavy, Two-Handed                                           | 6 lb.   | 50 GP  |
@@ -56,7 +56,7 @@ The Weapons table in this section shows the game’s main weapons. The table lis
 | Lance                    | 1d10   | Heavy, Reach, Two-Handed (unless mounted)                   | 6 lb.   | 10 GP  |
 | Longsword                | 1d8    | Versatile (1d10)                                            | 3 lb.   | 15 GP  |
 | Maul                     | 2d6    | Heavy, Two-Handed                                           | 10 lb.  | 10 GP  |
-| Morningstar              | 1d8    | —                                                           | 4 lb.   | 15 GP  |
+| Morningstar              | 1d8    | -                                                           | 4 lb.   | 15 GP  |
 | Pike                     | 1d10   | Heavy, Reach, Two-Handed                                    | 18 lb.  | 5 GP   |
 | Rapier                   | 1d8    | Finesse                                                     | 2 lb.   | 25 GP  |
 | Scimitar                 | 1d6    | Finesse, Light                                              | 3 lb.   | 25 GP  |
@@ -89,7 +89,7 @@ When making an attack with a Finesse weapon, use your choice of your Strength or
 
 #### Heavy
 
-You have @Disadvantage on attack rolls with a Heavy weapon if it’s a Melee weapon and your Strength score isn’t at least 13 or if it’s a Ranged weapon and your Dexterity score isn’t at least 13.
+You have @Disadvantage on attack rolls with a Heavy weapon if it’s a Melee weapon and your Strength score isn’t at least 1 or if it’s a Ranged weapon and your Dexterity score isn’t at least 1.
 
 #### Light
 
@@ -167,13 +167,7 @@ A weapon's statistics describe the damage it deals, the type of damage it inflic
 
 ## Weapon Proficiency
 
-Proficiency represents training with a particular weapon.
-
-When you make an attack with a weapon you are proficient with, you add your @Proficiency Bonus to the attack roll.
-
-If you attack with a weapon you lack proficiency with, you do not add your Proficiency Bonus to the attack roll.
-
-Weapon proficiency never affects damage rolls unless a feature specifically states otherwise.
+Anyone can wield a weapon, but you must have proficiency with it to add your Proficiency Bonus to an attack roll you make with it. A player character’s features can provide weapon proficiencies. A monster is proficient with any weapon in its stat block.
 
 ---
 
@@ -209,65 +203,17 @@ Some features, such as @Rage, can expand this range.
 
 ---
 
-## Weapon Properties
-
-Many weapons possess special properties.
-
-A weapon's properties are listed in its description.
-
-### Ammunition
-
-You can use this weapon only if you have ammunition available.
-
-Drawing ammunition is part of the attack.
-
-### Finesse
-
-You may use either Strength or Dexterity when making attacks with this weapon.
-
-### Heavy
-
-The weapon is large and difficult to wield effectively without specialized training.
-
-### Light
-
-The weapon is small and easy to handle.
-
-### Loading
-
-The weapon requires additional effort to reload between attacks.
-
-### Reach
-
-This weapon increases the distance from which you can make melee attacks.
-
-A creature with a Reach weapon can attack targets 10 feet away unless stated otherwise.
-
-### Thrown
-
-The weapon can be used to make ranged attacks.
-
-When thrown, it uses the same ability modifier used for melee attacks.
-
-### Two-Handed
-
-The weapon requires two hands to attack with, otherwise the wielder has Disadvantage on attack rolls.
-
-### Versatile
-
-The weapon can be wielded with one or two hands.
-
-A versatile weapon's damage die may change when wielded with two hands.
-
----
-
 ## Improvised Weapons
 
-Sometimes an object not designed as a weapon is used to make an attack.
+An improvised weapon is an object wielded as a makeshift weapon, such as broken glass, a table leg, or a frying pan. A Simple or Martial weapon also counts as an improvised weapon if it’s wielded in a way contrary to its design; if you use a Ranged weapon to make a melee attack or throw a Melee weapon that lacks the [Thrown](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Thrown) property, the weapon counts as an improvised weapon. An improvised weapon follows the rules below.
 
-A chair, bottle, frying pan, or similar object can be used as an improvised weapon.
+**_Proficiency._** Don’t add your Proficiency Bonus to attack rolls with an improvised weapon.
 
-The Dungeon Master determines the damage, properties, and proficiency requirements of an improvised weapon.
+**_Damage._** On a hit, the weapon deals 1d4 damage of a type the DM thinks is appropriate for the object.
+
+**_Range._** If you throw the weapon, it has a normal range of 20 feet and a long range of 60 feet.
+
+**_Weapon Equivalents._** If an improvised weapon resembles a Simple or Martial weapon, the DM may say it functions as that weapon and uses that weapon’s rules. For example, the DM could treat a table leg as a Club.
 
 ---
 
@@ -302,22 +248,22 @@ The Armor table lists the game’s main armor. The table includes the cost and w
 
 ### Medium Armor (5 Minutes to Don and 1 Minute to Doff)
 
-| Armor | Armor Class (AC) | Strength | Stealth | Weight | Cost |
-|--------|--------|--------|--------|--------|--------|
-| Hide Armor | 12 + Dex modifier (max 2) | — | — | 12 lb. | 10 GP |
-| Chain Shirt | 13 + Dex modifier (max 2) | — | — | 20 lb. | 50 GP |
-| Scale Mail | 14 + Dex modifier (max 2) | — | Disadvantage | 45 lb. | 50 GP |
-| Breastplate | 14 + Dex modifier (max 2) | — | — | 20 lb. | 400 GP |
-| Half Plate Armor | 15 + Dex modifier (max 2) | — | Disadvantage | 40 lb. | 750 GP |
+| Armor            | Armor Class (AC)          | Strength | Stealth      | Weight | Cost   |
+| ---------------- | ------------------------- | -------- | ------------ | ------ | ------ |
+| Hide Armor       | 12 + Dex modifier (max 2) | —        | —            | 12 lb. | 10 GP  |
+| Chain Shirt      | 13 + Dex modifier (max 2) | —        | —            | 20 lb. | 50 GP  |
+| Scale Mail       | 14 + Dex modifier (max 2) | —        | Disadvantage | 45 lb. | 50 GP  |
+| Breastplate      | 14 + Dex modifier (max 2) | —        | —            | 20 lb. | 400 GP |
+| Half Plate Armor | 15 + Dex modifier (max 2) | —        | Disadvantage | 40 lb. | 750 GP |
 
 ### Heavy Armor (10 Minutes to Don and 5 Minutes to Doff)
 
-| Armor | Armor Class (AC) | Strength | Stealth | Weight | Cost |
-|--------|--------|--------|--------|--------|--------|
-| Ring Mail | 14 | — | Disadvantage | 40 lb. | 30 GP |
-| Chain Mail | 16 | Str 13 | Disadvantage | 55 lb. | 75 GP |
-| Splint Armor | 17 | Str 15 | Disadvantage | 60 lb. | 200 GP |
-| Plate Armor | 18 | Str 15 | Disadvantage | 65 lb. | 1,500 GP |
+| Armor        | Armor Class (AC) | Strength | Stealth      | Weight | Cost     |
+| ------------ | ---------------- | -------- | ------------ | ------ | -------- |
+| Ring Mail    | 14               | —        | Disadvantage | 40 lb. | 30 GP    |
+| Chain Mail   | 16               | Str 1    | Disadvantage | 55 lb. | 75 GP    |
+| Splint Armor | 17               | Str 2    | Disadvantage | 60 lb. | 200 GP   |
+| Plate Armor  | 18               | Str 2    | Disadvantage | 65 lb. | 1,500 GP |
 
 ### Shield
 
@@ -583,27 +529,15 @@ A Sorcerer, Warlock, or Wizard can use such an item as a **Spellcasting Focus**.
 
 # Backpack (2 GP)
 
-A Backpack holds up to **30 pounds** within **1 cubic foot**.
-
-It can also serve as a saddlebag.
+A Backpack holds up to 30 pounds within 1 cubic foot. It can also serve as a saddlebag.
 
 # Ball Bearings (1 GP)
 
-As a **Utilize** action, you can spill Ball Bearings from their pouch.
-
-They spread to cover a level, **10-foot-square area** within 10 feet of yourself.
-
-A creature that enters this area for the first time on a turn must succeed on a **DC 10 Dexterity saving throw** or have the **Prone** condition.
-
-It takes **10 minutes** to recover the Ball Bearings.
+As a Utilize action, you can spill Ball Bearings from their pouch. They spread to cover a level, 10-foot-square area within 10 feet of yourself. A creature that enters this area for the first time on a turn must succeed on a DC 10 Dexterity saving throw or have the  Prone condition. It takes 10 minutes to recover the Ball Bearings.
 
 # Barrel (2 GP)
 
-A Barrel holds up to:
-
-- 40 gallons of liquid, or
-    
-- 4 cubic feet of dry goods
+A Barrel holds up to 40 gallons of liquid or up to 4 cubic feet of dry goods.
 
 # Basket (4 SP)
 
@@ -617,11 +551,11 @@ While in a Bedroll, you automatically succeed on saving throws against extreme c
 
 # Bell (1 GP)
 
-When rung as a **Utilize** action, a Bell produces a sound that can be heard up to **60 feet away**.
+When rung as a **Utilize** action, a Bell produces a sound that can be heard up to 60 feet away.
 
 # Blanket (5 SP)
 
-While wrapped in a Blanket, you have Advantage on saving throws against extreme cold (see the _Dungeon Master's Guide_).
+While wrapped in a Blanket, you have Advantage on saving throws against extreme cold.
 
 # Block and Tackle (1 GP)
 
@@ -707,8 +641,7 @@ If the creature's legs are bound, the creature has the **Restrained** condition 
 
 - **Escape:** DC 18 Dexterity (Acrobatics) check
     
-- **Burst Chain:** DC 20 Strength (Athletics) check
-    
+- **Burst Chain:** DC 25 Strength (Athletics) check
 
 # Chest (5 GP)
 

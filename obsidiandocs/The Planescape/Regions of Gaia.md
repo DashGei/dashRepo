@@ -7,13 +7,13 @@ Time and date in Gaia uses the Velthraen calendar, which contains a 350 day year
 ### Months of the Year and Holidays
 
 
-|     |     |     |     |     |
-| --- | --- | --- | --- | --- |
-|     |     |     |     |     |
+| Thew | Aperi | Baum | Juno | Sulmat |
+| ---- | ----- | ---- | ---- | ------ |
+|      |       |      |      |        |
 
-|     |     | Fremuth | Nufe | Grispe |
-| --- | --- | ------- | ---- | ------ |
-|     |     |         |      |        |
+| Ea'ersen | Griherv |     | Froie | Wakemut |
+| -------- | ------- | --- | ----- | ------- |
+|          |         |     |       |         |
 
 
 ### Days of the Week

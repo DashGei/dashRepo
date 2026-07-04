@@ -5,9 +5,9 @@
     color: #4da3ff;
     font-size: 40px;
     letter-spacing: 1px;
-        font-family: Draconis;
+    font-family: Draconis;
     line-height: 60px;
-        cursor: url("images/cursoractive.png"), auto;
+    cursor: url("images/cursoractive.png"), auto;
     list-style: none;
 
     padding-bottom: 6px;
@@ -21,11 +21,9 @@
     bottom: 2px;
     height: 3px;
 
-    background: linear-gradient(
-        to right,
-        #4da3ff, #4da3ff, #4da3ff, #e06868,
-        transparent
-    );
+    background: linear-gradient(to right,
+            #4da3ff, #4da3ff, #4da3ff, #e06868,
+            transparent);
 }
 
 .heading2 summary {
@@ -35,9 +33,9 @@
     color: #B5A642;
     font-size: 30px;
     letter-spacing: 1px;
-        font-family: Draconis;
+    font-family: Draconis;
     line-height: 40px;
-        cursor: url("images/cursoractive.png"), auto;
+    cursor: url("images/cursoractive.png"), auto;
     list-style: none;
 
     padding-bottom: 6px;
@@ -51,11 +49,9 @@
     bottom: 2px;
     height: 2px;
 
-    background: linear-gradient(
-        to right,
-        #B5A642, #67a540,
-        transparent
-    );
+    background: linear-gradient(to right,
+            #B5A642, #67a540,
+            transparent);
 }
 
 .heading3 summary {
@@ -65,9 +61,9 @@
     color: #5c9ce0;
     font-size: 20px;
     letter-spacing: 1px;
-        font-family: Draconis;
+    font-family: Draconis;
     line-height: 30px;
-        cursor: url("images/cursoractive.png"), auto;
+    cursor: url("images/cursoractive.png"), auto;
     list-style: none;
 
     padding-bottom: 6px;
@@ -81,37 +77,39 @@
     bottom: 2px;
     height: 1px;
 
-    background: linear-gradient(
-        to right,
-        #B5A642, #B5A642,
-        transparent
-    );
+    background: linear-gradient(to right,
+            #B5A642, #B5A642,
+            transparent);
 }
 
 h1 {
-    background-image: linear-gradient(to top, #f7da00, #e1aa6c, #e16cc6,  #e16cc6);
+    background-image: linear-gradient(to top, #f7da00, #e1aa6c, #e16cc6, #e16cc6);
     background-clip: text;
     color: transparent;
-        line-height: 40px;
+    line-height: 40px;
     font-size: 40px;
     letter-spacing: 1px;
-        font-family: Draconis;
+    font-family: Draconis;
 }
 
 h2 {
-    color: #bdb252;
-        line-height: 40px;
+    background-image: linear-gradient(to right, #baae58, #a2974e, #baae63);
+    background-clip: text;
+    line-height: 40px;
     font-size: 30px;
     letter-spacing: 1px;
-        font-family: Draconis;
+    font-family: Draconis;
+    color: transparent;
 }
 
 h3 {
-    color: #77a5fb;
-        line-height: 40px;
+    background-image: linear-gradient(to right, #7aa2eb, #5984d3, #84affe);
+    background-clip: text;
+    line-height: 40px;
     font-size: 25px;
     letter-spacing: 1px;
-        font-family: Draconis;
+    font-family: Draconis;
+    color: transparent;
 }
 
 
@@ -135,7 +133,7 @@ img {
 .content {
     column-width: 500px;
     column-gap: 15px;
-    column-count:2;
+    column-count: 2;
     border: 3px solid;
     border-image: linear-gradient(to top left, #c1ba86, #B5A642, #758e42) 1;
     padding: 10px;
@@ -145,7 +143,8 @@ img {
 
     column-width: 500px;
     column-gap: 30px;
-    column-count:2;    border: 3px solid;
+    column-count: 2;
+    border: 3px solid;
     border-image: linear-gradient(to top left, #c1ba86, #B5A642, #758e42) 1;
     padding: 10px;
 }
@@ -168,7 +167,6 @@ img {
     max-width: 900px;
     min-width: 300px;
     margin: 10px auto 0
-
 }
 
 .txtgrad {
@@ -221,6 +219,7 @@ figure.block:hover {
     transition-property: all;
     box-shadow: 0 7px 15px #036e47
 }
+
 a {
     background-image: linear-gradient(to top right, #c1b876, #cbbc5a, #a09552);
     background-clip: text;
@@ -251,7 +250,7 @@ a {
 .table-scroll {
     overflow-x: auto;
     break-inside: avoid;
-        box-shadow: 0 5px 10px #062131;
+    box-shadow: 0 5px 10px #062131;
 }
 
 .styled-table tbody tr:nth-child(odd) {

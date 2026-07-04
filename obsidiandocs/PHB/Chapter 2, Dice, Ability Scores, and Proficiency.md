@@ -1,10 +1,4 @@
 
-The rules of Mordschlag use a combination of dice rolls, ability modifiers, and your Proficiency Bonus to determine whether your character succeeds or fails when attempting difficult tasks.
-
-This chapter explains the fundamental mechanics used throughout the game.
-
----
-
 # Dice
 
 Mordschlag uses the following polyhedral dice:
@@ -39,7 +33,7 @@ Example:
 
 A weapon deals 1d8 + 2 damage. If the d8 shows a 5, the total damage is 7.
 
-If a rule tells you to multiply a modifier, you a number of dice equal to the modifier
+If a rule tells you to multiply by a modifier, you a number of dice equal to the modifier
 
 Example:
 
@@ -49,27 +43,16 @@ A feature dictates you roll Proficiency Bonus x 1d2, you roll a number of dice e
 
 # The d20 Test
 
-The twenty-sided die, or d20, is the most commonly rolled die in the game.
+The 20-sided die (d20) is the most important die you’ll use in the game. It’s central to the core mechanic—called D20 Tests—the game uses to determine whether creatures succeed or fail at the things they attempt during the game. You roll a d20 whenever your character tries to do something that the DM decides has a reasonable chance of both success and failure. The higher your roll, the more likely it is that you succeed.
 
-Whenever your character attempts something with an uncertain outcome, you typically roll a d20 and add an appropriate modifier.
+1. **Roll 1d20.** You always want to roll high. If the roll has Advantage or Disadvantage, you roll two d20s, but you use the number from only one of them—the higher one if you have Advantage or the lower one if you have Disadvantage.
+2. **Add Modifiers.** Add these modifiers to the number rolled on the d20:
 
-The basic formula is:
+- **The Relevant Ability Modifier.** This chapter and the rules glossary explain which ability modifiers to use for various D20 Tests.
+- **Your Proficiency Bonus If Relevant.** Each creature has a Proficiency Bonus, a number added when making a D20 Test that uses something, such as a skill, in which the creature has proficiency. 
+- **Circumstantial Bonuses and Penalties.** A class feature, a spell, or another rule might give a bonus or penalty to the die roll.
 
-d20 + Modifier + @Proficiency Bonus (if applicable)
-
-If the result equals or exceeds the Difficulty Class (DC), the attempt succeeds.
-
-If the result is lower than the DC, the attempt fails.
-
-Three types of rolls commonly use the d20:
-
-- Ability Checks
-    
-- Saving Throws
-    
-- Attack Rolls
-
-These are explained in later chapters.
+1. **Compare the Total to a Target Number.** If the total of the d20 and its modifiers equals or exceeds the target number, the D20 Test succeeds. Otherwise, it fails. The Dungeon Master determines target numbers and tells players whether their rolls are successful. The target number for an ability check or a saving throw is called a Difficulty Class  (DC). The target number for an attack roll is called an Armor Class (AC), which appears on a character sheet or in a stat block 
 
 ---
 
@@ -96,25 +79,15 @@ The higher an ability score, the more capable a character is in tasks related to
 
 # Physical and Mental Modifiers
 
-Many class features refer to your @Physical Modifier or @Mental Modifier.
-
-These values are determined by your class, and they are your character's most defining and strongest scores.
-
-A class feature will specify which ability scores may be used for each modifier.
+Many features will reference your Physical or Mental modifier, these are your character's most significant abilities. When a feature asks you to add your Physical or Mental modifier, you reference the ability score.
 
 Example:
 
-A @Barbarian uses Strength as their Physical Modifier.
-
-A @Druid may use either Intelligence or Wisdom as their Mental Modifier.
-
-Your chosen modifier remains the same unless a rule states otherwise.
+A @Paladin uses Charisma as their Mental Modifier. Their Aura of Zeal feature states that enemies have a penalty to attack rolls equal to the Paladin's Mental Modifier, so a monster subtracts the Paladin's Charisma score from their attack rolls, likely causing the attack to miss. 
 
 ---
 
 # Ability Checks
-
-An ability check represents an attempt to overcome a challenge.
 
 When you attempt a task with a chance of failure, the Dungeon Master may ask for an ability check.
 
@@ -142,42 +115,35 @@ The Dungeon Master determines the Difficulty Class of a task.
 
 Typical DCs are shown below.
 
-|Difficulty|DC|
-|---|---|
-|Easy|10|
-|Moderate|15|
-|Hard|20|
-|Very Hard|25|
-|Nearly Impossible|30|
+| Difficulty        | DC  |
+| ----------------- | --- |
+| Easy              | 5   |
+| Moderate          | 10  |
+| Hard              | 15  |
+| Very Hard         | 20  |
+| Nearly Impossible | 25  |
+Note that an ability score of 0 represents the average mortal, so a task with a DC of 10 should have a 50/50 chance of success for the average person.
 
 ---
 
 # Saving Throws
 
-A saving throw represents an attempt to resist danger.
+A saving throw—also called a save—represents an attempt to evade or resist a threat, such as a fiery explosion, a blast of poisonous gas, or a spell trying to invade your mind. You don’t normally choose to make a save; you must make one because your character or a monster (if you’re the DM) is at risk. A save’s result is detailed in the effect that caused it.
 
-Unlike an ability check, a saving throw is usually forced upon a character by an external effect.
+If you don’t want to resist the effect, you can choose to fail the save without rolling.
 
-To make a saving throw:
+#### Ability Modifier
 
-1. Roll a d20.
-    
-2. Add the appropriate ability modifier.
-    
-3. Add your @Proficiency Bonus if you are proficient in that saving throw.
-    
-4. Compare the result to the DC.
+Saving throws are named for the ability modifiers they use: a Strength saving throw, a Wisdom saving throw, and so on. Different saving throws are used to resist different kinds of effects, as shown on the Saving Throw Examples table. You add your Proficiency Bonus to your saving throw if you have proficiency in that kind of save.
 
-Examples include:
-
-- Resisting poison.
-    
-- Avoiding a trap.
-    
-- Enduring magical effects.
-    
-- Maintaining concentration on a spell.
-
+##### Saving Throw Examples
+| Ability      | Make a Save To...             |
+| ------------ | ----------------------------- |
+| Strength     | Resist a force or toxin       |
+| Dexterity    | Dodge out of harm’s way       |
+| Intelligence | Recognize an illusion as fake |
+| Wisdom       | Resist a mental assault       |
+| Charisma     | Assert your identity          |
 Some class features and spells refer to a @Physical DC or @Mental DC.
 
 These values are calculated as follows:
@@ -212,29 +178,23 @@ Attack rolls are covered in greater detail in the Combat chapter.
 
 # Advantage and Disadvantage
 
-Some circumstances grant @Advantage or @Disadvantage.
+Advantage reflects the positive circumstances surrounding a d20 roll, while Disadvantage reflects negative circumstances.
 
-When you have Advantage:
+You usually acquire Advantage or Disadvantage through the use of special abilities and actions. The DM can also decide that circumstances grant Advantage or impose Disadvantage.
 
-- Roll two d20s.
-    
-- Use the higher result.
+#### Roll Two D20s
 
-When you have Disadvantage:
+When a roll has either Advantage or Disadvantage, roll a second d20 when you make the roll. Use the higher of the two rolls if you have Advantage, and use the lower roll if you have Disadvantage. For example, if you have Disadvantage and roll an 18 and a 3, use the 3. If you instead have Advantage and roll those numbers, use the 18.
 
-- Roll two d20s.
-    
-- Use the lower result.
+If multiple sources of Advantage and Disadvantage apply to the same roll, they cancel each other out. A roll can never benefit from more than one instance of Advantage or suffer from more than one instance of Disadvantage.
 
-If multiple sources of Advantage and Disadvantage apply to the same roll, they cancel each other out.
-
-A roll can never benefit from more than one instance of Advantage or suffer from more than one instance of Disadvantage.
+When you have Advantage or Disadvantage and something in the game lets you reroll or replace the d20, you can reroll or replace only one die, not both. You choose which one.
 
 ---
 
 # Proficiency Bonus
 
-Your @Proficiency Bonus represents your training and experience. Proficiency Bonus is sometimes written as (PB).
+Your @Proficiency Bonus represents your training and experience. Proficiency Bonus is sometimes written as (PB). Your proficiency bonus increases as your character levels and gains experience.
 
 You add your Proficiency Bonus whenever you make a roll involving something in which you are proficient.
 
@@ -250,15 +210,21 @@ Examples include:
 
 Your Proficiency Bonus increases as you gain levels.
 
-|Level|Proficiency Bonus|
-|---|---|
-|1–5|+2|
-|6–9|+3|
-|10–13|+4|
-|14–17|+5|
-|18–20|+6|
+| Level | Proficiency Bonus |
+| ----- | ----------------- |
+| 1–5   | +2                |
+| 6–9   | +3                |
+| 10–13 | +4                |
+| 14–17 | +5                |
+| 18–20 | +6                |
+Your proficiency bonus is also added whenever you calculate your DCs:
+
+Physical DC = 8 + Proficiency Bonus + Physical Modifier
+
+Mental DC = 8 + Proficiency Bonus + Mental Modifier
 
 ---
+
 ### Skill Proficiencies
 
 Most ability checks involve using a skill, which represents a category of things creatures try to do with an ability check. The descriptions of the actions you take (see Actions in chapter 4) specify which skill applies if you make an ability check for that action, and many other rules note when a skill is relevant. The DM has the ultimate say on whether a skill is relevant in a situation.
@@ -270,26 +236,26 @@ If a creature is proficient in a skill, the creature applies its Proficiency Bon
 The skills are shown on the Skills table, which notes example uses for each skill proficiency as well as the ability check the skill most often applies to.
 
 #### Skills
-| Skill                                                                                       | Ability      | Example Uses                                                            |
-| ------------------------------------------------------------------------------------------- | ------------ | ----------------------------------------------------------------------- |
-| [Acrobatics](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)      | Dexterity    | Stay on your feet in a tricky situation, or perform an acrobatic stunt. |
-| [Animal Handling](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) | Wisdom       | Calm or train an animal, or get an animal to behave in a certain way.   |
-| [Arcana](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)          | Intelligence | Recall lore about spells, magic items, and the planes of existence.     |
-| [Athletics](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)       | Strength     | Jump farther than normal, win an arm wrestle, or break something.       |
-| [Deception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)       | Charisma     | Tell a convincing lie, or wear a disguise convincingly.                 |
-| [History](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)         | Intelligence | Recall lore about historical events, people, nations, and cultures.     |
-| [Insight](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)         | Wisdom       | Discern a person’s mood and intentions.                                 |
-| [Intimidation](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)    | Charisma     | Awe or threaten someone into doing what you want.                       |
-| [Investigation](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)   | Intelligence | Find obscure information in books, or deduce how something works.       |
-| [Medicine](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)        | Wisdom       | Diagnose an illness, or determine what killed the recently slain.       |
-| [Nature](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)          | Intelligence | Recall lore about terrain, plants, animals, and weather.                |
-| [Perception](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)      | Wisdom       | Using a combination of senses, notice something that’s easy to miss.    |
-| [Performance](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)     | Charisma     | Act, tell a story, perform music, or dance.                             |
-| [Persuasion](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)      | Charisma     | Honestly and graciously convince someone of something.                  |
-| [Religion](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)        | Intelligence | Recall lore about gods, religious rituals, and holy symbols.            |
-| [Sleight of Hand](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) | Dexterity    | Pick a pocket, conceal a handheld object, or perform legerdemain.       |
-| [Stealth](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)         | Dexterity    | Escape notice by moving quietly and hiding behind things.               |
-| [Survival](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)        | Wisdom       | Follow tracks, forage, find a trail, or avoid natural hazards.          |
+| Skill           | Ability      | Example Uses                                                            |
+| --------------- | ------------ | ----------------------------------------------------------------------- |
+| Acrobatics      | Dexterity    | Stay on your feet in a tricky situation, or perform an acrobatic stunt. |
+| Animal Handling | Wisdom       | Calm or train an animal, or get an animal to behave in a certain way.   |
+| Arcana          | Intelligence | Recall lore about spells, magic items, and the planes of existence.     |
+| Athletics       | Strength     | Jump farther than normal, win an arm wrestle, or break something.       |
+| Deception       | Charisma     | Tell a convincing lie, or wear a disguise convincingly.                 |
+| History         | Intelligence | Recall lore about historical events, people, nations, and cultures.     |
+| Insight         | Wisdom       | Discern a person’s mood and intentions.                                 |
+| Intimidation    | Charisma     | Awe or threaten someone into doing what you want.                       |
+| Investigation   | Intelligence | Find obscure information in books, or deduce how something works.       |
+| Medicine        | Wisdom       | Diagnose an illness, or determine what killed the recently slain.       |
+| Nature          | Intelligence | Recall lore about terrain, plants, animals, and weather.                |
+| Perception      | Wisdom       | Using a combination of senses, notice something that’s easy to miss.    |
+| Performance     | Charisma     | Act, tell a story, perform music, or dance.                             |
+| Persuasion      | Charisma     | Honestly and graciously convince someone of something.                  |
+| Religion        | Intelligence | Recall lore about gods, religious rituals, and holy symbols.            |
+| Sleight of Hand | Dexterity    | Pick a pocket, conceal a handheld object, or perform legerdemain.       |
+| Stealth         | Dexterity    | Escape notice by moving quietly and hiding behind things.               |
+| Survival        | Wisdom       | Follow tracks, forage, find a trail, or avoid natural hazards.          |
 
 #### Determining Skills
 
@@ -305,17 +271,3 @@ Example:
 Half of 7 is 3.
 
 ---
-
-# Summary
-
-Most rolls in Mordschlag follow a simple process:
-
-1. Roll a d20.
-    
-2. Add the appropriate modifier.
-    
-3. Add your Proficiency Bonus if applicable.
-    
-4. Compare the result to a target number.
-
-These rules form the foundation of nearly every mechanic in the game.

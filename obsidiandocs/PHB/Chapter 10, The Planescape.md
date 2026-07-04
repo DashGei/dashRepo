@@ -42,6 +42,31 @@ The Abyss is the infinite, mind-breaking labyrinth beneath Hell's surface. The c
 
 Gaia is an earth sized planet which sits a comfortable distance from the twin suns. The vast majority of adventures a
 
+## Y'Valm
+
+### The Sym![[southyvalm.png]]
+
+The Sym is the largest region in Y'Valm by a small margin. The land transitions from rocky and hilled deserts populated with succulents and shrubs in the west, to dryer sparse regions in the northeast - both sections being bisected by a dense mass of rocky hills in the middle.
+
+The ethnic composition of the region is as follows:
+
+ - 55% Human
+ - 20% Abyssinian Tabaxi
+ - 15% High Elf
+ - 10% Orc
+ - 10% Other
+
+
+
+
+#### Conflict
+
+Empress Serale Sycee has carefully cultivated an unshakable following of her High Elf subjects and royal peers for the last 50 years, so that when her father died in power half a decade prior she  was able to propel the kingdom with promises of ancient glory and expansion.
+
+Ultimately 
+
+
+
 ## Lumiere
 
 

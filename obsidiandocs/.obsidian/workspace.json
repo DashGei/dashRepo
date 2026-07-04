@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8ab948505aa95837",
+        "id": "8bc274d52b8bd062",
         "type": "tabs",
         "children": [
           {
-            "id": "7d33fb361f8a640b",
+            "id": "aa5fc9747bc3079d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHB/Rules Glossary.md",
+                "file": "The Planescape/Deities, Favor, and Religion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rules Glossary"
-            }
-          },
-          {
-            "id": "428d2ff79cf93e29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHB/Chapter 6, Martial Classes and Feats.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 6, Martial Classes and Feats"
+              "title": "Deities, Favor, and Religion"
             }
           }
         ]
@@ -197,34 +183,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "7d33fb361f8a640b",
+  "active": "aa5fc9747bc3079d",
   "lastOpenFiles": [
+    "PHB/Chapter 8, Exploration, Party Progression, and Cohesion.md",
     "PHB/Chapter 10, The Planescape.md",
+    "The Planescape/Deities, Favor, and Religion.md",
+    "The Planescape/The Planescape.md",
+    "Character Races.md",
+    "The Planescape/Magic and Spellcasting.md",
+    "Old Frontiers -DM notes.md",
+    "The Planescape/Regions of Gaia.md",
     "PHB/Chapter 5, Creating a Character.md",
-    "PHB/Chapter 6, Martial Classes and Feats.md",
-    "D&D 5e 2024 Rules/Rules/Common Terms/Critical Hit.md",
-    "PHB/Rules Glossary.md",
-    "PHB/Chapter 7, Spell Classes and Spellcasting.md",
-    "D&D 5e 2024 Rules/Rules/Senses/Tremorsense.md",
-    "D&D 5e 2024 Rules/Rules/Common Terms/Darkness.md",
-    "D&D 5e 2024 Rules/Rules/Common Terms/Concentration.md",
-    "D&D 5e 2024 Rules/Rules/Senses/Truesight.md",
-    "D&D 5e 2024 Rules/Rules/Actions/Attack.md",
-    "D&D 5e 2024 Rules/Rules/Common Terms/Carrying Capacity.md",
-    "D&D 5e 2024 Rules/Rules/Actions/Utilize.md",
-    "D&D 5e 2024 Rules/Rules/Environmental Effects/Deep Water.md",
+    "PHB/Chapter 4, Combat.md",
     "PHB/Chapter 3, Adventuring.md",
+    "PHB/Chapter 7, Spell Classes and Spellcasting.md",
+    "PHB/Chapter 9, Equipment.md",
+    "PHB/Chapter 6, Martial Classes and Feats.md",
+    "PHB/Rules Glossary.md",
+    "Glossary.md",
+    "Equipment.md",
+    "PHB/Chapter 2, Dice, Ability Scores, and Proficiency.md",
+    "PHB/Chapter 1, Introduction to Mordschlag.md",
+    "D&D 5e 2024 Rules/Rules/Environmental Effects/Extreme Heat.md",
     "D&D 5e 2024 Rules/Rules/Environmental Effects/Extreme Cold.md",
-    "D&D 5e 2024 Rules/Rules/Hazards/Malnutrition.md",
-    "D&D 5e 2024 Rules/Rules/Hazards/Suffocation.md",
-    "D&D 5e 2024 Rules/Rules/Miscellaneous/Underwater Combat.md",
-    "D&D 5e 2024 Rules/Rules/Miscellaneous/Multiclassing.md",
-    "D&D 5e 2024 Rules/Rules/Miscellaneous/Mounted Combat.md",
-    "D&D 5e 2024 Rules/Rules/Miscellaneous/Fear and Mental Stress.md",
-    "D&D 5e 2024 Rules/Rules/Conditions/Exhaustion.md",
-    "D&D 5e 2024 Rules/Rules/Hazards/Falling.md",
-    "D&D 5e 2024 Rules/Rules/Hazards/Burning.md",
-    "D&D 5e 2024 Rules/Rules/Hazards/Dehydration.md",
+    "D&D 5e 2024 Rules/Rules/Contagions/Sewer Plague.md",
+    "D&D 5e 2024 Rules/Rules/Contagions/Cackle Fever.md",
+    "D&D 5e 2024 Rules/Rules/Contagions/Contagions.md",
+    "D&D 5e 2024 Rules/Rules/Conditions/Charmed.md",
+    "D&D 5e 2024 Rules/Rules/Conditions/Blinded.md",
+    "Pasted image 20260621165511.png",
+    "southyvalm.png",
     "Pasted image 20260617173522.png",
     "PHB",
     "The Planescape",

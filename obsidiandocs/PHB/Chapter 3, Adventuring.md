@@ -1,5 +1,5 @@
 
-Not every challenge can be solved with steel or spellcraft.
+Not every challenge can be solved with steel or spell craft.
 
 As adventurers travel through dangerous lands, explore forgotten ruins, negotiate with powerful figures, and survive hostile environments, they will face countless obstacles that cannot be overcome through combat alone.
 
@@ -67,15 +67,10 @@ Example: A character attempting to intimidate a crowd through physical presence 
 
 # Group Checks
 
-Sometimes the entire party attempts the same task.
+Sometimes the entire party attempts the same task. When this occurs, the Dungeon Master may call for a group check.
 
-When this occurs, the Dungeon Master may call for a group check.
+Each participating character makes the appropriate ability check, if at least half of the group succeeds, the group succeeds, a natural 20 counts as two successes.
 
-Each participating character makes the appropriate ability check.
-
-If at least half of the group succeeds, the group succeeds.
-
-Otherwise, the group fails.
 
 Group checks are most commonly used for:
 
@@ -150,9 +145,13 @@ The more information the players provide, the more information the Dungeon Maste
 
 ---
 
-# Adventuring Actions
+# Actions
 
+Most activities in and out of combat require actions. A creature has two actions to use on their turn, and regains these actions when their next turn starts. 
 
+Actions have different costs, for example the attack action costs one action, and so does the dash action, so you can dash and attack to use all of your actions in one turn.
+
+If an action requires you to use more than the two actions you get on your turn, such as some spell casting or firearms, the cost is spread throughout multiple turns. If an action costs 3 total actions, you use two actions on one turn, and then must use one action on your next turn to complete the action.
 
 # @Search Action
 
@@ -232,14 +231,13 @@ Travel provides opportunities for roleplaying, exploration, and unexpected disco
 
 While traveling outside combat, a group can move at a Fast, Normal, or Slow pace, as shown on the Travel Pace table. The table states how far the party can move in a period of time; if riding horses or other mounts, the group can move twice that distance for 1 hour, after which the mounts need a @Short or Long rest before they can move at that increased pace again. The Dungeon Master's Guide has rules that affect which pace you can choose in certain types of terrain.
 
-##### [](https://www.dndbeyond.com/sources/dnd/phb-2024/playing-the-game#TravelPaceTable)Travel Pace
-|Distance Traveled Per...|   |   |   |
-|---|---|---|---|
-|Pace|Minute|Hour|Day|
-|---|---|---|---|
-|Fast|400 feet|4 miles|30 miles|
-|Normal|300 feet|3 miles|24 miles|
-|Slow|200 feet|2 miles|18 miles|
+##### Travel Pace
+| Distance Traveled Per... |          |         |          |
+| ------------------------ | -------- | ------- | -------- |
+| Pace                     | Minute   | Hour    | Day      |
+| Fast                     | 400 feet | 4 miles | 30 miles |
+| Normal                   | 300 feet | 3 miles | 24 miles |
+| Slow                     | 200 feet | 2 miles | 18 miles |
 
 
 ---
@@ -367,19 +365,17 @@ Between adventures, characters may spend time pursuing personal goals.
 
 Examples include:
 
-- Researching lore.
+- Religious Pursuits
     
-- Training.
+- Training
     
-- Crafting.
+- Crafting
     
-- Building relationships.
+- Building relationships
     
-- Managing organizations.
-    
-- Pursuing religious obligations.
+- Managing organizations
 
-Specific downtime activities are described later in this book.
+Specific downtime activities are described in chapter 8.
 
 ---
 

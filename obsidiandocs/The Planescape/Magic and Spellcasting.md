@@ -42,4 +42,4 @@ Intelligence casters can usually point to a place in a journal they own which de
 
 **Wisdom** casting involves much more ethereal concepts where a mortal's innate connection with the Weave or a higher being allows them to channel that power and cast spells. While typically inscrutable, a high spellcaster who uses Wisdom is deeply attuned to the source of their magic.
 
-**Charisma** is an interesting one. A creature with a particularly intense force of personality causes the Weave to literally warp around them much the same as a gravitational pull. A skilled Charisma caster demands, or kindly coaxes, the Weave to bend to their will and form spells. 
+**Charisma** is an interesting one. A creature with a particularly intense force of personality causes the Weave to literally warp around them much the same as a gravitational pull. A skilled Charisma caster demands, or kindly coaxes the Weave to bend to their will and form spells. 

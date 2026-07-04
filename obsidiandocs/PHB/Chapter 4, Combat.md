@@ -109,15 +109,15 @@ Multiple sources of difficult terrain do not stack unless a feature states other
 
 ---
 
-# Actions
+# Actions and Reactions
 
-Most activities performed during combat require actions.
+Most activities in and out of combat require actions. A creature has two actions to use on their turn, and regains these actions when their next turn starts. 
 
-Each creature receives two actions on its turn.
+Actions have different costs, for example the attack action costs one action, and so does the dash action, so you can dash and attack to use all of your actions in one turn.
 
-Some actions cost one action, while others require two.
+If an action requires you to use more than the two actions you get on your turn, such as some spell casting or firearms, the cost is spread throughout multiple turns. If an action costs 3 total actions, you use two actions on one turn, and then must use one action on your next turn to complete the action.
 
-A creature cannot spend more actions than it possesses.
+A player has one reaction which is only ever used when the trigger for that reaction is met
 
 ---
 
@@ -132,9 +132,10 @@ When you take the Attack action, you make an attack. Some other actions and Rea
 3. **Resolve the Attack.** Make the attack roll, as detailed later in this chapter. On a hit, you roll damage unless the particular attack has rules that specify otherwise. Some attacks cause special effects in addition to or instead of damage.
 
 ---
+
 # Attack Rolls
 
-When making an attack:
+When making an attack with a weapon, unarmed strike, or spell:
 
 1. Roll a d20.
     
@@ -148,6 +149,17 @@ If the result equals or exceeds the target's Armor Class, the attack hits.
 
 ---
 
+# Armor Class
+
+A creature’s Armor Class represents how well the creature avoids being wounded in combat. The AC of a character is determined at character creation (see [chapter 2](https://www.dndbeyond.com/sources/dnd/phb-2024/creating-a-character)), whereas the AC of a monster appears in its stat block.
+
+**_Calculating AC._** All creatures start with the same base AC calculation:
+
+**Base AC** = 10 + the creature’s Dexterity modifier
+
+A creature’s AC can then be modified by armor, magic items, spells, and more.
+
+**_Only One Base AC._** Some spells and class features give characters a different way to calculate their AC. A character with multiple features that give different ways to calculate AC must choose which one to use; only one base calculation can be in effect for a creature.
 
 # @Magic Action
 
@@ -157,14 +169,14 @@ When you take the Magic Action, you cast a spell.
 
 The number of actions required depends on the spell slot used.
 
-|Spell Type|Cost|
-|---|---|
-|Cantrip|1 Action|
-|Primary Slot Spell|2 Actions|
-|Secondary Slot Spell|2 Actions|
-|Tertiary Slot Spell|Special|
+| Spell Type           | Cost      |
+| -------------------- | --------- |
+| Cantrip              | 1 Action  |
+| Primary Slot Spell   | 2 Actions |
+| Secondary Slot Spell | 2 Actions |
+| Tertiary Slot Spell  | 3 Actions |
 
-After casting a spell, you gain the @Fatigued condition.
+After casting a spell, you gain the @Fatigued condition until the start of your next turn.
 
 Some class features modify or ignore this penalty.
 
@@ -257,13 +269,11 @@ The Dungeon Master determines whether an interaction is sufficiently minor.
 
 # Critical Hits
 
-When you roll a 20 on an attack roll before adding any modifiers, you score a critical hit.
-
-When you score a critical hit, roll all damage dice associated with the attack twice and add them together.
+If you roll a 20 on the d20 for an attack roll, you score a Critical Hit, and the attack hits regardless of any modifiers or the target’s AC. A Critical Hit lets you roll extra dice for the attack’s damage against the target. Roll all of the attack’s damage dice twice and add them together. Then add any relevant modifiers.
 
 Example:
 
-A Ranger wielding a longsword rolls a 20 on their attack roll before adding their Proficiency Bonus or ability modifier. When rolling damage they roll 2d8 rather than 1d8 from the longsword, along with 4d2 instead of 2d2 from their Hunter's Mark feature. Afterwards, they add their Strength modifier once to the roll as usual.
+A Ranger wielding a longsword rolls a 20 on their attack roll before adding their Proficiency Bonus or ability modifier. When rolling damage they roll 2d8 rather than 1d8 from the longsword, along with 4d4 instead of 2d4 from their Hunter's Mark feature. Afterwards, they add their Strength modifier once to the roll as usual.
 
 Some class features modify critical hit rules.
 

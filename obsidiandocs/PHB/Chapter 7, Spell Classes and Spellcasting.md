@@ -1383,7 +1383,7 @@ If you want to cast either spell at a higher level, you must expend a spell slot
 
 
 
-
+# Magic
 
 Magic is one of the most powerful forces in the world. Whether it comes from divine faith, rigorous study, primal spirits, or forbidden bargains, magic allows creatures to shape reality in ways impossible through ordinary means.
 
@@ -1595,11 +1595,6 @@ When you take the Magic Action, you cast a spell and resolve its effects as desc
 - The calculation of your Spell Save DC.
 
 The Fatigued condition lasts until the start of your next turn.
-
-This rule represents the effort required to channel magical power repeatedly in a short period of time.
-
-Some classes gain features that reduce or remove the effects of magical fatigue.
-
 
 ## How are Spells Cast?
 
