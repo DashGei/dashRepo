@@ -35,7 +35,7 @@ Initiative determines the order of turns during combat. When combat starts, ever
 
 **On your turn, you can move a distance up to your @Speed and take two actions.**
 
-The main actions you can take are listed in “@Actions" later in this chapter. A character’s features and a monster’s stat block also provide action options. “@Movement” later in this chapter gives the rules for movement.
+The main combat actions you can take are listed in “@Actions" later in this chapter. A character’s features and a monster’s stat block also provide action options. “@Movement” later in this chapter gives the rules for movement. If you are looking for a comprehensive list of actions, look inside the rules glossary.
 
 **_Communicating._** You can communicate however you are able—through brief utterances and gestures—as you take your turn. Doing so does not require an action on your part.
 

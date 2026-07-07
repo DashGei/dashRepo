@@ -84,7 +84,7 @@ Group checks are most commonly used for:
 
 ---
 
-# Working Together
+# Working Together, Two at a Time
 
 Two or more characters can cooperate when attempting a task.
 
@@ -98,11 +98,17 @@ Typically no more than two players may attempt an ability check, and the DM may 
 
 # Social Interaction
 
-Conversations with creatures are resolved through roleplaying first and dice second.
+Roleplaying is, literally, the act of playing out a role. In this case, it’s you as a player determining how your character thinks, acts, and talks. Roleplaying is part of every aspect of the game, and it comes to the fore during social interactions.
 
-Players are encouraged to describe what their characters say and how they approach a conversation before the DM determines whether they make a roll or not.
+The DM uses an NPC’s personality and your character’s actions and attitudes to determine how an NPC reacts. A cowardly bandit might buckle under threats of imprisonment. A stubborn merchant refuses to help if the characters badger her. A vain dragon laps up flattery.
 
-When a roll is required, common skills include:
+When interacting with an NPC, pay attention to the DM’s portrayal of the NPC’s personality. You might be able to learn an NPC’s goals and then use that information to influence the NPC.
+
+If you offer NPCs something they want or play on their sympathies, fears, or goals, you can form friendships, ward off violence, or learn a key piece of information. On the other hand, if you insult a proud warrior or speak ill of a noble’s allies, your efforts to convince or deceive will likely fail.
+
+Players are encouraged to describe  what their characters say and how they approach a conversation before the DM determines whether they make a roll or not.
+
+When a roll is required skills include:
 
 - Deception
     
@@ -113,10 +119,7 @@ When a roll is required, common skills include:
 - Persuasion
 
 
-The circumstances of the interaction often matter as much as the result of the roll.
-
-A high result cannot force a creature to act against its nature, beliefs, or self-interest.
-
+The circumstances of the interaction often matter as much as the result of the roll, a high roll doesn't mean a creature will act against their beliefs or nature.
 
 ---
 
@@ -147,7 +150,7 @@ The more information the players provide, the more information the Dungeon Maste
 
 # Actions
 
-Most activities in and out of combat require actions. A creature has two actions to use on their turn, and regains these actions when their next turn starts. 
+Most activities in and out of combat require actions. A creature has two actions to use on their turn, and regains these actions when their next turn starts.  If you are looking for a comprehensive list of actions, look inside the rules glossary.
 
 Actions have different costs, for example the attack action costs one action, and so does the dash action, so you can dash and attack to use all of your actions in one turn.
 

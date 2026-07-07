@@ -82,6 +82,17 @@
             transparent);
 }
 
+h5 {
+    background-image: linear-gradient(to bottom, #e0d83f, #c5b54f, #b8b153, #cd5694);
+    background-clip: text;
+    color: transparent;
+    line-height: 60px;
+    text-align: center;
+    font-size: 60px;
+    letter-spacing: 1.5px;
+    font-family: Draconis;
+}
+
 h1 {
     background-image: linear-gradient(to top, #f7da00, #e1aa6c, #e16cc6, #e16cc6);
     background-clip: text;
@@ -112,7 +123,19 @@ h3 {
     color: transparent;
 }
 
+h4 {
+    background-image: linear-gradient(to right, #7aebc9, #59d373, #84fed9);
+    background-clip: text;
+    line-height: 40px;
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-family: Draconis;
+    color: transparent;
+}
 
+li {
+  line-height: 27px;
+}
 
 
 body {

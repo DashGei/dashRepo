@@ -31,80 +31,24 @@ Most groups consist of four to six players and one Dungeon Master.
 
 ## How the Game Works
 
-The Dungeon Master describes a situation.
+The three main pillars of play are social interaction, exploration, and combat. Whichever one you’re experiencing, the game unfolds according to this basic pattern:
 
-The players explain what their characters attempt to do.
+1. **The Dungeon Master Describes a Scene.** The DM tells the players where their adventurers are and what’s around them (how many doors lead out of a room, what’s on a table, and so on).
+2. **The Players Describe What Their Characters Do.** Typically, the characters stick together as they travel through a dungeon or another environment. Sometimes different adventurers do different things: one adventurer might search a treasure chest while a second examines a mysterious symbol engraved on a wall and a third keeps watch for monsters. Outside combat, the DM ensures that every character has a chance to act and decides how to resolve their activity. In combat, the characters take turns.
+3. **The DM Narrates the Results of the Adventurers’ Actions.** Sometimes resolving a task is easy. If an adventurer walks across a room and tries to open a door, the DM might say the door opens and describe what lies beyond. But the door might be locked, the floor might hide a trap, or some other circumstance might make it challenging for an adventurer to complete a task. In those cases, the DM might ask the player to roll a die to help determine what happens. Describing the results often leads to another decision point, which brings the game back to step 1.
 
-When the outcome is uncertain, dice are rolled to determine success or failure.
+This pattern holds during every game session (each time you sit down to play D&D), whether the adventurers are talking to a noble, exploring a ruin, or fighting a dragon. In certain situations—particularly combat—the action is more structured, and everyone takes turns.
 
-Together, the players and DM create a shared story through the choices of the characters and the consequences of those choices.
+## Campaigns
 
-At its core, Mordschlag is an adventure supported by rules.
+A campaign is a series of adventures with a consistent group of adventurers following the narrative.
 
----
+Some campaigns are episodic, where each adventure is its own tale and not much besides the player characters links it to the next one. Other campaigns involve long-running plots, a cast of recurring NPCs, and themes that span multiple adventures, leading toward a climactic conclusion.
 
-## Core Concepts
-
-### Two-Action Turns
-
-Every character receives two actions on their turn.
-
-You may use these actions to attack, cast spells, move tactically, aid allies, or perform countless other tasks.
-
-This flexible action economy encourages meaningful decisions every round.
-
-### Gameplay Supported by Imagination
-
-**Ultimately**, the rules are there to support the overall narrative of the story and game. A Barbarian's building rage represents how their fury and motivation increase as they spend time in combat and watch their allies take hits.
-
-### Tactical Combat
-
-Positioning, forward thinking, and a careful eye are the ways to survive and thrive in the throws of battle.
-
-### Martial Feats
-
-Martial characters possess access to powerful combat techniques known as Martial Feats.
-
-These feats provide martial classes with a wide variety of tactical and exploration orientated options, allowing them to specialize and adapt to different situations.
-
-### Spellcasting
-
-Spellcasters pull from a vast array of magical expressions called spells.
-
-Spells enable a caster to produce wonderous effects, such as great blasts of lighting, or create doors to other realms.
-
-### Teamwork
-
-Success rarely belongs to a single hero.
-
-Many abilities are designed to support allies, create opportunities for the party, and reward coordinated play.
-
-Characters who work together are far more effective than characters acting alone.
-
----
-
-## The Role of the Dungeon Master
-
-The Dungeon Master serves as referee, narrator, and worldbuilder.
-
-The DM describes the environment, portrays creatures and non-player characters, adjudicates rules interactions, and determines the consequences of player actions.
-
-The DM is not the opponent of the players. Instead, the DM presents challenges, opportunities, and situations that allow the story to unfold.
-
----
-
-## The Golden Rule
-
-The rules exist to support the game, not replace it.
-
-When unusual situations arise, the Dungeon Master makes the final ruling. Use common sense, maintain consistency, and prioritize the enjoyment of the group.
-
-The purpose of the rules is to help create memorable adventures, exciting challenges, and meaningful choices. The main purpose of the game is to have fun!
-
----
+As with adventures, a DM might create a campaign from scratch, assemble a campaign from published adventures, or mix homemade material with published material. And the campaign might take place in a world of the DM’s creation or in a published campaign setting, such as the Forgotten Realms or Greyhawk (the latter is described in the Dungeon Master’s Guide).
 
 ## What Comes Next?
 
 The next chapters introduce the core rules that govern characters and the world around them.
 
-You will learn how ability scores work, how to resolve actions, and how to create your own character before selecting a class and beginning your adventures.
+You will learn how ability scores work, how to resolve actions, and how to create your own character before selecting a class and beginning your adventures. 

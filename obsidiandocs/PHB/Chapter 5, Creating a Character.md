@@ -17,7 +17,7 @@ Imagine yourself at a party or other social gathering. You should be able to ima
 
 This ensures that your character will be able to function well with the other people at your table, but it also means your character won't just be yourself. Never make a character that would not join up with your other party members.
 
-**Next** choose your character's background. Why are they looking out for adventure? Do they seek to indiscriminately aid the good people of the world? Do they require money to pursue a personal goal? Are they looking for a person or magical artifact?
+**Next** choose your character's background. Why are they looking out for adventure? Do they seek to indiscriminately aid the good people of the world? Do they require money to pursue a personal goal? Are they looking for a person or artifact?
 
 Your character's personality is also important at this step, what led to them behaving they way they do? Why do they react to the world in their own unique way? Think about the answers to some of the following questions:
 

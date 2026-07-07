@@ -54,20 +54,17 @@ Some Boons and Woes require the tracking of the Velthraen Calendar. Also if a Bo
 | Lucae | Prydei | Bahaphay | Hephdach | Frejdag | Sulsdak | Same'ih |
 | ----- | ------ | -------- | -------- | ------- | ------- | ------- |
 
-## Ea’or and Lumiere
+## Ea’or
 _The Lovers, Patron of Passion and Aesthetics_
-_The Moon, Patron of Discipline and Archery_
 
 Ea'or  is the embodiment of the smaller, fuchsia star in the center of the planescape. Ea'or was created alongside their companion god Sol when the central star was split upon arrival of the gods. Ea'or is responsible for the creation of Elves, and their daughter goddess Lumiere who embodies the moon.
 
-**Domains:** Beauty, dedication, passion, twilight, night, Elves
-**Worship Method:** Discipline (creating or appreciating art, perfecting a craft)
+**Domains:** Beauty,  passion, twilight, Elves
+**Worship Method:** Discipline (creating or appreciating art)
 
 **Favor Criteria:**
 
 - The party commissions, restores, or protects a significant work of art.
-    
-- A party member spends meaningful downtime practicing a craft and produces something of quality.
     
 - Two or more party members share a bottle of wine in Ea’or’s name.
     
@@ -81,20 +78,58 @@ Ea'or  is the embodiment of the smaller, fuchsia star in the center of the plane
     
 - The party sides with Drow or agent(s) of Lolth.
 
-**Boons:**
+### Boons
 
-- **Minor Boon (FP 3-5): Silver Sight.** One per Long rest the DM bestows the party with the Silver Sight racial bonus for one hour. An Elf receives the benefits even if they are not in moonlight.
+**Minor Boon (FP 3-5): Silver Tongues.** Party members re-roll any 1s on Charisma (Performance) checks.
+
+**Boon (FP 6-9): Moonchild.** Once per long rest, a party member can cast the spell *Invisibility* without expending a spell slot.
+
+**Major Boon (FP 10): Ea’or’s Muse.** Once per week (resetting on Same'ih), the party can complete a long rest in 4 hours instead of 8 if bathed in direct moonlight. Additionally, any Charisma ability checks made on the subsequent day gain a 1d4 bonus.
+
+### Woes
+
+**Minor Woe (FP -3 to -4): Jaded Eye.** The first Charisma check a party member makes per day suffers a –1d4 penalty.
+
+**Greater Woe (FP -5): See How You Like It.** Once per week (resetting on Same'ih), none of the party's accomplishments are recognized in any meaningful way.
+
+## Lumiere
+_The Moon, Patron of Discipline_
+
+Lumiere reflects her parent deity's light so that her followers may see through the night. To her and her devotees, every arrow loosed, silent footstep felled, and craft perfected is a work of art unto itself. 
+
+**Domains:** Discipline, archery, precision, moonlight, perfection, mastery of the self, Moor Elves
+**Worship Method:** **Discipline** (patient practice, precision, and quiet improvement.)
+
+
+### Favor Criteria
+
+- A party member spends downtime meditating, maintaining their bow, and fletching arrows.
     
-- **Boon (FP 6-9): Moonchild.** Once per week (resetting on Same'ih), the party can complete a long rest in 4 hours instead of 8 if bathed in direct moonlight. Additionally, any Charisma ability checks made on the subsequent day gain a +1 bonus.
+- The party completes a difficult task through patience rather than speed.
     
-- **Major Boon (FP 10): Ea’or’s Muse.** Once per long rest, a party member can cast the spell *Invisibility* without expending a spell slot.
-
-
-**Woes:**
-
-- **Minor Woe (FP -3 to -4): Jaded Eye.** The first Charisma (Performance) check a party member makes per day suffers a –1d4 penalty.
+- Two or more party members train together during a long rest or downtime.
     
-- **Greater Woe (FP -5): Under a Glass Moon.** Moonlight seems dimmer to the party. During nighttime, they have disadvantage on Perception checks that rely on sight unless they use artificial light.
+- A party member willingly repeats a failed attempt until they succeed instead of abandoning it.
+
+### Disfavor Criteria
+
+- A party member abandons a worthy pursuit simply because it proves difficult.
+    
+- A party member knowingly neglects their equipment or training.
+
+### Boons
+
+**Minor Boon (FP 3-5): Moonlit Meditations.** Repeated failed mentorship checks no longer prevent party members from learning skills until level up.
+
+**Boon (FP 6-9): Deft.** During nighttime, party members re roll 1s on ranged attack rolls with ranged weapon attacks.
+
+**Major Boon (FP 10): Silver Sights.** The party has the Silver Sight racial bonus. An Elf receives the benefits even if they are not in moonlight.
+
+### Woes
+
+**Minor Woe (FP -3 to -4): Shaken Hands.** Once per day, the first time a party member makes an attack roll with a ranged weapon or a Dexterity-based tool check, subtract 1d4 from the roll.
+
+**Greater Woe (FP -5): Under a Glass Moon.** During nighttime outdoors, the party has Disadvantage on Perception checks that rely on sight even in lit spaces.
 
 ## Frey
 _The World, Guardian of the Hearth_
@@ -122,19 +157,19 @@ Frey is the patron god of Halflings, homely ideals, and taking in strangers from
     
 - The party is exceptionally impolite to people hosting them.
 
-**Boons:**
+### Boons
 
-- **Minor Boon (FP 3-5): Hearty Meal.** Once per long rest, when the party finishes a short rest and consumes food, each member regains an extra 1d4 hit points.
-    
-- **Boon (FP 6-9): Kind Beginnings.** Once per long rest, when the party meets a new NPC, 2d6 is added to the first Charisma check made with that creature.
-    
-- **Major Boon (FP 10): Cornucopia.** Once per week (Resetting on Frejdag), when a party member opens an unoccupied room (such as a rented chamber, an abandoned cottage, or a cleared cellar), the DM may have a _Heroes’ Feast_ spell appear inside, laid out moments before their arrival. A card depicting a cornucopia with fine lettering reading, _“To my good friends, come and make merry,”_ rests plainly upon the feast.
+**Minor Boon (FP 3-5): Hearty Meal.** Once per long rest, when the party finishes a short rest and consumes food, each member regains an extra 1d4 hit points.
 
-**Woes:**
+**Boon (FP 6-9): Kind Beginnings.** Once per long rest, when the party meets a new NPC, 2d6 is added to the first Charisma check made with that creature.
 
-- **Minor Woe (FP -3 to -4):** Once per week, when the party visits a hostel or inn, that inn is closed or otherwise unaccepting of guests.
-    
-- **Greater Woe (FP -5):** Once per week at the DM's discretion, parties must make a DC 15 Strength saving throw or be poisoned by bad food for an hour upon waking.
+**Major Boon (FP 10): Cornucopia.** Once per week (Resetting on Frejdag), when a party member opens an unoccupied room (such as a rented chamber, an abandoned cottage, or a cleared cellar), the DM may have a _Heroes’ Feast_ spell appear inside, laid out moments before their arrival. A card depicting a cornucopia with fine lettering reading, _“To my good friends, come and make merry,”_ rests plainly upon the feast.
+
+### Woes
+
+**Minor Woe (FP -3 to -4) No Quarter:** Once per week, when the party visits a hostel or inn, that inn is closed or otherwise unaccepting of guests.
+
+**Greater Woe (FP -5) Bleugh:** Once per week at the DM's discretion, parties must make a DC 15 Strength saving throw or be poisoned by bad food for an hour upon waking.
 
 
 ## Sol
@@ -165,17 +200,17 @@ Sol is the greater, golden star that warms the world and the patron god of Orcs.
 
 ### Boons
 
-- **Minor Boon (FP 3-5):  Vigor.** Once per long rest, when a party member drops below half hitpoints, the spell Heroism is cast on them using that character's Mental Modifier
-    
-- **Boon (FP 6-9): Glory Be.** Once per long rest, when a party member fails a saving throw against the frightened or charmed condition, the DM may allow them to succeed instead. If the condition was caused by an undead or fiend, the source takes radiant damage equal to your level.
-    
-- **Major Boon (FP 10): Under The Sun.** Once per long rest, one party member can cast *Daylight*, or if they have direct sunlight, *Flame Strike* without the expenditure of a spell slot. 
+**Minor Boon (FP 3-5):  Vigor.** Once per long rest, when a party member drops below half hitpoints, the spell Heroism is cast on them using that character's Mental Modifier
+
+**Boon (FP 6-9): Glory Be.** Once per long rest, when a party member fails a saving throw against the frightened or charmed condition, the DM may allow them to succeed instead. If the condition was caused by an undead or fiend, the source takes radiant damage equal to your level.
+
+**Major Boon (FP 10): Under The Sun.** Once per long rest, one party member can cast *Daylight*, or if they have direct sunlight, *Flame Strike* without the expenditure of a spell slot. 
 
 ### Woes
 
-- **Minor Woe (FP -3 to -4): Waning Courage.** Once per day, the first time one party member would gain the frightened condition, all party members within 15 feet of them must also make the same saving throw or suffer the full effects.
-    
-- **Greater Woe (FP -5): Sensitive to Light.** While in direct sunlight, the party no longer benefits from healing during short rests. Additionally, undead, celestials, and fiendish creatures have advantage on attacks against them until dusk.
+**Minor Woe (FP -3 to -4): Waning Courage.** Once per day, the first time one party member would gain the frightened condition, all party members within 15 feet of them must also make the same saving throw or suffer the full effects.
+
+**Greater Woe (FP -5): Sensitive to Light.** While in direct sunlight, the party no longer benefits from healing during short rests. Additionally, undead, celestials, and fiendish creatures have advantage on attacks against them until dusk.
 
 ## Lucifer
 _The Devil, Patron of Comeuppance_
@@ -209,17 +244,17 @@ Any and all evil creatures have made a pact with Lucifer whether they know it or
 
 ### Boons
 
-- **Minor Boon (FP 3-5): Sympathy for the Devil.** Party members re-roll any 1s on Deception checks.
-    
-- **Boon (FP 6-9): Sinister Purpose.** Once per long rest, when a party member is reduced to 0 hit points. The creature that damaged them becomes marked with an invisible sigil; the party knows its direction for 1 hour. If the marked creature is reduced to 0 hit points before the hour ends, the party member regains PB x 1d6 hitpoints.
-    
-- **Major Boon (FP 10): Hellish Arbiter.** Once per week (resetting on Lucae), the party may make a pact: When an NPC willingly signs a written agreement without magical influence a Cambion appears and writes his own name alongside the NPC's. If the NPC ever breaks this agreement they are immediately reduced to 1 hitpoint and teleported to the party's location with the restrained condition for an hour as they are bound by hot iron chains. A creature bound in this way in unable to verbalize anything but truths. This part of the pact must be stated in the agreement.
+**Minor Boon (FP 3-5): Sympathy for the Devil.** Party members re-roll any 1s on Deception checks.
+
+**Boon (FP 6-9): Sinister Purpose.** Once per long rest, when a party member is reduced to 0 hit points. The creature that damaged them becomes marked with an invisible sigil; the party knows its direction for 1 hour. If the marked creature is reduced to 0 hit points before the hour ends, the party member regains PB x 1d6 hitpoints.
+
+**Major Boon (FP 10): Hellish Arbiter.** Once per week (resetting on Lucae), the party may make a pact: When an NPC willingly signs a written agreement without magical influence a Cambion appears and writes his own name alongside the NPC's. If the NPC ever breaks this agreement they are immediately reduced to 1 hitpoint and teleported to the party's location with the restrained condition for an hour as they are bound by hot iron chains. A creature bound in this way in unable to verbalize anything but truths. This part of the pact must be stated in the agreement.
 
 ### Woes
 
-- **Minor Woe (FP -3 to -4): Forked Tongue.** Party members re-roll any 1s on Persuasion checks.
-    
-- **Greater Woe (FP -5): Mark of the Default.** A faint, infernal brand appears on the party’s palms, visible only to fiends and those who deal in souls. Devils and other lawful evil outsiders know if the party tells a lie to them, and their attacks add an additional 1d4 fire damage to party members.
+**Minor Woe (FP -3 to -4): Turn of the Screw.** Party members never have Advantage on Charisma checks against Devils.
+
+**Greater Woe (FP -5): Mark of the Default.** A faint, infernal brand appears on the party’s palms, visible only to fiends and those who deal in souls. Devils and other lawful evil outsiders know if the party tells a lie to them, and their attacks add an additional 1d4 fire damage to party members.
 
 ## Yaldabaoth
 _The Tower, Patron of Chaos
@@ -231,9 +266,11 @@ Below the blasted mountains of Hell are the endless and cyclopean labyrinths whi
 
 ### Favor Criteria
 
-- The party makes an effort to disrupt a system.
+- The party convinces enemies to turn on their leader.
     
 - The party infiltrates their enemies before defeating them.
+    
+- The party turns a rigid system against itself.
     
 - They behead their enemies in the name of Yaldabaoth.
 
@@ -245,17 +282,17 @@ Below the blasted mountains of Hell are the endless and cyclopean labyrinths whi
 
 ### Boons
 
-- **Minor Boon (FP 3-5): Hatred.** The party adds 1d4 to saving throws made against spells of the Enchantment school.
-    
-- **Boon (FP 6-9): Fortified Veins.** When a party member has the Poisoned condition they do not have disadvantage on ability checks.
-    
-- **Major Boon (FP 10): Blanked.** Once per day, when a party member lands a critical hit on an enemy that creature is effected by the *Crown of Madness* spell until the start of their next turn.
+**Minor Boon (FP 3-5): Hatred.** The party adds 1d4 to saving throws made against spells of the Enchantment school.
+
+**Boon (FP 6-9): Fortified Veins.** When a party member has the Poisoned condition they do not have disadvantage on ability checks.
+
+**Major Boon (FP 10): Blanked.** Once per day, when a party member lands a critical hit on an enemy that creature is effected by the *Crown of Madness* spell until the start of their next turn.
 
 ### Woes
 
-- **Minor Woe (FP -3 to -4): Mind Blight.** While poisoned, a party member also has disadvantage on Wisdom saving throws.
-    
-- **Greater Woe (FP -5): Ailed.** Any party members with resistance or immunity to the Poisoned condition no longer have that resistance or immunity.
+**Minor Woe (FP -3 to -4): Mind Blight.** While poisoned, a party member also has disadvantage on Wisdom saving throws.
+
+**Greater Woe (FP -5): Ailed.** Any party members with resistance or immunity to the Poisoned condition no longer have that resistance or immunity.
 
 ## Ur
 _The High Priestess, Patron of Fear_
@@ -293,9 +330,9 @@ Devils and Demons are a dime a dozen, but the rarer, more powerful children of U
 
 ### Woes
 
-- **Minor Woe (FP -3 to -4): In the Shadows.** When  the party takes a short or long rest the DM rolls 1d12 in secret. On 1-4 nothing appears, on 5-11 two members hallucinate their fears on the edge of the Short Rest area, on a 12 a Merrenoloth appears on the edges of the area in the appearance of the party's fears.
-    
-- **Greater Woe (FP -5): Primal Fears.** Any party members with resistance or immunity to the Frightened condition no longer have that resistance or immunity.
+**Minor Woe (FP -3 to -4): In the Shadows.** When  the party takes a short or long rest the DM rolls 1d12 in secret. On 1-4 nothing appears, on 5-11 two members hallucinate their fears on the edge of the Short Rest area, on a 12 a Merrenoloth appears on the edges of the area in the appearance of the party's fears.
+
+**Greater Woe (FP -5): Primal Fears.** Any party members with resistance or immunity to the Frightened condition no longer have that resistance or immunity.
 
 ## Helm
 _Strength, Patron of Readiness_
@@ -333,9 +370,9 @@ Helm is the god of watchfulness, preparation, and the sudden storm that tests a 
 
 ### Woes
 
-- **Minor Woe (FP -3 to -4): Unwatched Moment.** Once per day, the first time a party member makes a Wisdom (Perception) check check they roll with disadvantage.
-    
-- **Greater Woe (FP -5): Storm’s Ire.** Once per week, when the party travels overland, the DM may send a localized storm to harry them. The storm lasts 8 hours, imposing disadvantage on Wisdom (Perception) checks that rely on sight or sound, extinguishing unprotected flames, and halving their travel speed. The party’s first attempt to take a short rest during this storm is interrupted by a sudden, deafening thunderclap.
+**Minor Woe (FP -3 to -4): Unwatched Moment.** Once per day, the first time a party member makes a Wisdom (Perception) check check they roll with disadvantage.
+
+**Greater Woe (FP -5): Storm’s Ire.** Once per week, when the party travels overland, the DM may send a localized storm to harry them. The storm lasts 8 hours, imposing disadvantage on Wisdom (Perception) checks that rely on sight or sound, extinguishing unprotected flames, and halving their travel speed. The party’s first attempt to take a short rest during this storm is interrupted by a sudden, deafening thunderclap.
 
 ## Gri
 _The Hermit, Patron of  the Harvest_
@@ -343,7 +380,7 @@ _The Hermit, Patron of  the Harvest_
 Gri walks the Shadowfell, but his hand touches the harvest fields and the lonely road alike. He is the patron of autumn’s last bounty, the traveler who reaches the inn just as the door closes, and the gentle guide who leads souls into the afterlife. His followers pray for full granaries, safe journeys, and a peaceful death for those they love.
 
 **Domains:** Harvest, autumn to early winter, safe travel, the process of death.  
-**Worship Method:** Devotion (communal observance; offering thanks at harvest, praying at roadside shrines, and performing proper funeral rites)
+**Worship Method:** Devotion (holiday observance, offering thanks at harvest, praying at roadside shrines, and performing proper funeral rites)
 
 ### Favor Criteria
 
@@ -367,17 +404,17 @@ Gri walks the Shadowfell, but his hand touches the harvest fields and the lonely
 
 ### Boons
 
-- **Minor Boon (FP 3-5): Pathmaker’s Blessing.** Once per long rest, when the party is travelling they can roll 1d6, on a 4-6 the party completes two days of travel in half the time.
-    
-- **Boon (FP 6-9): After All.** Once per long rest, the party can cast the spell  *Speak with Dead* as a ritual. 
-    
-- **Major Boon (FP 10): Heavens Can Wait.** On Frejdags, the party gains the benefits of the Death Ward spell when they take a long rest.
+**Minor Boon (FP 3-5): Pathmaker’s Blessing.** Once per long rest, when the party is travelling they can roll 1d6, on a 4-6 the party completes two days of travel in half the time.
+
+**Boon (FP 6-9): After All.** Once per long rest, the party can cast the spell  *Speak with Dead* as a ritual. 
+
+**Major Boon (FP 10): Heavens Can Wait.** On Frejdags, the party gains the benefits of the Death Ward spell when they take a long rest.
 
 ### Woes
 
-- **Minor Woe (FP -3 to -4): Bad Moon Rising.** Once per day, the party’s overland travel is mysteriously hindered: a sudden fog, a crumbled bridge, or other hazard delays them for 1 hour.
-    
-- **Greater Woe (FP -5): Children of the Grave.** When the party takes a long rest the DM rolls 1d8. On a 8 a number of Will-o'-Wisps spawn in the distance equal to the party's PB x 1d2.
+**Minor Woe (FP -3 to -4): Bad Moon Rising.** Once per day, the party’s overland travel is mysteriously hindered: a sudden fog, a crumbled bridge, or other hazard delays them for 1 hour.
+
+**Greater Woe (FP -5): Children of the Grave.** When the party takes a long rest the DM rolls 1d8. On a 8 a number of Will-o'-Wisps spawn in the distance equal to the party's PB x 1d2.
 
 ## Ilxi
 _The Wheel, Patron of Fortune_
@@ -393,7 +430,7 @@ Ilxi came to the world and immediately became obsessed with two subjects, Humans
     
 - Two or more party members place bets against one another.
     
-- The party is nice to a feline creature.
+- The party goes out of their way to aid a feline creature.
     
 - The party wins a game by misdirection.
 
@@ -405,23 +442,22 @@ Ilxi came to the world and immediately became obsessed with two subjects, Humans
 
 ### Boons
 
-- **Minor Boon (FP 3-5): Fast Hands.** Party members re-roll any 1s on Dexterity (Sleight of Hand) checks.
-    
-- **Boon (FP 6-9): Aces High.** When a party member rolls with advantage they may re-roll any 1s.
-    
-- **Major Boon (FP 10): Wheels of Confusion.** Once per long rest, when a party member scores a critical hit against an enemy, that enemy becomes effected by the *Confusion* spell until the end of its next turn.
+**Minor Boon (FP 3-5): Fast Hands.** Party members re-roll any 1s on Dexterity (Sleight of Hand) checks.
+
+**Boon (FP 6-9): Aces High.** When a party member rolls with advantage they may re-roll any 1s.
+
+**Major Boon (FP 10): Wheels of Confusion.** Once per long rest, when a party member scores a critical hit against an enemy, that enemy becomes affected by the *Confusion* spell until the end of its next turn.
 
 ### Woes
 
-- **Minor Woe (FP -3 to -4): Lullaby Letter.** Once per day, when a party member makes a saving throw against an illusion or Enchantment spell, that roll has 1d4 subtracted.
-    
-- **Greater Woe (FP -5): Fool Like You.** Once per long rest, when a party member rolls a natural 1 on an attack roll it hits a different creature of the DM's choice within the range of that attack.
+**Minor Woe (FP -3 to -4): Lullaby Letter.** Once per day, when a party member makes a saving throw against an Illusion spell, that roll has 1d4 subtracted.
+
+**Greater Woe (FP -5): Fool Like You.** Once per long rest, when a party member rolls a natural 1 on an attack roll it hits a different creature of the DM's choice within the range of that attack.
 
 ## The Crimson King
 _The Emperor, Patron of Tyranny_
 
 The Crimson King is the self appointed lord of all civilization. He believes that peace is achieved only through absolute authority. To him, hierarchy is the highest expression of reason and every creature belongs beneath another, and every ruler should rule without compromise. Kings, conquerors, magistrates, and slavers alike invoke his name, though many never realize whose philosophy they truly serve.
-
 
 **Domains:** Authority, conquest, law, hierarchy, domination
 **Worship Method:** Ideals (establishing order through authority and obedience.)
@@ -438,7 +474,7 @@ The Crimson King is the self appointed lord of all civilization. He believes tha
 
 ### Disfavor Criteria
 
-- The party foments rebellion which they don't believe in.
+- The party aids a rebellion they don't believe in.
     
 - A party member openly refuses a rightful command out of pride or spite.
     
@@ -446,29 +482,24 @@ The Crimson King is the self appointed lord of all civilization. He believes tha
 
 ### Boons
 
-**Minor Boon (FP 3-5): Commanding Presence.**  
-Once per long rest when a party member uses.
+**Minor Boon (FP 3-5): Commanding Presence.** Once per long rest a party member can use the Commanding Presence feat as an action without expending a Feat Slot.
 
-**Boon (FP 6-9): Ordered Advance.**  
-Once per long rest, after initiative is rolled, two party members may choose to swap rolls with each other.
+**Boon (FP 6-9): Ordered Advance.** Once per long rest, after initiative is rolled, two party members may choose to swap rolls with each other.
 
-**Major Boon (FP 10): Crown of Iron.**  
-Once per week (resetting on Lucae), one party member may cast _Dominate Person_ without expending a spell slot.
+**Major Boon (FP 10): Crown of Iron.** Once per week (resetting on Lucae), one party member may cast _Dominate Person_ without expending a spell slot.
 
 ### Woes
 
-**Minor Woe (FP -3 to -4): Discord.**  
-Once per day, the first Help action taken by a party member automatically fails.
+**Minor Woe (FP -3 to -4): Banded.**  
+Once per day, one enemy can use the Help action on their turn at no action cost.
 
 **Greater Woe (FP -5): Broken Chain.**  
 Whenever initiative is rolled, the DM may choose two party members. Until the end of the first round, they cannot willingly end their turns within 10 feet of one another.
 
----
-
 ## Ilmater
 _The Hanged Man, Patron of Mercy_
 
-Ilmater bears every wound willingly so another need not suffer it. He teaches that true strength is measured by compassion freely given, forgiveness sincerely offered, and burdens carried without expectation of reward. His shrines are simple places where the sick are tended, prisoners are fed, and even enemies receive feed.
+Ilmater bears every wound willingly so others need not suffer them. He teaches that true strength is measured by compassion that is freely given, forgiveness that is sincerely offered, and burdens carried without expectation of reward. His shrines are simple places where the sick are tended, prisoners are fed, and even enemies receive care.
 
 **Domains:** Mercy, compassion, endurance, healing, forgiveness
 **Worship Method:** Ideals (showing compassion even when it is personally costly.)
@@ -495,70 +526,442 @@ Ilmater bears every wound willingly so another need not suffer it. He teaches th
 
 ### Boons
 
-**Minor Boon (FP 3-5): Gentle Hands.**  
-Once per long rest, when a party member restores hit points to another creature, that creature also gains temporary hit points equal to the healer's proficiency bonus.
+**Minor Boon (FP 3-5): Gentle Hands.** Once per long rest, when a party member restores hit points to another creature, that creature also gains temporary hit points equal to the healer's proficiency bonus.
 
-**Boon (FP 6-9): Shared Burden.**  
-Once per long rest, when a creature within 30 feet takes damage, one party member may use their reaction to take half of that damage instead. This damage cannot be reduced or prevented.
+**Boon (FP 6-9): Burdens Bared.** Once per long rest, when a creature within 5 feet takes damage, one party member may use their reaction to take half of that damage instead. This damage cannot be reduced or prevented.
 
-**Major Boon (FP 10): Martyr's Grace.**  
-Once per week (resetting on Same'ih), when a party member would be reduced to 0 hit points, another willing party member within 60 feet may choose to fall to 1 hit point instead. The original creature immediately regains hit points equal to half its maximum hit points.
+**Major Boon (FP 10): Martyr's Grace.** Once per week (resetting on Same'ih), when a party member would be reduced to 0 hit points, another willing party member within 60 feet may choose to fall to 1 hit point instead. The original creature immediately regains hit points equal to half its maximum hit points.
 
 ### Woes
 
-**Minor Woe (FP -3 to -4): Hardened Heart.**  
-Once per day, the first time a party member restores hit points to another creature, reduce the healing by 1d4.
+**Minor Woe (FP -3 to -4): Hardened Heart.** Once per day, the first time a party member restores hit points to another creature, reduce the healing by 1d4.
 
-**Greater Woe (FP -5): Unshared Pain.**  
-Whenever a party member regains hit points from a spell or feature cast by another creature, they regain only half the normal amount (rounded up).
-
-
-
-## The Crimson King
-_The Emperor, Patron of Tyranny_
-
-## Ilmater
-_The Hanged Man, Patron of Mercy_
+**Greater Woe (FP -5): Unworthy.** Whenever a party member regains hit points from a spell or feature cast by another creature, the healer takes PB x 1d2 force damage.
 
 ## Mystra
 _The Magician, Patron of the Weave_
 
+Every spell cast draws upon Mystra's endless tapestry, whether the caster knows her name or not. Mystra delights in curiosity, discovery, and the responsible pursuit of magical knowledge. She cares not what her crafts are used for, as every spell is another thread woven into her endless design.
+
+**Domains:** Magic, knowledge, discovery, the Weave
+**Worship Method:** **Discipline** (studying, preserving, and responsibly expanding magical knowledge.)
+
+### Favor Criteria
+
+- The party uncovers a previously unknown magical secret or phenomenon.
+    
+- Two or more party members work together to understand an unfamiliar magical phenomenon.
+    
+- The party preserves magical knowledge that would otherwise be lost.
+    
+- Two or more party members spend an evening discussing magic, sharing techniques, or teaching one another a skill or language.
+
+### Disfavor Criteria
+
+- The party deliberately destroys valuable magical knowledge.
+    
+- A party member uses magic recklessly when safer alternatives were readily available.
+    
+- They knowingly allow dangerous magical corruption or instability to spread.
+
+### Boons
+
+**Minor Boon (FP 3-5): Arcane Intuition.** Party members re-roll any 1s on Intelligence (Arcana) checks.
+
+**Boon (FP 6-9): Weave's Writings.** Scribing scrolls takes half the time.
+
+**Major Boon (FP 10): Magical Discoveries.**  Once per week (resetting on Hephdach), the party can choose one level 2 or lower spell, each member of the party can cast that spell once for one Long Rest.
+
+### Woes
+
+**Minor Woe (FP -3 to -4): Tangled Threads.** Once per day, the first spell cast by a party member requires a DC 10 spellcasting ability check. On a failure, the spell slot is expended but the spell has no effect.
+
+**Greater Woe (FP -5): Frayed Weave.** Whenever a party member casts a spell using their highest available spell slot, the DM may introduce a harmless but unsettling magical anomaly: voices echo backward, gravity briefly shifts, spectral lights appear, or similar manifestations. Once per long rest, one such anomaly instead causes a roll on the Wild Magic Surge table.
+
 ## Myrkul
 _Death, Patron of Corruption and Undeath_
+
+Myrkul rejects death's finality, believing that every corpse, every memory, and every fragment of life should continue serving his purpose. To his faithful, mortality is simply another resource waiting to be exploited.
+
+**Domains:** Undeath, decay, corruption, necromancy, remembrance
+**Worship Method:** **Ideals** (proving that death is merely another state of existence.)
+
+### Favor Criteria
+
+- The party willingly allies with an undead creature.
+    
+- They recover an ancient corpse or relic of the dead for preservation rather than destruction.
+    
+- A party member willingly accepts lasting physical corruption in pursuit of a greater goal.
+    
+- Two or more party members discuss what they would sacrifice to escape death.
+    
+- Two or more party members speak openly about how they wish to be remembered after death.
+
+### Disfavor Criteria
+
+- They consecrate or purify places steeped in necromantic power.
+    
+- The party aids Gri's faithful in laying restless spirits to rest.
+
+### Boons
+
+**Minor Boon (FP 3-5): Grave Stakes.**  
+Once per long rest, the first death save a party member makes has an additional 1d4 bonus.
+
+**Boon (FP 6-9): Funeralopolis.**  
+CR 2 and lower undead are not automatically hostile to the party. If their creator directed them to be hostile to all enemies or the party specifically this Boon has no effect.
+
+**Major Boon (FP 10): Pulled Under.**  
+Once per week (resetting on Bahaphay), when a humanoid dies within 60 feet of a party member, one party member may immediately cast _Animate Dead_ without expending a spell slot or material components. The undead remains animated until the next dawn, after which it peacefully collapses into an ordinary corpse.
+
+### Woes
+
+**Minor Woe (FP -3 to -4): Rot's Embrace.**  
+Whenever a party member regains hit points during a short rest, reduce the total regained by their proficiency bonus.
+
+**Greater Woe (FP -5): Death's Claim.**  
+Once per long rest when a party member rolls a Death Saving Throw, a 16-20 is re rolled.
+
 
 ## Wryth
 _The Empress, Patron of Savagery_
 
+Before cities were raised and kings crowned, Wryth ruled the wild places. She appears as a towering woman draped in the hides and antlers of beasts. She teaches that civilization has dulled mortal instincts. To survive is to trust body, blood, and intuition over law or comfort.
+
+**Domains:** Wilderness, instinct, beasts, survival, primality
+**Worship Method:** **Discipline** (embracing the hardships of the wild and living by instinct.)
+
+### Favor Criteria
+
+- The party survives in the wilderness for at least one day without relying upon civilized comforts or lodging.
+    
+- A party member hunts, fishes, or forages for sustenance.
+    
+- Two or more party members share a meal prepared from game they harvested themselves and thanks Wryth.
+    
+- The party chooses instinct over convention, succeeding where careful planning would have failed.
+
+### Disfavor Criteria
+
+- The party kills beasts for sport.
+    
+- They exploit nature in a way that leaves lasting devastation.
+    
+- The party refuses to face a natural challenge through cowardice or needless luxury.
+
+### Boons
+
+**Minor Boon (FP 3-5): Hunter's Respite.** If the party eats food gathered from nature during a long rest, the hitpoint maximum of all members is increased by their proficiency bonus until the next long rest.
+
+**Boon (FP 6-9): Wild Ones.** Party members gain the ability to communicate simple ideas to beasts, though they have no power to understand them in turn.
+
+**Major Boon (FP 10): Speech of Beasts.** Party members are always under the effects of the *Speak with Animals* spell though it does not show up in magical detection. additionally, a party member can cast the spell *Beast Sense* without spending a spell slot once per long rest.
+
+### Woes
+
+**Minor Woe (FP -3 to -4): Lost Instinct.** Party members cannot have advantage on Wisdom (Animal Handling) checks.
+
+**Greater Woe (FP -5): Stench.** Beasts begin reacting uneasily to the party. Non-magical beasts are initially indifferent at best and become hostile if threatened or cornered.
+
 ## Hephaestus
 _The Chariot, Patron of the Forge_
 
-## Bahamut
-_Judgment, Patron of Loyalty_
+Dwarves and Gnomes derive their great craftsmanship skills from their patron god Hephaestus. Hephaestus is so bound to his own principles of creativity and design that he is known to have cursed entire peoples who dare slight his gifts. 
 
-## Keep
-_The Star, Patron of Dreams_
 
-## Mettle
-_Justice, Patron of Fate_
+**Domains:** Smithing, invention, ingenuity, dedication, Dwarves, Gnomes
+**Worship Method:** **Discipline** (creating, repairing, and improving the works of civilization.)
 
-## Tempo
-_Temperance, Patron of Time_
+### Favor Criteria
 
-## Mil
-_The Fool, Patron of the Fey_
+- A party member repairs damaged equipment rather than replacing it.
+    
+- The party carves Hephaestian runes into their equipment.
+    
+- Two or more party members spend downtime working together to build, repair, or improve equipment.
+    
+- A party member bothers to go the extra mile and add personal flair to a project.
+    
+- The party solves a problem through ingenuity rather than brute force.
+
+### Disfavor Criteria
+
+- The party destroys an important work of craftsmanship unnecessarily.
+    
+- They abandon useful tools or equipment through neglect.
+    
+- The party rejects honest labor.
+
+### Boons
+
+**Minor Boon (FP 3-5): Between the Hammer and the Anvil.** Mentorship ability checks to learn Tool (Artisans tools only) or Weapon proficiencies have Advantage.
+
+**Boon (FP 6-9): Masterwork.** Crafting an object takes half the time.
+
+**Major Boon (FP 10): Sharp Minds and Blades.** Party members adds 2d6 to Intelligence checks dealing with tools, weapons, or masonry.
+
+### Woes
+
+**Minor Woe (FP -3 to -4): Dull.** Mentorship ability checks to learn Tool (Artisans tools only) or Weapon proficiencies have Disadvantage.
+
+**Greater Woe (FP -5): Cold Forge.** Crafting an object takes double the time.
 
 ## Chronicle
 _The Hierophant, Patron of Scrolls_
 
+Before kingdoms built monuments of stone, Chronicle preserved them in ink. Every treaty, every map, every family lineage, and every hero's final words pass across parchment. He teaches that memory is civilization's greatest defense against repeating its failures.
 
+**Domains:** History, writing, records, memory, scholarship
+**Worship Method:** **Discipline** (recording, preserving, and sharing knowledge.)
+
+### Favor Criteria
+
+- The party records an important event, discovery, or battle in writing.
+    
+- A party member spends downtime copying or translating a written work.
+    
+- Two or more party members share parts of their people's history.
+    
+- The party saves an important record or piece of knowledge.
+
+### Disfavor Criteria
+
+- The party deliberately destroys books, records, or historical artifacts without necessity.
+    
+- They knowingly spread false history for personal gain.
+    
+- They allow important knowledge to be permanently lost.
+
+### Boons
+
+**Minor Boon (FP 3-5): Written Twice.** Mentorship ability checks to learn Languages and Skill proficiencies have Advantage.
+
+**Boon (FP 6-9): Living Record.** Once per long rest, a party member may perfectly recall any conversation, document, symbol, or scene the party has witnessed within the last month. The recollection includes details the players themselves may have forgotten, subject to the DM's notes.
+
+**Major Boon (FP 10): Chronicle's Lesson.** Once per week (resetting on Hephdach), after completing a long rest, two willing party members may each exchange one Skill Proficiency they possess with the other until their next long rest. Neither gains proficiency they already possess.
+
+### Woes
+
+**Minor Woe (FP -3 to -4): Fade.** Once per day, when a party member attempts to recall an important detail, the DM may omit one meaningful piece of information they would otherwise remember.
+
+**Greater Woe (FP -5): Forgotten Names.** Mentorship ability checks to learn Languages and Skill proficiencies have Disadvantage.
+
+## Keep
+_The Star, Patron of Dreams_
+
+Each star in the night sky represents the memory of a great or terrible person, and all the entropy associated with them. When a mortal sleeps their souls briefly drift to this world. Some remember only fragments upon waking; others return carrying impossible ideas, forgotten memories, or glimpses of futures that may never come to pass. Keep urges his followers to look within themselves and find what they must pursue.
+
+**Domains:** Dreams, hope, prophecy, sleep, imagination
+**Worship Method:** **Ideals** (embracing dreams, inspiration.)
+
+### Favor Criteria
+
+- The party encourages another creature to pursue a hope or ambition.
+    
+- A party member journals their dreams.
+    
+- Two or more party members discuss what they hope their futures will become.
+
+### Disfavor Criteria
+
+- The party crushes another creature's aspirations.
+    
+- They abandon hope despite meaningful opportunity remaining.
+    
+- A party member knowingly betrays their own deeply held ideals.
+
+### Boons
+
+**Minor Boon (FP 3-5): Awakened.** The party cannot be surprised during Long Rests.
+
+**Boon (FP 6-9): Stars Yet Unwritten.** Once per week (resetting on Same'ih), after completing a long rest, the party may ask the DM one question about a significant choice they expect to face before their next long rest. The answer comes as a symbolic shared dream. It is truthful, but never literal, and reveals possibility rather than certainty.
+
+**Major Boon (FP 10): Tomorrow's Dream.** Once per long rest the party can cast *Dream* as a ritual spell.
+
+### Woes
+
+**Minor Woe (FP -3 to -4): Restless Night.** Once per day, when a party member completes a long rest, they awaken remembering unsettling dreams. The first Wisdom or Charisma saving throw they make that day suffers a 1d4 penalty.
+
+**Greater Woe (FP -5): Living Bad Dreams.** Once per week (resetting on Same'ih) one player has a nightmare involving a damage type during a long rest. The following day the first time that character takes damage from that type, they have vulnerability.
+
+
+## Mil
+_The Fool, Patron of the Fey_
+
+No one agrees whether Mil is the oldest of the Fey or simply the strongest. They wander the Feywild wearing a different face every season, inspiring great fear and wonder alike. Mil's creations are known by their beguiling behavior and terrifying actions unto those who offend them.
+
+**Domains:** Fey, curiosity, whimsy, transformation, revelry, Firbolgs
+**Worship Method:** **Ideals** (embracing wonder, curiosity, and joyful unpredictability.)
+
+### Favor Criteria
+
+- The party chooses the more interesting path over the safer or more practical one.
+    
+- A party member plays a harmless prank.
+    
+- The party accepts hospitality from Fey.
+    
+- The party repays kindness with an unexpected act of generosity or delight.
+
+### Disfavor Criteria
+
+- The party destroys something beautiful simply because it is inconvenient.
+    
+- They reject curiosity.
+    
+- A party member knowingly breaks a promise made to a Fey.
+
+### Boons
+
+**Minor Boon (FP 3-5): Fey Friends.** Party members never suffer disadvantage when making Charisma (Persuasion) .
+
+**Boon (FP 6-9): Mil's Masquerade.** When an Enchantment spell cast by a party member dictates that the target knows it was enchanted, they don't know until they finish a long rest.
+
+**Major Boon (FP 10): Mine Now!** Once per week (resetting on Frejdag) a party member can steal a person's name for a day if the creature reads it aloud in full. While their name is stolen the party member can either choose to have that person charmed, or steal their appearance as if with the *Alter Self* spell.
+
+### Woes
+
+**Minor Woe (FP -3 to -4): Humor Me.**  Once per day, when a party member makes a saving throw against an Enchantment spell, that roll has 1d4 subtracted.
+
+**Greater Woe (FP -5): What's His Face** Once per week (resetting on Frejdag), the DM secretly chooses one party member. Until their next long rest, creatures cannot remember that creature's name.
+
+## Meddle
+_Justice, Patron of Fate_
+
+In the year 920 the great elvish king was desperately looking for ways to save his kingdom, his last hope being a seamstress of Meddle in a far off village. After pleading for days he eventually resorted to the only method he knew, but before his hand could reach the hilt of his sword, the last of his great capital and body had crumbled to dust.
+
+**Domains:** Fate, consequence, destiny, Divination
+**Worship Method:** **Ideals** (accepting the consequences of one's choices and ensuring that actions receive their due.)
+
+### Favor Criteria
+
+- A party member gets their fortune told.
+    
+- The party ensures that a wronged creature receives meaningful justice.
+    
+- The party fulfills a costly promise despite having an easy opportunity to escape it.
+    
+- Two or more party members openly acknowledge one another's mistakes and choose a fair resolution.
+    
+- The party restores balance between two feuding groups.
+
+### Disfavor Criteria
+
+- The party knowingly allows a grievous injustice to stand for personal convenience.
+    
+- A party member shifts blame they know belongs to themselves.
+    
+- The party attempts to manipulate fate via fiendish or celestial entities.
+    
+- The party dissuades an NPC from following what they believe is their fate. 
+
+### Boons
+
+**Minor Boon (FP 3-5): Weal.** Once per long rest, after a party member rolls a natural 1 on an attack roll, ability check, or saving throw, they gain Advantage on the next d20 test they make before the end of their turn.
+
+**Boon (FP 6-9): In The Cards.** Subsequent castings of the *Augury* spell do not have the 25% cumulative penalty as long as a spell slot was spent when the spell was cast. Additionally *Augury* now effects the next 2 hours, and the *Intuition* Feat can be used thrice before a long rest.
+
+**Major Boon (FP 10): Through Her Eyes.** Once per week (resetting on Lucae), immediately after a creature within 60 feet succeeds on an attack roll, saving throw, or ability check through magical assistance, luck manipulation, or Legendary Resistance, the party may invoke Meddle's judgment. The creature must immediately repeat the roll without those benefits and use the new result.
+
+### Woes
+
+**Minor Woe (FP -3 to -4): Woe.** Once per long rest, after a party member rolls a natural 20 on an attack roll, ability check, or saving throw, they have Disadvantage on the next d20 test they make before the end of their turn.
+
+**Greater Woe (FP -5): Born Under a Bad Sign.**  Once per week (resetting on Lucae) the DM gives a mundane sign of misfortune such as a broken mirror, black bird, red moon, ect. If the party fails to recognize the omen they have disadvantage on their next initiative roll. Regardless if the omen is recognized or not the DM does not reveal if the omen was from this woe. 
+
+
+## Bahamut
+_Judgment, Patron of Loyalty_
+
+Although the Dragon clans of the southern continent are constantly warring with one another, each family is bound by the same oath which dictates how laws are lain, battles are fought, and robes passed on. Bahamut judges communities as individuals, believing that greatness is measured by what a people build together across generations.
+
+**Domains:** Loyalty, honor, family, Dragons
+**Worship Method:** **Ideals** (remaining steadfast to companions and honoring bonds freely chosen.)
+
+### Favor Criteria
+
+- A party member willingly places themselves in danger to protect another party member.
+    
+- The party refuses to abandon an ally despite significant personal cost.
+    
+- A party member invokes their ancestors before an undertaking.
+    
+- Two or more party members openly express gratitude or admiration for one another.
+    
+- The party reconciles after genuine disagreement.
+
+### Disfavor Criteria
+
+- A party member knowingly betrays an ally's trust.
+    
+- The party abandons a companion when rescue was reasonably possible.
+    
+- The party destroys an heirloom.
+    
+- A party member breaks an oath.
+
+### Boons
+
+**Minor Boon (FP 3-5): Faithful Companions.** When a creature makes a d20 test with Advantage due to the help action, they re roll any 1s.
+
+**Boon (FP 6-9): Stand Together.** Death saving throws add one third of the party's favor points with Bahamut as long as the dying party member is within 10 feet of a party member with at least 1 hit point.
+
+**Major Boon (FP 10): Platinum Bond.** Once per week (resetting on Lucae) the party can cast the spell *Summon Dragon* as a 10 minute ritual. The dragon requires no concentration, is controlled by the DM or a player who chooses to, and rolls its own initiative.
+
+### Woes
+
+**Minor Woe (FP -3 to -4): Shunned.** The party can never have Advantage when interacting with Dragonborn or Dragons.
+
+**Greater Woe (FP -5): Divided Hearts.** Once per week, the DM may declare that a community or organization the party would normally find welcoming instead receives them with suspicion until they prove themselves.
+
+## Tempo
+_Temperance, Patron of Time_
+
+Tempo's followers record the erosion of rivers, the growth of trees, and the passage of kingdoms as their sermons. They believe life and the world have their own rhythms, and that those who rush ahead of the beat will find themselves left behind.
+
+**Domains:** Time, aging, patience, age, cycles
+**Worship Method:** **Discipline** (respecting the natural pace of growth, change, and renewal.)
+
+### Favor Criteria
+
+- The party solves a problem through patience rather than haste.
+    
+- A party member spends meaningful downtime practicing or cultivating a long-term pursuit.
+    
+- Two or more party members reflect on how they have changed since beginning their journey.
+    
+- The party restores something old instead of replacing it.
+
+### Disfavor Criteria
+
+- The party's impatience directly causes harm.
+    
+- They repeatedly abandon their endeavors because results are not immediate.
+    
+- A party member disrespects the wisdom of elders or the perspective of youth.
+
+### Boons
+
+**Minor Boon (FP 3-5): A Moment Longer.** Party members can comfortably remain awake for an additional 8 hours before risking exhaustion from lack of sleep.
+
+**Boon (FP 6-9): Premonition.** Once per long rest a party member may choose to roll 1d20 on the start of their turn, the next d20 test they make before the end of their turn uses that roll.
+
+**Major Boon (FP 10): Borrowed Time.** Once per week (resetting on Bahaphay), when a party member is reduced to 0 hit points, time briefly hesitates around them and they immediately take their turn, falling to 0 hitpoints when their turn finishes regardless of any healing received during this time.
+
+### Woes
+
+**Minor Woe (FP -3 to -4): Out of Step.** Once per day, the first Initiative roll made by a party member suffers a 1d4 penalty.
+
+**Greater Woe (FP -5): Take the Time.** Once per week (resetting on Bahaphay) the party only gets one short rest between a long rest.
 
 ## Leviathan
 
 _Primordial Titan of Water, the Unstoppable Force_
 
-Leviathan is the elemental titan of all waters, from the placid surface of a forest pond to the ship‑cracking fury of a maelstrom. Like other titans, Leviathan does not seek worship nor care for mortal morality. It values only the unbroken cycle of nature: currents that run free, shores unpoisoned, the deep places left undisturbed.
+Leviathan is the elemental titan of all waters, from the placid surface of a forest pond to the ship‑cracking fury of a maelstrom. Followers of Leviathan are equal parts naturalists and sailors who fear his terrible wrath, usually only quelled by a sacrifice to the waves.
 
-**Domains:** Water, oceans, storms, the natural cycle, balance, the deep  
+**Domains:** Water, oceans, storms, the natural cycle, balance, the deep , Tritons 
 **Worship Method:** Ideals (defending the integrity of nature, especially waters, and opposing those who exploit, pollute, or unnaturally command the elements)
 
 ### Favor Criteria
@@ -619,18 +1022,18 @@ Kaori is the elemental titan of fire. In the millennium since the war with the g
 
 ### Boons
 
-- **Minor Boon (FP 3-5): Ember's Warmth.** When the party finishes a short rest near any flame, each member regains an additional 1d4 hit points. If a party member is suffering from exhaustion, the rest counts as twice the duration for the purpose of reducing exhaustion levels.
+- **Minor Boon (FP 3-5): Burnin' For You.** When a party member takes fire damage they add a d4 to their next attack roll before the end of their next turn.
     
 - **Boon (FP 6-9): Phoenix Heart.** When the party finishes a short rest near any flame (a campfire, a candle, a torch), each member regains an additional PB x 1d4 hit points. 
     
-- **Major Boon (FP 10): Rebirth.** Once per week (resetting on Prydei), when a party member is reduced to 0 hitpoints, they regain 1 hitpoint immediately and have the spell *Fire Shield* (warm) cast on them until the start of their next turn.
+- **Major Boon (FP 10): From The Fires.** Once per week (resetting on Prydei), when a party member is reduced to 0 hitpoints, they regain 1 hitpoint immediately and have the spell *Fire Shield* (warm) cast on them until the start of their next turn.
 
 
 ### Woes
 
 - **Minor Woe (FP -3 to -4): Drought.** Once per week (resetting on Prydei) when the party takes a Short Rest, they find all of their water has run out and they only regain 1 point of Exhaustion.
     
-- **Greater Woe (FP -5): Ash in the Mouth.** Once per day, the first time a party member takes fire damage they take an additional amount of fire damage equal to their Proficiency Bonus.
+- **Greater Woe (FP -5): Burning My Soul.** Once per day, the first time a party member takes fire damage they take an additional amount of fire damage equal to their Proficiency Bonus.
 
 ## Ao
 
@@ -648,6 +1051,8 @@ Ao is the elemental titan and wyvern of air. Unlike Leviathan's silent depth or 
 - The party plays a harmless prank.
     
 - The party defeats a creature that imprisons others.
+    
+- Two or mor party members spend an evening doing something just for the fun of it.
 
 ### Disfavor Criteria
 
@@ -657,11 +1062,11 @@ Ao is the elemental titan and wyvern of air. Unlike Leviathan's silent depth or 
 
 ### Boons
 
-- **Minor Boon (FP 3-5): Tailwind.** When a party member, ally, or object falls from a height tall enough to deal fall damage, the DM rolls 1d6, on a 2-6 the spell Feather Fall is cast on the target.
+- **Minor Boon (FP 3-5): Air Dance.** When a party member, ally, or object falls from a height tall enough to deal fall damage, the DM rolls 1d6, on a 2-6 the spell Feather Fall is cast on the target.
     
 - **Boon (FP 6-9): The Wind Cries Mary.** Once per week (resetting on Prydei), the DM may allow the party to send a message as if by the _Sending_ spell, carried on a gust of wind to any creature they have met. The reply arrives within 1 minute as a soft breeze that speaks directly into the recipient's ear. Additionally, the DM may use this boon to deliver a cryptic hint or rumor to the party from Ao's rambling consciousness.
     
-- **Major Boon (FP 10): Riding on the Wind.** All party members have a fly speed of 5 feet.
+- **Major Boon (FP 10): Flying High Again.** All party members have a hover speed equal to their walking speed.
 
 ### Woes
 

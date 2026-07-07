@@ -1879,28 +1879,6 @@ Higher-tier feats are generally more powerful, versatile, or specialized than lo
 
 ---
 
-# Feat Tag
-
-Feat Tags categorize Martial Feats and identify how they function.
-
-A feat can have multiple tags.
-
-Tags may describe:
-
-- The type of action the feat supports.
-    
-- The kind of saving throw it uses.
-    
-- Which classes commonly learn it.
-    
-- Whether it is intended for certain encounters.
-    
-- Other rules interactions.
-
-A feat's tags have no inherent effect unless another rule refers to them.
-
----
-
 
 # Area of Effect
 
@@ -1918,61 +1896,49 @@ If the creator of an area of effect places it at an unseen point and an obstruct
 
 # Cone
 
-A Cone extends in a direction you choose from its point of origin.
+A Cone is an area of effect that extends in straight lines from a point of origin in a direction its creator chooses. A Cone’s width at any point along its length is equal to that point’s distance from the point of origin. For example, a Cone is 15 feet wide at a point along its length that is 15 feet from the point of origin. The effect that creates a Cone specifies its maximum length.
 
-A Cone's width increases as it extends outward. Its maximum width at any point is equal to the distance from its point of origin.
-
-A Cone's point of origin is not included in the area unless the effect states otherwise.
+A Cone’s point of origin isn’t included in the area of effect unless its creator decides otherwise.
 
 ---
 
 # Cube
 
-A Cube is a three-dimensional area defined by the length of its sides.
+A Cube is an area of effect that extends in straight lines from a point of origin located anywhere on a face of the Cube. The effect that creates a Cube specifies its size, which is the length of each side.
 
-You select a point of origin on one face of the Cube unless the effect states otherwise.
-
-The Cube extends outward from that point and affects all creatures and objects within its space.
+A Cube’s point of origin isn’t included in the area of effect unless its creator decides otherwise.
 
 ---
 
 # Cylinder
 
-A Cylinder is a circular area with a specified radius and height.
+A Cylinder is an area of effect that extends in straight lines from a point of origin located at the center of the circular top or bottom of the Cylinder. The effect that creates a Cylinder specifies the radius of the Cylinder’s base and the Cylinder’s height.
 
-The point of origin is the center of the cylinder's base.
-
-The Cylinder extends upward from that point to its full height and affects everything within its volume.
+A Cylinder’s point of origin is included in the area of effect.
 
 ---
 
 # Emanation
 
-An Emanation extends outward from a creature, object, or point and moves with that source unless stated otherwise.
+An Emanation is an area of effect that extends in straight lines from a creature or an object in all directions. The effect that creates an Emanation specifies the distance it extends.
 
-An Emanation affects all valid targets within its radius.
+An Emanation moves with the creature or object that is its origin unless it is an instantaneous or a stationary effect.
 
-If the source moves, the Emanation moves with it.
-
-Many auras are Emanations.
+An Emanation’s origin (creature or object) isn’t included in the area of effect unless its creator decides otherwise.
 
 ---
 
 # Line
 
-A Line extends from its point of origin in a straight path.
+A Line is an area of effect that extends from a point of origin in a straight path along its length and covers an area defined by its width. The effect that creates a Line specifies its length and width.
 
-A Line has a specified length and width.
-
-The Line affects all creatures and objects whose spaces intersect it.
+A Line’s point of origin isn’t included in the area of effect unless its creator decides otherwise.
 
 ---
 
 # Sphere
 
-A Sphere extends outward in all directions from a point of origin.
+A Sphere is an area of effect that extends in straight lines from a point of origin outward in all directions. The effect that creates a Sphere specifies the distance it extends as the radius of the Sphere.
 
-A Sphere's size is defined by its radius.
-
-A creature or object is affected if any portion of its space lies within the Sphere.
+A Sphere’s point of origin is included in the Sphere’s area of effect.
 
