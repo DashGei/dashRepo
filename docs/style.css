@@ -243,8 +243,16 @@ figure.block:hover {
     box-shadow: 0 7px 15px #036e47
 }
 
-a {
+hr {
     background-image: linear-gradient(to top right, #c1b876, #cbbc5a, #a09552);
+    background-clip: all;
+    border: none;
+    height: 2px;
+    color: transparent;
+}
+
+a {
+    background-image: linear-gradient(to right, #c1b876, #cbbc5a, #baad63);
     background-clip: text;
     font-family: Bookerly, Draconis;
     font-weight: 50px;
