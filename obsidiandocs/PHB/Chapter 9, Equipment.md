@@ -155,14 +155,6 @@ You must spend two actions on your  turn to fire the blunderbuss. When you do so
 
 A creature takes 1d10 extra physical damage for each size it it larger than tiny, so a medium creature takes 3d10 from a blunderbuss shot.
 
-## Weapons
-
-Weapons are tools of war used to attack creatures and objects. Every weapon belongs to a weapon category and possesses one or more properties that determine how it functions in combat.
-
-Your class determines which weapons you are proficient with.
-
-A weapon's statistics describe the damage it deals, the type of damage it inflicts, and any special properties it possesses.
-
 ---
 
 ## Weapon Proficiency
@@ -187,22 +179,6 @@ Some weapons possess the @Finesse property, allowing either Strength or Dexterit
 
 ---
 
-## Critical Hits
-
-When an attack roll falls within your critical range, the attack becomes a Critical Hit.
-
-A Critical Hit automatically hits its target.
-
-When you score a Critical Hit, roll all damage dice of the attack twice and add the results together. Then apply any modifiers.
-
-Additional damage dice granted by features are also doubled unless a feature states otherwise.
-
-Most creatures have a critical range of 20.
-
-Some features, such as @Rage, can expand this range.
-
----
-
 ## Improvised Weapons
 
 An improvised weapon is an object wielded as a makeshift weapon, such as broken glass, a table leg, or a frying pan. A Simple or Martial weapon also counts as an improvised weapon if it’s wielded in a way contrary to its design; if you use a Ranged weapon to make a melee attack or throw a Melee weapon that lacks the [Thrown](https://www.dndbeyond.com/sources/dnd/free-rules/equipment#Thrown) property, the weapon counts as an improvised weapon. An improvised weapon follows the rules below.
@@ -219,11 +195,15 @@ An improvised weapon is an object wielded as a makeshift weapon, such as broken 
 
 ## Unarmed Strikes
 
-An Unarmed Strike is a melee attack made without a weapon.
+Instead of using a weapon to make a melee attack, you can use a punch, kick, headbutt, or similar forceful blow. In game terms, this is an Unarmed Strike - a melee attack that involves you using your body to damage, grapple, or shove a target within 5 feet of you.
 
-Unless a feature states otherwise, an Unarmed Strike deals 1 bludgeoning damage on a hit.
+Whenever you use your Unarmed Strike, choose one of the following options for its effect.
 
-Your hands, feet, horns, claws, and similar natural attacks can all be used to make Unarmed Strikes.
+***Damage.*** You make an attack roll against the target. Your bonus to the roll equals your Strength modifier plus your Proficiency Bonus. On a hit, the target takes Bludgeoning damage equal to 1 plus your Strength modifier.
+
+***Grapple.*** The target must succeed on a Strength or Dexterity saving throw (it chooses which), or it has the [[Grappled]] condition. The DC for the saving throw and any escape attempts equals 8 plus your Strength modifier and Proficiency Bonus. This grapple is possible only if the target is no more than one size larger than you and if you have a hand free to grab it.
+
+***Shove.*** The target must succeed on a Strength or Dexterity saving throw (it chooses which), or you either push it 5 feet away or cause it to have the [[Prone]] condition. The DC for the saving throw equals 8 plus your Strength modifier and Proficiency Bonus. This shove is possible only if the target is no more than one size larger than you.
 
 ---
 
