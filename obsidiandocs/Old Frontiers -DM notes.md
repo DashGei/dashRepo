@@ -15,19 +15,17 @@ The ethnic composition of the region is as follows:
  - 10% Other
 
 
-
-
 #### Conflict
 
 Empress Serale Sycee has carefully cultivated an unshakable following of her High Elf subjects and royal peers for the last 50 years, so that when her father died in power half a decade prior she would be able to propel the kingdom with promises of ancient glory and expansion.
 
-*Important Note*: The southern region is called The Sym, but it shares the same name as the north east kingdom (location 3 in Pachana) who's High Elvish people are called the Sym.
+*Important Note*: The southern region is called The Sym, but it shares the same name as the north east kingdom who's High Elvish people are called the Sym.
 
 Ultimately the conquest must be fed, and so she set her first sights on the southern region of The Sym and its extensive coal and iron deposits as perfect first stop. Most High Elves support the expansion on the understanding that roughly 1000 years ago the land was indeed theirs, and that the primitive people of the deserts aren't using their potential industry so the Sym might as well step in and get things going.
 
-Religious elder Fair Time is the leading figure of unity between the various ethnic groups of the deserts and High Elves are desperate to get rid of him. For a month his home town of Chixie has been closed to everything except the local mining industry in an attempt to stop civil unrest from spreading. Recently a plot to kill Fair by a local mining family was unveiled, and while he lives, the Sym plan on transporting him to the capital under the official guise of safety. The party's goal is to get Fair out of the town and down to the Tabaxi capital of Tchiltan. (11)
+Religious elder Fair Time is the leading figure of unity between the various ethnic groups of the deserts and High Elves are desperate to get rid of him. For a month his home town of Chixie has been closed to everything except the local mining industry in an attempt to stop civil unrest from spreading. Recently a plot to kill Fair by a local mining family was unveiled, and while he lives, the Sym plan on transporting him to the capital under the official guise of safety. The party's goal is to get Fair out of the town and down to the Tabaxi capital of Tchiltan in the south. 
 
-The arc will have a pretty large amount of wilderness exploration where things like travel speed, rations, and rest skipping might required in order to beat time limits. Working with the local populations will be very important and a lot of them will rely on you for protection from the Sym and bandits. If your character is from the region I recommend reading Ilxie's god page and the Abyssinian subrace  for information on customs.
+The arc will have a pretty large amount of wilderness exploration where things like travel speed, rations, and rest skipping might required in order to beat time limits. Working with the local populations will be very important and a lot of them will rely on you for protection from the Sym, bandits, and other nasty beings. If your character is from the region I recommend reading Ilxie's god page and the Abyssinian subrace  for information on customs.
 
 
 

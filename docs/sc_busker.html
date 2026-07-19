@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>Busker Subclasses</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <link rel="icon" type="image/x-icon" href="images/scenic-d20.webp" />
+</head>
+
+<body>
+    <figure>
+        <div class="text-frame">
+            <div class="content">
+                <nav class="centered">
+                    <h2><a href="busker.html">Busker</a></h2>
+                </nav>
+                <h1>College of the Fortune Teller</h1>
+                <h3>Level 3: Deck of Many</h3>
+                <p>At level 3 you can spend a short or long rest enscribing a deck of cards with magical glyphs, turning
+                    it into a spellcasting focus for you. When holding this deck you can take an action to 1d12 and draw
+                    a corrosponding fortune card from the table below. As an action you can target a creature within
+                    your Aura of Spontaneity, at the end of that creatures next turn they must make a Mental DC Charisma
+                    save or suffer the effects of the card, a creature can choose to ignore this save and be effected
+                    anyway. If you draw a card while one is already held, the previous
+                    card disapears back into the deck.</p>
+                <p> A burned card dissapears from the deck until completion of a long rest, unless you expend a
+                    primary spell slot when you burn the card. </p>
+
+                <h4>Cards</h4>
+                <div class="table-scroll">
+                    <table class="styled-table">
+                        <thead>
+                            <tr class="active-row">
+                                <th>d12</th>
+                                <th>Effect</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>The creature takes 2d6 Fire damage, increasing by two additional dice at levels 8,
+                                    12, and 18, a creature who suceeds on their saving throw still takes half damage on
+                                    the end of their next turn.</td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>The creature regains 2d10 hit points, increasing by two additional dice at levels 8,
+                                    12, and 18.</td>
+                            </tr>
+                            <tr>
+                                <td>3</td>
+                                <td>The creature gains a teleport speed of 30 feet until the end of its next turn.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>The creature spews fire from the mouth in a 30-foot cone. Each creature in that area
+                                    must make a Dexterity saving throw, taking PB x 1d4 Fire damage on a failed save,
+                                    or
+                                    half as much damage on a successful one.
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td>The creature is blinded and shines bright light for 60 feet and dim light for
+                                    another 30.</td>
+                            </tr>
+                            <tr>
+                                <td>6</td>
+                                <td>The target gains the Invisible condition until the end of its next turn or until the
+                                    target makes an attack roll, deals damage, or casts a spell. When the invisibility
+                                    ends, one creature within 5 feet of the target takes Necrotic
+                                    damage equal to PB x 1d4 Necrotic
+                                    damage.</td>
+                            </tr>
+                            <tr>
+                                <td>7</td>
+                                <td>One condition from the following list affecting the creature is ended: blinded,
+                                    deafened, paralyzed, petrified, or poisoned.</td>
+                            </tr>
+                            <tr>
+                                <td>8</td>
+                                <td>A 10 foot sphere centered on the creature is filled with magical darkness for 10
+                                    minutes.</td>
+                            </tr>
+                            <tr>
+                                <td>9</td>
+                                <td>The creature gains 1d4 temporary hitpoints, while they have these hitpoints they are
+                                    resistant to all damage.</td>
+                            </tr>
+                            <tr>
+                                <td>10</td>
+                                <td>Roll a d20, at any point until the end of that creature's next next turn you can
+                                    replace one of their d20 rolls with the number you rolled on the d20.</td>
+                            </tr>
+                            <tr>
+                                <td>11</td>
+                                <td>The creature is shoved up to 30 feet away from you and is knocked prone.</td>
+                            </tr>
+                            <tr>
+                                <td>12</td>
+                                <td>All armor the creature is wearing becomes soft, negating the AC benefits until the
+                                    start of the creature's next turn when it reforms.</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <h3>Level 3: Subclass Spells</h3>
+                <p>When you reach a level specified in the Subclass Spells table, you thereafter always have
+                    the listed spells prepared.</p>
+                <div class="table-scroll">
+                    <table class="styled-table">
+                        <thead>
+                            <tr class="active-row">
+                                <th>Level</th>
+                                <th> Spell </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>3</td>
+                                <td>Detect Evil and Good, Protection from Evil and Good</td>
+                            </tr>
+                            <tr>
+                                <td>5 </td>
+                                <td>Detect Thoughts, Augury</td>
+                            </tr>
+                            <tr>
+                                <td>9 </td>
+                                <td>Bestow Curse, Speak with Dead</td>
+                            </tr>
+                            <tr>
+                                <td>13 </td>
+                                <td>Divination, Locate Creature</td>
+                            </tr>
+                            <tr>
+                                <td>17</td>
+                                <td>Greater Restoration, Commune</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+                <h3>Level 7: Major Arcana</h3>
+                <p>During the completion of a long rest, you may choose to overwrite any of your cards with a spell. The
+                    spell must be of lower level than your secondary spell slots, must have a casting time of standard,
+                    you may only overwrite one card per spell, and you may only overwrite a number of cards equal to
+                    your proficiency bonus. When you take the action to burn the card, you immediately cast the spell
+                    without expending a spell slot.
+                </p>
+                <h3>Level 14: Unbeguiled</h3>
+                <p>You gain proficiency in Wisdom saving throws</p>
+                <h3>Level 20: Fate Weaving</h3>
+                <p>Once per long rest you can burn all the cards in your deck and change the life course of a creature
+                    within
+                    30 feet. The creature must succeed a Mental DC Wisdom save or undergo a great (but possible) task of
+                    your choosing or die in a way of
+                    your choosing within 7 days. The DM decides if the task is reasonable, tasks may include saving
+                    mortals, great charity, or giving up a throne. This effect is nullified by the Greater Restoration,
+                    Wish, or level 5 Remove Curse spells. </p>
+
+                <h1>College of the Troubador</h1>
+                <h3>Level 3: Crowd Pleaser</h3>
+                <p>When you roll for a Performance check, you treat a roll of 10 or lower as an 11 on the d20.
+                    Additionally, when you finish a short rest you can inspire two creatures who took the short rest
+                    with you. Those creatures gain a d6 die which they may add to any d20 roll until their or your next
+                    long rest. They must be able to see or hear you to use the die</p>
+
+
+                <h3>Level 3: Subclass Spells</h3>
+                <p>When you reach a level specified in the Subclass Spells table, you thereafter always have
+                    the listed spells prepared.</p>
+                <div class="table-scroll">
+                    <table class="styled-table">
+                        <thead>
+                            <tr class="active-row">
+                                <th>Level</th>
+                                <th> Spell </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>3</td>
+                                <td>Charm Person, Command</td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td>Suggestion, Misty Step</td>
+                            </tr>
+                            <tr>
+                                <td>9</td>
+                                <td>Hypnotic Pattern, Slow</td>
+                            </tr>
+                            <tr>
+                                <td>13</td>
+                                <td>Compulsion, Confusion</td>
+                            </tr>
+                            <tr>
+                                <td>17</td>
+                                <td>Synaptic Static, Mislead</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <h3>Level 7: Call and Response</h3>
+                <p>You can cast the spell <em>Command</em> as one action as long as it is cast as a first level spell.
+                </p>
+
+                <h3>Level 14: Universally Loved</h3>
+                <p>Creatures within your Aura of Sponteneity have disadvantage on attack rolls against you if they are
+                    not immune to the Charmed condition.</p>
+
+                <h3>Level 20: Words of Creation</h3>
+                <p>Once per day you can cast the spell Power Word Heal or Power Word Kill without spending a spell slot.
+                    When you cast
+                    either spell, you can target a second creature with it if that creature is within 10 feet of the
+                    first target.</p>
+
+                <h1>College of the Crossroads</h1>
+
+                <h3>Level 3: I Sold My Soul For Rock And Roll</h3>
+
+                <p>When you choose this subclass you gain proficiency in battle axes, great axes, and medium armor. If
+                    you already had proficiency in
+                    medium armor you gain proficiency in Heavy armor.</p>
+                <p>Additionally, you can treat any large enough instrument as a battle axe or great axe.</p>
+
+                <h3>Level 3: Electric Eye</h3>
+                <p>When you deal Thunder damage to an enemy you gain temporary hitpoints equal to the damage dealt up to
+                    twice your level.</p>
+                <p>Additionally when you use Tale of Power or Epic of Fear the damage type becomes Thunder Damage.</p>
+
+
+                <h3>Level 3: Subclass Spells</h3>
+                <p>When you reach a level specified in the Subclass Spells table, you thereafter always have
+                    the listed spells prepared.</p>
+                <div class="table-scroll">
+                    <table class="styled-table">
+                        <thead>
+                            <tr class="active-row">
+                                <th>Level</th>
+                                <th> Spell </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>3</td>
+                                <td>Thunderwave, Thunderous Smite</td>
+                            </tr>
+
+                            <tr>
+                                <td>5 </td>
+                                <td>Heat Metal, Shatter</td>
+                            </tr>
+                            <tr>
+                                <td>9</td>
+                                <td>Cacophonic Shield, Haste</td>
+                            </tr>
+                            <tr>
+                                <td>13</td>
+                                <td>Wall of Fire, Staggering Smite</td>
+                            </tr>
+                            <tr>
+                                <td>17</td>
+                                <td>Destructive Wave, Flame Strike</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <h3>Level 7: The Numbers All Go To 11</h3>
+                <p>When you hit a creature with a melee attack you may expend any number of temporary hitpoints to add
+                    the same amount of lightning damage to that attack's damage roll</p>
+                <h3>Level 14: Heavy Stuff</h3>
+                <p>You gain resistance to Thunder and Necrotic damage.</p>
+                <h3>Level 20:</h3>
+                <p></p>
+
+                <h1>College of the Fugue</h1>
+                <h3>Level 3: Ghostly Choir</h3>
+                <p>When you finish a long rest, a number of spirits up to your proficiency bonus join you.
+                </p>
+                <p>When a creature within your aura regains hitpoints, you can dismiss a spirit and add an additional
+                    1d8 healing to that roll. You can also dismiss a spirit when a creature within 60 feet of you makes
+                    an ability check, that creature then adds 1d6 to their roll.</p>
+
+
+                <h3>Level 3: Subclass Spells</h3>
+                <div class="table-scroll">
+                    <table class="styled-table">
+                        <thead>
+                            <tr class="active-row">
+                                <th>Level</th>
+                                <th> Spell </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>3</td>
+                                <td>Cure Wounds, Inflict Wounds</td>
+                            </tr>
+
+                            <tr>
+                                <td>5 </td>
+                                <td>Levitate, Invisibilty</td>
+                            </tr>
+                            <tr>
+                                <td>9</td>
+                                <td>Summon Undead, Spirit Guardians</td>
+                            </tr>
+                            <tr>
+                                <td>13</td>
+                                <td>Aura of Life, Phantasmal Killer</td>
+                            </tr>
+                            <tr>
+                                <td>17</td>
+                                <td>Telekenesis, Mass Cure Wounds</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <h3>Level :</h3>
+                <p></p>
+
+                <h3>Level 14: </h3>
+                <p>At level 14 the </p>
+                <h3>Level 20:</h3>
+                <p></p>
+
+            </div>
+        </div>
+    </figure>
+</body>
+
+</html>
