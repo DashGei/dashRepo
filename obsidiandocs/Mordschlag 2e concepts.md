@@ -10,3 +10,5 @@ Crits are reserved for classes that get them, and they occur by rolling a d12 wh
 multi dice system?
 
 base of 3d6, circumstances take away dice or increase die quality similarly to advantage
+
+AC-esque system instead of saving throws, Mental AC and Physical AC
