@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1f12b931e3d95e4c",
+            "id": "609034fd98dffd49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Mordschlag 2e concepts.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/mordmap.md"
               },
-              "icon": "lucide-file",
-              "title": "Mordschlag 2e concepts"
+              "icon": "excalidraw-icon",
+              "title": "mordmap"
             }
           }
         ]
@@ -180,20 +178,65 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
+  },
+  "floating": {
+    "id": "33ca6f36c7324e63",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e48aff1afcad1011",
+        "type": "window",
+        "children": [
+          {
+            "id": "4b2a65c2cf459f27",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1f12b931e3d95e4c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Mordschlag 2e concepts.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Mordschlag 2e concepts"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1280,
+        "y": 0,
+        "width": 1280,
+        "height": 1440,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
   },
   "active": "1f12b931e3d95e4c",
   "lastOpenFiles": [
-    "Pasted image 20260722203102.png",
-    "PHB progress.md",
-    "Standard Monster Actions.md",
-    "Pasted image 20260621165511.png",
+    "Excalidraw/mordmap.md",
     "Mordschlag 2e concepts.md",
+    "Excalidraw",
+    "Standard Monster Actions.md",
+    "Threat Calculations.md",
+    "PHB progress.md",
+    "Pasted image 20260621165511.png",
+    "Pasted image 20260722203102.png",
+    "PHB/Rules Glossary.md",
+    "Class Depot/Warlord.md",
     "Old Frontiers -DM notes.md",
+    "Untitled.md",
     "Character Races.md",
     "Equipment.md",
-    "Threat Calculations.md",
     "Glossary.md",
     "PHB/Chapter 5, Creating a Character.md",
     "The Planescape/The Planescape.md",
@@ -201,7 +244,6 @@
     "The Planescape/Deities, Favor, and Religion.md",
     "PHB/Chapter 6, Martial Classes and Feats.md",
     "PHB/Chapter 7, Spell Classes and Spellcasting.md",
-    "PHB/Rules Glossary.md",
     "PHB/Chapter 9, Equipment.md",
     "PHB/Chapter 10, The Planescape.md",
     "The Planescape/Regions of Gaia.md",
@@ -210,8 +252,6 @@
     "PHB/Chapter 1, Introduction to Mordschlag.md",
     "PHB/Chapter 8, Exploration, Party Progression, and Cohesion.md",
     "D&D 5e 2024 Rules/Rules/Conditions/Prone.md",
-    "PHB/Chapter 4, Combat.md",
-    "D&D 5e 2024 Rules/Rules/Skills/Acrobatics.md",
     "southyvalm.png",
     "Pasted image 20260617173522.png",
     "PHB",
@@ -226,7 +266,6 @@
     "D&D 5e 2024 Rules/z. Load Bearing Folders/Templates",
     "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments",
     "D&D 5e 2024 Rules/z. Load Bearing Folders",
-    "D&D 5e 2024 Rules/z. Help Desk",
-    "D&D 5e 2024 Rules/Unsorted"
+    "D&D 5e 2024 Rules/z. Help Desk"
   ]
 }

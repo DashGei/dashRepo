@@ -1,2 +1,0 @@
-#### Indomitable Might
-If your total for a Strength check or Strength saving throw is less than your Strength score, you can use that score in place of the total.

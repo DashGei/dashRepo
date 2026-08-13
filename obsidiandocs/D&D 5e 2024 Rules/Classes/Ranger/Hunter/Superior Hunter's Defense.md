@@ -1,2 +1,0 @@
-#### Superior Hunter's Defense
-When you take damage, you can take a Reaction to give yourself [[Rules/Common Terms/Resistance|Resistance]] to that damage and any other damage of the same type until the end of the current turn.
