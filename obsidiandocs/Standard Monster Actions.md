@@ -21,10 +21,6 @@ Strong - a Grappled creature also has the Restrained condition.
 
 
 
-
-
-
-
 I was thinking about role templates, but I was thinking that would be what determines the reactions available to a creature.
 
 Guardian: The creature can use the Interception feat freely

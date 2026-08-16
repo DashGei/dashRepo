@@ -12,7 +12,7 @@ The crossbow comes with a pre-zeroed two-lens sight along with a folding stool.
 
 A creature wielding the weapon can take the utilize action to set up the Heavy Crossbow, which becomes fixed in place until a creature removes it with the utilize object action.
 
-A creature wielding the heavy crossbow while it is set up is prone. While prone in this way, a creature has advantage on attack rolls using the heavy crossbow, ignores the disadvantage on attack rolls penalty from the prone condition, and the range of the weapon increases to 500/1500. 
+A creature wielding the heavy crossbow while it is set up is prone. While prone in this way, a creature has advantage on attack rolls using the heavy crossbow, and the range of the weapon increases to 500/1500. 
 
 A creature taking the help action with a creature using the set up crossbow adds their Wisdom modifier to the attack and damage rolls made with the crossbow.
 
