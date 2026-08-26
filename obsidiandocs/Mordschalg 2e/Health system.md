@@ -31,9 +31,37 @@ All in all Vitality and Flesh represent damage to your body, Armor and Stamina r
 Simply increase the amount of damage dealt by 1 Hit Point
 
 
+**Physical**
 
+Bludgeoning
 
+Slashing
 
+Piercing
+
+**Elemental**
+
+Acid
+
+Cold
+
+Fire
+
+Poison
+
+Lightning
+
+Thunder
+
+**Mystical**
+
+Force
+
+Psychic
+
+Necrotic
+
+Radiant
 
 
 ### Hit Point Types
@@ -106,16 +134,16 @@ Weapon properties, talents, and special abilities can increase or reroll this da
 
 Every creature has a **Physical Defense (PD)**.
 
-Baseline human PD is **7**. Trained or agile characters may have higher PD. Heavy armor may reduce PD.
+Baseline human PD is **6**.
 
 Compare the damage total to the target’s PD.
 
-|Result|Damage Category|Points Applied|
-|---|---|---|
-|Total ≤ PD|Miss|0 HP, but target loses 1 Stamina if possible|
-|PD+1 to PD+2|Minor|1 HP|
-|PD+3 to PD+5|Major|2 HP|
-|PD+6 or more|Severe|3 HP|
+| Result     | Damage Category | Points Applied        |
+| ---------- | --------------- | --------------------- |
+| Total < PD | Miss            | 1 HP, only to Stamina |
+| PDx1       | Minor           | 1 HP                  |
+| PDx1.5     | Major           | 2 HP                  |
+| PDx2       | Severe          | 3 HP                  |
 
 ### Step 3: Apply to Health Pools
 
@@ -319,3 +347,24 @@ Bandit’s Vitality is now 0.
 Bandit is **Dying**.
 
 The whole fight takes two actions.
+
+1. **Make harm legible.**  
+    A hit is not an abstract subtraction from a large HP pool. It is a wound, a broken bone, or a deep cut with immediate, understandable consequences.
+    
+2. **Remove attack rolls and Armor Class.**  
+    Combat resolution is based on rolling damage and comparing it to a defense threshold. This means every offensive action has a concrete result, and “missing” still costs the defender Stamina.
+    
+3. **Separate avoidance from injury.**  
+    Stamina represents dodging, parrying, and deflecting. Vitality represents actual bodily harm. This prevents the “ten knife wounds to the chest” where most mortals in DND can sustain ridiculous amounts of serious bodily harm, separating combat from the narrative.
+    
+4. **Keep combat lethal but fair.**  
+    Stamina allows characters to avoid death without making them damage sponges. Once Stamina is gone, real harm occurs quickly. Ambushes and helpless targets bypass Stamina entirely.
+    
+5. **Make wounds matter immediately.**  
+    Missing Vitality imposes penalties to rolls and speed. Reaching 0 Vitality means incapacitation and a death timer, not just falling unconscious with abstract death saves.
+    
+6. **Use armor as a gate, not a miss chance.**  
+    Armor determines whether an attack can reach the body once Stamina is depleted. Heavier armor blocks lesser hits but has tradeoffs.
+    
+7. **Support tactical choice and narrative tension.**  
+    Players must manage Stamina, positioning, armor, and wound penalties. Getting hit feels dangerous, and avoiding harm is a meaningful part of combat.

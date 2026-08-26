@@ -4,15 +4,16 @@ Medium Mortal, Neutral Evil
 | --- | --- | --- |
 Body
 
-| V   | V   |     | S   | S   | S   | S   | S   |
+| V   | V   | A   | S   | S   | S   | S   | S   |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     |     |     |     |     |     |     |
+|     |     | H   |     |     |     | X   | X   |
 
 Mind
 
 | P   | P   | P   | P   | P   | P   | P   |
 | --- | --- | --- | --- | --- | --- | --- |
 |     |     |     |     |     |     |     |
+
 Spirit
 
 | S   | S   | S   | S   |
