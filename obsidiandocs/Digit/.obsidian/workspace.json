@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "0ae5a80320c1c536",
+    "id": "d210bf3b984b9e03",
     "type": "split",
     "children": [
       {
-        "id": "b5258e69d4beec40",
+        "id": "b5cadebdb5036a9c",
         "type": "tabs",
         "children": [
           {
-            "id": "5075e9c01fc9ff36",
+            "id": "29afe4399a86572d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Planescape/Regions of Gaia.md",
+                "file": "INART 258A/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regions of Gaia"
+              "title": "Notes"
             }
           }
         ]
@@ -27,20 +27,20 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "72d1b22226048bed",
+    "id": "825bc449356cc265",
     "type": "split",
     "children": [
       {
-        "id": "720acc183758bd42",
+        "id": "10e1300b2fe42ab6",
         "type": "tabs",
         "children": [
           {
-            "id": "6a6a573acd1efbc3",
+            "id": "6e2f7a8820448ea7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -50,7 +50,7 @@
             }
           },
           {
-            "id": "99fa888921e51aa2",
+            "id": "e9f2eff959f95a52",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,11 +67,14 @@
             }
           },
           {
-            "id": "d9b58c5ec412a7d1",
+            "id": "05b1690f556147c8",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -80,23 +83,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 212.5
   },
   "right": {
-    "id": "62921b3decd60461",
+    "id": "9219284a39877861",
     "type": "split",
     "children": [
       {
-        "id": "86c4878a7e3d73c7",
+        "id": "e8c7e6adfd0fd2f7",
         "type": "tabs",
         "children": [
           {
-            "id": "c4f4a344431ca614",
+            "id": "aacb91638adee555",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deities, Favor, and Religion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,25 +108,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Deities, Favor, and Religion"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "4409924f490b70fc",
+            "id": "186896475a7e6008",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deities, Favor, and Religion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Deities, Favor, and Religion"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "37a6274cd8879f02",
+            "id": "e4f468c5f3b869ec",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -139,7 +140,7 @@
             }
           },
           {
-            "id": "5042b5cd69617f82",
+            "id": "063d46636c73fa2e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -153,18 +154,17 @@
             }
           },
           {
-            "id": "0cd5cd5b7e22a818",
+            "id": "9b056def2fb4cff9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deities, Favor, and Religion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Deities, Favor, and Religion"
+              "title": "Outline"
             }
           }
         ]
@@ -182,54 +182,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "bases:Create new base": false
     }
   },
-  "active": "5075e9c01fc9ff36",
+  "active": "29afe4399a86572d",
   "lastOpenFiles": [
-    "Mordschalg 2e/Health system.md",
-    "Mordschalg 2e/stats.md",
-    "Excalidraw/mordmap.md",
-    "Mordschalg 2e/Spells.md",
-    "Mordschalg 2e/Conditions.md",
-    "Mordschalg 2e/Initiative.md",
-    "Mordschalg 2e/Perk Ideas.md",
-    "Drow Stat block.md",
-    "Excalidraw/Stat block test.md",
-    "Equipment.md",
-    "PHB progress.md",
-    "Glossary.md",
-    "Threat Calculations.md",
-    "Old Frontiers -DM notes.md",
-    "Pasted image 20260621165511.png",
-    "Pasted image 20260722203102.png",
-    "Excalidraw/Drawing 2026-08-18 21.22.29.excalidraw.md",
-    "Mordschalg 2e",
-    "Standard Monster Actions.md",
-    "Character Races.md",
-    "PHB/Chapter 7, Spell Classes and Spellcasting.md",
-    "PHB/Rules Glossary.md",
-    "Excalidraw",
-    "Class Depot/Warlord.md",
-    "PHB/Chapter 5, Creating a Character.md",
-    "The Planescape/The Planescape.md",
-    "The Planescape/Magic and Spellcasting.md",
-    "The Planescape/Deities, Favor, and Religion.md",
-    "PHB/Chapter 6, Martial Classes and Feats.md",
-    "southyvalm.png",
-    "Pasted image 20260617173522.png",
-    "PHB",
-    "The Planescape",
-    "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Tutorial Images/Obsidian Logo to Color PIck From.png",
-    "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Tutorial Images/Nax's Font and Zoom Example.png",
-    "D&D 5e 2024 Rules/z. Load Bearing Folders/Templates/Lore Types",
-    "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Tutorial Images",
-    "D&D 5e 2024 Rules/z. Load Bearing Folders/Templates/Auto Tag",
-    "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Placeholder.png",
-    "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Infobox Blank Space.png",
-    "D&D 5e 2024 Rules/z. Load Bearing Folders/Templates",
-    "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments",
-    "D&D 5e 2024 Rules/z. Load Bearing Folders"
+    "INART 258A",
+    "INART 258A/Notes.md",
+    "Welcome.md"
   ]
 }

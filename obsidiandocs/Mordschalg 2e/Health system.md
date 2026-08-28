@@ -18,11 +18,18 @@ Not sure about the order of Hit points but initial thought is:
 
 Stamina / Armor / Flesh / Vitality /
 
-Mental and Spirit sit in their own spot since they are only targetable by non-physical damages. Some Temporary hit points might let you choose where to put them, and some such as bravery/willpower might sit in front of Mental/Spirit.
+Mental and Spirit sit in their own spot since they are only targetable by non-physical damage. Some Temporary hit points might let you choose where to put them, and some such as bravery/willpower might sit in front of Mental/Spirit.
 
 All in all Vitality and Flesh represent damage to your body, Armor and Stamina represent avoiding damage to the body, Mental and Spirit represent your Mind and Soul
 
 
+
+| 7   | 10  | 14  |
+| --- | --- | --- |
+
+| V   | V   | V   |     | S   | S   | S   | S   | S   | S   | S   | S   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     |     |     |     |     |     |     |     |     |     |     |
 
 
 
