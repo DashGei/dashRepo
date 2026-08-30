@@ -1,4 +1,15 @@
-
+| Tag              | Purpose                                                               | Examples                                      |
+| ---------------- | --------------------------------------------------------------------- | --------------------------------------------- |
+| **Background**   | Starting perks that define upbringing, literacy, social class, etc.   | Literate, Noble Blood, Street Urchin, Veteran |
+| **Combat**       | Perks that affect weapon use, armor, maneuvers, positioning.          | Shield Wall, Brutal Critical, Skirmisher      |
+| **Spellcasting** | Perks that modify spell templates, effects, or mana use.              | Widen Cone, Subtle Spell, Blood Magic         |
+| **Ritual**       | Perks that enhance or unlock ritual casting.                          | Ritualist, Fast Ritual, Esoteric Knowledge    |
+| **Social**       | Perks for influence, leadership, intimidation, etc.                   | Silver Tongue, Commanding Presence            |
+| **Physical**     | Perks that increase raw physical capabilities (stamina, speed, etc.). | Tough, Fleet‑Footed, Iron Grip                |
+| **Mental**       | Perks that improve mental resilience, perception, willpower.          | Iron Will, Keen Senses, Eidetic Memory        |
+| **Party**        | Perks that explicitly benefit the whole group or rely on teamwork.    | Pack Tactics, Inspiring Shout, Shared Vigil   |
+| **Prerequisite** | Indicates a perk requires another perk, attribute, or level.          | (e.g., Requires Shield Proficiency)           |
+| **Restricted**   | Perks not available at character creation; must be earned in play.    | (e.g., Legendary Feats)                       |
 
 When you deal Severe damage to a creature you can change it to one point of Vitality
 
@@ -18,7 +29,7 @@ As a turn start action you can sacrifice 15 feet of movement on your turn to gai
 
 *Prerequisite*,  **Advanced Swordplay** When you use any reaction and either reduce a strike to a miss, or make a strike dealing 2 or more HP, you regain a reaction.
 
-**Heavy Blows** When you deal 2 or more HP with a bludgeoning strike,  you can push the target up to 10 feet away from you.
+**Heavy Blows** When you deal Major or Severe Blunt damage with a Strike,  you can push the target up to 10 feet away from you.
 
 
 ### Class Specific

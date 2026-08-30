@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Planescape/Regions of Gaia.md",
+                "file": "Mordschalg 2e/The Berserker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regions of Gaia"
+              "title": "The Berserker"
             }
           }
         ]
@@ -188,17 +188,24 @@
   },
   "active": "5075e9c01fc9ff36",
   "lastOpenFiles": [
-    "Mordschalg 2e/Health system.md",
-    "Mordschalg 2e/stats.md",
-    "Excalidraw/mordmap.md",
-    "Mordschalg 2e/Spells.md",
-    "Mordschalg 2e/Conditions.md",
-    "Mordschalg 2e/Initiative.md",
     "Mordschalg 2e/Perk Ideas.md",
+    "Mordschalg 2e/The Berserker.md",
+    "Mordschalg 2e/Health system.md",
+    "Mordschalg 2e/Spells.md",
+    "Mordschalg 2e/stats.md",
+    "Mordschalg 2e/Equipment.md",
+    "PHB progress.md",
     "Drow Stat block.md",
     "Excalidraw/Stat block test.md",
+    "Digit/INART 258A/Notes.md",
+    "Digit/Welcome.md",
+    "Digit/INART 258A",
+    "Digit",
+    "D&D 5e 2024 Rules",
+    "Mordschalg 2e/Initiative.md",
+    "Mordschalg 2e/Conditions.md",
+    "Excalidraw/mordmap.md",
     "Equipment.md",
-    "PHB progress.md",
     "Glossary.md",
     "Threat Calculations.md",
     "Old Frontiers -DM notes.md",
@@ -214,9 +221,6 @@
     "Class Depot/Warlord.md",
     "PHB/Chapter 5, Creating a Character.md",
     "The Planescape/The Planescape.md",
-    "The Planescape/Magic and Spellcasting.md",
-    "The Planescape/Deities, Favor, and Religion.md",
-    "PHB/Chapter 6, Martial Classes and Feats.md",
     "southyvalm.png",
     "Pasted image 20260617173522.png",
     "PHB",
@@ -227,9 +231,6 @@
     "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Tutorial Images",
     "D&D 5e 2024 Rules/z. Load Bearing Folders/Templates/Auto Tag",
     "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Placeholder.png",
-    "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Infobox Blank Space.png",
-    "D&D 5e 2024 Rules/z. Load Bearing Folders/Templates",
-    "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments",
-    "D&D 5e 2024 Rules/z. Load Bearing Folders"
+    "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Infobox Blank Space.png"
   ]
 }

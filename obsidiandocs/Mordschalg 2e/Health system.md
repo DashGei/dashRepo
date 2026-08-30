@@ -375,3 +375,6 @@ The whole fight takes two actions.
     
 7. **Support tactical choice and narrative tension.**  
     Players must manage Stamina, positioning, armor, and wound penalties. Getting hit feels dangerous, and avoiding harm is a meaningful part of combat.
+
+
+
