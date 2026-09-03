@@ -49,10 +49,30 @@ Distance Shorthand
 | Distant  | 30 meters |
 
 
+## Rituals
+
+### Detect Thoughts
+
+A caster can complete this ritual by taking an hour, meticulously
+
+
+### Concentrate
+
+A caster can complete this ritual by taking the time to bless a target. The spellcaster must have at least a +3 Favor with one holy god (Sol, Ilmater, Keep, Ea'or, Frey, Bahamut, Helm, Gri), and they must spend 1 silver worth of salt on the casting for every 10 minutes spent casting. The time required and the effect of the ritual depends on the target.
+
+The effect lasts for a number of months equal to the caster's level.
+
+| Target                     | Time     | Effect                                                                                           |
+| -------------------------- | -------- | ------------------------------------------------------------------------------------------------ |
+| 1 Liter of water           | 1 minute | The water becomes holy water                                                                     |
+| 10 1-meter squares of land | 1 minute | An unholy creature takes Minor Psychic and Radiant damage when they start their turn on the land |
+
 
 
 
 ## Spell Formulas
+
+
 
 ### Spatial Warp
 

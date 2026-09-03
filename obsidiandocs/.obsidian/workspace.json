@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mordschalg 2e/The Ranger.md",
+                "file": "Mordschalg 2e/Spells.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Ranger"
+              "title": "Spells"
             }
           }
         ],
@@ -203,10 +203,15 @@
   },
   "active": "d40cf7b5a7a944be",
   "lastOpenFiles": [
+    "Mordschalg 2e/Health system.md",
+    "Mordschalg 2e/Spells.md",
+    "Mordschalg 2e/Space.md",
+    "Mordschalg 2e/Rest.md",
+    "Mordschalg 2e/Actions.md",
     "Mordschalg 2e/The Berserker.md",
-    "Mordschalg 2e/Perks.md",
     "Mordschalg 2e/The Wizard.md",
     "Mordschalg 2e/The Ranger.md",
+    "Mordschalg 2e/Perks.md",
     "Mordschalg 2e/Initiative.md",
     "markdown.md",
     "Drow Stat block.md",
@@ -214,13 +219,9 @@
     "Threat Calculations.md",
     "Digit/Welcome.md",
     "Mordschalg 2e/Equipment.md",
-    "Mordschalg 2e/Health system.md",
-    "Mordschalg 2e/Rest.md",
     "Mordschalg 2e/Char Sheet.md",
     "Mordschalg 2e/Conditions.md",
-    "Mordschalg 2e/Spells.md",
     "Mordschalg 2e/stats.md",
-    "Mordschalg 2e/Space.md",
     "Excalidraw/Stat block test.md",
     "The Planescape/Deities, Favor, and Religion.md",
     "Excalidraw/mordmap.md",
