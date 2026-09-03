@@ -1,10 +1,10 @@
 
 ### Might (MIG)
 
-| Skill         | Description                                                 | Example Bonus Die Descriptions                                                 |
-| ------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| **Athletics** | Climbing, swimming, jumping, running.                       | "I'm making sure I always have two points of contact while I scale this wall." |
-| **Brawn**     | Withstanding poor food/conditions, , feats of raw strength. | "I lower my center of gravity and use my legs, to lift the portcullis."        |
+| Skill         | Description                                               | Example Bonus Die Descriptions                                                 |
+| ------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| **Athletics** | Climbing, swimming, jumping, running.                     | "I'm making sure I always have two points of contact while I scale this wall." |
+| **Brawn**     | Withstanding poor food/conditions, feats of raw strength. | "I lower my center of gravity and use my legs, to lift the portcullis."        |
 
 ### Dexterity (DEX)
 

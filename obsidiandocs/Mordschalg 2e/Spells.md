@@ -2,51 +2,51 @@ By default a spell deals 1d6 damage if it has a damage base, and applies an effe
 
 
 
-| Delivery | Cost | Increase                        |
-| -------- | ---- | ------------------------------- |
-| Aura     | 2    | +1 per 5 feet radius            |
-| Cone     | 2    | +2 per additional 5 feet length |
-| Cube     | 1    | +1 per additional 5 foot cube   |
-| Imbue    | 0    | +2 per additional target        |
-| Glyph    | 2    | +1 per additional 5 foot square |
-| Line     | 1    | +1 per 10 feet length           |
-| Bolt     | 0    | +1 per additional target        |
-| Sphere   | 2    | + 1 per 5 feet radius           |
-| Touch    | 0    | ---                             |
+| Delivery | Cost | Increase                         |
+| -------- | ---- | -------------------------------- |
+| Aura     | 2    | +1 per 1 meter radius            |
+| Cone     | 2    | +2 per additional 1 meter length |
+| Cube     | 1    | +1 per additional 1 meter cube   |
+| Imbue    | 0    | +2 per additional target         |
+| Glyph    | 2    | +1 per additional 1 meter square |
+| Line     | 1    | +1 per 2 meter length            |
+| Bolt     | 0    | +1 per additional target         |
+| Sphere   | 2    | + 1 per 1 meter radius           |
+| Touch    | 0    | ---                              |
 
 
-- **Aura** - A **10-foot-radius area centered on you**, affecting targets of your choice within it. The radius can be increased by 5 feet for each additional Mana spent.
+- **Aura** - A **2-meter-radius area centered on you**, affecting targets of your choice within it. The radius can be increased by 1 meter for each additional Mana spent.
 
-- **Cone** - A **15-foot cone** extending in front of you. Its length can be increased in 5-foot increments, with each increase costing additional Mana
+- **Cone** - A **3-meter cone** extending in front of you. Its length can be increased in 1 meter increments, with each increase costing additional Mana
 
-- **Cube** - A **5-foot cube** in a location you can see. You can expand the effect by adding additional 5-foot cubes.
+- **Cube** - A **1-meter cube** on a point you can see within. You can expand the effect by adding additional 5-foot cubes.
 
-- **Imbue** - Targets a **weapon held by a willing creature within Far**. The weapon carries the spell, and when it hits a target, you can spend 1 Mana to cast the spell against that target as though using Touch, without using an Action.
+- **Imbue** - Targets a **weapon held by a willing creature within 12 meters**. The weapon carries the spell, and when it hits a target, you can spend 1 Mana to cast the spell against that target as though using Touch, without using an Action.
 
-- **Glyph** - Creates a **5-foot-square magical glyph** on a target you can see, provided there is no other glyph within Close. At a later point, the spell can be cast from the glyph into a **5-foot cube**, after which the glyph disappears.
+- **Glyph** - Creates a **1-meter-square magical glyph** on a target you can see. At a later point, the spell can be cast from the glyph into a **1-meter cube**, after which the glyph disappears.
 
-- **Line** - A **5-foot-wide, 20-foot-long, 10-foot-tall area**. Its length can be increased by 10 feet for additional Mana; expanding its width or height has a different cost interaction.
+- **Line** - A **1-meter-wide, 4-meter-long, 2-meter-tall area**. Its length can be increased by 2 meters for additional Mana; expanding its width or height by up to 2 meters doubles the cost.
 
-- **Bolt** - Fires the spell as a bolt at the target. Additional targets can be added for additional Mana.
+- **Bolt** - Fires the spell as a bolt at a target you can see within **12 meters**. Additional targets can be added for 1 additional Mana.
 
-- **Sphere** - A **5-foot-radius sphere** centered on a point you can see. Its radius can be increased by 5 feet per additional Mana.
+- **Sphere** - A **2-meter-radius sphere** centered on a point you can see. Its radius can be increased by 1 meter per additional Mana.
 
-- **Touch** - Targets **a Close creature or yourself**. It has no additional delivery cost.
+- **Touch** - Targets **yourself or a creature you can touch within 1 meter**. It has no additional delivery cost.
 
 
-When you cast a spell, it typically only lasts until the start of your next turn, but if you choose to, you may focus and extend the duration one additional turn by using your Turn Start Action to do so. Taking Severe damage or Major Psyche damage breaks this focus.
+When you cast a spell, it typically only lasts until the start of your next turn, but if you choose to, you may focus and extend the duration one additional turn by using your Turn Start Action to do so. Taking Major damage or Moderate Psyche damage breaks this focus.
 
 
 
 Distance Shorthand
 
-| Name     | Distance |
-| -------- | -------- |
-| Adjacent | 5 feet   |
-| Close    | 15 feet  |
-| Near     | 30 feet  |
-| Far      | 60 feet  |
-| Distant  | 150 feet |
+| Name     | Distance  |
+| -------- | --------- |
+| Adjacent | 1 meter   |
+| Close    | 3 meters  |
+| Near     | 6 meters  |
+| Far      | 12 meters |
+| Distant  | 30 meters |
 
 
 

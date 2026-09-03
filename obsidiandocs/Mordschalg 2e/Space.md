@@ -1,0 +1,1 @@
+The battlefield is separated into a grid of 1 meter squares 

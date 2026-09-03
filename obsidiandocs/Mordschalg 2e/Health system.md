@@ -4,9 +4,9 @@ Daggerheart style system where you calculate hit point loss based on damage thre
 
 Flow of attacking looks like this - Attack on a creature declared - damage is rolled - hit points are calculated
 
-Positives > Hit points make much more sense in this system. If someone is unaware of an attacker then stamina is bypassed and you can go straight for vitals since nothing is being parried or dodged. - Getting stabbed or otherwise wounded is actually dangerous, but stamina means death is only as much of a threat as in other heroic TTRPGs. - Minor creatures aren't sustaining ridiculous amounts of severe wounds like in systems where HP directly translates to wounds. - don't have to worry about calculating AC or bothering with attack rolls. - Much harder to end your turn having had no impact on the encounter.
+Positives > Hit points make much more sense in this system. If someone is unaware of an attacker then stamina is bypassed and you can go straight for vitals since nothing is being parried or dodged. - Getting stabbed or otherwise wounded is actually dangerous, but stamina means death is only as much of a threat as in other heroic TTRPGs. - Minor creatures aren't sustaining ridiculous amounts of major wounds like in systems where HP directly translates to wounds. - don't have to worry about calculating AC or bothering with attack rolls. - Much harder to end your turn having had no impact on the encounter.
 
-Miss damage deals 0 HP, Minor damage deals 1 HP bar, Major damage deals 2, Severe damage deals 3 HP - this can be expanded or changed. 
+Miss damage deals 0 HP, Minor damage deals 1 HP bar, Moderate damage deals 2, Major damage deals 3 HP - this can be expanded or changed. 
 
 Negatives > Needs to be balanced in such a way where Vitality isn't easily accessible in direct combat. - Need to make sure at most 4 hit point types have major impact for most combats otherwise it could get hard to track. - loses some of the complexity of a system with damage rolls. I'll have to make sure other features let players make similar tactical choices with buffs and such, don't want to remove power fantasies like the precision warrior either. - Damage dice and weapons might need some thought, a battle axe doesn't necessarily have a higher chance to hit than a rapier. 
 
@@ -40,7 +40,7 @@ Simply increase the amount of damage dealt by 1 Hit Point
 
 **Physical**
 
-Bludgeoning
+Blunt
 
 Slashing
 
@@ -84,9 +84,9 @@ Radiant
 
 ##### Needs Work:
 
-Flesh - might get hit in situations where an attack hits vitality, but acts as a small buffer that turns major wounds into minor cuts - could be reserved for brawny unarmored fighters, or maybe they just get more - doesn't come with the drawbacks for being hit like with Vitality - if issued to everybody it probably comes in very small amounts, maybe just one hit point per person
+Flesh - might get hit in situations where an attack hits vitality, but acts as a small buffer that turns moderate wounds into minor cuts - could be reserved for brawny unarmored fighters, or maybe they just get more - doesn't come with the drawbacks for being hit like with Vitality - if issued to everybody it probably comes in very small amounts, maybe just one hit point per person
 
-Armor - doesn't get depleted, makes it harder to get to vitality once stamina is down or ignored. - Could work like this: medium armor means you have to do at least major damage to effect vitality, heavy armor means you have to do severe, light armor could have a different effect.
+Armor - doesn't get depleted, makes it harder to get to vitality once stamina is down or ignored. - Could work like this: medium armor means you have to do at least moderate damage to effect vitality, heavy armor means you have to do major, light armor could have a different effect.
 
 Vitality - represents actual severe harm to a creature's body - each point of Vitality taken probably comes with a drawback, /falling prone on turn end/speed reduction/less damage/ eventually culminating in death - creatures probably get 4 hit points of vitality or some other smallish number - effectively stands in for death saving throws, 
 
@@ -149,8 +149,8 @@ Compare the damage total to the target’s PD.
 | ---------- | --------------- | --------------------- |
 | Total < PD | Miss            | 1 HP, only to Stamina |
 | PDx1       | Minor           | 1 HP                  |
-| PDx1.5     | Major           | 2 HP                  |
-| PDx2       | Severe          | 3 HP                  |
+| PDx1.5     | Moderate        | 2 HP                  |
+| PDx2       | Major          | 3 HP                  |
 
 ### Step 3: Apply to Health Pools
 
@@ -194,11 +194,11 @@ Armor does not have hit points. It acts as a gate between Stamina and Flesh/Vita
 
 Armor only matters when an attack would go past Stamina and into the body. If you still have Stamina left, that Stamina absorbs the damage first.
 
-| Armor Type   | Effect                                                                                                                                                       |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Light Armor  | No gate. Attacks of Minor or higher can affect Flesh/Vitality once Stamina is gone.                                                                          |
-| Medium Armor | Gate: only Major or Severe attacks can affect Flesh/Vitality once Stamina is gone. Minor attacks are ignored.                                                |
-| Heavy Armor  | Gate: only Severe attacks can affect Flesh/Vitality once Stamina is gone. Minor and Major attacks are ignored.<br><br>Reduces Stamina gain from action by 1. |
+| Armor Type   | Effect                                                                                                                                                         |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Light Armor  | No gate. Attacks of Minor or higher can affect Flesh/Vitality once Stamina is gone.                                                                            |
+| Medium Armor | Gate: only Moderate or Major attacks can affect Flesh/Vitality once Stamina is gone. Minor attacks are ignored.                                                |
+| Heavy Armor  | Gate: only Major attacks can affect Flesh/Vitality once Stamina is gone. Minor and Moderate attacks are ignored.<br><br>Reduces Stamina gain from action by 1. |
 
 Shields increase PD by +1.
 
@@ -310,8 +310,8 @@ Temporary points are lost before the real pool. When the temporary points are go
 | Rest                 | Effect                                                          |
 | -------------------- | --------------------------------------------------------------- |
 | Minor Rest  (1hr)    | Restore all Stamina, Flesh, 2 Spirit, and 2 Psyche.             |
-| Major Rest (8hrs)    | Restore all Stamina, Flesh, 5 Spirit, 5 Psyche, and 2 Vitality. |
-| Greater Rest (24hrs) | Restore all Hit Points                                          |
+| Moderate Rest (8hrs) | Restore all Stamina, Flesh, 5 Spirit, 5 Psyche, and 2 Vitality. |
+| Majo Rest (24hrs)    | Restore all Hit Points                                          |
 
 
 
@@ -333,9 +333,9 @@ Compare to Bandit PD 6:
     
 - Minor: 7–8
     
-- Major: 9–11
+- Moderate: 9–11
     
-- Severe: 12+
+- Major: 12+
 
 Result 8 is **Minor**.  
 Bandit loses **1 Stamina**.  
@@ -345,7 +345,7 @@ Bandit’s Stamina is now 0.
 
 Hero attacks again.  
 Rolls 1d8+2 = 7+2 = 9.  
-Compare to Bandit PD 6: 9 is **Major**.  
+Compare to Bandit PD 6: 9 is **Moderate**.  
 Damage = 2 points.
 
 Bandit has no Stamina and no Armor, so both points go to Vitality.  
