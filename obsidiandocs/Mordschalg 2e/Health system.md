@@ -378,3 +378,108 @@ The whole fight takes two actions.
 
 
 
+I am creating a brand new Heroic TTRPG called Mordschlag, the design principles are the following:
+
+No narrative dissonance - all systems are to be designed so that there is as little separating from the mechanics, and what people actually expect to happen in the table. Systems should encourage players to think about the world in the table.
+
+Ease of entry - the best systems are easy to learn and rewarding to master
+
+Tactical decisions - combat should be about positioning, and thinking ahead, not just your build.
+
+Party Cohesion - the party progresses as a unit, and some systems such as the already finished divine favor system, need to be managed collectively.
+
+Low/medium Fantasy - the party should never feel like they are incapable of becoming the underdogs. Player power should cap out where games like pathfinder do at around level 13.
+
+
+As an example mechanic which much of the game will be based off of, here is the system's damage resolution mechanic:
+
+## No Attack Roll / No AC
+
+You roll damage. The total determines the damage category.
+
+| Result | Category | Damage Points |
+| ------ | -------- | ------------- |
+| ≤ PD   | Miss     | 0             |
+| PDx1   | Minor    | 1             |
+| PDx1.5 | Moderate | 2             |
+| PDx2   | Major    | 3             |
+
+**PD** = Physical Defense (baseline 7).
+
+---
+
+## Health Pools
+
+Damage is applied in order:
+
+> **Stamina  → Flesh → Vitality**
+
+### Stamina
+
+- Represents dodging, parrying, avoiding harm.
+    
+- Normal mortals have 5.
+    
+- Losing Stamina causes no wounds.
+    
+- Recovers with rest or by spending your turn start action.
+
+### Armor
+
+- Medium Armor reduces Moderate hits to Minor.
+    
+- Heavy Armor reduces Major and Moderate hits to Minor.
+
+### Flesh
+
+- Small buffer before real harm.
+    
+- Most people have **0-1**.
+    
+- Losing Flesh causes no penalties.
+
+### Vitality
+
+- Real bodily harm.
+    
+- Normal mortals have 3.
+    
+- Each missing Vitality = **-1 to all d20 rolls** and **-1 m speed**.
+
+---
+
+### Psyche
+
+- Mental Toll.
+    
+- Most creatures have 5 Psyche.
+    
+- Missing Psyche leaves you vulnerable to mental spells, fear effects, monsters may flee.
+
+---
+
+## Dying
+
+- At **0 Vitality**, you are incapacitated, can only crawl, and die in 10 rounds unless stabilized.
+    
+- Stabilize: 2 actions.
+    
+- Self-stabilize: spend 5 Stamina at start of turn.
+    
+- Further Vitality damage while dying = immediate death.
+
+---
+
+## Recovery
+
+| Rest             | Recovers                             |
+| ---------------- | ------------------------------------ |
+| Minor (1 hr)     | All Stamina, Flesh, 2 Psyche         |
+| Moderate (8 hrs) | Stamina, Flesh, 2 Vitality, 4 Psyche |
+| Major (24 hrs)   | Everything                           |
+
+Every creature starts their turn with a turn start action, two actions, and one reaction.
+
+You have written a very large amount of content, but I need quality over quantity. Forget all systems that you have created as many of them have severe issues when you look at the whole of the system, especially when it comes to elegant design. Instead we need to move forward one step at a time, I already have a spell system in mind, but i want to start with martial combat.
+
+I want martial players to have a fun repertoire of actions they can take on their turn, similar to battlemaster maneuvers. 

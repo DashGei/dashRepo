@@ -47,15 +47,22 @@ Alucard sword slinging for Spell blades
 
 ### Caster Perks
 
-Targets of Aura, Sphere, and Cone effects are pushed 1 meter away from the origin point. This only 
+Targets of Aura, Sphere, and Cone effects are pushed 1 meter away from the origin point. This only aaplies
 
 Choose a damage type, for every spell you know of this damage type, you deal an additional 2 points of damage when you roll for that damage type.
 
-**Detonate** When you reduce a creature to 0 Vitality with **Burn**, and that spell was delivered via Remote, the target is detonated. All creatures within 
+**Detonate** When you reduce a creature to 0 Vitality with **Combust**, and that spell was delivered via Bolt, the target is detonated. All creatures within 
 
 **Hands of the Dead** When you focus on a line of **Wither**, you can cause writhing, grasping hands to hold those who move over the line. Creatures must ___ or become restrained 
 
 ### Misc
 
-**Acrobatic Recovery**: When you take damage and are pushed **2 or more meters** as part of that damage, you can use your reaction to travel 2 more meters and **regain one stamina**. You also become **immune to the prone condition** until the start of your next turn.
+**Acrobatic Recovery**: When you are pushed **2 or more meters**, you can use your reaction to let yourself be pushed 2 more meters and **regain one stamina**. You also become **immune to Prone** until the start of your next turn.
+
+**Evasion**: When you are targeted by an effect that requires you to be within a certain area, you may use your **reaction to move up to your speed**, possibly out of the **area of effect**. The speed you spend during this reaction is **subtracted from your speed** when you next start your turn.
+
+**Critical Hits**: When you make a Strike, you also roll a d12 which isn't included in the damage. If you roll a 12 on this die, you deal the maximum amount of damage on each damage die instead of rolling.
+
+### Evasion
+
 

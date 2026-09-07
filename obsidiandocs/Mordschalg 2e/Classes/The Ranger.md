@@ -39,29 +39,11 @@ Your **Physical Modifier** is your Strength or Dexterity modifier.
 
 Your **Mental Modifier** is your Wisdom modifier.
 
-## Fighting Style: 1
-
-You adopt a particular style of fighting as your specialty. Choose one of the following options. Each fighting style grants you a bonus at level 1; you must be wielding one of your fighting style’s respective items to gain this benefit. At level 7, your fighting style provides you with a **Martial Feat**. This feat does not count against your Feats Prepared, and it does not require a **Feat Slot** when you use it. You must be wielding one of your fighting style’s respective items to use this feature, but you can use this feat regardless of your class.
-
-- Archery
-- Dueling
-- Hunter
-- Sage
-- Skirmisher
-- Thrown Weapon
-- Two-Weapon
-- Unarmed
-- Druidic Warrior
-- Guardian
-- Great Weapon
-
-The health bonus is added to your hit point maximum at 1st level and whenever you gain a level in this class.
-
 ## Hit Points
 
-**Hit Points at 1st Level:** 12 + your fighting style health bonus
+As a Ranger you start with 5 Vitality, 10 Stamina, and 5 Psyche
 
-**Hit Points at Higher Levels:** 6 + your fighting style health bonus per ranger level after 1st
+Your Physical Defense (PD) is 6, and your Mental Defense (MD) is 7.
 
 ## Proficiencies
 
@@ -77,7 +59,7 @@ The health bonus is added to your hit point maximum at 1st level and whenever yo
 
 ## Hunter's Mark: 1
 
-As an action, designate an enemy you can see within 90 feet as your quarry. While marked, you have advantage on Wisdom (Perception or Survival) checks to find or track it. When you hit the marked creature with an attack you add additional dice in force damage. The dice added are detirmined by your level as shown in the features table.
+As an action, designate an enemy you can see within 90 feet as your quarry. While marked, you have advantage on Wisdom (Perception or Survival) checks to find or track it. When you hit the marked creature with an attack you add additional dice in force damage. The dice added are determined by your level as shown in the features table.
 
 When you reduce a marked creature to 0 hit points with an attack, you may immediately apply **Hunter's Mark** to a new creature without using an action.
 
@@ -89,40 +71,6 @@ The mark lasts until you finish a long rest, the creature dies, or you expend a�
 
 **Preparing Aspects.** You can have 2 aspects active simultaneously. During a short or long rest, you can meditate and commune with nature to swap out any or all of your active aspects for other aspects in the aspect table.
 
-## Martial Feats: 2
-
-You have trained in special techniques that give you an edge in combat and beyond. You gain access to martial feats, as described in the **Martial Feats** section. You may only use one **Feat Slot** per turn.
-
-**Feat Slots.** You have 2 **Feat Slots**, which you expend to activate your feats. You regain all expended slots when you finish a short rest. Your number of **Feat Slots** increases as you gain levels, as shown in the Feats Progression table.
-
-**Feats Prepared.** You prepare 2 martial feats of your choice from your feat list. The Feats Prepared column of the Feats Progression table shows when you learn more feats. Additionally, when you gain a level in this class, you can replace one feat you have prepared with another feat of your choice from your class feat list.
-
-**Feat Tier.** You can learn feats of Tier 1 at level 2. At higher levels you gain access to higher tiers, as shown in the table.
-
-**Feats Progression**
-
-|Level|Feat Slots|Feats Prepared|Feat Tier Available|
-|---|---|---|---|
-|2nd|2|2|Tier 1|
-|3rd|2|2|Tier 1|
-|4th|2|2|Tier 1|
-|5th|3|3|Tier 2|
-|6th|3|3|Tier 2|
-|7th|3|3|Tier 2|
-|8th|3|3|Tier 2|
-|9th|3|3|Tier 2|
-|10th|4|3|Tier 2|
-|11th|4|3|Tier 3|
-|12th|4|4|Tier 3|
-|13th|5|4|Tier 3|
-|14th|5|4|Tier 3|
-|15th|5|4|Tier 3|
-|16th|6|5|Tier 3|
-|17th|6|5|Tier 4|
-|18th|6|5|Tier 4|
-|19th|7|5|Tier 4|
-|20th|7|6|Tier 4|
-
 ## Ranger Conclave: 3
 
 _You choose a [Ranger Conclave](https://dashgei.github.io/dashRepo/sc_ranger.html) that embodies your hunting philosophy._ Your choice grants you features at 3rd level and then again at 7th, 14th, and 20th level.
@@ -130,10 +78,6 @@ _You choose a [Ranger Conclave](https://dashgei.github.io/dashRepo/sc_ranger.ht
 ## Analyzed: 3
 
 When you deal damage to a marked creature, you know if they have any resistances, immunities, or vulnerabilities.
-
-## Ability Score Improvement
-
-At 4th, 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 1. You can't increase an ability score above 5 using this feature.
 
 ## Martial Fatigue Resistance: 5
 

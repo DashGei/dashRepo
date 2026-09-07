@@ -1,4 +1,4 @@
-By default a spell deals 1d6 damage if it has a damage base, and applies an effect to the target if it has one. You can spend more mana to modify the area effected. The delivery describes how a spell targets. If the delivery is an Area it targets everything within that area. The damage of a spell increases by 1d6 for every 2 mana spent, you can also choose to spend more mana freely if you just want more damage.
+By default a spell deals 1d6 damage if it has a damage base, hand applies an effect to the target if it has one. You can spend more mana to modify the area effected. The delivery describes how a spell targets. If the delivery is an Area it targets everything within that area. The damage of a spell increases by 1d6 for every 2 mana spent, you can also choose to spend more mana freely if you just want more damage.
 
 
 
@@ -23,7 +23,7 @@ By default a spell deals 1d6 damage if it has a damage base, and applies an effe
 
 - **Imbue** - Targets a **weapon held by a willing creature within 12 meters**. The weapon carries the spell, and when it hits a target, you can spend 1 Mana to cast the spell against that target as though using Touch, without using an Action.
 
-- **Glyph** - Creates a **1-meter-square magical glyph** on a target you can see. At a later point, the spell can be cast from the glyph into a **1-meter cube**, after which the glyph disappears.
+- **Cylinder** - Creates a **1-meter-square magical glyph** on a target you can see. At a later point, the spell can be cast from the glyph into a **1-meter cube**, after which the glyph disappears.
 
 - **Line** - A **1-meter-wide, 4-meter-long, 2-meter-tall area**. Its length can be increased by 2 meters for additional Mana; expanding its width or height by up to 2 meters doubles the cost.
 

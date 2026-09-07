@@ -62,7 +62,7 @@ You can enter your Rage as your **Turn Start Action** by taking **Minor Psyche d
 
 - **Crit Die.** Whenever you make a Strike, you roll a separate **1d12**. This die is not added to your damage. If it rolls a **12**, you score a **Critical Hit**.
     
-- **Critical Hit Effect.** When you score a Critical Hit, your damage category increases by one step (Minor→Major, Major→Severe, Severe→Severe +1 damage).
+- **Critical Hit Effect.** When you score a Critical Hit, your damage category increases by one step (Minor→Moderate, Moderate→Major, Major→Major+1 damage).
     
 - **Building Fury.** At the start of each of your turns while raging, and each time an allied creature you can see within 10 feet of you takes damage, your Critical Hit range increases by 1 (from 12 to 11, then 10, etc.), to a minimum of **10**.
     
