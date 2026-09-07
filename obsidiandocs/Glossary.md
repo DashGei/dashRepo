@@ -1,0 +1,9 @@
+### Complexity & Cognitive Load Pitfalls
+
+| Avoid                                                    | Why                                                                                                                                                                      |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Exception-based rules**                                | "This ability works like Trip, but only against enemies two sizes larger, and only if you're wielding a spear, and only on Tuesdays." Each exception adds mental weight. |
+| **Conditional modifiers that depend on multiple states** | "You get +2 if you're flanking AND the enemy is prone AND you haven't moved this turn." Too many conditionals to evaluate.                                               |
+| **Symmetrical rules that require constant lookup**       | If every weapon has a unique property and every monster has a unique ability, the game becomes a reference manual instead of a system.                                   |
+| **Table lookups during combat**                          | Rolling on a random injury table, checking a condition list, or looking up a spell description mid-turn kills pacing.                                                    |
+| **Rules that only matter in rare edge cases**            | If a rule exists for underwater basket-weaving combat, it's bloat unless the game is specifically about that.                                                            |

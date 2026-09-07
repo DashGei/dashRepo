@@ -388,7 +388,7 @@ Tactical decisions - combat should be about positioning, and thinking ahead, not
 
 Party Cohesion - the party progresses as a unit, and some systems such as the already finished divine favor system, need to be managed collectively.
 
-Low/medium Fantasy - the party should never feel like they are incapable of becoming the underdogs. Player power should cap out where games like pathfinder do at around level 13.
+Low/medium Fantasy, Tight bounded accuracy - the party should never feel like they are incapable of becoming the underdogs. Player power should cap out where games like pathfinder do at around level 13. Effective health only ever increases by 2x across 20 levels
 
 
 As an example mechanic which much of the game will be based off of, here is the system's damage resolution mechanic:
@@ -401,8 +401,9 @@ You roll damage. The total determines the damage category.
 | ------ | -------- | ------------- |
 | ≤ PD   | Miss     | 0             |
 | PDx1   | Minor    | 1             |
-| PDx1.5 | Moderate | 2             |
-| PDx2   | Major    | 3             |
+| PDx2   | Moderate | 2             |
+| PDx3   | Major    | 3             |
+A Miss can be converted into Minor damage by expending 1 Stamina
 
 **PD** = Physical Defense (baseline 7).
 
