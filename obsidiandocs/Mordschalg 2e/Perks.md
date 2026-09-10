@@ -34,7 +34,7 @@ As a turn start action you can sacrifice 3 meters of movement on your turn to ga
 
 *Prerequisite, Parry* **Parry Riposte** If you use **Parry** and reduce an strike to a miss, you can make a melee strike against the attacker as part of the parry.
 
-*Prerequisite, Parry* **Fluid Parrying** If you have 3 or more Stamina your **Parry** reduces the damage you take by your roll, even if the result isn't a miss.
+*Prerequisite, Parry* **Fluid Parrying** If you have 3 or more Stamina your **Parry** reduces the enemy's strike by your roll, even if the result isn't a miss.
 
 *Prerequisite*,  **Advanced Swordplay** When you use any reaction and either reduce a strike to a miss, or make a strike dealing 2 or more HP, you regain a reaction.
 
@@ -47,21 +47,28 @@ Alucard sword slinging for Spell blades
 
 ### Caster Perks
 
-Targets of Aura, Sphere, and Cone effects are pushed 1 meter away from the origin point. This only aaplies
+**Violent Evocation** Targets of Aura, Sphere, and Cone effects are pushed 2 meters away from the origin point. This only applies to targets taking Fire, Radiant, Lightning, Bludgeoning, or Thunder damage.
 
-Choose a damage type, for every spell you know of this damage type, you deal an additional 2 points of damage when you roll for that damage type.
+**Elemental Expertise** Choose a damage type, for every spell you know of this damage type, you deal an additional 2 points of damage when you roll for that damage type.
 
-**Detonate** When you reduce a creature to 0 Vitality with **Combust**, and that spell was delivered via Bolt, the target is detonated. All creatures within 
+**s** When you or a feature you have pushes a creature 2 or more meters and the effect has no saving throw, all targets must succeed Mental DC Strength saves or fall prone.
 
-**Hands of the Dead** When you focus on a line of **Wither**, you can cause writhing, grasping hands to hold those who move over the line. Creatures must ___ or become restrained 
+**Detonate** When you reduce a creature to 0 Vitality with **Combust**, and that spell was delivered via Bolt, the target is detonated. All creatures within 3 meters take 3d6 Fire damage and are pushed 2 meters away.
+
+**Hands of the Dead** When you focus on a line of **Wither**, you can cause writhing, grasping hands to hold those who move over the line. Creatures must succeed Mental DC Might saves or become Grappled by the spell. 
 
 ### Misc
 
 **Acrobatic Recovery**: When you are pushed **2 or more meters**, you can use your reaction to let yourself be pushed 2 more meters and **regain one stamina**. You also become **immune to Prone** until the start of your next turn.
 
-**Evasion**: When you are targeted by an effect that requires you to be within a certain area, you may use your **reaction to move up to your speed**, possibly out of the **area of effect**. The speed you spend during this reaction is **subtracted from your speed** when you next start your turn.
+**Evasion**: When you are targeted by an effect that requires you to be within a certain area, you may use your **reaction** to act before the effect hits, giving yourself additional meters of movement equal to your Dexterity bonus during your movement, possibly out of the **area of effect**. 
+
+
+The speed you spend during this reaction is **subtracted from your speed** when you next start your turn.
 
 **Critical Hits**: When you make a Strike, you also roll a d12 which isn't included in the damage. If you roll a 12 on this die, you deal the maximum amount of damage on each damage die instead of rolling.
+
+
 
 ### Evasion
 

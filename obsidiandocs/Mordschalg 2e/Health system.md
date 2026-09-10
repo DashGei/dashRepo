@@ -388,7 +388,7 @@ Tactical decisions - combat should be about positioning, and thinking ahead, not
 
 Party Cohesion - the party progresses as a unit, and some systems such as the already finished divine favor system, need to be managed collectively.
 
-Low/medium Fantasy, Tight bounded accuracy - the party should never feel like they are incapable of becoming the underdogs. Player power should cap out where games like pathfinder do at around level 13. Effective health only ever increases by 2x across 20 levels
+Low/medium Fantasy, Tight bounded accuracy - the party should never feel like they are incapable of becoming the underdogs. Player power should cap out where games like pathfinder do at around level 13. As an example, effective health only ever increases by 2x across 20 levels
 
 
 As an example mechanic which much of the game will be based off of, here is the system's damage resolution mechanic:
@@ -399,7 +399,7 @@ You roll damage. The total determines the damage category.
 
 | Result | Category | Damage Points |
 | ------ | -------- | ------------- |
-| ≤ PD   | Miss     | 0             |
+| < PD   | Miss     | 0             |
 | PDx1   | Minor    | 1             |
 | PDx2   | Moderate | 2             |
 | PDx3   | Major    | 3             |
@@ -423,13 +423,11 @@ Damage is applied in order:
     
 - Losing Stamina causes no wounds.
     
-- Recovers with rest or by spending your turn start action.
+- Recovers with rest or by spending your turn end action.
 
 ### Armor
 
-- Medium Armor reduces Moderate hits to Minor.
-    
-- Heavy Armor reduces Major and Moderate hits to Minor.
+- Increases base PD by small amounts, at most 4.
 
 ### Flesh
 
@@ -479,7 +477,7 @@ Damage is applied in order:
 | Moderate (8 hrs) | Stamina, Flesh, 2 Vitality, 4 Psyche |
 | Major (24 hrs)   | Everything                           |
 
-Every creature starts their turn with a turn start action, two actions, and one reaction.
+Every creature starts their turn with two actions, a turn end action, and one reaction. Taking a reaction also lets you move 1 meter during the reaction.
 
 You have written a very large amount of content, but I need quality over quantity. Forget all systems that you have created as many of them have severe issues when you look at the whole of the system, especially when it comes to elegant design. Instead we need to move forward one step at a time, I already have a spell system in mind, but i want to start with martial combat.
 
