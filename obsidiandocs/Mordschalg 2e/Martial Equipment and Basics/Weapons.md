@@ -49,49 +49,49 @@
 | Name                     | Damage | Properties                         | Impact | Cost   | Range    |
 | ------------------------ | ------ | ---------------------------------- | ------ | ------ | -------- |
 | _Simple Melee Weapons_   |        |                                    |        |        |          |
-| Club                     | 3d4    | Light                              | Mo.    | 1 SP   | 1        |
-| Dagger                   | 4d2    | Finesse, Light, Thrown             | Mo.    | 2 GP   | 1 (4/12) |
-| Greatclub                | 3d8    | Two-Handed                         | Ma.    | 2 SP   | 2        |
-| Handaxe                  | 3d6    | Light, Thrown                      | Mo.    | 5 GP   | 1        |
-| Javelin                  | 3d6    | Thrown                             | Ma.    | 5 SP   | 1        |
-| Light Hammer             | 3d4    | Light, Thrown                      | Mo.    | 2 GP   | 1        |
-| Mace                     | 3d6    | -                                  | Ma.    | 5 GP   | 1        |
-| Quarterstaff             | 3d6    | Versatile (d)                      | Ma.    | 2 SP   | 2        |
-| Sickle                   | 3d4    | Light                              | Mo.    | 1 GP   | 1        |
-| Spear                    | 3d6    | Thrown, Versatile (d)              | Ma.    | 1 GP   | 2 (8/32) |
-| Unarmed                  | 3d2    |                                    | -      | -      | 1        |
-| Buckler                  | 1      |                                    |        |        |          |
+| Club                     | 2d4    | Light                              | Mo.    | 1 SP   | 1        |
+| Dagger                   | 2d4    | Finesse, Light, Thrown             | Mo.    | 2 GP   | 1 (4/12) |
+| Greatclub                | 2d8    | Two-Handed                         | Ma.    | 2 SP   | 2        |
+| Handaxe                  | 2d6    | Light, Thrown                      | Mo.    | 5 GP   | 1        |
+| Javelin                  | 2d6    | Thrown                             | Ma.    | 5 SP   | 1        |
+| Light Hammer             | 2d4    | Light, Thrown                      | Mo.    | 2 GP   | 1        |
+| Mace                     | 2d6    | -                                  | Ma.    | 5 GP   | 1        |
+| Quarterstaff             | 2d6    | Versatile (d)                      | Ma.    | 2 SP   | 2        |
+| Sickle                   | 2d4    | Light                              | Mo.    | 1 GP   | 1        |
+| Spear                    | 2d6    | Thrown, Versatile (d)              | Ma.    | 1 GP   | 2 (8/32) |
+| Unarmed                  | 2d2    |                                    | -      | -      | 1        |
+| Buckler                  | 2      |                                    |        |        |          |
 | _Simple Ranged Weapons_  |        |                                    |        |        |          |
-| Dart                     | 3d4    | Finesse, Thrown                    | Mo.    | 5 CP   | 4/16     |
-| Light Crossbow           | 3d8    | Two-Handed, Hunker                 | Ma.    | 25 GP  | 12/48    |
-| Shortbow                 | 3d6    | Two-Handed                         | Ma.    | 25 GP  | 16/64    |
-| Sling                    | 3d4    |                                    | Mi.    | 1 SP   | 6/24     |
-| Musket                   | 6d8    | Matchlock, Two-Handed              | Ma.    | 200 GP | 20/80    |
-| Pistol                   | 6d4    | Ammunition , Matchlock             | Mo.    | 80 GP  | 6/24     |
+| Dart                     | 2d4    | Finesse, Thrown                    | Mo.    | 5 CP   | 4/16     |
+| Light Crossbow           | 2d8    | Two-Handed, Hunker                 | Ma.    | 25 GP  | 12/48    |
+| Shortbow                 | 2d6    | Two-Handed                         | Ma.    | 25 GP  | 16/64    |
+| Sling                    | 2d4    |                                    | Mi.    | 1 SP   | 6/24     |
+| Musket                   | 4d10   | Matchlock, Two-Handed              | Ma.    | 200 GP | 20/80    |
+| Pistol                   | 3d8    | Ammunition , Matchlock             | Mo.    | 80 GP  | 6/24     |
 | _Martial Melee Weapons_  |        |                                    |        |        |          |
-| Battleaxe                | 3d8    | Versatile (d)                      | Ma.    | 10 GP  | 2        |
-| Flail                    | 3d8    | -                                  | Ma.    | 10 GP  | 2        |
-| Glaive                   | 3d10   | Heavy, Reach, Two-Handed           | Ma.    | 20 GP  | 3        |
-| Greataxe                 | 6d6    | Heavy, Two-Handed                  | Ma.    | 30 GP  | 2        |
-| Greatsword               | 6d6    | Heavy, Two-Handed                  | Ma.    | 50 GP  | 2        |
-| Halberd                  | 3d10   | Heavy, Two-Handed                  | Ma.    | 20 GP  | 3        |
-| Lance                    | 3d10   | Heavy, Two-Handed (unless mounted) | Ca.    | 10 GP  | 3        |
-| Longsword                | 3d8    | Versatile (d)                      | Ma.    | 15 GP  | 2        |
-| Maul                     | 6d6    | Heavy, Two-Handed                  | Ma.    | 10 GP  | 2        |
-| Morningstar              | 3d8    | -                                  | Ma.    | 15 GP  | 2        |
-| Pike                     | 3d10   | Heavy, Reach, Two-Handed           | Ma.    | 5 GP   | 3        |
-| Rapier                   | 4d6    | Finesse                            | Ma.    | 25 GP  | 2        |
-| Scimitar                 | 3d6    | Finesse, Light                     | Mo.    | 25 GP  | 1        |
-| Shortsword               | 3d6    | Finesse, Light                     | Mo.    | 10 GP  | 1        |
-| Trident                  | 3d8    | Thrown, Versatile (d)              | Ma.    | 5 GP   | 3 (4/12) |
-| Warhammer                | 3d8    | Versatile (d)                      | Ma.    | 15 GP  |          |
-| War Pick                 | 3d8    | Versatile (d)                      | Ma.    | 5 GP   | 2        |
-| Whip                     | 3d4    | Finesse, Reach                     | Ma.    | 2 GP   | 3        |
+| Battleaxe                | 2d8    | Versatile (d)                      | Ma.    | 10 GP  | 2        |
+| Flail                    | 2d8    | -                                  | Ma.    | 10 GP  | 2        |
+| Glaive                   | 2d10   | Heavy, Reach, Two-Handed           | Ma.    | 20 GP  | 3        |
+| Greataxe                 | 4d6    | Heavy, Two-Handed                  | Ma.    | 30 GP  | 2        |
+| Greatsword               | 4d6    | Heavy, Two-Handed                  | Ma.    | 50 GP  | 2        |
+| Halberd                  | 2d10   | Heavy, Two-Handed                  | Ma.    | 20 GP  | 3        |
+| Lance                    | 2d10   | Heavy, Two-Handed (unless mounted) | Ca.    | 10 GP  | 3        |
+| Longsword                | 2d8    | Versatile (d)                      | Ma.    | 15 GP  | 2        |
+| Maul                     | 4d6    | Heavy, Two-Handed                  | Ma.    | 10 GP  | 2        |
+| Morningstar              | 2d8    | -                                  | Ma.    | 15 GP  | 2        |
+| Pike                     | 2d10   | Heavy, Reach, Two-Handed           | Ma.    | 5 GP   | 3        |
+| Rapier                   | 2d8    | Finesse                            | Ma.    | 25 GP  | 2        |
+| Scimitar                 | 2d6    | Finesse, Light                     | Mo.    | 25 GP  | 1        |
+| Shortsword               | 2d6    | Finesse, Light                     | Mo.    | 10 GP  | 1        |
+| Trident                  | 2d8    | Thrown, Versatile (d10)            | Ma.    | 5 GP   | 3 (4/12) |
+| Warhammer                | 2d8    | Versatile (d)                      | Ma.    | 15 GP  |          |
+| War Pick                 | 2d8    | Versatile (d)                      | Ma.    | 5 GP   | 2        |
+| Whip                     | 2d4    | Finesse, Reach                     | Ma.    | 2 GP   | 3        |
 | _Martial Ranged Weapons_ |        |                                    |        |        |          |
-| Blowgun                  | 1      |                                    | Mo.    | 10 GP  | 5/20     |
-| Hand Crossbow            | 3d6    | Light, Hunker                      | Mo.    | 75 GP  | 6/24     |
-| Crossbow                 | 3d10   | Heavy, Two-Handed, Hunker          | Ma.    | 50 GP  | 20/80    |
-| Longbow                  | 3d8    | Heavy, Two-Handed                  | Ma.    | 50 GP  | 30/120   |
+| Blowgun                  | 2      |                                    | Mo.    | 10 GP  | 5/20     |
+| Hand Crossbow            | 2d6    | Light, Hunker                      | Mo.    | 75 GP  | 6/24     |
+| Crossbow                 | 2d10   | Heavy, Two-Handed, Hunker          | Ma.    | 50 GP  | 20/80    |
+| Longbow                  | 2d8    | Heavy, Two-Handed                  | Ma.    | 50 GP  | 30/120   |
 
 | Name                     | Damage | Properties                         | Impact | Cost   | Range    |
 | ------------------------ | ------ | ---------------------------------- | ------ | ------ | -------- |

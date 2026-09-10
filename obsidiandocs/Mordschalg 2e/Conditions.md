@@ -4,6 +4,11 @@ When a creature fights against something like a saving throw, they roll a number
 
 This does however allow things like: You are restrained, you can try and break out yourself or if another creature uses their action they get a 2d6 bonus to breaking the condition.
 
+**saving throws?**
+
+
+
+
 
 
 ## List
@@ -11,6 +16,8 @@ This does however allow things like: You are restrained, you can try and break o
 **Suppressed**: 
 
 **Exposed**:
+
+**Drunk**: Pain resistance, penalties skill based weaponry
 
 
 
