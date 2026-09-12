@@ -68,3 +68,28 @@ The amount of dice is increased for every size smaller the creature is than huge
 
 # Definitely only a few times a day, powers.
 
+
+# Stances
+
+
+## Defense
+
+### Sentinel
+
+### Guardian
+
+## Ranged
+
+### Marksman
+
+**Sweet Spot** When a creature ends their turn within 30-40 feet from you, you can use your reaction to  make a ranged weapon strike against the creature. When you finish a short rest you can change the range of the sweet spot to any 10 foot range between 10-150 feet.
+
+
+### Skirmisher
+
+
+## Offense
+
+
+
+## Mobility
