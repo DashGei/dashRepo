@@ -76,20 +76,37 @@ The amount of dice is increased for every size smaller the creature is than huge
 
 ### Sentinel
 
+**Sentinel Strike** {R*} When a creature within 5 feet of you makes a strike against a target other than you, you can use your reaction to make a melee weapon strike against the attacking creature.
+
 ### Guardian
 
-## Ranged
-
-### Marksman
-
-**Sweet Spot** When a creature ends their turn within 30-40 feet from you, you can use your reaction to  make a ranged weapon strike against the creature. When you finish a short rest you can change the range of the sweet spot to any 10 foot range between 10-150 feet.
 
 
-### Skirmisher
+### Unnamed
+
+**Parry** {R*} When attacked with a strike dealing physical damage, you can make a melee strike with their weapon as the target. If your strike deals more damage then theirs, their strike becomes a miss.
+
+
 
 
 ## Offense
 
+### Marksman
 
+**Sweet Spot** {R*} When a creature ends their turn within 30-40 feet from you, you can use your reaction to  make a ranged weapon strike against the creature. When you finish a short rest you can change the range of the sweet spot to any 10 foot range between 10-150 feet.
 
+**Precision Strikes** When you miss a strike, you can add 1d6 to the roll's total.
+
+**Hold Breath** You can sacrifice an additional action when making a strike to  
+
+### Brawling
+
+##
 ## Mobility
+
+### Skirmisher
+
+**Scuttle** {R*} When a creature within 2 meters of you moves, you can move 3 meters as a reaction.
+
+**** When you start your turn with no enemy creatures within 2 meters, you add 1d6 to all strikes before the end of your turn.
+
