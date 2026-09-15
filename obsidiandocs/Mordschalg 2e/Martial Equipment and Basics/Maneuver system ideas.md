@@ -56,13 +56,13 @@ These abilities might require a resource to be expended, or require a tradeoff/c
 
 **Counter Posing** As an action, you can use this feat to enter an immovable stance that lasts until you move from your space. For the duration, when a creature attempts to Grapple you, move you, or move through you, it first must make a Physical DC Strength saving throw. On a failure, you Grapple it or knock it Prone.
 
-**Daggerpush** With two actions you target a prone creature within 5 feet of you. You also become prone, and the creature makes a Phys DC Strength check, on a failure you hit the creature with an automatic critical hit using a weapon you are holding.
+**Daggerpush** With two actions you target a prone creature within 5 feet of you. You also become prone, and the creature makes a Phys DT Strength check, on a failure you hit the creature with an automatic critical hit using a weapon you are holding.
 
 **Take it and Leave it** When you deal Flesh or Vitality damage to a creature with a Slashing or Piercing melee weapon, you can leave the weapon in the enemy. While the weapon is lodged, the target subtracts 1d4 from all rolls they make. A creature can remove the weapon with an action, taking 1d4 Mental damage when they remove it. 
 
 The amount of dice is increased for every size smaller the creature is than huge, and every weight the weapon is above minor.
 
-**Blinding Strike** When you hit a creature with a weapon attack, you can activate this feat. The target must make a **Physical DC** Strength saving throw. On a failure, it is blinded until the end of your next turn.
+**Blinding Strike** When you hit a creature with a weapon attack, you can activate this feat. The target must make a **Phys DT** Strength saving throw. On a failure, it is blinded until the end of your next turn.
 
 
 
@@ -76,11 +76,15 @@ The amount of dice is increased for every size smaller the creature is than huge
 
 ### Sentinel
 
+*Hale Yalrice m’a dit hier qu’il avait lui-même fait ses armes avec la lance du peuple du Milieu. Avec quelle sagesse je me suis retrouvé sur le cul ! — Ewohl de Marrene*
+
 **Sentinel Strike** {R*} When a creature within 5 feet of you makes a strike against a target other than you, you can use your reaction to make a melee weapon strike against the attacking creature.
+
+**Trip** Once per round when you strike an enemy you can force them to make a Phys DT Strength save or fall prone.
 
 ### Guardian
 
-
+When you take the Defend action, another of your choice creature within 2 meters of you also gains the benefits.
 
 ### Unnamed
 
@@ -88,25 +92,59 @@ The amount of dice is increased for every size smaller the creature is than huge
 
 
 
+### 
+
+*This High Elven practice is generally attributed to short bow, but the same principles can be used in polearm techniques. -Orvin Gulmed "Learnings From Other Lands"*
+
+**Suppress** When a creature you can see makes a strike against another creature, you can use your reaction to make a strike with a 1d8 penalty against the attacker. This strike also reduces the attacker's strike by the roll on the d8.
+
+
 
 ## Offense
 
+
+
 ### Marksman
+
+An Elvish technique
 
 **Sweet Spot** {R*} When a creature ends their turn within 30-40 feet from you, you can use your reaction to  make a ranged weapon strike against the creature. When you finish a short rest you can change the range of the sweet spot to any 10 foot range between 10-150 feet.
 
 **Precision Strikes** When you miss a strike, you can add 1d6 to the roll's total.
 
-**Hold Breath** You can sacrifice an additional action when making a strike to  
-
 ### Brawling
 
-##
+When you have a creature grappled, you can activate this feat as an action. The target must be no more than one size larger than you. The target must make a **Physical DC** Strength saving throw. On a failure, you throw it up to 4 meters to an unoccupied space you can see, it takes physical damage equal to 1d6 + your Might modifier, and it falls prone.
+
+### Warrior
+
+*A martial pose devised by Orcs in order to cut down and defend oneself from hordes of undead —Works just as well against Goblins, Imps, and other rabble.*
+
+**Sweep Strike** Once per turn when you strike an enemy, you can also strike an adjacent enemy within range.
+
+****
+
+### Dread
+
+****
+
 ## Mobility
 
 ### Skirmisher
 
-**Scuttle** {R*} When a creature within 2 meters of you moves, you can move 3 meters as a reaction.
+**Scuttle** {R*} When a creature within 2 meters of you moves, you can move 4 meters as a reaction.
 
 **** When you start your turn with no enemy creatures within 2 meters, you add 1d6 to all strikes before the end of your turn.
+
+### Mixed
+
+*The term "Ranger" actually refers to a company of Lorwynian partisans during the Annexation of Lorwyn who frequently exploited this fighting style.*
+
+**o** Making a Ranged strike adds 1d8 to your next Melee strike, making a Melee strike adds 1d8 to your next Ranged strike. These d8 persist until the start of your next turn.
+
+Once per turn when you take the Dash action, you can make a strike as part of that action, this strike has a 1d8 penalty.
+
+### Malefic
+
+{R*} When you have the hidden or Invisible condition, you can make a strike reaction against any creature who moves within 2 meters of you.
 
