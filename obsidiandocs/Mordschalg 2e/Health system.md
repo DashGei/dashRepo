@@ -120,123 +120,122 @@ While you have these hit points you gain bonuses to fear effects, might let you 
 
 Possible additional system - Body part targeting once you reach vitality - add penalty dice according to how hard the body part is to hit, let players hack off limbs, stab eyes, 
 
-## Core Principle
-
-There is no attack roll and no Armor Class.
-
-When you attack, you roll damage. The damage result determines what happens to the target’s health pools.
-
-Most misses still cost the defender stamina, because they had to parry, dodge, twist, or retreat. A solid hit is not a small subtraction from a giant HP pool; it is a wound.
-
 
 ## 1. Damage Resolution
 
 ### Step 1: Roll Damage
 
-Roll the weapon’s damage dice and add its flat damage bonus.
-
-Weapon properties, talents, and special abilities can increase or reroll this damage.
+Roll damage dice and add any flat damage bonuses.
 
 ### Step 2: Compare to Physical Defense
 
-Every creature has a **Physical Defense (PD)**.
+Every creature has a Physical, Mental, and Spiritual Defense (PD, MD, SD)
 
-Baseline human PD is **6**.
+Baseline mortal defense is **5**.
 
-Compare the damage total to the target’s PD.
+Compare the damage total to the target’s relevant defense.
 
-| Result     | Damage Category | Points Applied        |
-| ---------- | --------------- | --------------------- |
-| Total < PD | Miss            | 1 HP, only to Stamina |
-| PDx1       | Minor           | 1 HP                  |
-| PDx1.5     | Moderate        | 2 HP                  |
-| PDx2       | Major          | 3 HP                  |
+| Result     | Damage Category | Points Applied |
+| ---------- | --------------- | -------------- |
+| Total < PD | Miss            | o HP           |
+| PDx1       | Minor           | 1 HP           |
+| PDx2       | Moderate        | 2 HP           |
+| PDx3       | Major           | 3 HP           |
+A miss can be converted into Minor damage by spending 2 Stamina.
+
+#### Armor
+
+| Armor Type   | Effect to PD |
+| ------------ | ------------ |
+| Medium Armor | +1-2         |
+| Heavy Armor  | +3-4         |
+
 
 ### Step 3: Apply to Health Pools
 
 Physical damage is applied in this order:
 
-> **Stamina → Armor Gate → Flesh → Vitality**
+> **Stamina →  Flesh → Vitality**
 
+## 2. Physical Health
 
+### Damage Types
 
-## 2. Physical Health Pools
+An asterisk denotes a damage type that might apply to a different health pool. When this damage type is detailed, it will have a signifier in parathesis to indicate which health pool(s) it will can applied to, i.e. Radiant(P) for Physical Radiant damage. If it lists both, then the attacker chooses which, but never both.
+
+| Name      | Examples     |
+| --------- | ------------ |
+| Blunt     | Blunt trauma |
+| Slashing  |              |
+| Piercing  |              |
+| Acid      |              |
+| Cold      |              |
+| Fire      |              |
+| Lightning |              |
+| Toxic     |              |
+| Necrotic* | Withering    |
+| Radiant*  | Holy fire    |
+| Concuss*  | Shockwaves   |
+| Force*    | Raw magic    |
 
 ### Stamina
 
-Stamina represents dodging, parrying, rolling, twisting away, and otherwise preventing a weapon from meeting your body.
+Stamina represents dodging, parrying, rolling, twisting away, minor scrapes, and threats that don't deal lasting damage.
 
-- A normal human has **3 Stamina**.
-    
-- Skirmishers and duelists may have 4–6.
-    
-- Heavily armored fighters often have less Stamina because they rely on armor.
-
-**Effects of Stamina loss:**
-
-- Stamina loss does not cause wounds.
-    
-- When Stamina reaches 0, you are too tired to properly defend yourself. You cannot take reactions that depend on movement or defense.
-    
-- You may still attack, but you are vulnerable.
-
-**Stamina recovery:**
-
-- At the start of your turn, if you have not lost any Stamina since the end of your previous turn, regain **1 Stamina**.
-    
-- You may spend **1 action** to recover **2 Stamina**.
-    
-- A minor rest fully restores Stamina.
-
-### Armor
-
-Armor does not have hit points. It acts as a gate between Stamina and Flesh/Vitality.
-
-Armor only matters when an attack would go past Stamina and into the body. If you still have Stamina left, that Stamina absorbs the damage first.
-
-| Armor Type   | Effect                                                                                                                                                         |
-| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Light Armor  | No gate. Attacks of Minor or higher can affect Flesh/Vitality once Stamina is gone.                                                                            |
-| Medium Armor | Gate: only Moderate or Major attacks can affect Flesh/Vitality once Stamina is gone. Minor attacks are ignored.                                                |
-| Heavy Armor  | Gate: only Major attacks can affect Flesh/Vitality once Stamina is gone. Minor and Moderate attacks are ignored.<br><br>Reduces Stamina gain from action by 1. |
-
-Shields increase PD by +1.
-
-**Armor-piercing weapons** can reduce the gate:
-
-- Pierce: Medium Armor is treated as Light Armor.
-    
-- Crush: Heavy Armor is treated as Medium Armor.
+A normal mortal has 7 Stamina. .
 
 ### Flesh
 
-Flesh is a small buffer between Armor and Vitality.
+Flesh is identical to Vitality, and is taken first whenever a feature says it deals damage to Vitality but applies no debuff when removed. 
 
-Most ordinary people have **0 Flesh**.
-
-Tough, large, or unarmored bruisers may have 1–2 Flesh.
-
-- Losing Flesh does not cause a wound condition.
-    
-- Flesh represents shallow cuts and bruises.
+Frontline classes typically have 1 Flesh.
 
 ### Vitality
 
 Vitality represents real bodily harm: deep cuts, broken bones, punctured organs, internal bleeding.
 
-- Normal humans have **3 Vitality**.
-    
-- Player characters have **4 Vitality**.
-    
-- Large or exceptionally tough creatures may have **5–6 Vitality**.
+A normal mortal has 3 Stamina, PCs typically have 4
 
-For every point of Vitality you are missing:
+For every point of Vitality you are missing, a creature has a -1 to their speed and all rolls.
 
-- **-1 to all rolls**
-    
-- **-1 meter to your speed**
+## 3. Mental Health
 
-## 3. Dying
+### Damage Types
+
+| Name     | Examples                           |
+| -------- | ---------------------------------- |
+| Concuss* | Head trauma                        |
+| Pain     | Persistent wounds                  |
+| Static   | Psychic assaults, the unfathomable |
+| Stress   | Extreme circumstances, fatigue     |
+
+### Health Bar
+
+Most creatures have 7 bars of Mental health with a MD of 6. 
+
+A creature with half or less Mental Health has the Irate condition.
+
+A creature with no Mental Health has the Miserable condition.
+
+### Pain
+
+When a creature takes any amount of Vitality damage, they take 1d20 pain damage for each hit point removed.
+
+## 4. Spiritual Health
+
+### Damage Types
+
+
+| Name      | Examples          |
+| --------- | ----------------- |
+| Necrotic* | Corruption        |
+| Radiant*  | Holy energies     |
+| Force*    | Ethereal energies |
+
+
+
+
+## 5. Dying
 
 When a creature reaches 0 Vitality Points it is incapacitated, can only crawl, and will die within after 10 rounds unless it receives aid. 
 
@@ -251,41 +250,8 @@ Spend 2 actions outside combat, or with proper tools. Restore one point of Vital
 
 ## 5. Unaware and Helpless Targets
 
-If a target is unaware of the attacker, asleep, bound, or otherwise unable to defend itself:
+If a target is unaware of the attacker, asleep, bound, or otherwise entirely unable to defend itself — any physical damage is applied to Vitality, bypassing Stamina.
 
-- **Stamina is bypassed.**
-    
-- The attack goes directly to Armor Gate, then Flesh/Vitality.
-    
-- Armor still applies.
-    
-- The attacker may choose the wound effect instead of rolling if they deal Vitality damage.
-
-
-
-## 6. Psyche and Spirit Health
-
-Psyche and Spirit damage use the same resolution structure.
-
-Shaken happens at 4 or less Spirit or Psyche HP and reduces defense against psychic and spiritual attacks. Broken happens at 0 Spirit or Psyche HP and severely reduces spiritual and psychic defenses.
-
-### Psyche Damage
-
-Baseline human MD is **7**. Temporary HP, or training can raise it.
-
-
-- Shaken 
-    
-- Broken
-
-
-### Spirit Damage
-
-Baseline human SD is **7**. Temporary HP, or training can raise it.
-
-- Shaken
-    
-- Broken
 
 
 ## 7. Temporary Health Points
@@ -312,6 +278,26 @@ Temporary points are lost before the real pool. When the temporary points are go
 | Minor Rest  (1hr)    | Restore all Stamina, Flesh, 2 Spirit, and 2 Psyche.             |
 | Moderate Rest (8hrs) | Restore all Stamina, Flesh, 5 Spirit, 5 Psyche, and 2 Vitality. |
 | Majo Rest (24hrs)    | Restore all Hit Points                                          |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -482,3 +468,13 @@ Every creature starts their turn with two actions, a turn end action, and one re
 You have written a very large amount of content, but I need quality over quantity. Forget all systems that you have created as many of them have severe issues when you look at the whole of the system, especially when it comes to elegant design. Instead we need to move forward one step at a time, I already have a spell system in mind, but i want to start with martial combat.
 
 I want martial players to have a fun repertoire of actions they can take on their turn, similar to battlemaster maneuvers. 
+
+
+
+
+
+
+
+
+
+

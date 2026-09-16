@@ -74,7 +74,7 @@ The amount of dice is increased for every size smaller the creature is than huge
 
 ## Defense
 
-### Sentinel (melee)
+### Sentinel
 
 *Hale Yalrice m’a dit hier qu’il avait lui-même fait ses armes avec la lance du peuple du Milieu. Avec quelle sagesse je me suis retrouvé sur le cul ! — Ewohl de Marrene*
 
@@ -84,6 +84,8 @@ The amount of dice is increased for every size smaller the creature is than huge
 
 ### Guardian
 
+
+
 When you take the Defend action, another of your choice creature within 2 meters of you also gains the benefits.
 
 ### Unnamed
@@ -92,21 +94,19 @@ When you take the Defend action, another of your choice creature within 2 meters
 
 
 
-### Unnamed (Both)
+### Overlord
 
-*This High Elven practice is generally attributed to short bow, but the same principles can be used in polearm techniques. -Orvin Gulmed "Learnings From Other Lands"*
+*This High Elven practice is generally attributed to short bow, but the same general principles can be used in polearm techniques. -Orvin Gulmed "Learnings From Other Lands"*
 
 **Suppress** When a creature you can see makes a strike against another creature, you can use your reaction to make a strike with a 1d8 penalty against the attacker. This strike also reduces the attacker's strike by the roll on the d8.
 
-
+**Pin** When your **Suppress** strike deals at least **Minor** damage, the target’s speed is reduced by **2 meters** until the end of its next turn.
 
 ## Offense
 
-
-
 ### Marksman
 
-*Of all the hail I have experienced, this is quite*
+*"Well surely she couldn't." -Last words of  Samuel Haart. Killed at 350m. Broadhead arrow.*
 
 **Sweet Spot** {R*} When a creature ends their turn within 6-8 feet from you, you can use your reaction to  make a ranged weapon strike against the creature. When you finish a short rest you can change the range of the sweet spot to any 2 meter range between 2-30 meters.
 
@@ -116,11 +116,14 @@ When you take the Defend action, another of your choice creature within 2 meters
 
 When you have a creature grappled, you can activate this feat as an action. The target must make a Phys DT Might save. On a failure, you throw it up to 4 meters to an unoccupied space you can see, it takes Blunt damage equal to 1d6 + your Might modifier, and it falls prone.
 
+**** Using the Improvise action to make a strike deals an additional 1d6 damage.
+
 ### Warrior
 
 *A martial pose devised by Orcs in order to cut down and defend oneself from hordes of undead —Works just as well against Goblins, Imps, and other rabble.*
 
 **Sweep Strike** Once per turn when you strike an enemy, you can also strike an adjacent enemy within range.
+
 
 ****
 
@@ -128,7 +131,7 @@ When you have a creature grappled, you can activate this feat as an action. The 
 
 ### Skirmisher
 
-*On þǣm Wealda man sceal giefan mōd tō his codd and tō his swēoran, þȳ lǣs hīe bēon forceorfene fram yfelum oþþe dēorlicum mægenum -Henry Books "If you are to leave the hearth, a recording of my cousin's great journeys."*
+*On þǣm Wealda man sceal giefan mōd tō his codd and tō his swēoran, þȳ lǣs hīe bēon forceorfene fram yfelum oþþe dēorlicum mægenum -Janet Books "If you are to leave the hearth, a recording of my cousin's great journeys."*
 
 **Scuttle** {R*} When a creature within 2 meters of you moves, you can move 4 meters as a reaction.
 
@@ -136,17 +139,23 @@ When you have a creature grappled, you can activate this feat as an action. The 
 
 ### Mixed
 
-*The term "Ranger" actually refers to a company of Lorwynian partisans during the Annexation of Lorwyn who made frequent exploit of this fighting style.*
+*The term "Ranger" originally refers to a company of Lorwynian partisans during the Annexation of Lorwyn who made frequent exploit of this fighting style.*
 
 **Fluidity** Making a Ranged strike adds 1d8 to your next Melee strike, making a Melee strike adds 1d8 to your next Ranged strike. These d8 persist until the start of your next turn.
 
-**Scoot Shot** Once per turn when you take the Dash action, you can make a strike as part of that action, this strike has a 1d8 penalty.
+**Sprint Shot** Once per turn when you take the Dash action, you can make a strike as part of that action, this strike has a 1d8 penalty.
 
-### Mael
+### Acrobat
 
-{R*} When you have the hidden or Invisible condition, you can make a strike reaction against any creature who moves within 2 meters of you.
+**Scooch** You expend no speed when moving adjacent to a creature 
 
-Here are **12 complete stances**, four for each type: **Defense**, **Offense**, and **Mobility**. I’ve kept your existing features, completed the partial ones, and added the missing stances so every stance has exactly **two features**. They stay within bounded accuracy: small dice modifiers, reactions, once-per-turn limits, and no runaway bonuses.
+**** 
+
+### Charger
+
+**Rebuke** Whenever you take damage from a source outside of your melee reach, you can use your reaction to immediately move 6 meters towards the attacker. If you end up within reach of the attacker, they must succeed a Phys DT Might save. If they fail they fall prone or are pushed 2 meters away from you, your choice. 
+
+**Follow Through** Whenever you push a creature, you gain speed equal to half the distance you pushed the creature.
 
 ---
 
@@ -175,7 +184,6 @@ When a creature within 2 meters of you is hit by a ranged strike, you can impose
 ---
 
 ### 3. Duelist
-*“The first rule of the blade is simple: do not be there when it arrives.”*
 
 **Parry** {R*}  
 When attacked with a strike dealing physical damage, you can make a melee strike with your weapon as the target. If your strike deals more damage than theirs, their strike becomes a **Miss**.
@@ -191,8 +199,7 @@ When your **Parry** turns a strike into a Miss, you can spend **1 Stamina** to m
 **Suppress** {R*}  
 When a creature you can see makes a strike against another creature, you can use your reaction to make a strike with a **1d8 penalty** against the attacker. This strike also reduces the attacker’s strike by the roll on the d8.
 
-**Pinning Fire**  
-When your **Suppress** strike deals at least **Minor** damage, the target’s speed is reduced by **2 meters** until the end of its next turn.
+
 
 ---
 
@@ -230,7 +237,6 @@ When an attack reduces you to **0 Stamina**, you can use your reaction to make a
 ---
 
 ### 8. Executioner
-*“I do not count kills. I count the ones who learned to stay down.”*
 
 **Lethal Blow**  
 When you hit a creature that is missing at least **1 Vitality**, you can add **1d6** to the damage roll.
@@ -243,7 +249,7 @@ Once per turn, when you deal **Vitality** damage with a melee strike, you regain
 ## Mobility
 
 ### 9. Skirmisher
-*“On þǣm Wealda man sceal giefan mōd tō his codd and tō his swēoran, þȳ lǣs hīe bēon forceorfene fram yfelum oþþe dēorlicum mægenum — Henry Books, ‘If you are to leave the hearth, a recording of my cousin’s great journeys.’”*
+*“On þǣm Wealda man sceal giefan mōd tō his codd and tō his swēoran, þȳ lǣs hīe bēon forceorfene fram yfelum oþþe dēorlicum mægenum — Janet Books, ‘If you are to leave the hearth, a recording of my cousin’s great journeys.’”*
 
 **Scuttle** {R*}  
 When a creature within 2 meters of you moves, you can move **4 meters** as a reaction.
@@ -265,7 +271,6 @@ Once per turn when you take the **Dash** action, you can make a strike as part o
 ---
 
 ### 11. Acrobat
-*“The floor is a suggestion. Gravity is a negotiation.”*
 
 **Tumble**  
 You can move through the space of any creature one size larger than you. If you end your turn in a creature’s space, you are pushed into the nearest unoccupied space.

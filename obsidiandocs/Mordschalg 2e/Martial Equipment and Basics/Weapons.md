@@ -72,12 +72,12 @@
 | Battleaxe                | 2d8    | Versatile (d)                      | Ma.    | 10 GP  | 2        |
 | Flail                    | 2d8    | -                                  | Ma.    | 10 GP  | 2        |
 | Glaive                   | 2d10   | Heavy, Reach, Two-Handed           | Ma.    | 20 GP  | 3        |
-| Greataxe                 | 4d6    | Heavy, Two-Handed                  | Ma.    | 30 GP  | 2        |
-| Greatsword               | 4d6    | Heavy, Two-Handed                  | Ma.    | 50 GP  | 2        |
+| Greataxe                 | 3d8    | Heavy, Two-Handed                  | Ma.    | 30 GP  | 2        |
+| Greatsword               | 3d8    | Heavy, Two-Handed                  | Ma.    | 50 GP  | 2        |
 | Halberd                  | 2d10   | Heavy, Two-Handed                  | Ma.    | 20 GP  | 3        |
 | Lance                    | 2d10   | Heavy, Two-Handed (unless mounted) | Ca.    | 10 GP  | 3        |
-| Longsword                | 2d8    | Versatile (d)                      | Ma.    | 15 GP  | 2        |
-| Maul                     | 4d6    | Heavy, Two-Handed                  | Ma.    | 10 GP  | 2        |
+| Longsword                | 2d8    | Versatile (d12)                    | Ma.    | 15 GP  | 2        |
+| Maul                     | 3d8    | Heavy, Two-Handed                  | Ma.    | 10 GP  | 2        |
 | Morningstar              | 2d8    | -                                  | Ma.    | 15 GP  | 2        |
 | Pike                     | 2d10   | Heavy, Reach, Two-Handed           | Ma.    | 5 GP   | 3        |
 | Rapier                   | 2d8    | Finesse                            | Ma.    | 25 GP  | 2        |

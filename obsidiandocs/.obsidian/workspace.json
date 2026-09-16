@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "62921b3decd60461",
@@ -189,18 +188,18 @@
   },
   "active": "d40cf7b5a7a944be",
   "lastOpenFiles": [
-    "Mordschalg 2e/Equipment.md",
+    "Mordschalg 2e/Health system.md",
     "Mordschalg 2e/Conditions.md",
-    "Mordschalg 2e/Char Sheet.md",
     "Mordschalg 2e/Martial Equipment and Basics/Weapons.md",
+    "Mordschalg 2e/Martial Equipment and Basics/Inventory System.md",
     "Mordschalg 2e/Martial Equipment and Basics/Maneuver system ideas.md",
+    "Mordschalg 2e/Equipment.md",
+    "Mordschalg 2e/Char Sheet.md",
     "Mordschalg 2e/Perks.md",
     "Mordschalg 2e/Space.md",
     "Mordschalg 2e/Initiative.md",
     "Mordschalg 2e/stats.md",
-    "Mordschalg 2e/Health system.md",
     "Mordschalg 2e/Actions.md",
-    "Mordschalg 2e/Martial Equipment and Basics/Inventory System.md",
     "Pasted image 20260722203102.png",
     "Glossary.md",
     "Standard Monster Actions.md",
