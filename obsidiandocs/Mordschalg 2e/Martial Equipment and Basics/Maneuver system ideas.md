@@ -74,13 +74,13 @@ The amount of dice is increased for every size smaller the creature is than huge
 
 ## Defense
 
-### Sentinel
+### Sentinel (melee)
 
 *Hale Yalrice m’a dit hier qu’il avait lui-même fait ses armes avec la lance du peuple du Milieu. Avec quelle sagesse je me suis retrouvé sur le cul ! — Ewohl de Marrene*
 
-**Sentinel Strike** {R*} When a creature within 5 feet of you makes a strike against a target other than you, you can use your reaction to make a melee weapon strike against the attacking creature.
+**Sentinel Strike** {R*} When a creature you can see makes a strike against a target other than you, you can use your reaction to make a melee weapon strike against the attacking creature.
 
-**Trip** Once per round when you strike an enemy you can force them to make a Phys DT Strength save or fall prone.
+**Trip** Once per round when you strike an enemy you can force them to make a Phys DT Might save or fall prone.
 
 ### Guardian
 
@@ -92,7 +92,7 @@ When you take the Defend action, another of your choice creature within 2 meters
 
 
 
-### 
+### Unnamed (Both)
 
 *This High Elven practice is generally attributed to short bow, but the same principles can be used in polearm techniques. -Orvin Gulmed "Learnings From Other Lands"*
 
@@ -106,15 +106,15 @@ When you take the Defend action, another of your choice creature within 2 meters
 
 ### Marksman
 
-An Elvish technique
+*Of all the hail I have experienced, this is quite*
 
-**Sweet Spot** {R*} When a creature ends their turn within 30-40 feet from you, you can use your reaction to  make a ranged weapon strike against the creature. When you finish a short rest you can change the range of the sweet spot to any 10 foot range between 10-150 feet.
+**Sweet Spot** {R*} When a creature ends their turn within 6-8 feet from you, you can use your reaction to  make a ranged weapon strike against the creature. When you finish a short rest you can change the range of the sweet spot to any 2 meter range between 2-30 meters.
 
 **Precision Strikes** When you miss a strike, you can add 1d6 to the roll's total.
 
 ### Brawling
 
-When you have a creature grappled, you can activate this feat as an action. The target must be no more than one size larger than you. The target must make a **Physical DC** Strength saving throw. On a failure, you throw it up to 4 meters to an unoccupied space you can see, it takes physical damage equal to 1d6 + your Might modifier, and it falls prone.
+When you have a creature grappled, you can activate this feat as an action. The target must make a Phys DT Might save. On a failure, you throw it up to 4 meters to an unoccupied space you can see, it takes Blunt damage equal to 1d6 + your Might modifier, and it falls prone.
 
 ### Warrior
 
@@ -124,27 +124,224 @@ When you have a creature grappled, you can activate this feat as an action. The 
 
 ****
 
-### Dread
-
-****
-
 ## Mobility
 
 ### Skirmisher
 
+*On þǣm Wealda man sceal giefan mōd tō his codd and tō his swēoran, þȳ lǣs hīe bēon forceorfene fram yfelum oþþe dēorlicum mægenum -Henry Books "If you are to leave the hearth, a recording of my cousin's great journeys."*
+
 **Scuttle** {R*} When a creature within 2 meters of you moves, you can move 4 meters as a reaction.
 
-**** When you start your turn with no enemy creatures within 2 meters, you add 1d6 to all strikes before the end of your turn.
+**Hit and Run** When you start your turn with no enemy creatures within 2 meters, you add 1d6 to the next strike before the end of your turn.
 
 ### Mixed
 
-*The term "Ranger" actually refers to a company of Lorwynian partisans during the Annexation of Lorwyn who frequently exploited this fighting style.*
+*The term "Ranger" actually refers to a company of Lorwynian partisans during the Annexation of Lorwyn who made frequent exploit of this fighting style.*
 
-**o** Making a Ranged strike adds 1d8 to your next Melee strike, making a Melee strike adds 1d8 to your next Ranged strike. These d8 persist until the start of your next turn.
+**Fluidity** Making a Ranged strike adds 1d8 to your next Melee strike, making a Melee strike adds 1d8 to your next Ranged strike. These d8 persist until the start of your next turn.
 
-Once per turn when you take the Dash action, you can make a strike as part of that action, this strike has a 1d8 penalty.
+**Scoot Shot** Once per turn when you take the Dash action, you can make a strike as part of that action, this strike has a 1d8 penalty.
 
-### Malefic
+### Mael
 
 {R*} When you have the hidden or Invisible condition, you can make a strike reaction against any creature who moves within 2 meters of you.
 
+Here are **12 complete stances**, four for each type: **Defense**, **Offense**, and **Mobility**. I’ve kept your existing features, completed the partial ones, and added the missing stances so every stance has exactly **two features**. They stay within bounded accuracy: small dice modifiers, reactions, once-per-turn limits, and no runaway bonuses.
+
+---
+
+## Defense
+
+### 1. Sentinel (melee)
+*“Hale Yalrice m’a dit hier qu’il avait lui-même fait ses armes avec la lance du peuple du Milieu. Avec quelle sagesse je me suis retrouvé sur le cul ! — Ewohl de Marrene”*
+
+**Sentinel Strike** {R*}  
+When a creature you can see makes a strike against a target other than you, you can use your reaction to make a melee weapon strike against the attacking creature.
+
+**Trip**  
+Once per round when you strike an enemy, you can force them to make a **Phys DT Might** save or fall **prone**.
+
+---
+
+### 2. Guardian
+*The wall does not move. The wall does not break. The wall does not ask why.*
+
+**Shared Defense**  
+When you take the **Defend** action, another creature of your choice within 2 meters of you also gains the benefits.
+
+**Interpose** {R}  
+When a creature within 2 meters of you is hit by a ranged strike, you can impose a **1d8 penalty** on the attacker’s roll. If the attack misses, the ally gains **1 Stamina**.
+
+---
+
+### 3. Duelist
+*“The first rule of the blade is simple: do not be there when it arrives.”*
+
+**Parry** {R*}  
+When attacked with a strike dealing physical damage, you can make a melee strike with your weapon as the target. If your strike deals more damage than theirs, their strike becomes a **Miss**.
+
+**Riposte**  
+When your **Parry** turns a strike into a Miss, you can spend **1 Stamina** to make a melee strike against the attacker. This is part of the same reaction.
+
+---
+
+### 4. Suppressor
+*This High Elven practice is generally attributed to the short bow, but the same principles can be used in polearm techniques. — Orvin Gulmed, “Learnings From Other Lands”*
+
+**Suppress** {R*}  
+When a creature you can see makes a strike against another creature, you can use your reaction to make a strike with a **1d8 penalty** against the attacker. This strike also reduces the attacker’s strike by the roll on the d8.
+
+**Pinning Fire**  
+When your **Suppress** strike deals at least **Minor** damage, the target’s speed is reduced by **2 meters** until the end of its next turn.
+
+---
+
+## Offense
+
+### 5. Marksman
+**Sweet Spot** {R*}  
+When a creature ends its turn within 6–8 feet from you, you can use your reaction to make a ranged weapon strike against the creature. When you finish a short rest, you can change the sweet spot to any 2-meter range between 2–30 feet.
+
+**Precision Strikes**  
+When you miss a strike, you can add **1d6** to the roll’s total.
+
+---
+
+### 6. Brawler
+*“Grappling is just a conversation where the other person doesn’t get to speak.”*
+
+**Hurl**  
+When you have a creature grappled, you can activate this feat as an action. The target must be no more than one size larger than you. The target must make a **Phys DT Might** save. On a failure, you throw it up to **4 meters** to an unoccupied space you can see. It takes physical damage equal to **1d6 + your Might modifier** and falls **prone**.
+
+**Ground and Pound**  
+When you make a melee strike against a **prone** creature, you can add **1d6** to the damage roll.
+
+---
+
+### 7. Warrior
+*A martial pose devised by Orcs in order to cut down and defend oneself from hordes of undead — works just as well against Goblins, Imps, and other rabble.*
+
+**Sweep Strike**  
+Once per turn when you strike an enemy, you can also strike an adjacent enemy within range.
+
+**Unbroken** {R}  
+When an attack reduces you to **0 Stamina**, you can use your reaction to make a melee strike against the attacker.
+
+---
+
+### 8. Executioner
+*“I do not count kills. I count the ones who learned to stay down.”*
+
+**Lethal Blow**  
+When you hit a creature that is missing at least **1 Vitality**, you can add **1d6** to the damage roll.
+
+**Bloodlust**  
+Once per turn, when you deal **Vitality** damage with a melee strike, you regain **1 Stamina**.
+
+---
+
+## Mobility
+
+### 9. Skirmisher
+*“On þǣm Wealda man sceal giefan mōd tō his codd and tō his swēoran, þȳ lǣs hīe bēon forceorfene fram yfelum oþþe dēorlicum mægenum — Henry Books, ‘If you are to leave the hearth, a recording of my cousin’s great journeys.’”*
+
+**Scuttle** {R*}  
+When a creature within 2 meters of you moves, you can move **4 meters** as a reaction.
+
+**Hit and Run**  
+When you start your turn with no enemy creatures within 2 meters, you add **1d6** to the next strike before the end of your turn.
+
+---
+
+### 10. Mixed
+*The term “Ranger” actually refers to a company of Lorwynian partisans during the Annexation of Lorwyn who frequently exploited this fighting style.*
+
+**Fluidity**  
+Making a ranged strike adds **1d8** to your next melee strike. Making a melee strike adds **1d8** to your next ranged strike. These d8 persist until the start of your next turn.
+
+**Scoot Shot**  
+Once per turn when you take the **Dash** action, you can make a strike as part of that action. This strike has a **1d8 penalty**.
+
+---
+
+### 11. Acrobat
+*“The floor is a suggestion. Gravity is a negotiation.”*
+
+**Tumble**  
+You can move through the space of any creature one size larger than you. If you end your turn in a creature’s space, you are pushed into the nearest unoccupied space.
+
+**Rolling Recovery**  
+When you fall **prone**, you can immediately stand up by spending **1 Stamina**.
+
+---
+
+### 12. Charger
+*“Distance is just a weapon you haven’t swung yet.”*
+
+**Momentum**  
+If you move at least **4 meters** in a straight line before making a melee strike, you add **1d8** to the damage roll.
+
+**Impact**  
+When you hit with a **Momentum** strike, you can push the target **2 meters**. If you do, you also stop moving.
+
+---
+
+These 12 give you a full martial foundation: defensive anchoring, offensive pressure, and mobile repositioning. Each stance has a clear fictional identity and two tactical hooks that reward positioning, timing, and party coordination. Want me to move on to **advanced maneuvers** or **stance-specific perks** next?
+
+Here’s a full replacement set of flavor texts. They’re written as in-world accounts, excerpts, and observations, and each one points toward the stance’s tactical identity.
+
+## Defense
+
+**Sentinel**  
+*“At the Grey Ford, one spearman held the bridge for six minutes. He did not kill many. He simply made certain that anyone who tried to pass him was struck first.”*  
+— *A History of the Grey Ford*
+
+**Guardian**  
+*“The shield wall broke when the man on the left fell. Not because the line was weaker, but because no one had taught the others to cover the gap. The Lorwynians have a word for that. It translates roughly to ‘the one who stands beside.’”*  
+— Orvin Gulmed, *Learnings From Other Lands*
+
+**Duelist**  
+*“He did not block the blow. He met it with his own blade, turned it aside, and answered before the other man had recovered. The duel ended in four seconds.”*  
+— account from *The Swords of the High Elven Court*
+
+**Suppressor**  
+*“The archers did not aim to kill. They aimed to make the enemy duck, flinch, hesitate. It worked. By noon, the enemy line had not advanced a single pace.”*  
+— field report from the Annexation of Lorwyn
+
+## Offense
+
+**Marksman**  
+*“The shot came from the ridge. No one saw the archer. The man beside me fell with an arrow in his throat. We spent the next hour searching for a position that could not be seen. We failed.”*  
+— survivor’s account, *The Ridge Campaign*
+
+**Brawler**  
+*“He grabbed the orc by the belt, lifted him, and threw him into the fire. Then he sat down and finished his ale. The orc did not get up.”*  
+— *Tavern Tales of the Borderlands*
+
+**Warrior**  
+*“The undead do not fear. They do not tire. They do not stop. So you must be the one who does not stop either. Sweep, step, sweep. That is how the Orcish line holds.”*  
+— *The Red Tide: Orcish Tactics Against the Restless Dead*
+
+**Executioner**  
+*“The wounded are not enemies. They are liabilities. A man dragging his friend from the field is two men not fighting.”*  
+— *The Mercenary’s Creed*
+
+## Mobility
+
+**Skirmisher**  
+*“The Lorwynian partisans never held a line. They gave ground, scattered, and reappeared where they were least expected. We lost more men to exhaustion than to arrows.”*  
+— Imperial officer’s report, the Lorwynian Annexation
+
+**Mixed**  
+*“He would loose an arrow, then close with the sword, then break away and loose again. We never knew whether to raise shields or draw steel. By the time we decided, half the squad was down.”*  
+— *The Ranger Companies of Lorwyn*
+
+**Acrobat**  
+*“The girl ran along the roofbeam, dropped between two guards, rolled, and came up behind them. They were still turning when she was gone. The coin was still in her hand.”*  
+— *Gutter Tales of the Free Cities*
+
+**Charger**  
+*“You do not win the charge when you hit. You win it when they flinch. Everything after that is just arithmetic.”*  
+— *The Cavalryman’s Companion*
+
+If you want, I can also give each stance a **short one-line motto** for the character sheet, separate from the longer in-world excerpt.
