@@ -123,17 +123,13 @@ Possible additional system - Body part targeting once you reach vitality - add p
 
 ## 1. Damage Resolution
 
-### Step 1: Roll Damage
-
-Roll damage dice and add any flat damage bonuses.
-
-### Step 2: Compare to Physical Defense
+### Defense
 
 Every creature has a Physical, Mental, and Spiritual Defense (PD, MD, SD)
 
-Baseline mortal defense is **5**.
+Baseline mortal physical defense (PD) is **5**.
 
-Compare the damage total to the target’s relevant defense.
+When a creature rolls damage, the total is compared with the target’s relevant defense.
 
 | Result     | Damage Category | Points Applied |
 | ---------- | --------------- | -------------- |

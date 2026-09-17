@@ -69,7 +69,7 @@
 | Musket                   | 4d10   | Matchlock, Two-Handed              | Ma.    | 200 GP | 20/80    |
 | Pistol                   | 3d8    | Ammunition , Matchlock             | Mo.    | 80 GP  | 6/24     |
 | _Martial Melee Weapons_  |        |                                    |        |        |          |
-| Battleaxe                | 2d8    | Versatile (d)                      | Ma.    | 10 GP  | 2        |
+| Battleaxe                | 2d8    | Versatile (d12)                    | Ma.    | 10 GP  | 2        |
 | Flail                    | 2d8    | -                                  | Ma.    | 10 GP  | 2        |
 | Glaive                   | 2d10   | Heavy, Reach, Two-Handed           | Ma.    | 20 GP  | 3        |
 | Greataxe                 | 3d8    | Heavy, Two-Handed                  | Ma.    | 30 GP  | 2        |
@@ -84,8 +84,8 @@
 | Scimitar                 | 2d6    | Finesse, Light                     | Mo.    | 25 GP  | 1        |
 | Shortsword               | 2d6    | Finesse, Light                     | Mo.    | 10 GP  | 1        |
 | Trident                  | 2d8    | Thrown, Versatile (d10)            | Ma.    | 5 GP   | 3 (4/12) |
-| Warhammer                | 2d8    | Versatile (d)                      | Ma.    | 15 GP  |          |
-| War Pick                 | 2d8    | Versatile (d)                      | Ma.    | 5 GP   | 2        |
+| Warhammer                | 2d8    | Versatile (d12)                    | Ma.    | 15 GP  |          |
+| War Pick                 | 2d8    | Versatile (d12)                    | Ma.    | 5 GP   | 2        |
 | Whip                     | 2d4    | Finesse, Reach                     | Ma.    | 2 GP   | 3        |
 | _Martial Ranged Weapons_ |        |                                    |        |        |          |
 | Blowgun                  | 2      |                                    | Mo.    | 10 GP  | 5/20     |
