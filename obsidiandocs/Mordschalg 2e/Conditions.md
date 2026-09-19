@@ -8,3 +8,7 @@
 
 **Stuck**: Gained whenever a creature takes Moderate Vitality damage from a piercing projectile. A Stuck creature 
 
+**Irate**
+
+**Miserable**
+
