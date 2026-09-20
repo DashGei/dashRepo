@@ -1,6 +1,13 @@
 ## The Core Resolution
 
-Every meaningful action in _Mordschlag_ uses the same engine. Whether you are swinging a sword, resisting a poison, forcing open a door, or staring down a fiend, you roll, add modifiers, and compare the total to a **Difficulty Total (DT)** or a creature’s **Defense**. The result always falls into one of four degrees.
+Whenever a creature attempts something with an uncertain outcome, you run a Threshold Test to determine the outcome. There are three main Threshold Tests, (Saving, Checks, and Strikes) and they always follow this formula:
+
+ 1. **Roll your dice.** This is always 1d8 if you are making a Save or a Check, or you roll your Strike's damage dice. Regardless, you want the highest roll.
+
+ 2. **Add bonuses.** Almost every Threshold Test will let you add one of your Ability Modifiers, or some other bonus.
+
+ 3. **Compare **
+
 
 | Degree       | Value | Required Roll     | Meaning                                          |
 | ------------ | ----- | ----------------- | ------------------------------------------------ |
