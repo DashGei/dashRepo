@@ -17,15 +17,15 @@
 
 **Hold** When you take the Defend action, another creature of your choice within 2 meters of you also gains the benefits.
 
-**Rebuke Strike** {R*} When a creature you can see makes a strike against a target other than you, you can use your reaction to make a melee strike against the attacking creature.
+**Rebuke** {R*} When a creature you can see makes a strike against a target other than you, you can use your reaction to make a melee strike against the attacking creature.
 
 ### Overlord
 
 *This High Elven practice is generally attributed to shortbow, but the same general principles can be used in polearm techniques. -Orvin Gulmed "Learnings From Other Lands"*
 
-**Suppress** {R*} When a creature you can see strikes another creature, you can use your reaction to strike with a 1d8 penalty against the attacker. This strike also reduces the attacker's strike by the roll on the d8.
+**Suppress** {R*} When a creature you can see strikes another creature, you can use your reaction to strike against the attacker with a 1d8 penalty. This strike also reduces the attacker's strike by the roll on the d8.
 
-**Pin** When any of your strikes do at least Minor damage, the target’s speed is reduced by **1 meter** until the end of its next turn.
+**Pin** When any of your strikes do at least Minor damage, the target’s speed is reduced by 1 meter until the end of its next turn.
 
 ### Sentinel
 
@@ -47,7 +47,7 @@
 
 ### Dread
 
-*And by Sol, if you ever find yourself facing down a Drow, don't go out on their terms.*
+*And by Sol, if you ever find yourself facing down a Drow, do not go out on their terms.*
 
 **Sadism** Dealing Major Physical damage inflicts 1d20 Stress damage.
 
@@ -83,9 +83,9 @@
 
 *The term "Ranger" originally refers to a company of partisans during the Annexation of Rênge  who made frequent exploit of this fighting style.*
 
-**Fluidity** Making a Ranged strike adds 1d8 to your next Melee strike, making a Melee strike adds 1d8 to your next Ranged strike. These d8 persist until the start of your next turn.
+**Fluidity** Making a Ranged strike adds 1d4 to your next Melee strike, making a Melee strike adds 1d4 to your next Ranged strike. These d4 persist until the start of your next turn.
 
-**Skirt Shot** When you take the Dash action, you can strike as part of that action, this strike has a 1d8 penalty.
+**Skirt Shot** When you take the Dash action, you can strike as part of that action, this strike has Woe.
 
 
 ### Pursuit

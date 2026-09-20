@@ -23,7 +23,7 @@ Weal and Woe cancel each other one-for-one. They never stack. Nothing can rise a
 The GM sets the DT and decides whether the check is **binary** or **graded**.
 
 - **Binary:** Moderate or Major succeeds. Miss or Minor fails.
-    
+
 - **Graded:** Miss fails. Minor succeeds with a cost, delay, or complication. Moderate succeeds cleanly. Major succeeds exceptionally.
 
 Typical DTs:
@@ -36,13 +36,13 @@ Typical DTs:
 | 4   | Hard       |
 | 6   | Very Hard  |
 | 8   | Heroic     |
-When a creature makes a skill check, they roll **1d12**, a relevant ability modifier, training, and then may describe one way they are using the world to aid their roll, adding 1d4.
+When a creature makes a skill check, they roll **1d8**, a relevant ability modifier, training, and then may describe one way they are using the world to aid their roll, adding 1d4.
 
-Training grants a flat bonus: **+2** if Trained, **+4** if Expert. Weal and Woe may also apply.
+Training grants a flat bonus: **+2** if Trained, **+4** if Expert. 
 
 ### Saving Throws
 
-The defender rolls **d12 + relevant stat** against the DT.
+The defender rolls **d8 + relevant stat** against the DT, which is determined by the attacker's  Physical or Mental modifier
 
 The DT of an effect is either determined by the GM, or the attacker's relevant ability score
 
@@ -71,7 +71,7 @@ Apply damage to the appropriate pool. Physical damage goes **Stamina → Flesh 
 
 ### Opposed Checks
 
-When two creatures oppose each other, both roll **d12 + relevant stat**. The higher total wins. If creatures tie then creatures roll again.
+When two creatures oppose each other, both roll **1d8 + relevant stat**. The higher total wins. If creatures tie then creatures roll again.
 
 ---
 

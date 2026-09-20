@@ -53,7 +53,7 @@ Distance Shorthand
 
 ### Detect Thoughts
 
-A caster can complete this ritual by taking an hour, meticulously
+A caster can complete this ritual by taking an hour, shaving 1 Gold's worth of enchanter's chalk into at least a drop of one of their saliva. The caster can then read the mind of any creature who consumes the entire drop as long as they are within 30 feet of each other.
 
 
 ### Concentrate
