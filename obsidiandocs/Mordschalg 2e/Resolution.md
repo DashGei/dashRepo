@@ -2,26 +2,27 @@
 
 Whenever a creature attempts something with an uncertain outcome, you run a Threshold Test to determine the outcome. There are three main Threshold Tests, (Saving, Checks, and Strikes) and they always follow this formula:
 
- 1. **Roll your dice.** This is always 1d8 if you are making a Save or a Check, or you roll your Strike's damage dice. Regardless, you want the highest roll.
+ 1. **Roll your dice**. This is always 1d8 if you are making a Save or a Check, or you roll your Strike's damage dice. Regardless, you want the highest roll.
 
- 2. **Add bonuses.** Almost every Threshold Test will let you add one of your Ability Modifiers, or some other bonus.
+ 2. **Add bonuses**. Almost every Threshold Test will let you add one of your Ability Modifiers, Training, or some other bonus.
 
- 3. **Compare **
+ 3. **Compare with the difficulty total (DT)**. Rolling a number under the DT means you rolled Miss, rolling equal or higher than the DT means you rolled Minor, rolling equal to or higher than the DT x 2 means you rolled Moderate, and rolling equal to or higher than the DT x 3 means you rolled Major. 
 
-
-| Degree       | Value | Required Roll     | Meaning                                          |
-| ------------ | ----- | ----------------- | ------------------------------------------------ |
-| **Miss**     | 0     | Total < DT    | Failure, no effect                               |
-| **Minor**    | 1     | Total ≥ DT    | Success at a cost, glancing blow, partial effect |
-| **Moderate** | 2     | Total ≥ 2× DT | Clean success, solid hit                         |
-| **Major**    | 3     | Total ≥ 3× DT | Exceptional success, devastating hit             |
+| Degree       | Required Roll | Meaning                                           |
+| ------------ | ------------- | ------------------------------------------------- |
+| **Miss**     | Total < DT    | Failure, no effect                                |
+| **Minor**    | Total ≥ DT    | Success at a cost, glancing blow, partial failure |
+| **Moderate** | Total ≥ 2× DT | Clean success, solid swing                        |
+| **Major**    | Total ≥ 3× DT | Exceptional success, devastating hit              |
 For attacks, use the target’s **Physical Defense (PD)**, **Mental Defense (MD)**, or **Spiritual Defense (SD)** in place of the DT.
 
 ### Weal and Woe
 
-**Weal** shifts the degree up by one: Miss → Minor → Moderate → Major.  
+Sometimes a feature or circumstance will apply Weal or Woe to one of your Threshold Tests.
 
-**Woe** shifts the degree down by one: Major → Moderate→ Minor → Miss.
+**Weal** represents positive circumstances surrounding your roll, and it shifts the degree up by one: Miss → Minor → Moderate → Major.  
+
+**Woe** represents negative circumstances surrounding your roll, and it shifts the degree down by one: Major → Moderate→ Minor → Miss.
 
 Weal and Woe cancel each other one-for-one. They never stack. Nothing can rise above Major or fall below Miss.
 
@@ -31,7 +32,7 @@ The GM sets the DT and decides whether the check is **binary** or **graded**.
 
 - **Binary:** Moderate or Major succeeds. Miss or Minor fails.
 
-- **Graded:** Miss fails. Minor succeeds with a cost, delay, or complication. Moderate succeeds cleanly. Major succeeds exceptionally.
+- **Graded:** Miss fails. Minor fails, or succeeds with a complication. Moderate succeeds cleanly. Major succeeds exceptionally.
 
 Typical DTs:
 
@@ -43,13 +44,13 @@ Typical DTs:
 | 4   | Hard       |
 | 6   | Very Hard  |
 | 8   | Heroic     |
-When a creature makes a skill check, they roll **1d8**, a relevant ability modifier, training, and then may describe one way they are using the world to aid their roll, adding 1d4.
+When a creature makes a skill check, they roll **1d8**, may describe one way they are using the world to aid their roll adding 1d4, and then add a relevant ability modifier and training.
 
 Training grants a flat bonus: **+2** if Trained, **+4** if Expert. 
 
 ### Saving Throws
 
-The defender rolls **d8 + relevant stat** against the DT, which is determined by the attacker's  Physical or Mental modifier
+The defender rolls **d8 + relevant stat** against the DT, which is determined by the attacker's  Physical or Mental modifier.
 
 The DT of an effect is either determined by the GM, or the attacker's relevant ability score
 
@@ -68,12 +69,12 @@ On a save:
 
 Roll damage and compare the total to the target’s relevant Defense.
 
-|Result|Damage Category|Points Applied|
-|---|---|---|
-|Total < PD|Miss|0 HP|
-|Total ≥ PD|Minor|1 HP|
-|Total ≥ 2× PD|Moderate|2 HP|
-|Total ≥ 3× PD|Major|3 HP|
+| Result       | Damage Category | Points Applied |
+| ------------ | --------------- | -------------- |
+| Total < D    | Miss            | 0 HP           |
+| Total ≥ D    | Minor           | 1 HP           |
+| Total ≥ 2× D | Moderate        | 2 HP           |
+| Total ≥ 3× D | Major           | 3 HP           |
 Apply damage to the appropriate pool. Physical damage goes **Stamina → Flesh → Vitality**. Mental and Spiritual damage go to their own tracks. Weal and Woe shift the damage category just like any other degree.
 
 ### Opposed Checks
