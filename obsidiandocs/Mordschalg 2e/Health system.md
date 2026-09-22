@@ -122,11 +122,11 @@ Most creatures do not have spiritual health, but some beings such as ghosts, cel
 
 ## 5. Recovery
 
-| Rest                 | Effect                                                         |
-| -------------------- | -------------------------------------------------------------- |
-| Minor Rest  (1hr)    | Restore all Stamina, Flesh, 2 Spirit, and 2 Mental             |
-| Moderate Rest (8hrs) | Restore all Stamina, Flesh, 5 Spirit, 5 Mental, and 2 Vitality |
-| Major Rest (12hrs)   | Restore all Hit Points                                         |
+| Rest                 | Effect                                                                    |
+| -------------------- | ------------------------------------------------------------------------- |
+| Minor Rest  (1hr)    | Restore all Stamina, Flesh, 5 Strain, 2 Spirit, and 2 Mental              |
+| Moderate Rest (8hrs) | Restore all Stamina, Flesh, 10 Strain, 5 Spirit, 5 Mental, and 2 Vitality |
+| Major Rest (12hrs)   | Restore all Hit Points and Strain                                         |
 
 Sometimes when a creature takes Vitality damage the bar becomes blocked from healing, meaning the wound will not naturally close. A blocked Vitality bar means the creature cannot recover that Vitality until the bar is unblocked.
 

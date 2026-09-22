@@ -1,6 +1,3 @@
-
-# Stances
-
 ## Defense
 
 ### Duelist
@@ -43,13 +40,13 @@
 
 **Quick Grapple** When you strike a creature you can grapple that creature as part the strike.
 
-**Bad Situation** You deal and additional 1d4 damage when you strike a creature which has the Grappled or Prone conditions.
+**Bad Situation** You deal an additional 1d4 damage when you strike a creature which has the Grappled or Prone conditions.
 
 ### Dread
 
 *And by Sol, if you ever find yourself facing down a Drow, do not go out on their terms.*
 
-**Sadism** Dealing Major Physical damage inflicts 1d20 Stress damage.
+**Sadism** Dealing Major Physical damage also inflicts 1d20 Stress damage.
 
 **Open Mind** {R*} When a creature you can see takes Major Mental damage, you can strike them as a reaction.
 
@@ -67,7 +64,7 @@
 
 **Sweep Strike** Once per turn when you strike an enemy, you can also strike an adjacent enemy within range.
 
-**No One Leaves** {R*} When a creature that you can see moves out of your reach, you can use your reaction to activate this feat and  strike that creature. This strike occurs immediately before the creature leaves your reach.
+**No One Leaves** {R*} When a creature that you can see leaves your reach, you can use your reaction to activate this feat and  strike that creature. This strike occurs immediately before the creature leaves your reach.
 
 ## Mobility
 

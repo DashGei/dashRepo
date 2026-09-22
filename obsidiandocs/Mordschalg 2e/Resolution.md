@@ -1,12 +1,12 @@
-## The Core Resolution
+# Core Resolution
 
 Whenever a creature attempts something with an uncertain outcome, you run a Threshold Test to determine the outcome. There are three main Threshold Tests, (Saving, Checks, and Strikes) and they always follow this formula:
 
- 1. **Roll your dice**. This is always 1d8 if you are making a Save or a Check, or you roll your Strike's damage dice. Regardless, you want the highest roll.
+ 1. **Roll your dice**. This is always 1d10 if you are making a Save or a Check, or you roll your Strike's damage dice. Regardless, you want the highest roll.
 
  2. **Add bonuses**. Almost every Threshold Test will let you add one of your Ability Modifiers, Training, or some other bonus.
 
- 3. **Compare with the difficulty total (DT)**. Rolling a number under the DT means you rolled Miss, rolling equal or higher than the DT means you rolled Minor, rolling equal to or higher than the DT x 2 means you rolled Moderate, and rolling equal to or higher than the DT x 3 means you rolled Major. 
+ 3. **Compare with the Difficulty Total (DT)**. Rolling a number under the DT means you rolled Miss, rolling equal or higher than the DT means you rolled Minor, rolling equal to or higher than the DT x 2 means you rolled Moderate, and rolling equal to or higher than the DT x 3 means you rolled Major. 
 
 | Degree       | Required Roll | Meaning                                           |
 | ------------ | ------------- | ------------------------------------------------- |
@@ -24,15 +24,27 @@ Sometimes a feature or circumstance will apply Weal or Woe to one of your Thresh
 
 **Woe** represents negative circumstances surrounding your roll, and it shifts the degree down by one: Major → Moderate→ Minor → Miss.
 
-Weal and Woe cancel each other one-for-one. They never stack. Nothing can rise above Major or fall below Miss.
+Weal and Woe cancel each other one-for-one. They never stack, and nothing can rise above Major or fall below Miss.
 
-### Skill Checks
+### Training
 
-The GM sets the DT and decides whether the check is **binary** or **graded**.
+Sometimes when you make a Threshold Test, you add your Training bonus to the roll's result. This is either determined by what features you have chosen as part of your class or background, or if the GM decides that you have experience with the action you are taking.
 
-- **Binary:** Moderate or Major succeeds. Miss or Minor fails.
+If you are **Trained**, you add +2 to the total.
 
-- **Graded:** Miss fails. Minor fails, or succeeds with a complication. Moderate succeeds cleanly. Major succeeds exceptionally.
+If you are an **Expert**, you add +4 to the total.
+
+## Ability Checks
+
+When a creature takes an action interacting with the world, and the result of that action is unsure, the GM will call for a Ability Check, or Check.
+
+When a creature makes a Check, they roll **1d10**, and then add a relevant ability modifier as well as training.
+Before making a skill check, a player may also describe one way in which they are using the world around them to aid their roll, adding 1d4 to the total.
+
+There are two types of Checks, **Binary**, and **Graded**
+
+In a **Binary** Check, rolling Moderate or Major succeeds, whereas rolling Miss or Minor fails.
+In a **Graded** Check, your degree of success effects what kind of result you get more directly. Rolling a Miss fails. Minor fails, or succeeds with a complication. Moderate succeeds cleanly, and rolling Major succeeds exceptionally.
 
 Typical DTs:
 
@@ -44,27 +56,18 @@ Typical DTs:
 | 4   | Hard       |
 | 6   | Very Hard  |
 | 8   | Heroic     |
-When a creature makes a skill check, they roll **1d8**, may describe one way they are using the world to aid their roll adding 1d4, and then add a relevant ability modifier and training.
+## Saving Throws
 
-Training grants a flat bonus: **+2** if Trained, **+4** if Expert. 
+The defender rolls **d10 + relevant stat** against the DT, which is determined by the attacker's Physical or Mental modifier.
 
-### Saving Throws
+The DT of an effect is either determined by the GM, or the attacker's relevant ability score. Almost every saving throw is Binary, so depending on your roll you will either succeed or fail.
 
-The defender rolls **d8 + relevant stat** against the DT, which is determined by the attacker's  Physical or Mental modifier.
-
-The DT of an effect is either determined by the GM, or the attacker's relevant ability score
-
-On a save:
-
-- **Miss:** Full effect.
-    
-- **Minor:** Full effect.
-
-- **Moderate:** Negated.
-    
-- **Major:** Negated. 
-
-
+| Degree       | Outcome |
+| ------------ | ------- |
+| **Miss**     | Failure |
+| **Minor**    | Failure |
+| **Moderate** | Success |
+| **Major**    | Success |
 ### Strikes
 
 Roll damage and compare the total to the target’s relevant Defense.
@@ -75,15 +78,11 @@ Roll damage and compare the total to the target’s relevant Defense.
 | Total ≥ D    | Minor           | 1 HP           |
 | Total ≥ 2× D | Moderate        | 2 HP           |
 | Total ≥ 3× D | Major           | 3 HP           |
-Apply damage to the appropriate pool. Physical damage goes **Stamina → Flesh → Vitality**. Mental and Spiritual damage go to their own tracks. Weal and Woe shift the damage category just like any other degree.
+Apply damage to the appropriate pool. Physical damage goes **Stamina → Flesh → Vitality**. Mental and Spiritual damage go to their own tracks.
 
 ### Opposed Checks
 
-When two creatures oppose each other, both roll **1d8 + relevant stat**. The higher total wins. If creatures tie then creatures roll again.
-
----
-
-This is the heart of _Mordschlag_. Stances, perks, conditions, and spells all interact with these degrees. Once you know how to read a Miss, Minor, Moderate, or Major result, you know how to play the game.
+When two creatures oppose each other, both roll **1d10 + bonuses**. The higher total wins. If creatures tie then creatures roll again.
 
 
 
@@ -97,59 +96,19 @@ This is the heart of _Mordschlag_. Stances, perks, conditions, and spells all i
 
 
 
-## The Core of the Game
 
-You’re at the table. The dice are out. Someone just swung a sword, or tried to shove a heavy door open, or resisted a poison coursing through their veins. The GM looks at you and asks for a roll.
 
-What happens next isn’t just pass or fail. It’s a question of _how well_ you did—or how badly you missed.
 
-Every meaningful action in _Mordschlag_ uses the same simple framework. You roll, you compare the result to a target number, and you get one of four outcomes: **Miss, Minor, Moderate, or Major**. That’s it. No tangled modifiers, no endless math. Just a clear answer to the question: _what did that look like in the fiction?_
 
-### Making the Roll
 
-When you make a check or a saving throw, roll **1d12** and add the relevant ability modifier (Might, Dexterity, Intelligence, Instinct, or Presence). If you’re trained in a skill, add your training bonus—usually **+2** for Trained, **+4** for Expert.
+I am creating a brand new Fantasy TTRPG called Mordschlag, the design principles are the following: No narrative dissonance - all systems are to be designed so that there is as little separating from the mechanics, and what people actually expect to happen in the table. Systems should encourage players to think about the world in the table. 
 
-When you make a **Strike**—the standard attack action—you roll your weapon’s damage dice and add your relevant ability modifier. A longsword, for example, deals **2d8 + Might**.
+Ease of entry - the best systems are easy to learn and rewarding to master Tactical decisions - combat should be about positioning, and thinking ahead, not just your build. 
 
-Either way, you’re looking for a total. The GM compares that total to a **Difficulty Total (DT)** for checks and saves, or to a creature’s **Defense** (Physical, Mental, or Spiritual) for strikes and other hostile effects.
+Party Cohesion - the party progresses as a unit, and some systems such as the already finished divine favor system, need to be managed collectively. 
 
-### The Four Degrees
+Low/medium Fantasy, Tight bounded accuracy - the party should never feel like they are incapable of becoming the underdogs. Player power should cap out where games like pathfinder do at around level 13. Aesthetic analogues to my system include Blue Eye Samurai, Game of Thrones, Lord of the Rings, and other similarly powered media.
 
-| Total          | Degree       | What It Means                                                                                                           |
-| -------------- | ------------ | ----------------------------------------------------------------------------------------------------------------------- |
-| Less than DT   | **Miss**     | You fail. The door doesn’t budge, the sword glances off, the poison takes hold.                                         |
-| At least DT    | **Minor**    | You *Might* succeed. You open the door, but it takes a minute and leaves you winded. You hit, but only a glancing blow. |
-| At least 2× DT | **Moderate** | You succeed cleanly. The door swings open. Your blade bites deep.                                                       |
-| At least 3× DT | **Major**    | You succeed spectacularly. The door flies off its hinges. Your strike is devastating.                                   |
+As an example, effective health only ever increases by 2x across 20 levels As an example mechanic which much of the game will be based off of, here is the system's resolution mechanic:
 
-By default, **Moderate and Major produce the same mechanical outcome**—a solid success or a full hit. But certain perks, features, and situations will reward a Major result with something extra: a bonus effect, a free maneuver, a moment of triumph. Those are exceptions, not the baseline.
-
-### Weal and Woe
-
-Sometimes the odds are stacked for or against you. That’s where **Weal** and **Woe** come in.
-
-- **Weal** shifts your degree up by one step. A Minor becomes a Moderate. A Miss becomes a Minor.
-    
-- **Woe** shifts your degree down by one step. A Major becomes a Moderate. A Moderate becomes a Minor.
-
-They cancel each other out, one for one. They never stack beyond a single shift in either direction. If you have both Weal and Woe, you roll normally.
-
-Weal and Woe apply to any degree-based roll: checks, saves, and strikes. They’re the game’s way of saying _the situation favors you_ or _the situation is against you_—without adding a pile of numbers.
-
-### Checks and Saves
-
-For a skill check, the GM sets a DT and decides whether the check is **binary** or **graded**.
-
-- **Binary:** You need Moderate or better. Miss and Minor both fail.
-    
-- **Graded:** Miss fails. Minor succeeds with a cost, delay, or complication. Moderate and Major succeed cleanly—or exceptionally, if the GM wants to reward flair.
-
-For a saving throw, the target rolls **1d12 + the relevant ability modifier** against the attacker’s **DT**. That DT is usually **4 + the attacker’s relevant ability modifier**. So if a creature tries to trip you with a mighty shove, you roll `d12 + Might` against their Physical DT. Miss or Minor means you’re flat on your back. Moderate or Major means you shrug it off.
-
-When two creatures are directly opposing each other—an arm-wrestling match, a duel of wills, a stealthy tail versus a keen eye—**both parties roll**. Compare the degrees. Higher degree wins. If you tie, the higher total wins. If that’s still a tie, the situation stays as it was—or the GM calls for one more roll to break the deadlock.
-
-### What This Means at the Table
-
-The system is built to keep you thinking about the world. When you roll, you’re not just asking “did I hit?” You’re asking “how well did I hit, and what does that look like?” A Minor success is still a success—but it leaves a mark, costs you something, or sets up the next problem. A Major success is a chance to shine.
-
-The dice tell you the degree. You and the GM tell the story of what that degree _means_. That’s the heart of _Mordschlag_.
+Try to soak in all facets of this system and think about what assumptions you are making, afterwards I will show you the foundations of the health system, and we can move onto other systems after that.
