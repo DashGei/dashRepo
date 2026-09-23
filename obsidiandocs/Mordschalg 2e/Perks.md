@@ -3,22 +3,49 @@ Perks are the minute aspects and abilities that make up a mortal's social and co
 
 
 
+# Minor
 
 
-| Tag              | Purpose                                   | Examples |
-| ---------------- | ----------------------------------------- | -------- |
-| **Prerequisite** | Features you must have to take the perk   |          |
-| **Exclusive**    | Features you cannot have to take the perk |          |
-| **Background**   |                                           |          |
-| **Combat**       |                                           |          |
-| **Spellcasting** |                                           |          |
-| **Ritual**       |                                           |          |
-| **Social**       |                                           |          |
-| **Physical**     |                                           |          |
-| **Mental**       |                                           |          |
-| **Party**        |                                           |          |
+# Moderate
 
 
+# Major
+
+
+
+Function
+
+[Combat]
+
+[Social]
+
+[Exploration]
+
+[Utility]
+
+[Magic]
+
+[Ritual]
+
+Type
+
+[Passive]
+
+[Reaction]
+
+[Action]
+
+Prerequisite
+
+[Level]
+
+[Ability]
+
+[Training]
+
+[Stance]
+
+[Perk]
 
 When you deal Severe damage to a creature you can change it to one point of Vitality
 
@@ -59,7 +86,7 @@ Alucard sword slinging for Spell blades
 
 ### Misc
 
-**Acrobatic Recovery**: When you are pushed **2 or more meters**, you can use your reaction to let yourself be pushed 2 more meters and **regain one stamina**. You also become **immune to Prone** until the start of your next turn.
+**Acrobatic Recovery**: When you are pushed **2 or more meters**, you can use your reaction to let yourself be pushed 2 more meters and **regain one Stamina**. You also become **immune to Prone** until the start of your next turn.
 
 **Evasion**: When you are targeted by an effect that requires you to be within a certain area, you may use your **reaction** to act before the effect hits, giving yourself additional meters of movement equal to your Dexterity bonus during your movement, possibly out of the **area of effect**. 
 

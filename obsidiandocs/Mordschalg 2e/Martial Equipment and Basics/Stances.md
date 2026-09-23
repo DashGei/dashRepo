@@ -54,7 +54,8 @@
 
 *"Well surely she couldn't." -Last words of  Samuel Haart. Killed at 350m. Flight arrow.*
 
-**Sweet Spot** {R*} When a creature ends their turn within 6-8 meters from you, you can use your reaction to strike the creature. When you finish a short rest you can change the range of the sweet spot to any 3 meter range between 2-30 meters.
+**Sweet Spot** {R*} When a creature ends their turn within 6-8 meters from you, you can strike that creature as a reaction.
+When you finish a short rest you can change the range of the sweet spot to any 3 meter range between 2-30 meters.
 
 **Precision Strikes** When you miss a strike, you can add 1d6 to the roll's total.
 
@@ -83,7 +84,6 @@
 **Fluidity** Making a Ranged strike adds 1d4 to your next Melee strike, making a Melee strike adds 1d4 to your next Ranged strike. These d4 persist until the start of your next turn.
 
 **Skirt Shot** When you take the Dash action, you can strike as part of that action, this strike has Woe.
-
 
 ### Pursuit
 
