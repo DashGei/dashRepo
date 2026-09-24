@@ -1,8 +1,8 @@
 # Core Resolution
 
-Whenever a creature attempts something with an uncertain outcome, you run a Threshold Test to determine the outcome. There are three main Threshold Tests, (Saving, Checks, and Strikes) and they always follow this formula:
+Whenever a creature attempts something with an uncertain outcome, you run a Threshold Test to determine the outcome. There are three main Threshold Tests, (Saves, Checks, and Damage) and they always follow this formula:
 
- 1. **Roll your dice**. This is always 1d10 if you are making a Save or a Check, or you roll your Strike's damage dice. Regardless, you want the highest roll.
+ 1. **Roll your dice**. This is always 1d10 if you are making a Save or a Check, or you roll your Damage dice. Regardless, you want the highest roll.
 
  2. **Add bonuses**. Almost every Threshold Test will let you add one of your Ability Modifiers, Training, or some other bonus.
 
@@ -13,7 +13,7 @@ Whenever a creature attempts something with an uncertain outcome, you run a Thre
 | **Miss**     | Total < DT    | Failure, no effect                                |
 | **Minor**    | Total ≥ DT    | Success at a cost, glancing blow, partial failure |
 | **Moderate** | Total ≥ 2× DT | Clean success, solid swing                        |
-| **Major**    | Total ≥ 3× DT | Exceptional success, devastating hit              |
+| **Major**    | Total ≥ 3× DT | Exceptional success, devastating blow             |
 For attacks, use the target’s **Physical Defense (PD)**, **Mental Defense (MD)**, or **Spiritual Defense (SD)** in place of the DT.
 
 ### Weal and Woe
@@ -30,16 +30,16 @@ Weal and Woe cancel each other one-for-one. They never stack, and nothing can ri
 
 Sometimes when you make a Threshold Test, you add your Training bonus to the roll's result. This is either determined by what features you have chosen as part of your class or background, or if the GM decides that you have experience with the action you are taking.
 
-If you are **Trained**, you add +2 to the total.
+If you are **Trained**, you add +1 to the total.
 
-If you are an **Expert**, you add +4 to the total.
+If you are an **Expert**, you add +3 to the total.
 
 ## Ability Checks
 
 When a creature takes an action interacting with the world, and the result of that action is unsure, the GM will call for a Ability Check, or Check.
 
 When a creature makes a Check, they roll **1d10**, and then add a relevant ability modifier as well as training.
-Before making a skill check, a player may also describe one way in which they are using the world around them to aid their roll, adding 1d4 to the total.
+Before making a Check, a player may also describe one way in which they are using the world around them to aid their roll, adding 1d4 to the total.
 
 There are two types of Checks, **Binary**, and **Graded**
 
@@ -68,7 +68,7 @@ The DT of an effect is either determined by the GM, or the attacker's relevant a
 | **Minor**    | Failure |
 | **Moderate** | Success |
 | **Major**    | Success |
-### Strikes
+## Damage
 
 Roll damage and compare the total to the target’s relevant Defense.
 

@@ -150,3 +150,12 @@ By spending 8 hours of study, you can exchange one or both of the spells you cho
 Choose two 3rd-level wizard spells in your spellbook as your signature spells. You always have these spells prepared, and you can cast each of them once at 3rd level without expending a spell slot. When you do so, you cannot do so again until you finish a short or long rest.
 
 If you want to cast either spell at a higher level, you must expend a spell slot as normal.
+
+
+
+
+
+
+## Inscribing
+
+Any ritual which includes arcane ink can be inscribed into one of the pages of your spell book, and subsequently cast from it using two actions and 5 strain. Doing so does not spend any components, save for the initial ink used in scribing.

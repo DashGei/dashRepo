@@ -90,7 +90,7 @@ For every point of Vitality you are missing, a creature has a -1 to their speed 
 | -------- | ---------------------------------- |
 | Concuss* | Head trauma                        |
 | Pain     | Persistent wounds                  |
-| Static   | Psychic assaults, the unfathomable |
+| Numb     | Psychic assaults, the unfathomable |
 | Stress   | Extreme circumstances, fatigue     |
 
 ### Health Bar

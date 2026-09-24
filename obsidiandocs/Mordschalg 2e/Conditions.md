@@ -2,7 +2,7 @@
 
 **Charmed** It cannot willingly harm the charmer. Charmer has Weal on Presence checks against creature.
 
-**Frightened** It takes 1d12 Stress damage on turn start. It has Woe on Checks and Strikes.
+**Frightened** It takes 1d12 Stress damage on turn start. It has Woe on Checks and Strikes. It cannot walk towards the source of fear.
 
 **Incapacitated** It cannot focus, take actions, or reactions. It fails all Might and Dexterity Checks. Strikes against it have Weal.
 
@@ -10,9 +10,11 @@
 
 **Poisoned** It has Woe on Checks and Strikes.
 
-**Vulnerable** Strikes against it have Weal.
+**Blind** It cannot see. Strikes against it have Weal, and its own Strikes have Woe.
 
-**Blind** It cannot see and Strikes against it have Weal.
+**Restrained** Its speed is 0. Strikes against it have Weal, and its own Strikes have Woe.
+
+**Grappled** Its speed is 0.
 
 **Suffocating** It gains 1 Exhaustion on turn start.
 
@@ -20,8 +22,6 @@
 
 **Exhausted** A creature has a -1 to all rolls and speed for each level Exhaustion they have. A creature dies if it has 10 levels of Exhaustion.
 
-**Suppressed**: 
-
-**Exposed**:
+**Exposed** Strikes against it have Weal.
 
 
