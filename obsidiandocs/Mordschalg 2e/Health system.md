@@ -41,8 +41,6 @@ Physical damage is applied in this order:
 
 ### Damage Types
 
-An asterisk denotes a damage type that might apply to a different health pool. When this damage type is detailed, it will have a signifier in parathesis to indicate which health pool(s) it will can applied to, i.e. Radiant(P) for Physical Radiant damage. If it lists both, then the attacker chooses which, but never both.
-
 | Name      | Examples         |
 | --------- | ---------------- |
 | Blunt     | Blunt trauma     |
@@ -53,10 +51,9 @@ An asterisk denotes a damage type that might apply to a different health pool. W
 | Fire      | Flames, Scalding |
 | Lightning | Shocks           |
 | Toxic     | Venom, Poison    |
-| Necrotic* | Withering        |
-| Radiant*  | Holy fire        |
-| Concuss*  | Shockwaves       |
-| Force*    | Raw magic        |
+| Necrotic  | Withering        |
+| Radiant   | Holy fire        |
+| Force     | Raw magic        |
 
 ### Stamina
 
@@ -107,18 +104,6 @@ At certain breakpoints, a creature suffers negative penalties to Mental Saves an
 ### Pain
 
 When a creature takes any amount of Vitality damage, they take 1d20 Pain damage for each hit point removed.
-
-## 4. Spiritual Health
-
-Most creatures do not have spiritual health, but some beings such as ghosts, celestials, and fiends do. A creature with Spiritual health dies when it reaches 0.
-
-### Damage Types
-
-| Name      | Examples          |
-| --------- | ----------------- |
-| Necrotic* | Corruption        |
-| Radiant*  | Holy energies     |
-| Force*    | Ethereal energies |
 
 ## 5. Recovery
 

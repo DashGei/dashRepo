@@ -4,7 +4,7 @@ Perks are the minute aspects and abilities that make up a mortal's social and co
 
 {R}**Acrobatic Recovery**: When you are pushed **2m**, you can let yourself be pushed 2 more as a reaction, and **regain one Stamina**. You also become **immune to Prone** until the start of your next turn.
 
-{P}**Heavy Blows** When you deal Moderate or Major Blunt damage with a Strike, you can push the target up to 2m away from you.
+(MIG:2){P}**Heavy Blows** When you deal Moderate or Major Blunt damage with a Strike, you can push the target up to 2m away from you.
 
 {P}**Ritual Master** You use half the enchanter's chalk when conducting rituals.
 
@@ -23,7 +23,21 @@ Taking this perk more than once adds one additional bounce.
 
 {A}**Deduce** When you make an Investigation Check on something that has already happened, History check, or when you're hearing a story told to you by another creature. You can activate this perk and DM gives you a third person playback of what you have learned as if you were a fly on the wall. If it was a Check, you add 1d6 to your roll and the scene gives you appropriate information for the new roll as determined by the DM.
 
+{AA} **Constrict** You can take the Choke action — typically reserved for unarmed strikes — on all creatures Restrained by your Entangled spell.
+
+{R}**Reactive Warping** As a reaction to a projectile, you can cast the spell **Door**. One of the portals must be adjacent to you.
+
+
+
 # Major
+
+## Majimancy
+
+{CLE} {DRU} {SOR} {WIZ}
+
+Choose a spell that does damage, all other spells you know currently and from now on only do the chosen spell's damage type, but targets also suffer the effects of that spell.
+
+
 
 Function
 

@@ -1,7 +1,5 @@
 By default a spell deals 1d6 damage if it has a damage base, hand applies an effect to the target if it has one. You can spend more Strain to modify the area effected. The delivery describes how a spell targets. If the delivery is an Area it targets everything within that area. The damage of a spell increases by 1d6 for every 2 Strain spent, you can also choose to spend more Strain freely if you just want more damage.
 
-
-
 | Delivery | Cost | Increase                    |
 | -------- | ---- | --------------------------- |
 | Aura     | 2    | +1 per 1m radius            |
@@ -13,7 +11,6 @@ By default a spell deals 1d6 damage if it has a damage base, hand applies an eff
 | Bolt     | 0    | +1 per additional target    |
 | Sphere   | 2    | + 1 per 1m radius           |
 | Touch    | 0    | ---                         |
-
 
 - **Aura** - A **2-meter-radius area centered on you**, affecting targets of your choice within it. The radius can be increased by 1m for each additional Strain spent.
 
@@ -57,18 +54,18 @@ Some ritual spells can be cast as an action if you store them within a spell foc
 
 ### Detect Thoughts
 
-A caster can complete this ritual by taking an hour, shaving 1 Gold's worth of enchanter's chalk into a drop of one of their saliva. The caster can then read the mind of any creature who consumes the entire drop as long as they are within 30 feet of each other.
+A caster can complete this ritual by taking an hour, shaving 1 Gold's worth of enchanter's chalk into a drop of one of their saliva. The caster can then read the mind of any creature who consumes the entire drop as long as they are within 6m of each other.
 
 ### Concentrate
 
-A caster can complete this ritual by taking the time to bless a target. The spellcaster must have at least a +3 Favor with one holy god (Sol, Ilmater, Keep, Ea'or, Frey, Bahamut, Helm, Gri), and they must spend 1 silver worth of salt on the casting for every 10 minutes spent casting. The time required and the effect of the ritual depends on the target.
+A caster can complete this ritual by taking the time to bless a target. The spellcaster must have 3 Favor with one holy god (Sol, Ilmater, Keep, Ea'or, Frey, Bahamut, Helm, Gri), and they must spend 1 silver worth of salt on the casting for every 10 minutes spent casting. The time required and the effect of the ritual depends on the target.
 
 The effect lasts for a number of months equal to the caster's level.
 
-| Target                     | Time     | Effect                                                                                           |
-| -------------------------- | -------- | ------------------------------------------------------------------------------------------------ |
-| 1 Liter of water           | 1 minute | The water becomes holy water                                                                     |
-| 10 1-meter squares of land | 1 minute | An unholy creature takes Minor Psychic and Radiant damage when they start their turn on the land |
+| Target                | Time     | Effect                                                                                           |
+| --------------------- | -------- | ------------------------------------------------------------------------------------------------ |
+| 1 Liter of water      | 1 minute | The water becomes holy water                                                                     |
+| 10 1m squares of land | 1 minute | An unholy creature takes Minor Psychic and Radiant damage when they start their turn on the land |
 
 
 ### Summoner's Sheath
@@ -77,21 +74,35 @@ A caster can complete this ritual by taking an hour, engraving an arcane tattoo 
 
 ## Spell Formulas
 
+**Bless** Targets add 1d4 to Saves and Strikes
+
+**Bane** Targets subtract 1d4 from Saves and Strikes.
+
+**Bolt** Targets
+
 **Bright** *Radiant* Targets shed light for 6m.
 
 **Charm** *Numb* Targets are Charmed.
 
+**Cloak** Targets are Invisible until they Strike or Cast
+
 **Dark** *Necrotic* The area is filled with Darkness.
 
-**Door** Two linked portals appear in the area. A creature who enters one portal appears at the other, and a projectile continues from one portal to the next in the same direction it was when entering.
+**Door** Two linked medium size portals appear in the area. A creature who enters one portal appears at the other, and a projectile continues from one portal to the next in the same direction it was when entering.
 
 **Dispel** A magic effect is dispelled.
 
-**Entangle** *Blunt* Targets moving on the area are Restrained
+**Entangle** *Blunt* Targets moving on the area are Restrained.
+
+**Faux** Medium, dead, Mortal targets are raised as Zombies under your control.
+
+**Frost** *Cold* Targets have a -2 to speed. A target standing in still water is Restrained as all water in the area is frozen.
 
 **Gale** *Slashing* Choose a direction. Targets are pushed 2m in that direction. Area is difficult terrain when moving against that direction, and spend no movement when moving with it.
 
-**Immolate** *Burn* Targets who take damage continue to take damage for as long as you focus.
+**Image** Any visual effect of your choice is created in the area. Investigating creatures are unwilling.
+
+**Immolate** *Burn* Targets who take damage continue to be targets even when outside of the area.
 
 **Invigorate** Targets have +1 speed for every Strain spent.
 
@@ -99,23 +110,33 @@ A caster can complete this ritual by taking an hour, engraving an arcane tattoo 
 
 **Mist** *Cold* A cloud of heavy fog appears in the area, which is Obscured. 
 
-**Plague** *Toxic* A cloud of pestilent air is created in the area. Targets make Might saves or are Poisoned for the duration.
+**Levitate** Targets rise to the ceiling of the area, or by 1m.
 
-**Faux** Medium, dead, Mortal targets are raised as Zombies under your control.
+**Long Step** Targets gain 6 Teleport speed.
 
-**Frostbite** *Cold* Targets have a -3 to speed. A target standing in still water has makes a Might save or is Restrained as all water in the area is frozen. All effects last for the duration.
+**Command** On their turn, targets must either move in a direction, or Strike a creature of your choice.
+
+**Plague** *Toxic* *MIG*  Targets are Poisoned.
+
+**Quiet** *Numb*  Targets make no sound.
+
+**See** Creatures seeing into the area have Blindsight.
 
 **Shock** *Lightning* Targets have Woe on Focus Checks and reaction Strikes.
 
+**Sleep** 
+
+**Slow** Targets have Slow.
+
 **Spook** *Stress* Targets are Frightened.
 
-**Static** *Numb*
+**Static** *Numb* Targets cannot focus.
 
-**Long Step** The target gains 6 Teleport speed.
+**Tell** Targets receive a 25 word message composed by you, and may reply.
 
 **Ward** Targets reduce Major damage to Moderate damage, and Moderate damage to Minor damage.
 
-**Wave** *Blunt* Targets are pushed 4m away from the origin
+**Wave** *Blunt* Targets are pushed 2m away from the origin and fall Prone.
 
 **Wither** *Necrotic* Targets cannot regain lost hit points.
 
