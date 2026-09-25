@@ -112,8 +112,6 @@ The party has **7 days** before Fair Time is scheduled to be transported to the 
 
 Two hours outside Silver, the party encounters a Sym checkpoint. A young High Elf lieutenant (use **Veteran** stats with High Elf traits) and four guards (**Guard** stats) are stopping all southbound traffic. They demand to see "travel papers" and are suspicious of anyone heading toward Chixie.
 
-Seymour has forged documents but warns the party to let him do the talking. The lieutenant is bored and looking for bribes or excuses to arrest someone. He's particularly interested in any non-humans in the party, making snide comments about "desert rabble."
-
 **Options:**
 - Pay the bribe (50-100 gp depending on negotiation)
 - Let Seymour talk (Deception DC 13, with advantage if party stays quiet)

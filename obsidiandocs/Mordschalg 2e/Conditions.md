@@ -16,12 +16,10 @@
 
 **Grappled** Its speed is 0.
 
+**Slow** -1 to speed and reactions.
+
 **Suffocating** It gains 1 Exhaustion on turn start.
 
 **Prone** It has Woe on Strikes. Ranged Strikes against it have Woe, Melee Strikes against it have Weal. One can fall or stand from Prone by expending 2 speed.
 
 **Exhausted** A creature has a -1 to all rolls and speed for each level Exhaustion they have. A creature dies if it has 10 levels of Exhaustion.
-
-**Exposed** Strikes against it have Weal.
-
-
