@@ -183,9 +183,9 @@ Mid-morning, the lead wagon's wheel breaks through a thin layer of stone, reveal
 - Failure: fall 30 feet into a limestone cavern (3d6 bludgeoning damage)
 - The wagon is half-lost, requiring DC 15 Strength (Athletics) checks to pull free
 
-**The Cavern Below:** The sinkhole reveals an ancient cave system. The walls are covered in faded paintings depicting figures with animal heads and spiral patterns. A successful DC 13 Intelligence (History) check identifies these as pre-Sym civilization art, perhaps 1,500 years old.
+**The Cavern Below:** The sinkhole reveals an ancient cave system. The walls are covered in faded paintings depicting figures with animal heads and spiral patterns. A successful DC 13 Intelligence (History) check identifies these as pre-Sym civilization art, perhaps 3,500 years old.
 
-**Occupant:** A **Giant Constrictor Snake** has made its nest in the cavern, disturbed by the collapse. It attacks anyone who falls in but can be avoided if the party is quick.
+**Occupant:** A **Thousand Teeth** has made its nest in the cavern, disturbed by the collapse. It attacks anyone who falls in but can be avoided if the party is quick.
 
 **Discovery:** A skeleton in the corner of the cave wears a necklace with a **Periapt of Wound Closure** (the body is that of an ancient shaman). Taking it requires a DC 15 Wisdom saving throw; on failure, the character is haunted by dreams of the shaman for the next three nights, gaining one level of exhaustion each morning until they return the item or receive a **Remove Curse** spell.
 

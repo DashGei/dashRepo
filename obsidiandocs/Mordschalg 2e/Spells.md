@@ -12,23 +12,23 @@ By default a spell deals 1d6 damage if it has a damage base, hand applies an eff
 | Sphere   | 2    | + 1 per 1m radius           |
 | Touch    | 0    | ---                         |
 
-- **Aura** - A **2-meter-radius area centered on you**, affecting targets of your choice within it. The radius can be increased by 1m for each additional Strain spent.
+- **Aura** - A **2m-radius area centered on you**
 
-- **Cone** - A **3-meter cone** extending in front of you. Its length can be increased in 1m increments, with each increase costing additional Strain.
+- **Cone** - A **3-meter cone** extending in front of you.
 
-- **Cube** - A **1-meter cube** on a point you can see within. You can expand the effect by adding additional 1m cubes.
+- **Cube** - A **1-meter cube** 
 
-- **Imbue** - Targets a **weapon held by a willing creature within 12m**. The weapon carries the spell, and when it hits a target, you can spend 1 Strain to cast the spell against that target as though using Touch, without using an Action.
+- **Imbue** - Targets a **weapon held by a willing creature within 12m**.
 
 - **Cylinder** - Creates a **1m-square magical glyph** on a target you can see. At a later point, the spell can be cast from the glyph into a **1m cube**, after which the glyph disappears.
 
-- **Line** - A **1m-wide, 4m-long, 2m-tall area**. Its length can be increased by 2m for additional Strain; expanding its width or height by up to 2m doubles the cost.
+- **Line** - A **1m-wide, 4m-long, 2m-tall area** extending from you.
 
-- **Bolt** - Fires the spell as a bolt at a target you can see within **12m**. Additional targets can be added for 1 additional Strain.
+- **Bolt** - Fires the spell as a bolt at a target you can see within **12m**.
 
-- **Sphere** - A **2m-radius sphere** centered on a point you can see. Its radius can be increased by 1 meter per additional Strain.
+- **Sphere** - A **2m-radius sphere** centered on a point you can see.
 
-- **Touch** - Targets **yourself or a creature you can touch within 1m**. It has no additional delivery cost.
+- **Touch** - Targets **yourself or a creature you can touch within 1m**.
 
 
 When you cast a spell, it typically only lasts until the start of your next turn, but if you choose to, you may focus and extend the duration one additional turn by using your Turn Start Action to do so. Taking Major damage or Moderate Mental damage breaks this focus.
