@@ -14,27 +14,15 @@ Mind
 | --- | --- | --- | --- | --- | --- | --- |
 |     |     |     |     |     |     |     |
 
-Spirit
-
-| S   | S   | S   | S   |
-| --- | --- | --- | --- |
-|     |     |     |     |
-
-
-Speed 30 ft.
+Speed 6m
 
 | Mod | Val |
 | --- | --- |
 | STR | +3  |
 | DEX | +1  |
-
-| Mod | Val |
-| --- | --- |
 | INT | 0   |
 | WIS | 0   |
 | CHA | 0   |
-
-
 #### Equipment
 
 Longbow 1d8+1 - 250 feet
@@ -50,7 +38,6 @@ CR 3 (XP 700; PB +2)
 **_Attack_** Make an attack.
 
 ***Sting*** Make an attack, that creature becomes poisoned until
-
 
 #### Reactions
 

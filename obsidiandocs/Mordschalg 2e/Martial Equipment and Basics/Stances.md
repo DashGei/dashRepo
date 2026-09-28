@@ -40,7 +40,7 @@
 
 **Quick Grapple** When you strike a creature you can grapple that creature as part the strike.
 
-**Bad Situation** You deal an additional 1d4 damage when you strike a creature which has the Grappled or Prone conditions.
+**Bad Situation** You deal an additional 1d4 damage when striking a creature with the Grappled or Prone conditions.
 
 ### Dread
 

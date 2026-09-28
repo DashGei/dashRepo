@@ -1,3 +1,15 @@
+
+## Sight
+
+### Thermal
+
+### Blindsight
+
+### Truesight
+
+### Veilsight
+
+
 ## Heavily Obscured Terrain
 
 A creature seeing into Obscured Terrain is **Blind**.

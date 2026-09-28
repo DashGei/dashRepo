@@ -1,34 +1,34 @@
 By default a spell deals 1d6 damage if it has a damage base, hand applies an effect to the target if it has one. You can spend more Strain to modify the area effected. The delivery describes how a spell targets. If the delivery is an Area it targets everything within that area. The damage of a spell increases by 1d6 for every 2 Strain spent, you can also choose to spend more Strain freely if you just want more damage.
 
+The area of a spell must originate from a point you can see within 12m.
+
 | Delivery | Cost | Increase                    |
 | -------- | ---- | --------------------------- |
 | Aura     | 2    | +1 per 1m radius            |
 | Cone     | 2    | +2 per additional 1m length |
 | Cube     | 1    | +1 per additional 1m cube   |
 | Imbue    | 0    | +2 per additional target    |
-| Glyph    | 2    | +1 per additional 1m square |
 | Line     | 1    | +1 per 2m length            |
 | Bolt     | 0    | +1 per additional target    |
 | Sphere   | 2    | + 1 per 1m radius           |
 | Touch    | 0    | ---                         |
 
-- **Aura** - A **2m-radius area centered on you**
 
-- **Cone** - A **3-meter cone** extending in front of you.
+- **Aura** - A 2m-radius area centered on  you. You can choose to be unaffected.
 
-- **Cube** - A **1-meter cube** 
+- **Cone** - A 3-meter cone** extending in front of you.
 
-- **Imbue** - Targets a **weapon held by a willing creature within 12m**.
+- **Cube** - A 1-meter cube 
 
-- **Cylinder** - Creates a **1m-square magical glyph** on a target you can see. At a later point, the spell can be cast from the glyph into a **1m cube**, after which the glyph disappears.
+- **Imbue** - Targets a weapon held by a willing creature within 12m.
 
-- **Line** - A **1m-wide, 4m-long, 2m-tall area** extending from you.
+- **Line** - A 1m-wide, 4m-long, 2m-tall area extending from you.
 
-- **Bolt** - Fires the spell as a bolt at a target you can see within **12m**.
+- **Bolt** - Strike a creature within 12m who is the target.
 
-- **Sphere** - A **2m-radius sphere** centered on a point you can see.
+- **Sphere** - A 2m-radius sphere centered on a point you can see.
 
-- **Touch** - Targets **yourself or a creature you can touch within 1m**.
+- **Touch** - Targets yourself or a creature you can touch within 1m.
 
 
 When you cast a spell, it typically only lasts until the start of your next turn, but if you choose to, you may focus and extend the duration one additional turn by using your Turn Start Action to do so. Taking Major damage or Moderate Mental damage breaks this focus.
@@ -88,7 +88,7 @@ A caster can complete this ritual by taking an hour, engraving an arcane tattoo 
 
 **Dark** *Necrotic* The area is filled with Darkness.
 
-**Door** Two linked medium size portals appear in the area. A creature who enters one portal appears at the other, and a projectile continues from one portal to the next in the same direction it was when entering.
+**Door** Two linked medium size portals appear in the area. A creature who moves on one portal appears at the other, and a projectile continues from one portal to the next in the same direction it was when entering.
 
 **Dispel** A magic effect is dispelled.
 
@@ -124,7 +124,7 @@ A caster can complete this ritual by taking an hour, engraving an arcane tattoo 
 
 **Shock** *Lightning* Targets have Woe on Focus Checks and reaction Strikes.
 
-**Sleep** 
+**Sleep** Targets fall unconscious until pushed or damaged.
 
 **Slow** Targets have Slow.
 
@@ -138,7 +138,7 @@ A caster can complete this ritual by taking an hour, engraving an arcane tattoo 
 
 **Wave** *Blunt* Targets are pushed 2m away from the origin and fall Prone.
 
-**Wither** *Necrotic* Targets cannot regain lost hit points.
+**Wither** *Necrotic* Targets take 1 Stamina when taking the Attack or Cast action.
 
 ### Spatial Warp
 
