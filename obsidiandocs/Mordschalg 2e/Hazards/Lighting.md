@@ -1,9 +1,19 @@
 
-## Sight
+## Senses
+
+### Blindsight
+
+### Darkvision
+
+You are not Blind when looking viewing subjects that are Heavily Obscured because it is dark.
+
+### Sunbane
+
+You have Darkvision but treat non-dark areas as Heavily Obscured Terrain.
 
 ### Thermal
 
-### Blindsight
+You are never Blind when viewing subjects that emit heat.
 
 ### Truesight
 

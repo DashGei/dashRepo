@@ -4,7 +4,7 @@ A Minor item is typically anything smaller than a lemon, and lighter than
 
 # Moderate Items
 
-A Moderate item is typically smaller than a 
+A Moderate item is typically smaller than a melon, and lighter than
 
 Pouch (3 S.) - holds 15 Minor items
 

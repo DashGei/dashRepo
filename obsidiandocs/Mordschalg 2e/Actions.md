@@ -9,7 +9,7 @@ Make a weapon strike against a creature within the weapon's range.
 
 Choose a reaction you have, that reaction no longer expends your reaction when you use it.
 
-### Dive
+### Tackle
 
 When you move 2 meters in one direction, you can drop prone to add an additional
 
@@ -20,4 +20,9 @@ When you move 2 meters in one direction, you can drop prone to add an additional
 
 ## Riposte
 
-When you are struck, you make spend 2 Stamina to strike the attacker.
+When a creature Strikes you and rolls Miss, you can Strike the attacker as a reaction.
+
+## Dive
+
+When a creature Strikes you at range, you can use your reaction to move 2m in one direction and fall Prone. This prevents Vitality damage and reduces Stamina damage by 1 HP. 
+You can also take this reaction any time on your turn, regardless of current speed.
