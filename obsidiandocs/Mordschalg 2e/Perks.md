@@ -6,17 +6,33 @@ Perks are the minute aspects and abilities that make up a mortal's social and co
 
 {R}**Acrobatic Recovery**: When you are pushed **2m**, you can let yourself be pushed 2 more as a reaction, and **regain one Stamina**. You also become **immune to Prone** until the start of your next turn.
 
-{A} **Boring** If you manage to monologue for 2 minutes without another creature successfully interrupting, one neutral creature of your choice within 10 feet must make a Mental DT INS Save or fall unconscious for 10 minutes.
+{A}**Boring** If you manage to monologue for 2 minutes without another creature successfully interrupting, one neutral creature of your choice within 2m must make a Mental DT INS Save or fall unconscious for 10 minutes.
 
-{F}**Detonate** When you reduce a creature to 0 Vitality with **Immolate**, and that spell was delivered via Bolt, the target is detonated. All creatures within 3m take 3d6 Burn.
+{AA}**Camouflage** You spend 10 minutes hiding a 3m cube area. Creatures inside the area have Weal on Stealth Checks to hide, and Strikes made from inside the area against creatures outside have Woe. The netting lasts until torn down as an action.
+
+{P}**Cook** When you are the Cook, a **Miss** on your Recreation Test counts as a **Minor** instead.
+
+{A}**Defensive Positions** You can prepare a 3m cube as a defensive position by taking 10 min to set up barricades, trenches, or other structures. Creatures in the position can take the Defend action as one action, and they have Half Cover against all Strikes and effects from outside the position. A 2m border around the edge of the area is difficult terrain, you may add sections which are not difficult terrain.
+
+{F}**Detonate** When you reduce a creature to 0 Vitality with **Immolate**, and that spell was delivered via Bolt, the target explodes and all creatures within 3m take 3d6 Burn.
+
+{F}**Disarm** When you Strike a creature you can activate this Perk. The creature must succeed a MIG Save or drop one object it holds, which lands at its feet. 
 
 {F}**Duck and Cover** When you make a DEX Save, you can choose to fall Prone in order to have Weal on the Save.
 
-{F}**Excuse Me** When an allied creature within 6m of you rolls Miss or Minor on a PRE Check, you can use your reaction to interject and hopefully save face. After making your argument or other interjection, 1d4 is added to the allies previous roll, possibly turning a failure into a success.
+{R}**Excuse Me** When an allied creature within 6m of you rolls Miss or Minor on a PRE Check, you can use your reaction to interject and hopefully save face. After making your argument or other interjection, 1d4 is added to the allies previous roll, possibly turning a failure into a success.
 
 {P}**Extrovert** Once per Moderate rest when you meet a new neutral person, you regain 1 Strain.
 
 {F}**Eyebite** On casting **See** you can choose to make the spell bestow Sunbane instead of Darkvision.
+
+{P}**Gale Matrix** Projectiles travelling against the wind of your Gale spell have Woe.
+
+{P}**Good Taste** When are the Cook, you add +1 to your Recreation Test for every gold spent on the food you prepare. This goes to a maximum equal to your Mental Modifier.
+
+{F}**Gravity Enhancement** When you cast Levitate, you can instead increase the gravity of the area. Creatures take fall damage as d12, and flying creatures immediately fall. Creatures cannot jump or leave the ground while the effect is active.
+
+{P}**Handy** You become Trained with one tool or vehicle of your choice.
 
 (MIG:2){P}**Heavy Blows** When you deal Moderate or Major Blunt damage with a Strike, you can push the target up to 2m away from you.
 
@@ -24,24 +40,35 @@ Perks are the minute aspects and abilities that make up a mortal's social and co
 
 {F}**Lockdown** When a creature rolls Miss on a MIG save to avoid being grappled by you, they are Restrained.
 
-{A}**Nod** Make a vague gesture to a creature that can see you within 30m. That creature receives a 3 word message composed by you, but it has no special ability to return the message.
+{P}**Luminous Secrets** All light you create with spells is Moonlight.
+
+{P}**Mystic Eye** Choose a sense you have such as Darkvision, Thermal, or Veilsight. Distance at which you can use that sense is doubled.
+
+{A}**Nod** Make a vague gesture to a creature that can see you within 30m. The gesture conveys a 3 word message composed by you, but it has no special ability to return the message.
 
 (MIG:2){P}**Pack Mule** You gain an additional Moderate item slot.
 
-{P}**Quiet Meditations** You regain 1 Mental HP when taking a rest while meditating.
+{F}**Permafrost** When focusing on **Freeze**, all water in the area becomes frozen for the duration. A creature in the water is Restrained unless they take an action to make a Mental DT MIG Save. If you focus for the duration, the water becomes frozen until it thaws naturally.
 
-{P}**Surgical Practice** During a rest, you pass a DT 3 Medicine Check to restore one Vitality, or remove a blocked Vitality and only cause 1d4 Pain damage.
+{P}**Preacher** You can serve as the Director if you have Proficiency in Religion. When you do so and have 3 Favor with a god you follow. You add 1d4 to your Recreation Test.
 
-{P}**Studious** You can spend a Moderate Rest reading a book you have purchased or borrowed. Depending on the subject, you add an additional 1d10 to your next Arcana, History, or Religion Check.
-
-{P}**Luminous Secrets** All light you create with spells is Moonlight.
+{P}**Quiet Meditations** You regain 1 Mental HP when taking a rest if you choose to spend your Rest Action to meditate.
 
 {P}**Ritual Master** You use half the enchanter's chalk when conducting rituals.
 
 {F}**Ricochet** Strike a creature. This Strike ignores cover as long as there is one surface to bounce off. You use the total distance traveled to and between bounced surfaces when determining range.
 Taking this perk more than once adds one additional bounce.
 
-{P}**Gale Matrix** Projectiles travelling against the wind of your Gale spell have Woe.
+{P}**Surgical Practice** During a rest, you make a DT 3 Medicine Check to restore one Vitality, or remove a blocked Vitality and only cause 1d4 Pain damage.
+
+{P}**Studious** You can spend a Moderate Rest reading a book you have purchased or borrowed. Depending on the subject, you add an additional 1d10 to your next Arcana, History, or Religion Check.
+
+{P}**Transcendent Director** Rolling Major on your Recreation Test as Director restores 1 Vitality to a creature of your choice.
+
+{AA}**Trap** With 10 minutes of work you set a tripwire along one 4m line. A suspicious creature makes a Mental DT Investigation Check to notice the trap. And a creature entering the space makes a Physical DT DEX Save or suffers the trap's effect. Choose one of the trap types in the hazard section of the PHB. You can also make the trap emit a loud noise alerting creatures within 20m.
+
+{AA}**Vantage Point** With a minute, you can prepare a 2m cube as a vantage point. creatures in the area have Weal on Ranged Strikes and Perception Checks with creatures outside the area. The point lasts until torn down as an action.
+
 
 # Moderate
 
@@ -51,6 +78,8 @@ Taking this perk more than once adds one additional bounce.
 
 {A}**Deduce** When you make an Investigation Check on something that has already happened, History check, or when you're hearing a story told to you by another creature. You can activate this perk and DM gives you a third person playback of what you have learned as if you were a fly on the wall. If it was a Check, you add 1d6 to your roll and the scene gives you appropriate information for the new roll as determined by the DM.
 
+{P}**Efficiency** Choose a feature granted by a perk, it now costs one less stamina to use, but it cannot reduce a perk lower than 2 Stamina
+
 {R} **Evasion** When you are targeted within an area, you may use your **reaction** to act before the effect hits, giving yourself additional speed to your Dexterity score during your movement, possibly out of the area.
 
 {A}**Fleeting** As an action target an indifferent or friendly creature who you have only interacted with for at most 5 minutes, and you can see or hear you within 6m. That creature makes a Mental DT INT Save, or it forgets your name, voice, and face completely in the next 30 seconds. Taking this perk again increases the possible number of targets by 3.
@@ -58,6 +87,8 @@ Taking this perk more than once adds one additional bounce.
 {P}**Hands of the Dead** When you focus on a line of **Wither**, you can cause writhing, grasping hands to hold those who move on the line. Creatures must succeed Mental DC MIG saves or become Grappled. 
 
 {P}**Intensifier** The damage dice of spells you focus on increases by 1 (maximum d12) for every round you focus on them.
+
+{A}**Just The Thing** As an action you can procure an item from your person which you just remembered you packed. You expend one strain for every Silver the item costs.
 
 {R}**Reactive Warping** As a reaction to a projectile, you can cast the spell **Door**. One of the portals must be adjacent to you.
 
@@ -167,3 +198,156 @@ The speed you spend during this reaction is **subtracted from your speed** when 
 ### Evasion
 
 
+## Minor Recreation Perks
+
+### Chef
+
+_Minor • Utility • Rest • Passive_  
+**Prerequisite:** Proficiency with Cooking Tools
+
+When you are the Cook, a **Miss** on your Recreation Test counts as a **Minor** instead.
+
+This is probably the cleanest version of the archetypal Chef perk: you are simply competent enough that the party never gets _nothing_ from your cooking.
+
+---
+
+### Improvised Cook
+
+_Minor • Utility • Rest • Passive_
+
+You can serve as the Cook without a proper kitchen. You still require Cooking Tools and suitable ingredients, but a campfire, pot, or similar improvised setup is sufficient.
+
+This is deliberately mostly fictional. It makes the Cook position usable during wilderness travel without directly increasing its die.
+
+---
+
+### Seasoned Palate
+
+_Minor • Utility • Rest • Passive_  
+**Prerequisite:** Chef
+
+When you are the Cook and have access to high-quality ingredients, increase the die you gain from your Recreation Test by one step.
+
+So, for example, a Moderate result would normally grant d4, but with Seasoned Palate it grants d6.
+
+---
+
+### Camp Song
+
+_Minor • Social • Rest • Passive_  
+**Prerequisite:** Proficiency with a Musical Instrument
+
+When you are the Director and have an instrument available, a **Miss** on your Recreation Test counts as a **Minor** instead.
+
+This gives the musical character a role-specific analogue to Chef.
+
+---
+
+### Encouraging Presence
+
+_Minor • Social • Rest • Passive_  
+**Prerequisite:** Proficiency in Persuasion
+
+When you are the Director, the party may choose to add your Recreation Die to the Rest Pool before the Cook's Recreation Die instead of after it.
+
+This one is intentionally modest and may ultimately be unnecessary, but it establishes a useful design space around the order in which party contributions are resolved.
+
+---
+
+### Campfire Stories
+
+_Minor • Social • Rest • Passive_  
+**Prerequisite:** Proficiency in Performance or Persuasion
+
+When you are the Director and roll **Moderate**, you may have one willing creature tell a short story, anecdote, or memory as part of the recreation. If they do, your Recreation Die becomes **d6** instead of d4.
+
+This creates a small interaction between the Director and another player's character rather than making the perk entirely self-contained.
+
+---
+
+### Frugal Cook
+
+_Minor • Utility • Rest • Passive_  
+**Prerequisite:** Proficiency with Cooking Tools
+
+You can serve as the Cook using food that would normally be considered insufficient for a proper meal. The party does not need to carry dedicated cooking ingredients, provided sufficient edible food is available.
+
+This is another deliberately fictional perk that makes the Cook more broadly usable without simply handing out a numerical bonus.
+
+---
+
+### Rallying Routine
+
+_Minor • Social • Rest • Passive_  
+**Prerequisite:** Proficiency in Performance or Persuasion
+
+When you are the Director, you may choose to deliver the same routine every night. The party remembers it and can participate without preparation. Once per day, this allows you to treat a **Minor** Recreation result as a **Moderate** instead.
+
+I would probably playtest this one carefully; if it proves too strong, it could instead simply grant a d2 on a Minor result.
+
+---
+
+# Moderate Recreation Perks
+
+### Master Chef
+
+_Moderate • Utility • Rest • Passive_  
+**Prerequisite:** Chef
+
+When you are the Cook, increase the die granted by your Recreation Test by one step.
+
+Thus:
+
+> Minor → d4  
+> Moderate → d6  
+> Major → d8
+
+A Miss still grants no die unless another feature says otherwise.
+
+This is a good example of a Moderate perk because it substantially improves one of the party's two avenues of improving a Rest.
+
+---
+
+### Inspiring Director
+
+_Moderate • Social • Rest • Passive_  
+**Prerequisite:** Proficiency in Performance or Persuasion
+
+When you are the Director, a **Moderate** result grants **d6** instead of d4, and a **Major** result grants **d8** instead of d6.
+
+This is effectively the Director equivalent of Master Chef.
+
+---
+
+### Field Kitchen
+
+_Moderate • Utility • Rest • Passive_  
+**Prerequisite:** Chef
+
+You can establish a functional kitchen almost anywhere given one hour of preparation. When the party rests in **Poor or Fine** conditions, you may treat the resting place as one quality step higher for the purpose of determining the party's Time Dice.
+
+This is the first one I'd consider genuinely powerful.
+
+It doesn't add a die to the Rest Pool; it improves **every Time Die the party rolls**, which becomes increasingly valuable during long rests.
+
+---
+
+### Feast
+
+_Moderate • Utility • Rest • Passive_  
+**Prerequisite:** Chef
+
+When you are the Cook and achieve a **Major** result on your Recreation Test, add one additional **d6** to the Rest Pool.
+
+This creates a reason for a highly skilled Cook to have a particularly exceptional meal without making every successful meal dramatically stronger.
+
+---
+
+### Rally the Company
+
+_Moderate • Social • Rest • Passive_  
+**Prerequisite:** Director
+
+When you are the Director and achieve a **Major** result on your Recreation Test, you may spend **1 Strain** to add one additional **d6** to the Rest Pool.
+
+This makes an exceptional Director able to turn a great performance into something that benefits the entire group.

@@ -24,5 +24,8 @@ When a creature Strikes you and rolls Miss, you can Strike the attacker as a rea
 
 ## Dive
 
-When a creature Strikes you at range, you can use your reaction to move 2m in one direction and fall Prone. This prevents Vitality damage and reduces Stamina damage by 1 HP. 
+When a creature Strikes you at range, or you are subjected  you can use your reaction to move 2m in one direction and fall Prone. 
+
+Using this reaction grants you the benefits of the Defend action against the offending action.
+This prevents Vitality damage and reduces Stamina damage by 1 HP. 
 You can also take this reaction any time on your turn, regardless of current speed.

@@ -85,8 +85,43 @@ Apply damage to the appropriate pool. Physical damage goes **Stamina → Flesh 
 When two creatures oppose each other, both roll **1d10 + bonuses**. The higher total wins. If creatures tie then creatures roll again.
 
 
+## Test Modifiers
+
+### Weal
+
+When rolling with Weal you increase the tests outcome by one step to a maximum of Major
+
+### Woe
+
+When rolling with Woe you decrease the tests outcome by one step to a minimum of Miss
+
+### Gate
+
+A Gate modifier can either be Moderate or Major, and it means you must roll at least that high to have an effect.
+
+### Resistance
+
+A Resistance modifier can either be Minor or Moderate, and it means all rolls above that degree are set to that degree.
+
+### Vulnerability
+
+A Vulnerability modifier can be either Moderate or Major, and it means all rolls below that degree are set to that degree.
 
 
+
+# SAVES
+
+Roll 2 dice, these start as d2 and increase in size as your relative ability modifier increases. You must succeed a Threshold Test against the defender, where the DT = their relative Modifier +3
+
+
+| Ability Modifier | Dice |
+| ---------------- | ---- |
+| -1               | d2   |
+| 0                | d4   |
+| 1                | d6   |
+| 2                | d8   |
+| 3                | d10  |
+| 4                | d12  |
 
 
 

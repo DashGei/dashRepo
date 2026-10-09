@@ -71,7 +71,7 @@ When you finish a short rest you can change the range of the sweet spot to any 3
 
 ### Flanker
 
-*After her execution and subsequent sentencing, Merly "Psycho" Thol's residence was found to also be home to roughly 80 gold's worth of controlled substances, and two dozen ears of various origin.*
+*After her execution and subsequent sentencing, Merly "Psycho" Thol's residence was found to be home to roughly 80 gold's worth of controlled substances, and two dozen ears of various origin.*
 
 **Scooch** You expend no speed when moving adjacent to a creature 
 

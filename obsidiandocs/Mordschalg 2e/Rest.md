@@ -1,36 +1,3 @@
-Instead of rests only being tied to duration, you roll a number of dice equal to all the benefits, and hope to get a good rest.
-
-Every hour provides 1d8
-
-Food
-
-Good shelter
-
-Sleep
-
-Music
-
-Tactician/Warlord features
-
-Opens up the door for actually impactful cooking and downtime features 
-
-Roll to see if the rest is minor, moderate, or major
-
-Alcohol: Every drinker adds a d4, if any of the numbers roll the same, partakers get a rest one level lower and are hungover.
-
-
-| X   | Mi  | Mo  | Ma  |
-| --- | --- | --- | --- |
-| 0   | 8   | 16  | 24  |
-
-
-Time - 2d6 per hour, 
-
-Shelter - Quality of shelter increases/decreases the size of the time dice.
-
-| Awful | Poor | Fine | Good | Great | Excellent |
-| ----- | ---- | ---- | ---- | ----- | --------- |
-| 1d2   | 1d4  | 1d6  | 1d8  | 1d10  | 1d12      |
 # Rest
 
 Adventurers recover through rest, but not all rest is equal. The quality of a party's sleep, shelter, food, and company can determine how much they recover.
@@ -51,7 +18,7 @@ The entire party receives the same degree of Rest, unless a feature states other
 
 ## Building the Rest Pool
 
-The party rolls a number of dice determined by the number of hours the party is taking to rest.
+The party rolls a number of dice determined by the number of hours the party is taking to rest according to the below table.
 
 | Time     | Dice |
 | -------- | ---: |
@@ -61,8 +28,7 @@ The party rolls a number of dice determined by the number of hours the party is 
 | 10 hours |    5 |
 | 13 hours |    6 |
 | 16 hours |    7 |
-
-The quality of the party's resting place determines the size of each Time Die.
+But what size dice are being rolled? The quality of the party's resting place determines the size of each Time Die.
 
 | Quality   | Time Die | Example     |
 | --------- | -------: | ----------- |
@@ -78,12 +44,12 @@ So resting for 7 hours in a mediocre inn (Nice) will allow the party to add 4d8 
 
 The degree of the Rest Test determines how much the party recovers.
 
-| Rest       | Effect                                                      |
-| ---------- | ----------------------------------------------------------- |
-| Miss       | Restore All Stamina, 1 Strain, 1 Mental                     |
-| Minor      | Restore all Stamina, Flesh, 5 Strain, 2 Mental              |
-| Moderate   | Restore all Stamina, Flesh, 10 Strain, 5 Mental, 2 Vitality |
-| Major Rest | Restore all Hit Points and Strain                           |
+| Rest       | Effect                                                              |
+| ---------- | ------------------------------------------------------------------- |
+| Miss       | Restore All Stamina, 1 Strain, 1 Mental                             |
+| Minor      | Restore all Stamina, Flesh, 5 Strain, 2 Mental                      |
+| Moderate   | Restore all Stamina, Flesh, 10 Strain, 5 Mental, 2 Vitality         |
+| Major Rest | Restore all Hit Points and Strain +2 Maximum Strain until next rest |
 ## Recreation
 
 After a party has rested for at least **4 hours**, its members may spend their remaining time on **Downtime Activities**.
@@ -92,7 +58,7 @@ Below are the common activities completable by anyone, but some characters may g
 
 ### Cook
 
-No more than one character proficient with Cooking Tools may serve as the party's **Cook**, provided they have suitable ingredients and a place to prepare food.
+No more than one character proficient with Cooking Tools may serve as the party's **Cook**, provided they have suitable ingredients and a place to prepare the food.
 
 The Cook makes a **DT 5 Threshold Test** using their Mental modifier. Add a die to the Rest Pool based on the result.
 
@@ -102,7 +68,6 @@ The Cook makes a **DT 5 Threshold Test** using their Mental modifier. Add a die 
 | **Minor**    | d2       |
 | **Moderate** | d4       |
 | **Major**    | d6       |
-
 ### Director
 
 A character proficient in **Performance** or **Persuasion** may serve as the party's **Director**.

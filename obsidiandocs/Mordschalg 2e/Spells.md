@@ -76,7 +76,7 @@ Distance Shorthand
 
 **Faux** Medium, dead, Mortal targets are raised as Zombies under your control.
 
-**Frost** *Cold* Targets have a -1 to speed for every Strain spent to do so.
+**Freeze** *Cold* Targets have a -1 to speed for every Strain spent to do so.
 
 **Gale** *Slashing* Choose a direction. The area is difficult terrain when moving against that direction, and creatures spend no movement when moving with it.
 

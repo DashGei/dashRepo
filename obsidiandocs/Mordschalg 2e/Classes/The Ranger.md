@@ -8,28 +8,28 @@ Iconic Rangers:
 
 ## Class Features
 
-| Level | Boon       | Hunter's Mark | Features         |
-| ----- | ---------- | ------------- | ---------------- |
-| 1st   | Stance     | 1d4           | Hunter's Mark    |
-| 2nd   | Perk       | 1d4           |                  |
-| 3rd   | Perk       | 1d4           | Analyzed         |
-| 4th   | Stance     | 1d4           |                  |
-| 5th   | Perk       | 1d6           | Mortal Reminder  |
-| 6th   | +1 Stamina | 1d6           | Hit List         |
-| 7th   | Perk       | 1d6           |                  |
-| 8th   | Stance     | 1d6           | Killer Insticts  |
-| 9th   | Perk       | 1d6           |                  |
-| 10th  | +1 Flesh   | 1d8           |                  |
-| 11th  | Perk       | 1d8           |                  |
-| 12th  | Stance     | 1d8           |                  |
-| 13th  | Perk       | 1d8           | Analyzed II      |
-| 14th  | +1 Stamina | 1d8           |                  |
-| 15th  | Perk       | 2d4           | Lord of the Land |
-| 16th  | Stance     | 2d4           |                  |
-| 17th  | Perk       | 2d4           |                  |
-| 18th  | +1 Stamina | 2d4           | Feral Senses     |
-| 19th  | Perk       | 2d4           |                  |
-| 20th  | Stance     | 2d6           |                  |
+| Level | Boon             | Hunter's Mark | Features         |
+| ----- | ---------------- | ------------- | ---------------- |
+| 1st   | Stance           | 1d4           | Hunter's Mark    |
+| 2nd   | Moderate Perk    | 1d4           |                  |
+| 3rd   | Major Perk       | 1d4           | Analyzed         |
+| 4th   | Stance           | 1d4           |                  |
+| 5th   | Minor Perk       | 1d6           | Mortal Reminder  |
+| 6th   | +1 Stamina       | 1d6           | Hit List         |
+| 7th   | Major Perk       | 1d6           |                  |
+| 8th   | Stance           | 1d6           | Killer Insticts  |
+| 9th   | Moderate Perk    | 1d6           |                  |
+| 10th  | +1 Flesh         | 1d8           |                  |
+| 11th  | Minor Perk       | 1d8           |                  |
+| 12th  | Stance/New Spell | 1d8           |                  |
+| 13th  | Major Perk       | 1d8           | Analyzed II      |
+| 14th  | +1 Stamina       | 1d8           |                  |
+| 15th  | Minor Perk       | 2d4           | Lord of the Land |
+| 16th  | Stance           | 2d4           |                  |
+| 17th  | Moderate Perk    | 2d4           |                  |
+| 18th  | +1 Stamina       | 2d4           | Feral Senses     |
+| 19th  | Major Perk       | 2d4           |                  |
+| 20th  | Stance           | 2d6           |                  |
 
 ## Physical and Mental Modifiers
 
@@ -52,6 +52,12 @@ Your Physical Defense (PD) is 6, and your Mental Defense (MD) is 7.
 **Weapons:** Simple weapons, martial weapons
 
 **Skills:** Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
+
+## Stance: 1
+
+At level one, you gain access to a Stance of your choosing. While active, you have all features of that Stance. At later levels you will gain new Stances which you may swap between on a Minor Rest. Losing the old features and gaining the new until you choose to swap back to that Stance.
+
+Any perk you gain which requires that Stance is only ever active while that Stance is active.
 
 ## Hunter's Mark: 1
 
@@ -83,7 +89,7 @@ When you strike, you can add 1 Vitality damage. You can only use this feature if
 
 ## Mystic Mark
 
-When you deal Force damage with Hunter's Mark, you can choose to make the damage Spiritual Force damage instead of Physical. When you do so, you also add your Mental Modifier to your Hunter's Mark damage.
+When you deal Force damage with Hunter's Mark, you can choose to make the damage Stress damage instead of Physical. When you do so, you also add your Mental Modifier to your Hunter's Mark damage.
 
 ## Analyzed II: 13
 

@@ -3,6 +3,8 @@
 
 ### Blindsight
 
+3
+
 ### Darkvision
 
 You are not Blind when looking viewing subjects that are Heavily Obscured because it is dark.
@@ -17,8 +19,11 @@ You are never Blind when viewing subjects that emit heat.
 
 ### Truesight
 
+You are never Blind when viewing any Subject
+
 ### Veilsight
 
+You can see into the Spirit Realm
 
 ## Heavily Obscured Terrain
 
