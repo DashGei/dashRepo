@@ -46,7 +46,7 @@ The degree of the Rest Test determines how much the party recovers.
 
 | Rest       | Effect                                                              |
 | ---------- | ------------------------------------------------------------------- |
-| Miss       | Restore All Stamina, 1 Strain, 1 Mental                             |
+| Miss       | Restore all Stamina, 1 Strain, 1 Mental                             |
 | Minor      | Restore all Stamina, Flesh, 5 Strain, 2 Mental                      |
 | Moderate   | Restore all Stamina, Flesh, 10 Strain, 5 Mental, 2 Vitality         |
 | Major Rest | Restore all Hit Points and Strain +2 Maximum Strain until next rest |

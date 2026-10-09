@@ -25,19 +25,21 @@ Gelagu are the only mortals capable of seeing the color "Bome"
 
 Stout
 
-Primarily residing in the west of their home continent Dvalum, Halflings tend to their gardens and hearths. Stories are spun of their unfathomable ability to remain content and happy with the simple pleasures of life.
+Primarily residing in the west of their home continent Dvalum, Stouts tend to their gardens and hearths. Stories are spun of their unfathomable ability to remain content and happy with the simple pleasures of life.
 
-Halflings are rarely known to take up adventuring, so they may expect the odd glance from other travelers. Despite these stigmas Halflings can be extraordinarily capable, their small frame giving them the ability to disappear whenever they please, and their patron god Tymora is known to give them a helping hand whenever things get tricky.Halfling Traits
+Halflings are rarely known to take up adventuring, so they may expect the odd glance from other travelers. Despite these stigmas Stouts can be extraordinarily capable, their small frame and nature disguises an indomitable fervor for life.
+
+Stout Traits
 
 - **Size**: Small (about 3'3" – 4'6")
 
-- **Age**: Halflings typically live 60-80 years
+- **Age**: Stouts typically live 60-80 years
 
-- **Speed**: 30 feet walking
+- **Speed**: 6m walking
 
 - **Naturally Stealthy**: You can take the hide action when within 5 feet of another creature who is larger than you.
 
-- **Luck**: When you roll a 1 on the d20 of a D20 Test, you can reroll the die, on a roll of 12-20 you treat the roll as if it was a 20. If you roll 1-11 you automatically fail the d20 test.
+- **Hospitality**: When you serve as the Director or Cook,
 
 
 # Races and people of the world

@@ -15,7 +15,6 @@ The area of a spell must originate from a point you can see within 12m.
 | Sphere   | 2    | + 1 per 1m radius           |
 | Touch    | 0    | ---                         |
 
-
 - **Aura** - A 2m-radius area centered on  you. You can choose to be unaffected.
 
 - **Cone** - A 3-meter cone extending in front of you.
@@ -112,7 +111,7 @@ Distance Shorthand
 
 **Wave** *Blunt* *MIT* Targets are pushed 2m away from the origin and fall Prone.
 
-**Wither** *Necrotic* Targets take 1 Stamina when taking the Attack or Cast action.
+**Wither** *Necrotic* Targets take 1 damage die when taking the Attack or Cast action.
 
 
 ## Rituals
@@ -123,7 +122,7 @@ Some ritual spells can be cast as an action if you store them within a spell foc
 
 ### Detect Thoughts
 
-A caster can complete this ritual by taking an hour, shaving 1 Gold's worth of enchanter's chalk into a drop of one of their saliva. The caster can then read the mind of any creature who consumes the entire drop as long as they are within 6m of each other.
+A caster can complete this ritual by taking an hour, shaving 1 Gold's worth of enchanter's chalk into a drop of their saliva. For an hour, the caster can then read the mind of any creature who consumes the entire drop as long as they are within 6m of each other.
 
 ### Concentrate
 
@@ -134,12 +133,92 @@ The effect lasts for a number of months equal to the caster's level.
 | Target                | Time     | Effect                                                                                           |
 | --------------------- | -------- | ------------------------------------------------------------------------------------------------ |
 | 1 Liter of water      | 1 minute | The water becomes holy water                                                                     |
-| 10 1m squares of land | 1 minute | An unholy creature takes Minor Psychic and Radiant damage when they start their turn on the land |
-
+| 10 1m-squares of land | 1 minute | An unholy creature takes Minor Psychic and Radiant damage when they start their turn on the land |
 
 ### Summoner's Sheath
 
 A caster can complete this ritual by taking an hour, engraving an arcane tattoo into a part of their body. After the ritual, the caster can sheath or draw a weapon with the sigil as a free action, storing it in a pocket dimension.
+
+### Lightning Rod
+
+A caster can inlay 3GP liquid copper into any stick/rod/handle of any material. Afterwards under an open sky the caster can use an Action and 3 Strain causing lighting to leap onto the stick and explode. Creatures within 2m of the rod make a Mental DT DEX Save taking 3d6 Lighting damage on a failed save and half that on a success. If the rod is destroyed as part of the Action the spell deals 3d8 damage.
+
+### Dream Message
+
+The caster sits in a drawn circle with 20 GP of Enchanter's Chalk and sets a bowl of 5 SP incense. The caster then mentally chooses a creature they can visualize fairly accurately. If that creature is asleep then the creature's consciousness drifts to the circle and can only see within the area of the circle. Both creatures can communicate, until the target wakes up naturally, or the caster ends the spell.
+
+### Antithances
+
+The caster sits in a drawn circle with 50 GP of Enchanter's Chalk and deeply bleeds one of their palms onto the circle. The caster then mentally chooses a creature they can visualize fairly accurately. The caster is then able to remotely view through the targets senses for the duration of the spell (Which can be ended at any time). The caster can also choose to take on 1d4 Exhaustion and spend 5  Strain in order to take an action through the target who then becomes aware of the control. Otherwise a creature with more than 2 Instinct or Understanding automatically knows they are being viewed.
+
+For every minute the spell is active, the caster takes 1d10 Vitality damage against the caster's PD which is set to 3 for the duration of the spell. 
+
+### Fireline
+
+**Casting Time:** 10 minutes  
+**Components:** Powdered coal.
+
+The caster spreads the mixture in a continuous line (1 SP of coal powder per meter) along the ground. The caster can ignite the line as an Action while within 12m, the line becomes a wall of flame 5m high and 3m thick that lasts for 1 minute. A creature that enters the wall or starts its turn there makes a Mental DT DEX Save taking 3d6 Burn damage on a failed save and half that on a success. Once ignited, dispersed, or the powder contaminated by water, the line cannot be reused.
+
+### Poisoned Tongue
+
+**Casting Time:** 10 minutes  
+**Components:** One dose of deadly poison and a silver mirror shard.
+
+At the start of the ritual the caster drinks the poison. The caster then chooses one creature they can see within 12m. The caster knows whenever the creature knowingly speaks a falsehood to them while within 6m for the next 10 minutes. The ritual does not compel the creature to speak, reveal the truth behind a falsehood, or identify statements the creature genuinely believes to be true.
+
+For 10 minutes or until the caster succeeds a DT 2 MIG save to vomit the poison, the caster takes 1d10 Vitality damage against the caster's PD which is set to 3 for the duration of the spell. 
+
+### Threshold Ward
+
+**Casting Time:** 30 minutes  
+**Components:** Silvered thread and salt worth 1 GP.
+
+The caster marks a doorway, window, or other opening no wider than 3m. The ward lasts until the next dawn. During casting, the caster may designate any number of creatures present as permitted to cross without triggering the ward. Whenever another creature crosses the marked opening, a bell rings audibly within 30m for 1 round. The ward does not identify the creature that triggered it.
+
+### Pilgrim's Nail
+
+**Casting Time:** 10 minutes  
+**Components:** Two iron nails.
+
+The caster names a location they have visited and drives the nail into the ground during the ritual. For the next 7 days, a creature holding another nail flat in its palm can cause it to point toward the designated location. The ritual functions only when the caster and destination are on the same plane. The nail indicates direction but not distance or the safest route.
+
+### Ashen Guest
+
+**Casting Time:** 1 hour  
+**Components:** The remains of a dead creature and grave wax worth 5 SP.
+
+The caster touches the remains of a creature capable of speech in life. For the next 10 minutes, the corpse can answer up to three questions in a language it knew when alive. It answers truthfully to the best of its knowledge at the time of death, in brief phrases. It cannot answer questions about events that occurred after its death or about information it never knew. A given set of remains cannot be affected by this ritual again for 7 days.
+
+### Purification
+
+**Casting Time:** 1 minute  
+**Components:** Silver salt worth 1 SP.
+
+The caster purifies up to 10L of liquid or enough food for six creatures. The ritual removes mundane dirt, contaminants, and spoilage, rendering the food or liquid safe for consumption. It does not neutralize poisons, cure diseases, remove curses, or dispel magical contamination.
+
+### Iron Guest
+
+**Casting Time:** 1 hour  
+**Components:** An iron vessel, and black thread.
+
+The caster binds a minor spirit to the vessel, creating an invisible servant that lasts for 8 hours. The servant appears within 1m of the vessel and obeys simple commands, performing repetitive tasks such as carrying objects, fetching items, cleaning, lighting a fire, or opening unlocked doors. It can carry up to 10kg and cannot move more than 12m from the vessel. The servant cannot attack, make Checks, use tools, activate magic items, or manipulate objects held by an unwilling creature. If the vessel is broken the spirit is released.
+
+### Hearth Without Smoke
+
+**Casting Time:** 1 hour  
+**Components:** Coal from a previously lit fire and salt worth 1 GP.
+
+The caster establishes a 3m-radius area around a fire, hearth, or point on the ground. Until the next dawn, the ground within the area remains dry, and ordinary wind and rain do not disturb the occupants or extinguish fires within it. The temperature remains comfortable for resting, and fires within the area produce no smoke. A Rest Test made by a party resting within the area uses a Rest Quality Die one step higher than the campsite would normally provide, to a maximum of d12. The ritual does not prevent creatures from entering the area or protect occupants from other hazards.
+
+### The Last Door
+
+**Casting Time:** 8 hours at each location  
+**Components:** Enchanter's chalk worth 50 GP and an iron key at each location.
+
+The caster inscribes matching sigils at two fixed doorways on the same plane. The first sigil remains dormant for up to 30 days while the caster completes the ritual at the second location. Once both sigils are complete, the doorways become linked for 7 days.
+
+A creature touching either sigil can use an Action to open a 2m-wide portal connecting the two locations. The portal remains open for 1 minute or until the caster dismisses it. Creatures and objects can pass through the portal in either direction. Once the portal closes, both sigils are expended.
 
 
 

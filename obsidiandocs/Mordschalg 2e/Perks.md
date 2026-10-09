@@ -6,6 +6,8 @@ Perks are the minute aspects and abilities that make up a mortal's social and co
 
 {R}**Acrobatic Recovery**: When you are pushed **2m**, you can let yourself be pushed 2 more as a reaction, and **regain one Stamina**. You also become **immune to Prone** until the start of your next turn.
 
+**{A} Bait and Switch** Choose a willing creature within Close (3m) of you. You and that creature exchange positions. Choose one of you; the next Strike against that creature before the start of your next turn has Woe.
+
 {A}**Boring** If you manage to monologue for 2 minutes without another creature successfully interrupting, one neutral creature of your choice within 2m must make a Mental DT INS Save or fall unconscious for 10 minutes.
 
 {AA}**Camouflage** You spend 10 minutes hiding a 3m cube area. Creatures inside the area have Weal on Stealth Checks to hide, and Strikes made from inside the area against creatures outside have Woe. The netting lasts until torn down as an action.
@@ -17,6 +19,8 @@ Perks are the minute aspects and abilities that make up a mortal's social and co
 {F}**Detonate** When you reduce a creature to 0 Vitality with **Immolate**, and that spell was delivered via Bolt, the target explodes and all creatures within 3m take 3d6 Burn.
 
 {F}**Disarm** When you Strike a creature you can activate this Perk. The creature must succeed a MIG Save or drop one object it holds, which lands at its feet. 
+
+**{F} Distracting Strike** Once per turn when you deal at least Minor damage to a creature with a Strike, the next Strike against that creature made by another creature before the start of your next turn has Weal.
 
 {F}**Duck and Cover** When you make a DEX Save, you can choose to fall Prone in order to have Weal on the Save.
 
@@ -30,13 +34,15 @@ Perks are the minute aspects and abilities that make up a mortal's social and co
 
 {P}**Good Taste** When are the Cook, you add +1 to your Recreation Test for every gold spent on the food you prepare. This goes to a maximum equal to your Mental Modifier.
 
-{F}**Gravity Enhancement** When you cast Levitate, you can instead increase the gravity of the area. Creatures take fall damage as d12, and flying creatures immediately fall. Creatures cannot jump or leave the ground while the effect is active.
+{F}**Gravitational Anomaly** When you cast Levitate, you can instead increase the gravity of the area. Creatures take fall damage as d12, and flying creatures immediately fall. Creatures cannot jump or leave the ground while the effect is active.
 
 {P}**Handy** You become Trained with one tool or vehicle of your choice.
 
 (MIG:2){P}**Heavy Blows** When you deal Moderate or Major Blunt damage with a Strike, you can push the target up to 2m away from you.
 
 {P}**Heliomancy** All light you create with spells is Daylight.
+
+**{R} Interception** When a creature within 1m of you is targeted by a physical Strike, you can use your Reaction to interpose yourself. You become the target of the Strike instead. Resolve the Strike against your Physical Defense rather than the original target's.
 
 {F}**Lockdown** When a creature rolls Miss on a MIG save to avoid being grappled by you, they are Restrained.
 
@@ -61,7 +67,7 @@ Taking this perk more than once adds one additional bounce.
 
 {P}**Surgical Practice** During a rest, you make a DT 3 Medicine Check to restore one Vitality, or remove a blocked Vitality and only cause 1d4 Pain damage.
 
-{P}**Studious** You can spend a Moderate Rest reading a book you have purchased or borrowed. Depending on the subject, you add an additional 1d10 to your next Arcana, History, or Religion Check.
+{P}**Studious** You can spend your Downtime Activity reading. Depending on the subject, you add an additional 1d10 to your next Arcana, History, or Religion Check.
 
 {P}**Transcendent Director** Rolling Major on your Recreation Test as Director restores 1 Vitality to a creature of your choice.
 
@@ -71,6 +77,12 @@ Taking this perk more than once adds one additional bounce.
 
 
 # Moderate
+
+**{F} Blinding Strike** Once per turn when you deal Moderate or Major physical damage with a melee Strike, you can force the target to make a Physical DT Might Save. On a failure, the target becomes Blind until the start of your next turn.
+
+**{A} Compelled Duel** Choose a creature you can see within Near (6m). The target makes a Mental DT Instinct Save. On a failure, until the end of your next turn, it has Woe on Strikes against creatures other than you and cannot willingly move to a position more than Far (12m) from you.
+
+The effect ends early if you Strike a different enemy, cast a spell against a different enemy, an ally damages the target, or you end your turn more than Far from the target.
 
 {AA} **Constrict** You can take the Choke action on all creatures Restrained by your Entangled spell.
 
@@ -86,19 +98,33 @@ Taking this perk more than once adds one additional bounce.
 
 {P}**Hands of the Dead** When you focus on a line of **Wither**, you can cause writhing, grasping hands to hold those who move on the line. Creatures must succeed Mental DC MIG saves or become Grappled. 
 
+**{A} Hurl** When you have a creature Grappled, you can attempt to throw it. The creature must be no more than one size larger than you and must make a Physical DT Might Save. On a failure, you throw it up to Close (3m) into an unoccupied space you can see, and it falls Prone.
+
+If the thrown creature collides with another creature before landing, both creatures suffer a 1d6 Blunt Strike and fall Prone. If it collides with a solid obstacle, the thrown creature suffers a 1d6 Blunt Strike and falls Prone. On a successful Save, the Grappled condition ends and the creature is not thrown.
+
 {P}**Intensifier** The damage dice of spells you focus on increases by 1 (maximum d12) for every round you focus on them.
 
 {A}**Just The Thing** As an action you can procure an item from your person which you just remembered you packed. You expend one strain for every Silver the item costs.
 
+**{AA} Power Shot** Creatures within a 1m-wide straight line extending up to your weapon's normal range are hit with a Strike using a weapon you hold. The Strike only deals damage equal to the die rolled + your Ability Modifier with no other bonuses or dice.
+
 {R}**Reactive Warping** As a reaction to a projectile, you can cast the spell **Door**. One of the portals must be adjacent to you.
 
+**{A} Read the Signs** Spend one minute observing your surroundings, reflecting on the available evidence, or consulting appropriate tools. Choose a specific course of action you could take within the next hour. The GM tells you whether the likely outcome would bring Weal, Woe, or both.
+
+This reveals only the general tendency of the outcome, not how events will unfold or what specific consequences will occur. You can use this perk once per Moderate Rest.
+
 (PRE:3){A}**Smooth Talker** Target one creature who can hear or see you, that creature must succeed a Mental DT PRE Save or be Charmed by you for 10 minutes or until you or an ally attacks the creature.
+
+**{A} Stealth Tactics** Spend an Action guiding up to five willing creatures within Close (3m) through a concealed route. For the next minute, you and those creatures have Weal on Stealth Checks and leave no obvious tracks or other traces of your passage, provided you remain together and travel cautiously.
 
 {F}**Suggestion** When you Charm one creature with the Charm spell, you can suggest a basic course of action that will not cause immediate harm to another creature, nor does it go directly against the creature's ideals. For the next hour, the creature tries its best to complete said activity 
 
 {P}**Violent Evocation** Targets of Aura, Sphere, and Cone effects are pushed 2m away from the origin point. This only applies to targets taking Burn, Radiant, Lightning, Blunt, or Concuss damage.
 
-{A}**Take it and Leave it** When you deal Vitality damage with Piercing or Slashing, you can leave the weapon in the enemy. While the weapon is lodged, the target subtracts the weapon's damage die from all Strikes and Checks they make. A creature can remove the weapon with an action, taking the weapon's damage die as they remove it. This feature requires expending 3 Strain
+{A}**Take it and Leave it** When you deal Vitality damage with Piercing or Slashing, you can leave the weapon in the enemy. While the weapon is lodged, the target subtracts the weapon's damage die from all Strikes and Checks they make. A creature can remove the weapon with an action, taking the weapon's damage die as they remove it. This feature requires expending 3 Strain.
+
+**{AA} Whirlwind Strike** Make a melee Strike against all creatures within your range. The Strike only deals damage equal to the die rolled + your Ability Modifier with no other bonuses or dice.
 
 
 # Major

@@ -1,0 +1,1 @@
+Casting high level spells and taking risks causes the sorcerer to rise into the air
