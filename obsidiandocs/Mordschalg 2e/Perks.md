@@ -26,6 +26,8 @@ Perks are the minute aspects and abilities that make up a mortal's social and co
 
 {F}**Duck and Cover** When you make a DEX Save, you can choose to fall Prone in order to have Weal on the Save.
 
+{F}**Eriel's Furious Fireworks** When you roll Major for damage with a Bolt delivery, a 3m Cone of the same formula emanates out of the target away from you.
+
 {R}**Excuse Me** When an allied creature within 6m of you rolls Miss or Minor on a PRE Check, you can use your reaction to interject and hopefully save face. After making your argument or other interjection, 1d4 is added to the allies previous roll, possibly turning a failure into a success.
 
 {P}**Extrovert** Once per Moderate rest when you meet a new neutral person, you regain 1 Strain.
