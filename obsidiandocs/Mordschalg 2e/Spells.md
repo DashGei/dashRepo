@@ -158,9 +158,9 @@ For every minute the spell is active, the caster takes 1d10 Vitality damage agai
 **Casting Time:** 10 minutes  
 **Components:** Powdered coal.
 
-The caster spreads the mixture in a continuous line (1 SP of coal powder per meter) along the ground. The caster can ignite the line as an Action while within 12m, the line becomes a wall of flame 5m high and 3m thick that lasts for 1 minute. A creature that enters the wall or starts its turn there makes a Mental DT DEX Save taking 3d6 Burn damage on a failed save and half that on a success. Once ignited, dispersed, or the powder contaminated by water, the line cannot be reused.
+The caster spreads the mixture in a continuous line (1 SP of coal powder per meter) along the ground. The caster can ignite the line as an Action while within 12m, the line becomes a blazing wall 5m high and 3m thick that lasts for 1 minute. A creature that enters the wall or starts its turn there makes a Mental DT DEX Save taking 3d6 Burn damage on a failed save and half that on a success. Once ignited, dispersed, or the powder contaminated by water, the line cannot be reused.
 
-### Poisoned Tongue
+### 
 
 **Casting Time:** 10 minutes  
 **Components:** One dose of deadly poison and a silver mirror shard.
@@ -172,23 +172,23 @@ For 10 minutes or until the caster succeeds a DT 2 MIG save to vomit the poison,
 ### Threshold Ward
 
 **Casting Time:** 30 minutes  
-**Components:** Silvered thread and salt worth 1 GP.
+**Components:** Silvered thread and salt worth 1 SP.
 
-The caster marks a doorway, window, or other opening no wider than 3m. The ward lasts until the next dawn. During casting, the caster may designate any number of creatures present as permitted to cross without triggering the ward. Whenever another creature crosses the marked opening, a bell rings audibly within 30m for 1 round. The ward does not identify the creature that triggered it.
+The caster marks a doorway, window, or other opening no wider than 3m. The ward lasts until the next dawn. During casting, the caster may designate any number of creatures present as permitted to cross without triggering the ward. Whenever another creature crosses the marked opening, the caster receives a mental alarm. The ward does not identify the creature that triggered it.
 
-### Pilgrim's Nail
+### Gri's Nail
 
 **Casting Time:** 10 minutes  
 **Components:** Two iron nails.
 
 The caster names a location they have visited and drives the nail into the ground during the ritual. For the next 7 days, a creature holding another nail flat in its palm can cause it to point toward the designated location. The ritual functions only when the caster and destination are on the same plane. The nail indicates direction but not distance or the safest route.
 
-### Ashen Guest
+### Speak With Dead
 
 **Casting Time:** 1 hour  
-**Components:** The remains of a dead creature and grave wax worth 5 SP.
+**Components:** 1 SP of honey and 10 GP incense.
 
-The caster touches the remains of a creature capable of speech in life. For the next 10 minutes, the corpse can answer up to three questions in a language it knew when alive. It answers truthfully to the best of its knowledge at the time of death, in brief phrases. It cannot answer questions about events that occurred after its death or about information it never knew. A given set of remains cannot be affected by this ritual again for 7 days.
+The caster sets the incense, drinks the honey, and touches the remains of a creature capable of speech in life. For the next 10 minutes, the corpse can answer up to three questions in a language it knew when alive. It answers truthfully to the best of its knowledge at the time of death, in brief phrases. It cannot answer questions about events that occurred after its death or about information it never knew. A given set of remains cannot be affected by this ritual again for 7 days.
 
 ### Purification
 
@@ -211,7 +211,7 @@ The caster binds a minor spirit to the vessel, creating an invisible servant tha
 
 The caster establishes a 3m-radius area around a fire, hearth, or point on the ground. Until the next dawn, the ground within the area remains dry, and ordinary wind and rain do not disturb the occupants or extinguish fires within it. The temperature remains comfortable for resting, and fires within the area produce no smoke. A Rest Test made by a party resting within the area uses a Rest Quality Die one step higher than the campsite would normally provide, to a maximum of d12. The ritual does not prevent creatures from entering the area or protect occupants from other hazards.
 
-### The Last Door
+### 
 
 **Casting Time:** 8 hours at each location  
 **Components:** Enchanter's chalk worth 50 GP and an iron key at each location.
@@ -220,6 +220,12 @@ The caster inscribes matching sigils at two fixed doorways on the same plane. Th
 
 A creature touching either sigil can use an Action to open a 2m-wide portal connecting the two locations. The portal remains open for 1 minute or until the caster dismisses it. Creatures and objects can pass through the portal in either direction. Once the portal closes, both sigils are expended.
 
+### Rimeweillian Lance Mound
+
+**Casting Time** 1 Minute
+**Components** 4 GP Prism and 1 GP Enchanter's Chalk
+
+The caster inscribes a magical circle on the ground which helps suspend the prism at head level. While standing in the middle of the circle, Bolt deliveries have a range of 60m, and the caster rolls the Strike with Weal when targeting only one creature.
 
 
 ### Spatial Warp

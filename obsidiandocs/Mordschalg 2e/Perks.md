@@ -6,7 +6,9 @@ Perks are the minute aspects and abilities that make up a mortal's social and co
 
 {R}**Acrobatic Recovery**: When you are pushed **2m**, you can let yourself be pushed 2 more as a reaction, and **regain one Stamina**. You also become **immune to Prone** until the start of your next turn.
 
-**{A} Bait and Switch** Choose a willing creature within Close (3m) of you. You and that creature exchange positions. Choose one of you; the next Strike against that creature before the start of your next turn has Woe.
+{P}**Arcane Debugging** You have Weal on Arcana Checks to find out why a magical effect isn't working as intended.
+
+{A}**Swap** Choose a willing creature within Close (3m) of you. You and that creature exchange positions. Choose one of you; the next Strike against that creature before the start of your next turn has Woe.
 
 {A}**Boring** If you manage to monologue for 2 minutes without another creature successfully interrupting, one neutral creature of your choice within 2m must make a Mental DT INS Save or fall unconscious for 10 minutes.
 
@@ -20,7 +22,7 @@ Perks are the minute aspects and abilities that make up a mortal's social and co
 
 {F}**Disarm** When you Strike a creature you can activate this Perk. The creature must succeed a MIG Save or drop one object it holds, which lands at its feet. 
 
-**{F} Distracting Strike** Once per turn when you deal at least Minor damage to a creature with a Strike, the next Strike against that creature made by another creature before the start of your next turn has Weal.
+{F}**Distracting Strike** Once per turn when you deal at least Minor damage to a creature with a Strike, the next Strike against that creature made by another creature before the start of your next turn has Weal.
 
 {F}**Duck and Cover** When you make a DEX Save, you can choose to fall Prone in order to have Weal on the Save.
 
@@ -47,6 +49,8 @@ Perks are the minute aspects and abilities that make up a mortal's social and co
 {F}**Lockdown** When a creature rolls Miss on a MIG save to avoid being grappled by you, they are Restrained.
 
 {P}**Luminous Secrets** All light you create with spells is Moonlight.
+
+{F}**Momentum** When you push a creature into a wall, the creature takes damage equal to 1d4 x the distance of the push .(not the total distance travelled)
 
 {P}**Mystic Eye** Choose a sense you have such as Darkvision, Thermal, or Veilsight. Distance at which you can use that sense is doubled.
 
@@ -98,25 +102,23 @@ The effect ends early if you Strike a different enemy, cast a spell against a di
 
 {P}**Hands of the Dead** When you focus on a line of **Wither**, you can cause writhing, grasping hands to hold those who move on the line. Creatures must succeed Mental DC MIG saves or become Grappled. 
 
-**{A} Hurl** When you have a creature Grappled, you can attempt to throw it. The creature must be no more than one size larger than you and must make a Physical DT Might Save. On a failure, you throw it up to Close (3m) into an unoccupied space you can see, and it falls Prone.
-
-If the thrown creature collides with another creature before landing, both creatures suffer a 1d6 Blunt Strike and fall Prone. If it collides with a solid obstacle, the thrown creature suffers a 1d6 Blunt Strike and falls Prone. On a successful Save, the Grappled condition ends and the creature is not thrown.
+**{A} Hurl** When you have a creature Grappled, you can attempt to throw it. The creature must be no more than one size larger than you and must make a Physical DT Might Save. On a failure, you throw it up to Close (3m) into an unoccupied space you can see, and it falls Prone. On a successful Save, the Grappled condition ends and the creature is not thrown.
 
 {P}**Intensifier** The damage dice of spells you focus on increases by 1 (maximum d12) for every round you focus on them.
 
 {A}**Just The Thing** As an action you can procure an item from your person which you just remembered you packed. You expend one strain for every Silver the item costs.
 
-**{AA} Power Shot** Creatures within a 1m-wide straight line extending up to your weapon's normal range are hit with a Strike using a weapon you hold. The Strike only deals damage equal to the die rolled + your Ability Modifier with no other bonuses or dice.
+{AA}**Power Shot** Creatures within a 1m-wide straight line extending up to your weapon's normal range are hit with a Strike using a weapon you hold. The Strike only deals damage equal to the die rolled + your Ability Modifier with no other bonuses or dice.
 
 {R}**Reactive Warping** As a reaction to a projectile, you can cast the spell **Door**. One of the portals must be adjacent to you.
 
-**{A} Read the Signs** Spend one minute observing your surroundings, reflecting on the available evidence, or consulting appropriate tools. Choose a specific course of action you could take within the next hour. The GM tells you whether the likely outcome would bring Weal, Woe, or both.
+{A}**Read the Signs** Spend one minute observing your surroundings, reflecting on the available evidence, or consulting appropriate tools. Choose a specific course of action you could take within the next hour. The GM tells you whether the likely outcome would bring Weal, Woe, or both.
 
 This reveals only the general tendency of the outcome, not how events will unfold or what specific consequences will occur. You can use this perk once per Moderate Rest.
 
 (PRE:3){A}**Smooth Talker** Target one creature who can hear or see you, that creature must succeed a Mental DT PRE Save or be Charmed by you for 10 minutes or until you or an ally attacks the creature.
 
-**{A} Stealth Tactics** Spend an Action guiding up to five willing creatures within Close (3m) through a concealed route. For the next minute, you and those creatures have Weal on Stealth Checks and leave no obvious tracks or other traces of your passage, provided you remain together and travel cautiously.
+{A}**Stealth Tactics** Spend an Action guiding up to five willing creatures within Close (3m) through a concealed route. For the next minute, you and those creatures have Weal on Stealth Checks and leave no obvious tracks or other traces of your passage, provided you remain together and travel cautiously.
 
 {F}**Suggestion** When you Charm one creature with the Charm spell, you can suggest a basic course of action that will not cause immediate harm to another creature, nor does it go directly against the creature's ideals. For the next hour, the creature tries its best to complete said activity 
 
@@ -124,7 +126,7 @@ This reveals only the general tendency of the outcome, not how events will unfol
 
 {A}**Take it and Leave it** When you deal Vitality damage with Piercing or Slashing, you can leave the weapon in the enemy. While the weapon is lodged, the target subtracts the weapon's damage die from all Strikes and Checks they make. A creature can remove the weapon with an action, taking the weapon's damage die as they remove it. This feature requires expending 3 Strain.
 
-**{AA} Whirlwind Strike** Make a melee Strike against all creatures within your range. The Strike only deals damage equal to the die rolled + your Ability Modifier with no other bonuses or dice.
+{AA}**Whirlwind Strike** Make a melee Strike against all creatures within your range. The Strike only deals damage equal to the die rolled + your Ability Modifier with no other bonuses or dice.
 
 
 # Major
