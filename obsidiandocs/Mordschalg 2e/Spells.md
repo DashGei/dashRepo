@@ -1,5 +1,7 @@
 By default a spell deals 1d6 damage if it has a damage base, hand applies an effect to the target if it has one. You can spend more Strain to modify the area effected. The delivery describes how a spell targets. If the delivery is an Area it targets everything within that area. The damage of a spell increases by 1d6 for every 2 Strain spent, you can also choose to spend more Strain freely if you just want more damage.
 
+If a spell details an Ability Modifier, an unwilling target can succeed on a relevant save in order to negate the effect but still take the damage.
+
 A creature suffers the effects of a spell when they enter the area, or they start their turn in the area.
 
 The area of a spell must originate from a point you can see within 12m.
@@ -51,9 +53,9 @@ Distance Shorthand
 
 **Bane** *INS* Targets subtract 1d4 from Saves and Strikes for the duration.
 
-**Bolt** *Force* Targets have Woe when rolling damage for spells.
-
 **Bright** *Radiant* Targets shed light for 6m.
+
+**Cantrip** *Force* Targets have Woe when rolling damage for spells.
 
 **Charm** *Numb* *PRE* Targets are Charmed for the duration.
 
