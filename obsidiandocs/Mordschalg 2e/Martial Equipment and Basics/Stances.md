@@ -46,7 +46,7 @@
 
 *And by Sol, if you ever find yourself facing down a Drow, do not go out on their terms.*
 
-**Sadism** Dealing Major Physical damage also inflicts 1d20 Stress damage.
+**Sadism** Dealing Major Physical damage also inflicts 1d12 Stress damage.
 
 **Open Mind** {R*} When a creature you can see takes Major Mental damage, you can strike them as a reaction.
 

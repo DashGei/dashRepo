@@ -147,3 +147,12 @@ Low/medium Fantasy, Tight bounded accuracy - the party should never feel like th
 As an example, effective health only ever increases by 2x across 20 levels As an example mechanic which much of the game will be based off of, here is the system's resolution mechanic:
 
 Try to soak in all facets of this system and think about what assumptions you are making, afterwards I will show you the foundations of the health system, and we can move onto other systems after that.
+
+
+Fundamentally you misunderstand this proposal. The idea is to increase both the DTs and the bonuses, dice sizes, counts, everything simultaneously. For example if someone's PD is increased by 3 up to 6, we would then increase Dagger damage from 1d6+AGI to something like 1d12+AGI, or any similar structure which preserves that relationship. But the difference between them is if an attacker has a 1d4 bonus in the first scenario, a
+
+TO explain my point I'll describe two scenarios:
+
+no.1 An attacker has a dagger (1d6+3AGI) and the defender has a PD of 3. The attacker also has sneak attack which provides 1d4 to this strike. This bonus is a very small one, the smallest we can provide with dice outside 1d2, but even then adding anything else would inflate the damage by a very large amount.
+
+no. 2 An attacker has a dagger (1d10+5AGI) and the defender has a PD of 7. The sneak attack die is still 1d4, but we now have much more room for bonuses and they don't have such an overwhelming difference on the outcome of the strike. We could even increase the damage die from 1d4 to 1d6 if we really wanted to, and a bonus that provides the attacker with 1d4 to hit such as from a perk doesnt mean the Rogue will always hit with Major damage.

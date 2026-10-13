@@ -118,6 +118,7 @@ Distance Shorthand
 
 Some ritual spells can be cast as an action if you store them within a spell focus, this is only applicable to spells which use ruby dust (probably another, cheaper component). This lets us specify and balance.
 
+A magic circle is a 3m cube of Enchanter's chalk.
 
 
 ### Detect Thoughts
@@ -163,18 +164,18 @@ The caster spreads the mixture in a continuous line (1 SP of coal powder per met
 ### 
 
 **Casting Time:** 10 minutes  
-**Components:** One dose of deadly poison and a silver mirror shard.
+**Components:** One dose of deadly poison..
 
 At the start of the ritual the caster drinks the poison. The caster then chooses one creature they can see within 12m. The caster knows whenever the creature knowingly speaks a falsehood to them while within 6m for the next 10 minutes. The ritual does not compel the creature to speak, reveal the truth behind a falsehood, or identify statements the creature genuinely believes to be true.
 
 For 10 minutes or until the caster succeeds a DT 2 MIG save to vomit the poison, the caster takes 1d10 Vitality damage against the caster's PD which is set to 3 for the duration of the spell. 
 
-### Threshold Ward
+### Lesser Ward
 
 **Casting Time:** 30 minutes  
-**Components:** Silvered thread and salt worth 1 SP.
+**Components:** Silvered thread.
 
-The caster marks a doorway, window, or other opening no wider than 3m. The ward lasts until the next dawn. During casting, the caster may designate any number of creatures present as permitted to cross without triggering the ward. Whenever another creature crosses the marked opening, the caster receives a mental alarm. The ward does not identify the creature that triggered it.
+The caster lines an area with silvered thread (1 SP per 3m). During casting, the caster may designate any number of creatures present as permitted to cross without triggering the ward. Whenever another creature crosses the marked opening, the caster receives a startling mental alarm.
 
 ### Gri's Nail
 
@@ -197,12 +198,29 @@ The caster sets the incense, drinks the honey, and touches the remains of a crea
 
 The caster purifies up to 10L of liquid or enough food for six creatures. The ritual removes mundane dirt, contaminants, and spoilage, rendering the food or liquid safe for consumption. It does not neutralize poisons, cure diseases, remove curses, or dispel magical contamination.
 
+### Spectral Friend
+
+**Casting Time:** 1 hour  
+**Components:** A Minor iron object and 1 GP of powdered gem.
+
+The caster inlays the powdered gem into the object, which is then bestowed with a colored flame. The flame has no temperature, and can mold itself into any small manipulative device which can hold one Minor item. It will naturally float and follow the caster unless told to roam an area.
+
+A friend has 1 Vitality, a PD of 5, and 1 MIG and shares its creator's Initiative. As an Action the caster can set one friend to get to work and do one of the following:
+
+ - Inscribe a magic circle using up Enchanter's Chalk. It can write 5 1m-squares of circle per Action.
+ - Write words spoken by the caster, or continuously write a message or signature.
+ - Do a very basic task, such as press a button,  pour a drink, .
+
+Once the task is completed it either flies back to the caster or roams the area.
+
 ### Iron Guest
 
 **Casting Time:** 1 hour  
-**Components:** An iron vessel, and black thread.
+**Components:** A Major iron vessel, and black thread.
 
-The caster binds a minor spirit to the vessel, creating an invisible servant that lasts for 8 hours. The servant appears within 1m of the vessel and obeys simple commands, performing repetitive tasks such as carrying objects, fetching items, cleaning, lighting a fire, or opening unlocked doors. It can carry up to 10kg and cannot move more than 12m from the vessel. The servant cannot attack, make Checks, use tools, activate magic items, or manipulate objects held by an unwilling creature. If the vessel is broken the spirit is released.
+The caster can bind an ambient spirit, or the spirit of a dead being with less than 1 Presence in life. An unwilling Spirit makes a Mental DT Presence save to resist capture. 
+
+The servant can project itself as a magical energy within 1m of the vessel and obeys simple commands. It performs repetitive tasks such as carrying objects, fetching items, cleaning, lighting a fire, or opening unlocked doors. It can carry up to 10kg and cannot move more than 12m from the vessel. The servant cannot attack, make Checks, use tools, activate magic items, manipulate the vessel, nor objects held by an unwilling creature. If the vessel is broken the spirit is released.
 
 ### Hearth Without Smoke
 
@@ -225,7 +243,127 @@ A creature touching either sigil can use an Action to open a 2m-wide portal conn
 **Casting Time** 1 Minute
 **Components** 4 GP Prism and 1 GP Enchanter's Chalk
 
-The caster inscribes a magical circle on the ground which helps suspend the prism at head level. While standing in the middle of the circle, Bolt deliveries have a range of 60m, and the caster rolls the Strike with Weal when targeting only one creature.
+The caster inscribes a magical circle on the ground which helps suspend the prism at head level. While standing in the middle of the circle, Bolt deliveries have a range of 30m, and the caster rolls the Strike with Weal when targeting only one creature.
+
+### Beast Speech
+
+**Casting Time:** 10 minutes  
+**Components:** A beast's tongue and 1 GP of raw meat.
+
+The caster smears the meat across their tongue and consumes it. For the next hour, the caster can speak with and understand ordinary animals. Animals are not compelled to cooperate, and their ability to communicate is limited by their intelligence and experiences. They cannot describe things they could not perceive through their ordinary senses.
+
+### Animate Dead
+
+**Casting Time:** 1 hour  
+**Components:** A corpse and 5 GP of black salt and Enchanter's Chalk per corpse.
+
+The caster marks the corpse with a magic circle and binds its remains to a fragment of the caster's own vitality. The corpse rises as a Zombie under the caster's control. The caster may animate up to three Medium or smaller corpses during the ritual.
+
+The undead remain animated indefinitely, but obey the caster for 24 hours. The caster can mentally command undead created by this ritual within 30m. Undead outside this distance continue their last instruction. The caster may renew control over an undead creature by spending 10 minutes repeating the ritual on it, consuming 1 GP of black salt and Enchanter's Chalk.
+
+If control expires, the undead remains animated but no longer obeys the caster.
+
+### Revivify
+
+**Casting Time:** 1 minute  
+**Components:** Powdered diamond worth 50 GP and a drop of the caster's blood.
+
+The caster draws a circle of powdered diamond around a dead creature and performs a rite to bind its departing spirit to its remains. The ritual must begin within 1 minute of the creature's death and must be completed within 10 minutes of its death. The creature must have an intact enough body for its spirit to return.
+
+When the ritual is completed, the creature returns to life with 1 Vitality and 0 Stamina. It retains its injuries and any conditions it suffered before death. The ritual cannot restore missing body parts or return a creature that died of old age.
+
+### Cure Wounds
+
+**Casting Time:** 10 minutes  
+**Components:** Silver salt worth 5 GP, medicinal herbs, and clean bandages.
+
+The caster binds the target's wounds with the prepared materials and recites a restorative rite. The target regains all missing Stamina and 1 Vitality. This ritual cannot restore missing body parts or remove curses, diseases, poisons, or other conditions that caused the injury. A creature can benefit from Cure Wounds only once between Major Rests.
+
+### Witchlight
+
+**Casting Time:** 10 minutes  
+**Components:** Powdered gem worth 1 GP per object.
+
+The caster inlays the powdered gem into up to three small objects, each of which gains a dormant colored flame. The flame produces no heat and sheds Bright light within 6m when active.
+
+As an Action, the caster can activate or extinguish any number of prepared lights within 30m that they can see.
+
+### Glyph of Warding
+
+**Casting Time:** 1 hour  
+**Components:** Enchanter's Chalk worth 10 GP, plus any material components required by the stored spell.
+
+The caster inscribes a magical glyph on a surface or object no larger than a 1m square. As part of the ritual, the caster inscribes one spell Formula and Delivery into the glyph and pays the spell's normal Strain cost. The caster also defines a simple condition that triggers the glyph, such as a creature crossing a threshold or touching the marked object.
+
+When the condition is met, the glyph releases the stored spell, using the glyph as the point of origin for area effects or the triggering creature as the target when appropriate. All choices required by the spell must be made when the glyph is inscribed. The stored spell resolves using its normal rules, including its Duration.
+
+The glyph remains until triggered, dispelled, or destroyed. A glyph can release its stored spell only once.
+
+### Control Weather
+
+**Casting Time:** 1 hour  
+**Components:** Ash, salt, feathers and 10 GP Incense.
+
+The caster prepares a vessel containing the materials and uses it to alter the weather within a 30m radius of a point they can see within 30m. The caster may cause or end ordinary local conditions such as fog, light rain, snowfall, or wind, or adjust the intensity of existing precipitation and wind within what is natural for the region and season.
+
+The altered weather lasts for 1 hour, after which it gradually returns to its natural state. The ritual cannot create severe storms, extreme temperatures, or other conditions that would be impossible under the prevailing climate.
+
+The caster may spend additional Strain when completing the ritual. Each Strain spent increases the radius by 30m, to a maximum radius of 300m.
+
+### Greater Control Weather
+
+**Casting Time:** 24 hours  
+**Components:** Weather-appropriate materials and offerings worth 100 GP, including a vessel of stormwater and the blood of a large animal.
+
+The caster performs the ritual in the open air, altering the weather within a 3km radius of a point they can see. The caster may change the wind, precipitation, temperature, and cloud cover, creating conditions such as a heavy storm, dense fog, a blizzard, or an extended period of clear skies, provided the resulting weather is possible within the region and season.
+
+The new weather develops over the course of 1 hour and persists for 24 hours, after which it gradually returns to its natural state. The ritual cannot create a tornado, summon a lightning strike against a chosen creature, or otherwise produce an instantaneous, precisely targeted weather effect.
+
+Upon completing the ritual, the caster loses 1 Vitality. This loss cannot be prevented.
+
+### Speak with Plants
+
+**Casting Time:** 30 minutes  
+**Components:** A living root and silver water worth 1 GP.
+
+The caster buries the root in the ground and waters it with the prepared silver water. For the next hour, the caster can speak with and understand ordinary plants within 6m. Plants can communicate impressions of their surroundings and describe events they have perceived, according to their limited senses.
+
+Plants can answer questions about creatures that passed nearby, changes in the weather, disturbances in the soil, and other events they could have perceived. They cannot communicate information beyond their awareness, and the ritual does not grant the caster control over plants or allow them to move beyond their natural capabilities.
+
+### Mirror Link
+
+**Casting Time:** 1 hour  
+**Components:** Two mirrors and silver thread worth 10 GP.
+
+The caster carves a symbol into a mirror, which is then linked to any other mirror which bears the same symbol.
+
+When the caster looks into either mirror, they can choose to see the space immediately before the other mirror instead of their own reflection. The image conveys sight and sound, and the caster can observe only what would be visible from the other mirror's position. A viewer can return the mirror to its ordinary reflection and back again at any time by tapping thrice on the mirror.
+
+Deics and Cryptids can spend 5 Strain to move through the mirror. When this happens roll 1d4, on a 4 the mirror shatters after they pass through.
+
+### Far Mirror
+
+**Casting Time:** 1 hour  
+**Components:** A polished mirror of obsidian, and powdered onyx worth 500 GP.
+
+The caster performs the ritual before the mirror, describing a specific location on the same plane. The mirror displays the chosen location as though the caster were looking from a point within it. The description must be sufficient to distinguish the location from other places; a vague description or a location that does not exist produces no image.
+
+The mirror conveys sight and sound, and the caster cannot follow a creature beyond the visible area or see through a barrier that would prevent the chosen viewpoint from seeing into the space. The caster can end the vision at any time.
+
+Around the viewport in the viewed space,, the temperature drops by 20 degrees F almost immediately.
+
+
+
+
+
+
+### Beast Speech
+
+
+### Dueling spell similar to Gandalf v Saruman on the mountain
+
+
+
 
 
 ### Spatial Warp

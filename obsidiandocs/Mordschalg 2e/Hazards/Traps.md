@@ -1,4 +1,4 @@
-- Spike Trap. On a failed save, the creature takes piercing damage equal to a number of d6 equal to your proficiency bonus and its speed is halved until the end of its next turn.
+- Spike Trap. On a failed save, the creature takes 2d6 piercing damage and its speed is halved until the end of its next turn.
 
 - Blinding Trap. On a failed save, the creature is blinded until the end of its next turn.
 

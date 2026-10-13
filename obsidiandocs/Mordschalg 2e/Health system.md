@@ -61,7 +61,7 @@ Stamina represents dodging, parrying, rolling, twisting away, minor scrapes, and
 
 A creature who is unaware of a threat, or entirely unable to defend themselves cannot use Stamina, and the damage goes straight to Vitality.
 
-A PC gains one Stamina when they end their turn
+A creature regains one Stamina per minute out of combat.
 
 A normal mortal has 7 Stamina. 
 
@@ -83,12 +83,12 @@ For every point of Vitality you are missing, a creature has a -1 to their speed 
 
 ### Damage Types
 
-| Name     | Examples                           |
-| -------- | ---------------------------------- |
-| Concuss* | Head trauma                        |
-| Pain     | Persistent wounds                  |
-| Numb     | Psychic assaults, the unfathomable |
-| Stress   | Extreme circumstances, fatigue     |
+| Name    | Examples                           |
+| ------- | ---------------------------------- |
+| Concuss | Explosions                         |
+| Pain    | Persistent wounds                  |
+| Numb    | Psychic assaults, the unfathomable |
+| Stress  | Extreme circumstances, fatigue     |
 
 ### Health Bar
 

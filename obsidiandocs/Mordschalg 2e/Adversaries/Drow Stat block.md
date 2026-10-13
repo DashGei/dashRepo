@@ -1,44 +1,52 @@
-Medium Mortal, Neutral Evil
+# Arani Footsoldier
 
-| 6   | 9   | 12  |
-| --- | --- | --- |
+Medium Mortal · Arani
+
+A common Arani soldier trained to use sudden violence and supernatural terror to break an opponent's composure.
+
+PD
+
+| PD  | MD  |
+| --- | --- |
+| 4   | 3   |
+| 8   | 6   |
+| 12  | 9   |
+
+
+Speed
+
+6 m
+
+Strain
+
+5
+
 Body
 
-| V   | V   | A   | S   | S   | S   | S   | S   |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     | H   |     |     |     | X   | X   |
+|   |   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|---|
+|V|V|V|S|S|S|S|S|
+|□|□|□|□|□|□|□|□|
 
-Mind
+Mind · 6 Mental Health
 
-| P   | P   | P   | P   | P   | P   | P   |
-| --- | --- | --- | --- | --- | --- | --- |
-|     |     |     |     |     |     |     |
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+|P|P|P|P|P|P|
+|□|□|□|□|□|□|
 
-Speed 6m
+Ability Modifiers
 
-| Mod | Val |
-| --- | --- |
-| STR | +3  |
-| DEX | +1  |
-| INT | 0   |
-| WIS | 0   |
-| CHA | 0   |
-#### Equipment
+|Might|Agility|Understanding|Instinct|Presence|
+|---|---|---|---|---|
+|+2|+2|+0|+0|+1|
 
-Longbow 1d8+1 - 250 feet
+### Actions
 
-Longsword 1d8+3
+Arani Blade. Strike (1d8). Strike an adjacent creature.
 
-Languages Common, Elvish
+Sting (2 Strain). Strike (1d8). On Minor damage or better, the target must succeed on a DT 3 Might Save or become Poisoned.
 
-CR 3 (XP 700; PB +2)
+### Traits
 
-#### Actions
-
-**_Attack_** Make an attack.
-
-***Sting*** Make an attack, that creature becomes poisoned until
-
-#### Reactions
-
-_**Parry.** Trigger:_ .
+Dread Venom. Whenever a creature would become Poisoned by this Arani, it becomes Frightened of this Arani instead. The effect lasts until the end of the target's next turn.

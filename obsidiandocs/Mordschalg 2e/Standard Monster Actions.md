@@ -13,6 +13,7 @@ Topple - Make an attack, that creature falls prone.
 Expose - Make an attack, all allied attacks against that creature have advantage until the start of their turn.
 
 Nimble - Take the Disengage action as one action.
+
 ## Traits
 
 Venomous Predator -  a Poisoned creature makes a DC X save or becomes Paralyzed on the end of their next turn until the Poisoned condition is removed.

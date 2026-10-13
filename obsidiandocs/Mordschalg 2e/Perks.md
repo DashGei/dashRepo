@@ -22,7 +22,7 @@ Perks are the minute aspects and abilities that make up a mortal's social and co
 
 {F}**Disarm** When you Strike a creature you can activate this Perk. The creature must succeed a MIG Save or drop one object it holds, which lands at its feet. 
 
-{F}**Distracting Strike** Once per turn when you deal at least Minor damage to a creature with a Strike, the next Strike against that creature made by another creature before the start of your next turn has Weal.
+{F}**Distracting Strike** Once per turn when you deal Moderate damage to a creature with a Strike, the next Strike against that creature made by another creature before the start of your next turn has Weal.
 
 {F}**Duck and Cover** When you make a DEX Save, you can choose to fall Prone in order to have Weal on the Save.
 
@@ -44,7 +44,7 @@ Perks are the minute aspects and abilities that make up a mortal's social and co
 
 {P}**Heliomancy** All light you create with spells is Daylight.
 
-**{R} Interception** When a creature within 1m of you is targeted by a physical Strike, you can use your Reaction to interpose yourself. You become the target of the Strike instead. Resolve the Strike against your Physical Defense rather than the original target's.
+{R}**Interception** When a creature within 1m of you is targeted by a physical Strike, you can use your Reaction to interpose yourself. You become the target of the Strike instead. Resolve the Strike against your Physical Defense rather than the original target's.
 
 {F}**Lockdown** When a creature rolls Miss on a MIG save to avoid being grappled by you, they are Restrained.
 
@@ -64,7 +64,7 @@ Perks are the minute aspects and abilities that make up a mortal's social and co
 
 {P}**Quiet Meditations** You regain 1 Mental HP when taking a rest if you choose to spend your Rest Action to meditate.
 
-{P}**Ritual Master** You use half the enchanter's chalk when conducting rituals.
+{P}**Ritual Master** You use half the Enchanter's chalk when conducting rituals.
 
 {F}**Ricochet** Strike a creature. This Strike ignores cover as long as there is one surface to bounce off. You use the total distance traveled to and between bounced surfaces when determining range.
 Taking this perk more than once adds one additional bounce.
@@ -82,15 +82,16 @@ Taking this perk more than once adds one additional bounce.
 
 # Moderate
 
-**{F} Blinding Strike** Once per turn when you deal Moderate or Major physical damage with a melee Strike, you can force the target to make a Physical DT Might Save. On a failure, the target becomes Blind until the start of your next turn.
+{F}**Blinding Strike** Once per turn when you deal Moderate or Major physical damage with a melee Strike, you can force the target to make a Physical DT Might Save. On a failure, the target becomes Blind until the start of your next turn.
 
-**{A} Compelled Duel** Choose a creature you can see within Near (6m). The target makes a Mental DT Instinct Save. On a failure, until the end of your next turn, it has Woe on Strikes against creatures other than you and cannot willingly move to a position more than Far (12m) from you.
-
+{A}**Compelled Duel** Choose a creature you can see within Near (6m). The target makes a Mental DT Instinct Save. On a failure, until the end of your next turn, it has Woe on Strikes against creatures other than you and cannot willingly move to a position more than Far (12m) from you.
 The effect ends early if you Strike a different enemy, cast a spell against a different enemy, an ally damages the target, or you end your turn more than Far from the target.
 
 {AA} **Constrict** You can take the Choke action on all creatures Restrained by your Entangled spell.
 
 (Overlord){AA} **Cover Fire** As two actions, you focus your attention in a 6m cone or 14m-long, 3m-wide line Infront of you. When a enemy creature Strikes or moves within the cone you can reaction Strike that creature. Creatures do not provoke this reaction if they choose to make Strikes with woe or treat the cone as difficult terrain. The area of the cover fire moves with you and you can change its direction at the beginning of your turn.
+
+{P}**Critical** Whenever you Strike a creature, you roll a d12 alongside the damage. The d12 is not a part of the damage, but if a 12 is rolled then the Strike's damage is Maximized.
 
 {A}**Deduce** When you make an Investigation Check on something that has already happened, History check, or when you're hearing a story told to you by another creature. You can activate this perk and DM gives you a third person playback of what you have learned as if you were a fly on the wall. If it was a Check, you add 1d6 to your roll and the scene gives you appropriate information for the new roll as determined by the DM.
 

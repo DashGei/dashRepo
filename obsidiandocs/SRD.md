@@ -172,8 +172,6 @@ Nothing can rise above Major or fall below Miss.
 
 Weal/Woe is preferred over accumulating many small situational modifiers whenever the circumstance represents a meaningful advantage or disadvantage.
 
----
-
 # 4. Training
 
 Training is an additional bonus applied to qualifying Threshold Tests.
@@ -258,14 +256,7 @@ The defender rolls:
 
 against a DT determined by the effect.
 
-The DT can be established by:
-
-- the attacker;
-    
-- the spell or feature;
-    
-- the GM.
-    
+The DT is generally the attacker's relevant Ability Modifier.
 
 Most Saves are Binary:
 
@@ -277,8 +268,6 @@ Most Saves are Binary:
 |Major|Success|
 
 Different effects can call for different abilities or defenses.
-
----
 
 # 7. Strikes
 
@@ -300,9 +289,7 @@ The relevant Defense may be:
 - Physical Defense (PD)
     
 - Mental Defense (MD)
-    
-- Spiritual Defense (SD)
-    
+
 
 ## Stamina Override
 
@@ -366,13 +353,34 @@ A creature normally begins its turn with:
 - **2 Actions**
     
 - **1 Reaction**
-    
 
 The Action economy is intended to be simple and compact.
 
 Reactions are a major source of tactical interaction and allow creatures to respond to movement, attacks, positioning, and other events.
 
 ---
+
+# Ability scores
+
+### Might (MIG)
+
+Might represents **physical power, bodily resilience, and sustained exertion**. It governs what a character can accomplish through strength, conditioning, and the ability to endure physically demanding circumstances.
+
+### Agility (AGI)
+
+Agility represents **physical precision, coordination, and rapid bodily control**. It governs careful movement, balance, manual Agility, stealth, and quick physical reactions.
+
+### Instinct (INS)
+
+Instinct represents **immediate perception, intuition, and awareness of living situations**. It governs noticing what is happening, sensing danger, reading people, and reacting based on experience without needing to consciously reason everything out.
+
+### Presence (PRE)
+
+Presence represents **social force and the ability to affect other people**. It governs convincing, deceiving, intimidating, entertaining, inspiring, and otherwise shaping how others respond to the character.
+
+### Understanding (UND)
+
+Understanding represents **knowledge, comprehension, and deliberate reasoning**. It governs recalling information, interpreting evidence, understanding systems, applying learned knowledge, and figuring out why something is happening.
 
 # 10. Distance
 
@@ -1034,15 +1042,6 @@ Conditions are intentionally compact and generally modify the existing resolutio
 - Speed = 0.
     
 
-## Drunk
-
-- Resistance to Pain and Stress.
-    
-- Poisoned.
-    
-- Woe on Dexterity Saves.
-    
-
 ## Exhausted
 
 - -1 to all rolls and Speed per level.
@@ -1065,7 +1064,7 @@ Conditions are intentionally compact and generally modify the existing resolutio
     
 - Cannot take Actions or Reactions.
     
-- Automatically fails Might and Dexterity Checks.
+- Automatically fails Might and Agility Checks.
     
 - Strikes against it have Weal.
     
@@ -1155,28 +1154,28 @@ Mordschlag uses a 20-level progression.
 
 The current general progression template is:
 
-|Level|Boon Features|Class Features|
-|---|---|---|
-|1|Stance / 4 Spells|Core Class Feature|
-|2|Moderate Perk|Secondary Feature|
-|3|Major Perk|—|
-|4|Stance / New Spell|—|
-|5|Minor Perk|Core Upgrade|
-|6|+1 Stamina|Secondary Upgrade|
-|7|Major Perk|—|
-|8|Stance / New Spell|—|
-|9|Moderate Perk|—|
-|10|+1 Flesh|Core Upgrade|
-|11|Minor Perk|Secondary Upgrade|
-|12|Stance / New Spell|—|
-|13|Major Perk|—|
-|14|+1 Stamina|Core Upgrade|
-|15|Minor Perk|Secondary Upgrade|
-|16|Stance / New Spell|—|
-|17|Moderate Perk|Core Upgrade|
-|18|+1 Stamina|—|
-|19|Major Perk|—|
-|20|Stance / New Spell|Capstone|
+| Level | Boon Features      | Class Features     |
+| ----- | ------------------ | ------------------ |
+| 1     | Stance / 4 Spells  | Core Class Feature |
+| 2     | Moderate Perk      | Secondary Feature  |
+| 3     | Major Perk         | —                  |
+| 4     | Stance / New Spell | —                  |
+| 5     | Minor Perk         | Core Upgrade       |
+| 6     | +1 Stamina         | Secondary Upgrade  |
+| 7     | Major Perk         | —                  |
+| 8     | Stance / New Spell | —                  |
+| 9     | Moderate Perk      | —                  |
+| 10    | +1 Flesh           | Core Upgrade       |
+| 11    | Minor Perk         | Secondary Upgrade  |
+| 12    | Stance / New Spell | —                  |
+| 13    | Major Perk         | —                  |
+| 14    | +1 Stamina         | Core Upgrade       |
+| 15    | Minor Perk         | Secondary Upgrade  |
+| 16    | Stance / New Spell | —                  |
+| 17    | Moderate Perk      | Core Upgrade       |
+| 18    | +1 Stamina         | —                  |
+| 19    | Major Perk         | —                  |
+| 20    | Stance / New Spell | Capstone           |
 
 The exact placement of individual class features may change.
 
@@ -1233,7 +1232,7 @@ The current progression gives:
 - Level 9
     
 - Level 17
-    
+
 
 ### Minor Perks
 
@@ -1242,9 +1241,8 @@ The current progression gives:
 - Level 11
     
 - Level 15
-    
 
-The tiers should describe **scope and interaction**, not simply numerical magnitude.
+might have to be more common.
 
 ## Minor
 
@@ -1327,7 +1325,7 @@ The intended perk metadata system currently uses several categories.
 - [Moderate]
     
 - [Major]
-    
+
 
 ## Access
 
@@ -1385,7 +1383,7 @@ Current conceptual prerequisites include:
 - [Stance: X]
     
 - [Perk]
-    
+
 
 Additional tags such as [Weapon: X] or [Spell: X] have been proposed but are not yet formally locked.
 
@@ -1518,11 +1516,9 @@ Examples:
 - Gale Matrix modifies Gale.
     
 - Reactive Warping interacts with Door.
-    
+
 
 Spell-specific prerequisites may eventually become a standard mechanism.
-
----
 
 # 36. Tactical Design Priorities
 
@@ -1566,9 +1562,6 @@ Mordschlag uses a small number of major resources:
 - Vitality
     
 - Mental Health
-    
-- Spiritual Health
-    
 
 ### Limited-use resources
 
@@ -1680,12 +1673,11 @@ An LLM generating Mordschlag content should treat the following as **open design
 
 ## Defenses
 
-- Baseline mortal PD currently starts at **2 + DEX**.
+- Baseline mortal PD currently starts at **2 + AGI**.
     
-- MD and SD values are not finalized.
+- MD values are not finalized.
     
 - Defense scaling across levels is not finalized.
-    
 
 ## Rest Recovery
 
