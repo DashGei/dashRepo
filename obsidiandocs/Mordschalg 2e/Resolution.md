@@ -156,3 +156,216 @@ TO explain my point I'll describe two scenarios:
 no.1 An attacker has a dagger (1d6+3AGI) and the defender has a PD of 3. The attacker also has sneak attack which provides 1d4 to this strike. This bonus is a very small one, the smallest we can provide with dice outside 1d2, but even then adding anything else would inflate the damage by a very large amount.
 
 no. 2 An attacker has a dagger (1d10+5AGI) and the defender has a PD of 7. The sneak attack die is still 1d4, but we now have much more room for bonuses and they don't have such an overwhelming difference on the outcome of the strike. We could even increase the damage die from 1d4 to 1d6 if we really wanted to, and a bonus that provides the attacker with 1d4 to hit such as from a perk doesnt mean the Rogue will always hit with Major damage.
+
+
+
+
+
+# Core Resolution
+
+Whenever a creature attempts something with an uncertain outcome, you run a Threshold Test to determine the outcome. There are three main Threshold Tests, (Saves, Checks, and Damage) and they always follow this formula:
+
+ 1. **Roll your dice**. This is always 2d12 if you are making a Save or a Check, or you roll your Damage dice. Regardless, you want the highest roll.
+
+ 2. **Add bonuses**. Almost every Threshold Test will let you add one of your Ability Modifiers, Training, or some other bonus.
+
+ 3. **Compare with the Difficulty Total (DT)**. Rolling a number under the DT means you rolled Miss, rolling equal or higher than the DT means you rolled Minor, rolling equal to or higher than the DT x 2 means you rolled Moderate, and rolling equal to or higher than the DT x 3 means you rolled Major. 
+
+| Degree       | Required Roll | Meaning                                           |
+| ------------ | ------------- | ------------------------------------------------- |
+| **Miss**     | Total < DT    | Failure, no effect                                |
+| **Minor**    | Total ≥ DT    | Success at a cost, glancing blow, partial failure |
+| **Moderate** | Total ≥ 2× DT | Clean success, solid swing                        |
+| **Major**    | Total ≥ 3× DT | Exceptional success, devastating blow             |
+For damage, use the target’s **Physical Defense (PD)** or **Mental Defense (MD)**  in place of the DT.
+
+### Weal and Woe
+
+Sometimes a feature or circumstance will apply Weal or Woe to one of your Threshold Tests.
+
+**Weal** represents positive circumstances surrounding your roll, and it shifts the degree up by one: Miss → Minor → Moderate → Major.  
+
+**Woe** represents negative circumstances surrounding your roll, and it shifts the degree down by one: Major → Moderate→ Minor → Miss.
+
+Weal and Woe cancel each other one-for-one. They never stack, and nothing can rise above Major or fall below Miss.
+
+### Training
+
+Sometimes when you make a Threshold Test, you add your Training bonus to the roll's result. This is either determined by what features you have chosen as part of your class or background, or if the GM decides that you have experience with the action you are taking.
+
+If you are **Trained**, you add +2 to the total.
+
+If you are an **Expert**, you add +6 to the total.
+
+## Ability Checks
+
+When a creature takes an action interacting with the world, and the result of that action is unsure, the GM will call for a Ability Check, or Check.
+
+When a creature makes a Check, they roll **2d12**, and then add a relevant ability modifier as well as training.
+Before making a Check, a player may also describe one way in which they are using the world around them to aid their roll, adding 1d6 to the total.
+
+There are two types of Checks, **Binary**, and **Graded**
+
+In a **Binary** Check, rolling Moderate or Major succeeds, whereas rolling Miss or Minor fails.
+In a **Graded** Check, your degree of success effects what kind of result you get more directly. Rolling a Miss fails. Minor fails, or succeeds with a complication. Moderate succeeds cleanly, and rolling Major succeeds exceptionally.
+
+Typical DTs:
+
+| DT  | Difficulty |
+| --- | ---------- |
+| 3   | Trivial    |
+| 5   | Easy       |
+| 7   | Standard   |
+| 10  | Hard       |
+| 12  | Very Hard  |
+| 14  | Heroic     |
+## Saving Throws
+
+The defender rolls **2d12 + relevant stat** against the DT, which is determined by the attacker's Physical or Mental modifier.
+
+The DT of an effect is either determined by the GM, or the attacker's relevant ability score. Almost every saving throw is Binary, so depending on your roll you will either succeed or fail.
+
+| Degree       | Outcome |
+| ------------ | ------- |
+| **Miss**     | Failure |
+| **Minor**    | Failure |
+| **Moderate** | Success |
+| **Major**    | Success |
+## Damage
+
+Roll damage and compare the total to the target’s relevant Defense.
+
+| Result       | Damage Category | Points Applied |
+| ------------ | --------------- | -------------- |
+| Total < D    | Miss            | 0 HP           |
+| Total ≥ D    | Minor           | 1 HP           |
+| Total ≥ 2× D | Moderate        | 2 HP           |
+| Total ≥ 3× D | Major           | 3 HP           |
+Apply damage to the appropriate pool. Physical damage goes **Stamina → Flesh → Vitality**. Mental and Spiritual damage go to their own tracks.
+
+### Opposed Checks
+
+When two creatures oppose each other, both roll **2d12 + bonuses**. The higher total wins. If creatures tie then creatures roll again.
+
+
+## Test Modifiers
+
+### Weal
+
+When rolling with Weal you increase the tests outcome by one step to a maximum of Major
+
+### Woe
+
+When rolling with Woe you decrease the tests outcome by one step to a minimum of Miss
+
+### Gate
+
+A Gate modifier can either be Moderate or Major, and it means you must roll at least that high to have an effect.
+
+### Resistance
+
+A Resistance modifier can either be Minor or Moderate, and it means all rolls above that degree are set to that degree.
+
+### Vulnerability
+
+A Vulnerability modifier can be either Moderate or Major, and it means all rolls below that degree are set to that degree.
+
+
+
+
+
+
+
+# Core Resolution
+
+Whenever a creature attempts something with an uncertain outcome, it makes a **Threshold Test**. There are three main types of Threshold Test: **Checks, Saves, and Damage**. They all use the same degrees of success.
+
+1. **Roll your dice.** For a Check or Save, roll `2d10` and add the results together. For Damage, roll the relevant Damage dice and add their results together.
+    
+2. **Add bonuses.** Add the relevant Ability Modifier, Training, and any other applicable bonuses.
+    
+3. **Compare the total with the Difficulty Total (DT).** A total below the DT is a Miss. Meeting the DT is a Minor; meeting twice the DT is a Moderate; meeting three times the DT is a Major.
+
+|Degree|Required Total|Meaning|
+|---|---|---|
+|**Miss**|Total < DT|Failure, no effect|
+|**Minor**|Total ≥ DT|Success at a cost, glancing blow, or partial result|
+|**Moderate**|Total ≥ 2 × DT|Clean success or solid hit|
+|**Major**|Total ≥ 3 × DT|Exceptional success or devastating hit|
+
+For attacks, use the target’s **Physical Defense (PD), Mental Defense (MD), or Spiritual Defense (SD)** in place of the DT.
+
+## Weal and Woe
+
+Sometimes a feature or circumstance grants Weal or imposes Woe on a Threshold Test.
+
+**Weal** represents favorable circumstances and shifts the degree of success up by one step: Miss → Minor → Moderate → Major.
+
+**Woe** represents unfavorable circumstances and shifts the degree of success down by one step: Major → Moderate → Minor → Miss.
+
+Weal and Woe cancel each other one-for-one. They never stack, and a result cannot rise above Major or fall below Miss.
+
+## Training
+
+Some Threshold Tests let you add your Training bonus to the total. Training comes from features granted by your class or background, or from the GM determining that you have relevant experience with the action.
+
+- **Trained:** Add +2.
+    
+- **Expert:** Add +4.
+
+## Ability Checks
+
+When a creature takes an action that interacts with the world and the outcome is uncertain, the GM may call for an **Ability Check**, or **Check**.
+
+When making a Check, roll 2d12, add the results together, and then add the relevant Ability Modifier and Training.
+
+Before making a Check, a player may describe one way they use their surroundings to help with the task. If the GM agrees that the approach is useful, the player adds 1d8 to the total. 
+
+There are two types of Checks: **Binary** and **Graded**.
+
+In a **Binary Check**, a Moderate or Major succeeds, while a Miss or Minor fails.
+
+In a **Graded Check**, the degree determines the outcome more directly. A Miss fails; a Minor fails or succeeds with a complication; a Moderate succeeds cleanly; and a Major succeeds exceptionally.
+
+### Typical DTs
+
+| DT  | Difficulty |
+| --- | ---------- |
+| 3   | Trivial    |
+| 5   | Easy       |
+| 7   | Standard   |
+| 10  | Hard       |
+| 12  | Very Hard  |
+| 14  | Heroic     |
+
+## Saving Throws
+
+When resisting an effect, the defender rolls `2d10`, adds the results together, and then adds the relevant Ability Modifier and Training.
+
+The effect's DT is determined by the GM or by the attacker's relevant Ability Modifier.
+
+Almost every Save is Binary: a Moderate or Major succeeds, while a Miss or Minor fails.
+
+|Degree|Outcome|
+|---|---|
+|**Miss**|Failure|
+|**Minor**|Failure|
+|**Moderate**|Success|
+|**Major**|Success|
+
+## Damage
+
+Roll the relevant Damage dice, add their results together, and apply any appropriate Ability Modifier or other bonuses. Compare the final total to the target's relevant Defense.
+
+|Result|Damage Category|Points Applied|
+|---|---|---|
+|Total < D|Miss|0 HP|
+|Total ≥ D|Minor|1 HP|
+|Total ≥ 2 × D|Moderate|2 HP|
+|Total ≥ 3 × D|Major|3 HP|
+
+Apply Damage to the appropriate pool. Physical Damage goes **Stamina → Flesh → Vitality**. Mental and Spiritual Damage go to their own tracks.
+
+## Opposed Checks
+
+When two creatures directly oppose each other, both roll `2d10`, add the results together, and add their applicable bonuses. The higher total wins. If the totals tie, both creatures roll again.

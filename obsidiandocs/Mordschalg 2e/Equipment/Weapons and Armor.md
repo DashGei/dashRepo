@@ -39,16 +39,15 @@
 | Warhammer                | 1d8 (B)       | Versatile (d12)                | Ma.    | 15 GP  | 2           |
 | Whip                     | 1d4 (S)       | Finesse                        | Ma.    | 2 GP   | 3           |
 | _Martial Ranged Weapons_ |               |                                |        |        |             |
-| Blowgun                  | 1             | Finesse                        | Mo.    | 10 GP  | 5/20        |
-| Hand Crossbow            | 1d6           | Finesse, Light, Hunker         | Mo.    | 75 GP  | 6/24        |
-| Crossbow                 | 1d10          | Heavy, Two-Handed, Hunker      | Ma.    | 50 GP  | 40/80       |
-| Longbow                  | 1d10          | Heavy, Two-Handed              | Ma.    | 50 GP  | 30/120      |
+| Blowgun                  | 1 (P)         | Finesse                        | Mo.    | 10 GP  | 5/20        |
+| Hand Crossbow            | 1d6 (P)       | Finesse, Light, Hunker         | Mo.    | 75 GP  | 6/24        |
+| Crossbow                 | 1d10 (P)      | Heavy, Two-Handed, Hunker      | Ma.    | 50 GP  | 40/80       |
+| Longbow                  | 1d10 (P)      | Heavy, Two-Handed              | Ma.    | 50 GP  | 30/120      |
 | Pistol                   | 2d6 (P)       | Ammunition, Finesse, Matchlock | Mo.    | 80 GP  | 10/20       |
 
-| Name         | Base PD | Weight | Cost | AGI |
-| ------------ | ------- | ------ | ---- | --- |
-| No Armor     | 1       | Ma.    |      | All |
-| Light Armor  | 2       | Ma.    |      | 2   |
-| Medium Armor | 3       | Ma.    |      | 1   |
-| Heavy Armor  | 4       | Ma.    |      | 0   |
-1d8+4
+| Name         | Base PD | Max AGI Bonus |
+| ------------ | ------- | ------------- |
+| No Armor     | 0       | All           |
+| Light Armor  | 1       | 6             |
+| Medium Armor | 4       | 3             |
+| Heavy Armor  | 8       | No addition   |

@@ -138,7 +138,9 @@ This reveals only the general tendency of the outcome, not how events will unfol
 
 {CLE} {DRU} {SOR} {WIZ}
 
-Choose a spell that does damage, all other spells you know currently and from now on only do the chosen spell's damage type, but targets also suffer the effects of that spell.
+Choose a spell that does damage, that spell ignores enemy Resistances and requires 1 less mana when casting
+
+all other spells you know currently and from now on only do the chosen spell's damage type, but targets also suffer the effects of that spell.
 
 ### A
 

@@ -142,6 +142,13 @@ The effect lasts for a number of months equal to the caster's level.
 
 A caster can complete this ritual by taking an hour, engraving an arcane tattoo into a part of their body. After the ritual, the caster can sheath or draw a weapon with the sigil as a free action, storing it in a pocket dimension.
 
+### Orcish Tattoo
+
+**Casting Time:** 1 hour 
+**Components:** 10 GP of gold
+
+The caster tattoos the gold into a creature of their choice. After which that creature can expend one Strain, causing daylight to spill out of the tattoo and brighten a 6m radius around them until they choose to turn it off.
+
 ### Lightning Rod
 
 A caster can inlay 3GP liquid copper into any stick/rod/handle of any material. Afterwards under an open sky the caster can use an Action and 3 Strain causing lighting to leap onto the stick and explode. Creatures within 2m of the rod make a Mental DT DEX Save taking 3d6 Lighting damage on a failed save and half that on a success. If the rod is destroyed as part of the Action the spell deals 3d8 damage.

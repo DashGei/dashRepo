@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mordschalg 2e/Perks.md",
+                "file": "Mordschalg 2e/Resolution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Perks"
+              "title": "Resolution"
             }
           }
         ]
@@ -87,16 +87,26 @@
     "type": "split",
     "children": [
       {
-        "id": "86c4878a7e3d73c7",
+        "id": "3601e0aae79ae254",
         "type": "tabs",
         "children": [
           {
-            "id": "c4f4a344431ca614",
+            "id": "997c506fca2c1f72",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "93250b1a356b409a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mordschalg 2e/Perks.md",
+                "file": "Mordschalg 2e/Resolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,21 +120,21 @@
             }
           },
           {
-            "id": "4409924f490b70fc",
+            "id": "f0ee0075bab2d960",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deities, Favor, and Religion.md",
+                "file": "Mordschalg 2e/Resolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Deities, Favor, and Religion"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "37a6274cd8879f02",
+            "id": "e52b1c21378df1df",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -139,7 +149,7 @@
             }
           },
           {
-            "id": "5042b5cd69617f82",
+            "id": "1fd3061c03253851",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -153,25 +163,25 @@
             }
           },
           {
-            "id": "0cd5cd5b7e22a818",
+            "id": "34e748c6782c349b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deities, Favor, and Religion.md",
+                "file": "Mordschalg 2e/Resolution.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Deities, Favor, and Religion"
+              "title": "Outline"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 1016.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -183,61 +193,50 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
   "active": "d40cf7b5a7a944be",
   "lastOpenFiles": [
-<<<<<<< HEAD
-=======
-    "Mordschalg 2e/Spells.md",
-    "Mordschalg 2e/Perks.md",
-    "Mordschalg 2e/Races.md",
-    "Mordschalg 2e/stats.md",
-    "Mordschalg 2e/Rest.md",
-    "Mordschalg 2e/Classes/The Sorcerer.md",
-    "Mordschalg 2e/Martial Equipment and Basics/Stances.md",
-    "Mordschalg 2e/Space.md",
-    "Mordschalg 2e/Resolution.md",
->>>>>>> ed3a858a57f468b1619693eb4ee7cb87e8e077a0
-    "Mordschalg 2e/Dice.md",
-    "Mordschalg 2e/Resolution.md",
-    "Mordschalg 2e/Space.md",
-    "Mordschalg 2e/Spells.md",
     "Mordschalg 2e/Health system.md",
-    "Mordschalg 2e/Perks.md",
+    "Mordschalg 2e/Initiative.md",
+    "Mordschalg 2e/Spells.md",
+    "Mordschalg 2e/stats.md",
+    "Mordschalg 2e/Resolution.md",
+    "Mordschalg 2e/Space.md",
+    "Mordschalg 2e/Rest.md",
+    "Mordschalg 2e/Standard Monster Actions.md",
+    "Untitled.md",
+    "Threat Calculations.md",
     "SRD.md",
-    "Mordschalg 2e/Classes/The Berserker 2.0.md",
+    "Pasted image 20260722203102.png",
+    "Pasted image 20260621165511.png",
+    "Equipment.md",
+    "Exploration.md",
+    "Glossary.md",
+    "Mordschalg 2e/Hazards/Lighting.md",
+    "Mordschalg 2e/Classes/Progression Basics.md",
+    "Digit/Welcome.md",
+    "Mordschalg 2e/Hazards/Terrain Stuff.md",
+    "Mordschalg 2e/Races.md",
+    "Mordschalg 2e/network.md",
+    "Mordschalg 2e/Perks.md",
+    "Mordschalg 2e/Dice.md",
+    "Mordschalg 2e/Equipment/Weapons and Armor.md",
+    "Mordschalg 2e/Conditions.md",
     "Mordschalg 2e/Classes/The Ranger, 2.0.md",
     "Mordschalg 2e/Classes/The Ranger.md",
-    "Mordschalg 2e/Equipment/Weapons and Armor.md",
-    "Mordschalg 2e/Classes/The Berserker.md",
-    "Mordschalg 2e/Martial Equipment and Basics/Stances.md",
-    "Mordschalg 2e/network.md",
-    "Mordschalg 2e/Adversaries/Drow Stat block.md",
-    "Mordschalg 2e/Adversaries/Types.md",
-    "Mordschalg 2e/Standard Monster Actions.md",
-    "Mordschalg 2e/stats.md",
-    "Mordschalg 2e/Hazards/Traps.md",
-    "Mordschalg 2e/Rest.md",
-    "Mordschalg 2e/Classes/The Sorcerer.md",
-    "Mordschalg 2e/Races.md",
-    "Mordschalg 2e/Hazards/Lighting.md",
-    "Mordschalg 2e/Actions.md",
-    "Mordschalg 2e/Hazards/Terrain Stuff.md",
-    "Campaigns/Atlantis.md",
+    "D&D 5e 2024 Rules",
+    "Mordschalg 2e/Adversaries",
+    "Mordschalg 2e/Hostiles/Arani",
     "Da Lore",
     "Campaigns/New Frontiers",
     "Campaigns",
     "Mordschalg 2e/Untitled",
     "Mordschalg 2e/Hazards",
     "Mordschalg 2e/Equipment",
-    "Pasted image 20260722203102.png",
     "Mordschalg 2e/Martial Equipment and Basics",
-    "Mordschalg 2e/Classes",
-    "Mordschalg 2e/Adversaries",
-    "Digit/INART 258A",
-    "Pasted image 20260621165511.png",
     "southyvalm.png",
     "Pasted image 20260617173522.png",
     "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Tutorial Images/Obsidian Logo to Color PIck From.png",
