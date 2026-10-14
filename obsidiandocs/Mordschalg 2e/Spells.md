@@ -4,6 +4,9 @@ If a spell details an Ability Modifier, an unwilling target can succeed on a rel
 
 A creature suffers the effects of a spell when they enter the area, or they start their turn in the area.
 
+For very Action you choose to take before casting a spell, you can spend 2 Stamina on the spell's casting.
+
+
 The area of a spell must originate from a point you can see within 12m.
 
 | Delivery | Cost | Increase                    |

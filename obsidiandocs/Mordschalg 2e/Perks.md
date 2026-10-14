@@ -26,7 +26,7 @@ Perks are the minute aspects and abilities that make up a mortal's social and co
 
 {F}**Duck and Cover** When you make a DEX Save, you can choose to fall Prone in order to have Weal on the Save.
 
-{F}**Eriel's Furious Fireworks** When you roll Major for damage with a Bolt delivery, a 3m Cone of the same formula emanates out of the target away from you.
+{F}**Eriel's Furious Fireworks** When you roll Major for damage with a Bolt delivery, a 3m Cone of the same spell emanates out of the target away from you.
 
 {R}**Excuse Me** When an allied creature within 6m of you rolls Miss or Minor on a PRE Check, you can use your reaction to interject and hopefully save face. After making your argument or other interjection, 1d4 is added to the allies previous roll, possibly turning a failure into a success.
 
@@ -38,7 +38,7 @@ Perks are the minute aspects and abilities that make up a mortal's social and co
 
 {P}**Good Taste** When are the Cook, you add +1 to your Recreation Test for every gold spent on the food you prepare. This goes to a maximum equal to your Mental Modifier.
 
-{F}**Gravitational Anomaly** When you cast Levitate, you can instead increase the gravity of the area. Creatures take fall damage as d12, and flying creatures immediately fall. Creatures cannot jump or leave the ground while the effect is active.
+{F}**Gravitational Anomaly** When you cast Levitate, you can instead increase the gravity of the area. Targets take fall damage as d12, and flying targets immediately fall. Targets cannot jump or leave the ground while the effect is active.
 
 {P}**Handy** You become Trained with one tool or vehicle of your choice.
 

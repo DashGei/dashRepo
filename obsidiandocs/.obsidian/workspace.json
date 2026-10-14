@@ -87,26 +87,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3601e0aae79ae254",
+        "id": "86c4878a7e3d73c7",
         "type": "tabs",
         "children": [
           {
-            "id": "997c506fca2c1f72",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
-            "id": "93250b1a356b409a",
+            "id": "c4f4a344431ca614",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mordschalg 2e/Resolution.md",
+                "file": "Mordschalg 2e/Perks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,21 +110,21 @@
             }
           },
           {
-            "id": "f0ee0075bab2d960",
+            "id": "4409924f490b70fc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mordschalg 2e/Resolution.md",
+                "file": "Deities, Favor, and Religion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Deities, Favor, and Religion"
             }
           },
           {
-            "id": "e52b1c21378df1df",
+            "id": "37a6274cd8879f02",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,7 +139,7 @@
             }
           },
           {
-            "id": "1fd3061c03253851",
+            "id": "5042b5cd69617f82",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -163,25 +153,25 @@
             }
           },
           {
-            "id": "34e748c6782c349b",
+            "id": "0cd5cd5b7e22a818",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mordschalg 2e/Resolution.md",
+                "file": "Deities, Favor, and Religion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Deities, Favor, and Religion"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 1016.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -193,50 +183,49 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "d40cf7b5a7a944be",
   "lastOpenFiles": [
-    "Mordschalg 2e/Health system.md",
-    "Mordschalg 2e/Initiative.md",
     "Mordschalg 2e/Spells.md",
-    "Mordschalg 2e/stats.md",
+    "Mordschalg 2e/Perks.md",
+    "Mordschalg 2e/Hostiles/Arani/Drow Stat block.md",
+    "Mordschalg 2e/Hostiles/Arani/Arani Elite.md",
+    "Mordschalg 2e/Hostiles/Types.md",
+    "Mordschalg 2e/Hostiles/Arani",
+    "Mordschalg 2e/Hostiles",
+    "Mordschalg 2e/Dice.md",
     "Mordschalg 2e/Resolution.md",
     "Mordschalg 2e/Space.md",
-    "Mordschalg 2e/Rest.md",
-    "Mordschalg 2e/Standard Monster Actions.md",
-    "Untitled.md",
-    "Threat Calculations.md",
+    "Mordschalg 2e/Health system.md",
     "SRD.md",
-    "Pasted image 20260722203102.png",
-    "Pasted image 20260621165511.png",
-    "Equipment.md",
-    "Exploration.md",
-    "Glossary.md",
-    "Mordschalg 2e/Hazards/Lighting.md",
-    "Mordschalg 2e/Classes/Progression Basics.md",
-    "Digit/Welcome.md",
-    "Mordschalg 2e/Hazards/Terrain Stuff.md",
-    "Mordschalg 2e/Races.md",
-    "Mordschalg 2e/network.md",
-    "Mordschalg 2e/Perks.md",
-    "Mordschalg 2e/Dice.md",
-    "Mordschalg 2e/Equipment/Weapons and Armor.md",
-    "Mordschalg 2e/Conditions.md",
+    "Mordschalg 2e/Classes/The Berserker 2.0.md",
     "Mordschalg 2e/Classes/The Ranger, 2.0.md",
     "Mordschalg 2e/Classes/The Ranger.md",
-    "D&D 5e 2024 Rules",
-    "Mordschalg 2e/Adversaries",
-    "Mordschalg 2e/Hostiles/Arani",
+    "Mordschalg 2e/Equipment/Weapons and Armor.md",
+    "Mordschalg 2e/Classes/The Berserker.md",
+    "Mordschalg 2e/Martial Equipment and Basics/Stances.md",
+    "Mordschalg 2e/network.md",
+    "Mordschalg 2e/Adversaries/Drow Stat block.md",
+    "Mordschalg 2e/Adversaries/Types.md",
+    "Mordschalg 2e/Standard Monster Actions.md",
+    "Mordschalg 2e/stats.md",
+    "Mordschalg 2e/Hazards/Traps.md",
+    "Mordschalg 2e/Rest.md",
+    "Mordschalg 2e/Classes/The Sorcerer.md",
+    "Mordschalg 2e/Races.md",
+    "Mordschalg 2e/Hazards/Lighting.md",
     "Da Lore",
     "Campaigns/New Frontiers",
     "Campaigns",
     "Mordschalg 2e/Untitled",
     "Mordschalg 2e/Hazards",
     "Mordschalg 2e/Equipment",
+    "Pasted image 20260722203102.png",
     "Mordschalg 2e/Martial Equipment and Basics",
+    "Mordschalg 2e/Classes",
+    "Pasted image 20260621165511.png",
     "southyvalm.png",
     "Pasted image 20260617173522.png",
     "D&D 5e 2024 Rules/z. Load Bearing Folders/Attachments/Tutorial Images/Obsidian Logo to Color PIck From.png",
