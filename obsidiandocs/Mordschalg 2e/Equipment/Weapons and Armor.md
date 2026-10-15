@@ -1,4 +1,9 @@
 
+
+
+
+
+
 | Name                     | Damage        | Properties                     | Weight | Cost   | Range       |
 | ------------------------ | ------------- | ------------------------------ | ------ | ------ | ----------- |
 | _Simple Melee Weapons_   |               |                                |        |        |             |
@@ -33,7 +38,6 @@
 | Pike                     | 1d12 (P)      | Heavy, Two-Handed              | Ca.    | 5 GP   | 4/1         |
 | Rapier                   | 1d8 (P,S)     | Finesse                        | Ma.    | 25 GP  | 2           |
 | Saber                    | 1d8 (S)       | Finesse                        | Ma.    | 10 GP  | 2           |
-| Scimitar                 | 2d4 (S)       | Finesse, Light                 | Mo.    | 25 GP  | 1           |
 | Shortsword               | 1d8 (S,P)     | Finesse, Light                 | Mo.    | 10 GP  | 1           |
 | Trident                  | 1d8 (P)       | Thrown, Versatile (d10)        | Ma.    | 15 GP  | 2 (4/16)    |
 | Warhammer                | 1d8 (B)       | Versatile (d12)                | Ma.    | 15 GP  | 2           |

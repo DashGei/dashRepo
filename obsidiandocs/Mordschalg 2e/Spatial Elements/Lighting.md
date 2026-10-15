@@ -15,11 +15,11 @@ You have Darkvision but treat non-dark areas as Heavily Obscured Terrain.
 
 ### Thermal
 
-You are never Blind when viewing subjects that emit heat. Flames are too bright to see through.
+You are never Blind when viewing subjects that emit heat. An open flame or similar heat source within 2m of you or a subject spoils this feature.
 
 ### Truesight
 
-You are never Blind when viewing any Subject
+You are never Blind when viewing any Subject.
 
 ### Veilsight
 

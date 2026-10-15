@@ -2,6 +2,10 @@
 
 Make a weapon strike against a creature within the weapon's range.
 
+Unless a weapon has the Finesse property, a melee Strike will always add your Might Modifier to the damage, and a ranged Strike will always add your Instinct Modifier to the damage.
+
+
+
 ### Strike Sub options
 
 
