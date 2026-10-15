@@ -4,26 +4,26 @@
 
 | Level | Boon             | Hunter's Mark | Features         |
 | ----- | ---------------- | ------------- | ---------------- |
-| 1st   | Stance           | 1d4           | Rage,            |
-| 2nd   | Moderate Perk    | 1d4           |                  |
-| 3rd   | Major Perk       | 1d4           | Analyzed         |
-| 4th   | Stance           | 1d4           |                  |
+| 1st   | Stance           | 1d6           | Rage,            |
+| 2nd   | Moderate Perk    | 1d6           |                  |
+| 3rd   | Major Perk       | 1d6           | Analyzed         |
+| 4th   | Stance           | 1d6           |                  |
 | 5th   | Minor Perk       | 1d6           | Mortal Reminder  |
-| 6th   | +1 Stamina       | 1d6           | Hit List         |
-| 7th   | Major Perk       | 1d6           |                  |
-| 8th   | Stance           | 1d6           | Killer Insticts  |
-| 9th   | Moderate Perk    | 1d6           |                  |
+| 6th   | +1 Stamina       | 1d8           | Hit List         |
+| 7th   | Major Perk       | 1d8           |                  |
+| 8th   | Stance           | 1d8           | Killer Insticts  |
+| 9th   | Moderate Perk    | 1d8           |                  |
 | 10th  | +1 Flesh         | 1d8           |                  |
-| 11th  | Minor Perk       | 1d8           |                  |
-| 12th  | Stance/New Spell | 1d8           |                  |
-| 13th  | Major Perk       | 1d8           | Analyzed II      |
-| 14th  | +1 Stamina       | 1d8           |                  |
-| 15th  | Minor Perk       | 2d4           | Lord of the Land |
-| 16th  | Stance           | 2d4           |                  |
-| 17th  | Moderate Perk    | 2d4           |                  |
-| 18th  | +1 Stamina       | 2d4           | Feral Senses     |
-| 19th  | Major Perk       | 2d4           |                  |
-| 20th  | Stance           | 2d6           |                  |
+| 11th  | Minor Perk       | 1d10          |                  |
+| 12th  | Stance/New Spell | 1d10          |                  |
+| 13th  | Major Perk       | 1d10          | Analyzed II      |
+| 14th  | +1 Stamina       | 1d10          |                  |
+| 15th  | Minor Perk       | 1d10          | Lord of the Land |
+| 16th  | Stance           | 1d12          |                  |
+| 17th  | Moderate Perk    | 1d12          |                  |
+| 18th  | +1 Stamina       | 1d12          | Feral Senses     |
+| 19th  | Major Perk       | 1d12          |                  |
+| 20th  | Stance           | 1d12          |                  |
 ### Base Statistics
 
 A Berzerker begins with 3 Vitality, 2 Flesh, 9 Stamina, and 9 Mental Health
