@@ -81,7 +81,7 @@ When you finish a short rest you can change the range of the sweet spot to any 3
 
 *The term "Ranger" originally refers to a company of partisans during the Annexation of Rênge  who made frequent exploit of this fighting style.*
 
-**Fluidity** Making a Ranged strike adds 1d4 to your next Melee strike, making a Melee strike adds 1d4 to your next Ranged strike. These d4 persist until the start of your next turn.
+**Fluidity** Making a Ranged strike adds 1d6 to your next Melee strike, making a Melee strike adds 1d6 to your next Ranged strike. These d6 persist until the start of your next turn.
 
 **Skirt Shot** When you take the Dash action, you can strike as part of that action, this strike has Woe.
 

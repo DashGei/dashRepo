@@ -137,6 +137,11 @@ li {
   line-height: 27px;
 }
 
+@font-face {
+    font-family: Bookerly;
+    src: url(font/Bookerly.ttf);
+
+}
 
 body {
     background: url(images/wallpaperfgif.gif);
