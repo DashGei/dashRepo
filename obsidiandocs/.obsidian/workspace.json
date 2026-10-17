@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "SRD.md",
+=======
+                "file": "Mordschalg 2e/Spatial Elements/Stealth.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "SRD"
+=======
+              "title": "Stealth"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -242,6 +250,7 @@
   },
   "active": "d40cf7b5a7a944be",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Character Races.md",
     "Equipment.md",
     "Threat Calculations.md",
@@ -256,10 +265,18 @@
     "Mordschalg 2e/Resolution.md",
     "Campaigns/Atlantis/Habel Garren.md",
     "Campaigns/Atlantis/Atlantis.md",
+=======
+    "Mordschalg 2e/Resolution.md",
+    "Mordschalg 2e/Spatial Elements/Stealth.md",
+>>>>>>> Stashed changes
     "Mordschalg 2e/Spatial Elements/Movement.md",
     "Mordschalg 2e/Spatial Elements/Lighting.md",
     "Mordschalg 2e/Rest.md",
     "Mordschalg 2e/Spells.md",
+<<<<<<< Updated upstream
+=======
+    "SRD.md",
+>>>>>>> Stashed changes
     "Mordschalg 2e/stats.md",
     "Mordschalg 2e/Standard Monster Actions.md",
     "Mordschalg 2e/Actions.md",
@@ -268,6 +285,20 @@
     "Mordschalg 2e/Equipment/Equipment.md",
     "Mordschalg 2e/Health system.md",
     "Mordschalg 2e/Conditions.md",
+<<<<<<< Updated upstream
+=======
+    "PHB/Excalidraw/Stat block test.md",
+    "Mordschalg 2e/Adversaries/Drow Stat block.md",
+    "PHB/Excalidraw/mordmap.md",
+    "Equipment.md",
+    "Character Races.md",
+    "Mordschalg 2e/Equipment/Inventory System.md",
+    "Mordschalg 2e/Equipment/Weapons and Armor.md",
+    "Campaigns/Atlantis/Atlantis.md",
+    "Campaigns/Atlantis/Habel Garren.md",
+    "Campaigns/Atlantis/random story notes.md",
+    "Untitled 1.md",
+>>>>>>> Stashed changes
     "Mordschalg 2e/Spatial Elements",
     "Campaigns/Atlantis",
     "Mordschalg 2e/Hostiles/Arani",

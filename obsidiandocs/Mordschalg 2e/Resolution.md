@@ -176,14 +176,14 @@ In a **Graded** Check, your degree of success effects what kind of result you ge
 
 Typical DTs:
 
-| DT  | Difficulty |     |     |
-| --- | ---------- | --- | --- |
-| 3   | Trivial    | 6   | 9   |
-| 5   | Easy       |     |     |
-| 8   | Standard   | 10  | 15  |
-| 7   | Hard       |     |     |
-| 8   | Very Hard  |     |     |
-| 10  | Heroic     |     |     |
+| DT  | Difficulty |
+| --- | ---------- |
+| 3   | Trivial    |
+| 5   | Easy       |
+| 8   | Standard   |
+| 7   | Hard       |
+| 8   | Very Hard  |
+| 10  | Heroic     |
 ## Saving Throws
 
 The defender rolls **1d20 + relevant stat** against the DT, which is determined by the attacker's Physical or Mental modifier.

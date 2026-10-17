@@ -1,6 +1,6 @@
 ### Hidden Movement
 
-Whenever you move, you can use up an equal amount of Hidden Movement to make your movement entirely silent
+Whenever you move, you can use up an equal amount of Hidden Movement to make your movement much quieter and harder to see.
 
 ### Sneak
 
@@ -30,8 +30,6 @@ A creature proficient in Perception always has the benefits of at least a Minor 
 
 
 
-
-### Hidden Movement
 
 ### Invisible Movement
 

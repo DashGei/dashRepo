@@ -17,9 +17,11 @@ As an example mechanic which much of the game will be based off of, here is the 
 
 ### Defense
 
-Instead of armor class, every creature has a Physical, Mental, and Spiritual Defense (PD, MD, SD)
+Instead of armor class, every creature has a Physical and Mental Defense (PD and MD)
 
 Baseline mortal physical defense (PD) is **2+DEX**.
+
+Baseline mortal MD is Mental Modifier+
 
 When a creature rolls damage, the total is compared with the target’s relevant defense.
 

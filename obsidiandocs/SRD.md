@@ -88,7 +88,7 @@ Examples include:
 - Mentorship;
     
 - party-level progression.
-    
+
 
 The game should create situations where characters meaningfully contribute to one another's success.
 
@@ -107,11 +107,15 @@ Characters can become exceptional, but should remain physically and narratively 
 
 Player power should reach roughly the level of Pathfinder characters around level 13 rather than escalating indefinitely toward extremely high heroic fantasy.
 
+<<<<<<< Updated upstream
 Effective survivability is intended to increase only modestly over 20 levels. The current target is approximately **4× effective health across the full progression**, while still keeping characters vulnerable enough to become underdogs.
 
 Ultimately though this game draws from a smattering of media
 
 ---
+=======
+This game's genre should best be described as "Mortal Fantasy"
+>>>>>>> Stashed changes
 
 # 2. Core Resolution
 
@@ -154,25 +158,11 @@ The game's four-degree structure is intended to be reused extensively rather tha
 
 # 3. Weal and Woe
 
-**Weal** represents positive circumstances surrounding a roll.
+**Weal** represents positive circumstances/advantages surrounding your roll, and it shifts the degree up by one: Miss → Minor → Moderate → Major.  
 
-It moves the result up by one degree:
+**Woe** represents negative circumstances/disadvantages surrounding your roll, and it shifts the degree down by one: Major → Moderate→ Minor → Miss.
 
-> Miss → Minor → Moderate → Major
-
-**Woe** represents negative circumstances.
-
-It moves the result down by one degree:
-
-> Major → Moderate → Minor → Miss
-
-Weal and Woe cancel one another one-for-one.
-
-They do not stack beyond a single effective shift.
-
-Nothing can rise above Major or fall below Miss.
-
-Weal/Woe is preferred over accumulating many small situational modifiers whenever the circumstance represents a meaningful advantage or disadvantage.
+Weal and Woe cancel each other one-for-one. They never stack, and nothing can rise above Major or fall below Miss.
 
 # 4. Training
 
@@ -183,7 +173,6 @@ Current values:
 - **Trained:** +1
     
 - **Expert:** +3
-    
 
 Training may come from:
 
@@ -195,22 +184,63 @@ Training may come from:
     
 - GM judgment where appropriate.
 
-The small size of these bonuses is intentional. A +1 or +3 is significant on the game's d10-based resolution system.
+The small size of these bonuses is intentional. A +1 or +3 is significant on the game's resolution system.
+
+
+# Ability Checks
+
+When a creature takes an action interacting with the world, and the result of that action is unsure, the GM will call for a Ability Check, or Check.
+
+When a creature makes a Check, they roll **1d20**, and then add a relevant ability modifier as well as training.
+Before making a Check, a player may also describe one way in which they are using the world around them to aid their roll, adding 1d4 to the total.
+
+There are two types of Checks, **Binary**, and **Graded**
+
+In a **Binary** Check, rolling Moderate or Major succeeds, whereas rolling Miss or Minor fails.
+In a **Graded** Check, your degree of success effects what kind of result you get more directly. Rolling a Miss fails. Minor fails, or succeeds with a complication. Moderate succeeds cleanly, and rolling Major succeeds exceptionally.
+
+Typical DTs:
+
+| DT  | Difficulty |
+| --- | ---------- |
+| 3   | Trivial    |
+| 5   | Easy       |
+| 8   | Standard   |
+| 7   | Hard       |
+| 8   | Very Hard  |
+| 10  | Heroic     |
 
 ---
 
-# 5. Ability Checks
+## Saving Throws
 
-When a creature interacts with the world and the result is uncertain, the GM can call for an **Ability Check**.
+The defender rolls **1d20 + relevant stat** against the DT, which is determined by the attacker's Physical or Mental modifier.
 
-A Check is:
+The DT of an effect is either determined by the GM, or the attacker's relevant ability score. Almost every saving throw is Binary, so depending on your roll you will either succeed or fail.
 
+<<<<<<< Updated upstream
 > **1d20 + relevant Ability Modifier + Training**
+=======
+| Degree       | Outcome |
+| ------------ | ------- |
+| **Miss**     | Failure |
+| **Minor**    | Failure |
+| **Moderate** | Success |
+| **Major**    | Success |
+## Damage
+>>>>>>> Stashed changes
 
-Before a Check, the player may describe one way they are using the environment to aid the attempt. When appropriate, this adds **1d4** to the result.
+Roll damage and compare the total to the target’s relevant Defense.
 
-There are two broad kinds of Checks.
+| Result       | Damage Category | Points Applied |
+| ------------ | --------------- | -------------- |
+| Total < D    | Miss            | 0 HP           |
+| Total ≥ D    | Minor           | 1 HP           |
+| Total ≥ 2× D | Moderate        | 2 HP           |
+| Total ≥ 3× D | Major           | 3 HP           |
+Apply damage to the appropriate pool. Physical damage goes **Stamina → Flesh → Vitality**. Mental and Spiritual damage go to their own tracks.
 
+<<<<<<< Updated upstream
 ### Binary Checks
 
 - Miss: fail
@@ -245,11 +275,14 @@ The degree directly determines the quality of the outcome.
 |   7 | Hard       |
 |   8 | Very Hard  |
 |   9 | Heroic     |
+=======
+>>>>>>> Stashed changes
 
 ---
 
-# 6. Saving Throws
+### Opposed Checks
 
+<<<<<<< Updated upstream
 A Save is generally rolled by the defender.
 
 The defender rolls:
@@ -305,6 +338,9 @@ When two creatures directly oppose one another:
     
 - ties are rolled again.
     
+=======
+When two creatures oppose each other, both roll **1d20 + bonuses**. The higher total wins. If creatures tie then creatures roll again.
+>>>>>>> Stashed changes
 
 ---
 
@@ -407,9 +443,6 @@ Strain is shared conceptually across:
 - powerful reactions;
     
 - other limited-use features.
-    
-
-Strain should generally represent a meaningful choice rather than being a passive tax on using a feature.
 
 A perk does not necessarily need to cost Strain.
 
@@ -451,11 +484,10 @@ A creature who:
 - is unaware of the threat, or
     
 - is entirely unable to defend itself
-    
 
 cannot use Stamina to absorb the damage. The damage instead goes directly to Vitality.
 
-PCs normally regain **1 Stamina when they end their turn**.
+All creatures regain 1 Stamina per minute when out of combat
 
 ## Flesh
 
@@ -498,42 +530,21 @@ This creates a self-reinforcing injury system where serious wounds reduce the cr
 
 Current physical damage types include:
 
-- Blunt
-    
-- Slashing
-    
-- Piercing
-    
-- Acid
-    
-- Cold
-    
-- Fire
-    
-- Lightning
-    
-- Toxic
-    
-- Necrotic*
-    
-- Radiant*
-    
-- Concuss*
-    
-- Force*
-    
-
-An asterisk indicates that the damage type may apply to a different health pool depending on the specific effect.
-
-When a damage type can affect multiple pools, the spell or ability specifies the applicable pool.
-
-If an effect provides a choice between health pools, the attacker chooses one and does not apply the damage to both.
-
----
-
+| Blunt     |
+| --------- |
+| Slashing  |
+| Piercing  |
+| Acid      |
+| Cold      |
+| Fire      |
+| Lightning |
+| Toxic     |
+| Necrotic  |
+| Radiant   |
+| Force     |
 # 14. Mental Health
 
-Most creatures have a Mental Health track.
+Mosat creatures have a Mental Health track.
 
 Current working baseline:
 
@@ -590,14 +601,10 @@ Current draft:
 
 Current mental damage types include:
 
-- Concuss*
-    
-- Pain
-    
-- Static
-    
-- Stress
-    
+| Pain   | Persistent wounds                  |
+| ------ | ---------------------------------- |
+| Numb   | Psychic assaults, the unfathomable |
+| Stress | Extreme circumstances, fatigue     |
 
 These can interact differently with Mental Health depending on their individual effects.
 
@@ -607,7 +614,7 @@ When a creature takes Vitality damage, it also suffers Pain damage.
 
 Current rule:
 
-> **1d12 Pain damage per point of Vitality removed.**
+> **1d20 Pain damage per point of Vitality removed.**
 
 Pain represents the psychological and neurological impact of serious bodily injury.
 
@@ -630,13 +637,10 @@ When a creature reaches **0 Vitality**:
 
 A creature can be stabilized by:
 
-> **2 Actions + successful DT 2 Medicine Check**
+> **2 Actions + successful DT 5 Medicine Check**
 
 A stabilized creature no longer dies after the normal countdown.
 
-A creature can stabilize itself by:
-
-> spending 5 or more Stamina as an Action.
 
 ---
 
@@ -794,7 +798,7 @@ A character may serve as the Cook if they have:
 
 The Cook makes:
 
-> **DT 5 Threshold Test using their Mental modifier**
+> **DT 7 Threshold Test using their Mental modifier**
 
 The result adds a die to the Rest Pool:
 
@@ -816,7 +820,7 @@ A character may serve as the Director if they have proficiency in:
 
 The Director also makes:
 
-> **DT 5 Threshold Test using their Mental modifier**
+> **DT 7 Threshold Test using their Mental modifier**
 
 The result adds:
 
@@ -908,6 +912,8 @@ By default:
     
 - additional Strain can modify area, length, radius, targets, or other delivery characteristics.
 
+- A spell can use 2 Strain for every action taken to cast it
+
 A spell formula example is 
 **Wave** *Blunt* *MIT* Targets are pushed 2m away from the origin and fall Prone.
 
@@ -917,7 +923,7 @@ Every:
 
 > **2 Strain = +1d6 spell damage**
 
-The caster may spend additional Strain when desired to increase damage.
+The caster may spend additional Strain when desired to increase damage. This is very much up to later scrutiny and will change
 
 ## Area Origins
 
@@ -1455,12 +1461,6 @@ over:
 Strain should represent a meaningful tactical expenditure.
 
 A passive capability can be powerful without consuming Strain.
-
-### Avoid large bonus dice.
-
-The core system uses a d10 and small Training modifiers. Adding an entire additional d10 is very powerful and should be treated as exceptional.
-
-Weal/Woe is often preferable to huge numerical bonuses.
 
 ### Use existing systems.
 
