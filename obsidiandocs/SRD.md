@@ -92,7 +92,7 @@ Examples include:
 
 The game should create situations where characters meaningfully contribute to one another's success.
 
-## Low/Medium Fantasy and Tight Bounded Accuracy
+## Mid Fantasy, and Thematic
 
 Mordschlag aims for the power level of settings such as:
 
@@ -108,6 +108,8 @@ Characters can become exceptional, but should remain physically and narratively 
 Player power should reach roughly the level of Pathfinder characters around level 13 rather than escalating indefinitely toward extremely high heroic fantasy.
 
 Effective survivability is intended to increase only modestly over 20 levels. The current target is approximately **4× effective health across the full progression**, while still keeping characters vulnerable enough to become underdogs.
+
+Ultimately though this game draws from a smattering of media
 
 ---
 
@@ -203,7 +205,7 @@ When a creature interacts with the world and the result is uncertain, the GM can
 
 A Check is:
 
-> **1d10 + relevant Ability Modifier + Training**
+> **1d20 + relevant Ability Modifier + Training**
 
 Before a Check, the player may describe one way they are using the environment to aid the attempt. When appropriate, this adds **1d4** to the result.
 
@@ -235,14 +237,14 @@ The degree directly determines the quality of the outcome.
 
 ## Typical Difficulty Totals
 
-|DT|Difficulty|
-|--:|---|
-|1|Trivial|
-|2|Easy|
-|3|Standard|
-|4|Hard|
-|6|Very Hard|
-|8|Heroic|
+|  DT | Difficulty |
+| --: | ---------- |
+|   3 | Trivial    |
+|   5 | Easy       |
+|   6 | Standard   |
+|   7 | Hard       |
+|   8 | Very Hard  |
+|   9 | Heroic     |
 
 ---
 
@@ -252,7 +254,7 @@ A Save is generally rolled by the defender.
 
 The defender rolls:
 
-> **1d10 + relevant Ability Modifier + applicable Training**
+> **1d20 + relevant Ability Modifier
 
 against a DT determined by the effect.
 
@@ -290,14 +292,6 @@ The relevant Defense may be:
     
 - Mental Defense (MD)
 
-
-## Stamina Override
-
-An attacker may spend **2 Stamina** to turn a Strike that would be a Miss into Minor damage.
-
-This creates an important resource decision:
-
-> Is it worth spending your own short-term endurance to ensure that an attack gets through?
 
 ---
 
