@@ -31,7 +31,6 @@ Longsword 1d8+3
 
 Languages Common, Elvish
 
-CR 3 (XP 700; PB +2)
 
 #### Actions
 

@@ -2,31 +2,31 @@
 
 ### Class Features
 
-| Level | Boon             | Hunter's Mark | Features         |
-| ----- | ---------------- | ------------- | ---------------- |
-| 1st   | Stance           | 1d6           | Rage,            |
-| 2nd   | Moderate Perk    | 1d6           |                  |
-| 3rd   | Major Perk       | 1d6           | Analyzed         |
-| 4th   | Stance           | 1d6           |                  |
-| 5th   | Minor Perk       | 1d6           | Mortal Reminder  |
-| 6th   | +1 Stamina       | 1d8           | Hit List         |
-| 7th   | Major Perk       | 1d8           |                  |
-| 8th   | Stance           | 1d8           | Killer Insticts  |
-| 9th   | Moderate Perk    | 1d8           |                  |
-| 10th  | +1 Flesh         | 1d8           |                  |
-| 11th  | Minor Perk       | 1d10          |                  |
-| 12th  | Stance/New Spell | 1d10          |                  |
-| 13th  | Major Perk       | 1d10          | Analyzed II      |
-| 14th  | +1 Stamina       | 1d10          |                  |
-| 15th  | Minor Perk       | 1d10          | Lord of the Land |
-| 16th  | Stance           | 1d12          |                  |
-| 17th  | Moderate Perk    | 1d12          |                  |
-| 18th  | +1 Stamina       | 1d12          | Feral Senses     |
-| 19th  | Major Perk       | 1d12          |                  |
-| 20th  | Stance           | 1d12          |                  |
+| Level | Boon             | Rage Bonus | Features         |
+| ----- | ---------------- | ---------- | ---------------- |
+| 1st   | Stance           | 1d6        | Rage,            |
+| 2nd   | Moderate Perk    | 1d6        |                  |
+| 3rd   | Major Perk       | 1d6        | Analyzed         |
+| 4th   | Stance           | 1d6        |                  |
+| 5th   | 2 Minor Perks    | 1d6        | Mortal Reminder  |
+| 6th   | +1 Stamina       | 1d8        | Hit List         |
+| 7th   | Major Perk       | 1d8        |                  |
+| 8th   | Stance           | 1d8        | Killer Insticts  |
+| 9th   | Moderate Perk    | 1d8        |                  |
+| 10th  | +1 Flesh         | 1d8        |                  |
+| 11th  | Minor Perk       | 1d10       |                  |
+| 12th  | Stance/New Spell | 1d10       |                  |
+| 13th  | Major Perk       | 1d10       | Analyzed II      |
+| 14th  | +1 Stamina       | 1d10       |                  |
+| 15th  | Minor Perk       | 1d10       | Lord of the Land |
+| 16th  | Stance           | 1d12       |                  |
+| 17th  | Moderate Perk    | 1d12       |                  |
+| 18th  | +1 Stamina       | 1d12       | Feral Senses     |
+| 19th  | Major Perk       | 1d12       |                  |
+| 20th  | Stance           | 1d12       |                  |
 ### Base Statistics
 
-A Berzerker begins with 3 Vitality, 2 Flesh, 9 Stamina, and 9 Mental Health
+A Berserker begins with 3 Vitality, 2 Flesh, 9 Stamina, and 9 Mental Health
 
 | V   | V   | V   | F   | F   | S   | S   | S   | S   | S   | S   | S   | S   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -49,7 +49,7 @@ Some of your abilities will require your **Mental Modifier** or **Physical Modif
 
 Your **Physical Modifier** is your Might modifier.
 
-Your **Mental Modifier** is your Understanding, Instinct, or Presence modifier.
+Your **Mental Modifier** is your Instinct or Presence modifier.
 
 ---
 
@@ -80,18 +80,16 @@ While you are not wearing any armor your PD = 1 + your MIG + your AGI.
 
 When you take the Strike action while raging, you can choose one of the following benefits to apply to your melee Strikes this turn:
 
-- **Focused Fury.** You gain **+1d4 bonus** to all damage rolls this turn, but attacks against you gain **+1d4 bonus** until the start of your next turn.
+- **Focused Fury.** You gain **+1d4 bonus** to Strikes this turn.
     
-- **Reckless Abandon.** When you hit with a melee Strike, you can add **+1 damage** to the result, but attacks against you gain **+1d4 bonus** until the start of your next turn.
-    
+- **Reckless Abandon.** Rolling a crit adds the d12's result to your Strike.
 
----
+**Using** either feature means that all Strikes against you have Weal until the start of your next turn.
 
 ### Brutal Critical: 8
 
 When you score a Critical Hit while raging, your damage increases by an additional **+1** (on top of the normal Critical Hit effect).
 
----
 
 ### Insurmountable: 9
 
@@ -104,23 +102,3 @@ When you are hit with an attack that also applies an effect (such as fear, poiso
 While raging, you ignore the effects of missing Stamina and Flesh. You still take damage, but you suffer no penalties until you are at **0 Vitality**.
 
 ---
-
-### Perk Progression
-
-|Level|Perk Points|
-|---|---|
-|1st|3 Background, 4 Non-Background|
-|2nd|1|
-|3rd|1|
-|4th|1|
-|5th|1|
-|6th|1|
-|7th|1|
-|8th|1|
-|9th|1|
-|10th|1|
-|11th|1|
-
-**Perk Point Use:** Each perk point can be spent on any non-Background, non-Spellcraft perk you meet prerequisites for, including Combat perks, Rage perks, Physical perks, Mental perks, Party perks, and Primal Path perks.
-
-**Perk Replacement:** When you gain a level, you may replace one non-Background perk you have with another you qualify for.

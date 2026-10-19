@@ -33,7 +33,7 @@
 | **Intimidation** | Coercing through physical presence or threats. | "I crack my knuckles and rest my hand on my axe hilt while staring them down."                       |
 | **Presentation** | Acting, singing, storytelling, distracting.    | "I raise my voice on the key line and let the silence hang."                                         |
 
-### Understanding (UND)
+### Acumen (ACU)
 
 | Skill             | Description                                                 | Example Bonus Die Descriptions                                                   |
 | ----------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------------- |

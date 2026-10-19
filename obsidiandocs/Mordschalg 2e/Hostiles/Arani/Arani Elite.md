@@ -21,9 +21,9 @@ Mind ·
 
 Ability Modifiers
 
-|Might|Agility|Understanding|Instinct|Presence|
-|---|---|---|---|---|
-|+3|+3|+1|+1|+2|
+| Might | Agility | Acumen | Instinct | Presence |
+| ----- | ------- | ------ | -------- | -------- |
+| +3    | +3      | +1     | +1       | +2       |
 
 #### Equipment
 Longsword 1d10 Slash + 1d4 Stress

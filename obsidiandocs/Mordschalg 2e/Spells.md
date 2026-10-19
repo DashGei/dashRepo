@@ -1,24 +1,42 @@
-By default a spell deals 1d6 damage if it has a damage base, hand applies an effect to the target if it has one. You can spend more Strain to modify the area effected. The delivery describes how a spell targets. If the delivery is an Area it targets everything within that area. The damage of a spell increases by 1d6 for every 2 Strain spent, you can also choose to spend more Strain freely if you just want more damage.
+# Spellcasting
 
-If a spell details an Ability Modifier, an unwilling target can succeed on a relevant save in order to negate the effect but still take the damage.
+Magic allows you to shape the world through spells, each formed from a **Formula** and a **Delivery**. The formula determines what the spell does, while the delivery determines which creatures, objects, or areas it can affect. By spending Strain, you can increase a spell's damage, enlarge its area, reach additional targets, or strengthen certain effects.
 
-A creature suffers the effects of a spell when they enter the area, or they start their turn in the area.
+## Casting a Spell
 
-For very Action you choose to take before casting a spell, you can spend 2 Stamina on the spell's casting.
+Casting a spell takes at least 1 Action. You may devote additional Actions to the casting to invest more Strain before the spell takes effect. For every Action you spend casting a spell, you can invest up to 2 Strain in it. The spell resolves when you finish casting.
 
+For every 1 Strain you devote to **damage**, a spell's target takes 1d6 of the spell's damage type. You may instead spend Strain on the spell's **Delivery** or on an effect that allows additional investment. 
+Other than damage and delivery, a spell's **effect** requires 1 Strain of investment in order for the effects to take place. 
 
-The area of a spell must originate from a point you can see within 12m.
+## Areas and Targets
+
+Some spells affect an individual creature or object, while others affect an area. An area delivery affects everything within its area unless the spell says otherwise. A spell's area must originate from a point you can see within 12 meters, unless its Delivery specifies that it originates from you.
+
+A creature is affected by an area spell when the spell takes effect, when it enters the area, or when it starts its turn there. The spell's formula determines what happens when a creature is affected.
+
+When a spell has an associated Ability Modifier, any creature who does not wish to undergo the effects of the spell makes a Save against the caster's Mental Modifier. On a success the creature is unaffected by the spell, but still takes the damage.
+
+## Duration and Focus
+
+A spell normally lasts until the start of your next turn. At that point, you may spend 1 Strain to maintain Focus, extending the spell's duration by one additional turn. You may continue maintaining Focus on subsequent turns in the same way, or at any point while focusing you can choose to stop instantly.
+
+Taking Major damage or Moderate Mental damage breaks your Focus, immediately ending any spell whose duration depends on it. Regardless, losing Focus causes the spell's effects to immediately disappear.
+
+# Spell Deliveries
+
+A spell's Delivery determines its initial range, shape, and number of targets. You can spend additional Strain to expand the delivery or affect more targets, as shown below. The listed cost is the initial cost of the Delivery; any expansion adds to that cost.
 
 | Delivery | Cost | Increase                    |
 | -------- | ---- | --------------------------- |
-| Aura     | 2    | +1 per 1m radius            |
+| Aura     | 1    | +2 per 1m radius            |
 | Cone     | 2    | +2 per additional 1m length |
 | Cube     | 1    | +1 per additional 1m cube   |
 | Imbue    | 0    | +2 per additional target    |
 | Line     | 1    | +1 per 2m length            |
-| Bolt     | 0    | +3 per additional target    |
+| Bolt     | 0    | +2 per additional target    |
 | Sphere   | 2    | + 1 per 1m radius           |
-| Touch    | 0    | ---                         |
+| Touch    | 0    | +1 per additional target    |
 
 - **Aura** - A 2m-radius area centered on  you. You can choose to be unaffected.
 
@@ -26,7 +44,7 @@ The area of a spell must originate from a point you can see within 12m.
 
 - **Cube** - A 1-meter cube 
 
-- **Imbue** - Targets a weapon held by a willing creature within 12m.
+- **Imbue** - Targets a weapon held by a willing creature within 12m. A creature struck with the weapon suffers the spell's effects and damage, although the damage dice are reduced by one level.
 
 - **Line** - A 1m-wide, 4m-long, 2m-tall area extending from you.
 
@@ -36,8 +54,6 @@ The area of a spell must originate from a point you can see within 12m.
 
 - **Touch** - Targets yourself or a creature you can touch within 1m.
 
-
-When you cast a spell, it typically only lasts until the start of your next turn, but if you choose to, you may focus and extend the duration one additional turn by using your Turn Start Action to do so. Taking Major damage or Moderate Mental damage breaks this focus.
 
 Distance Shorthand
 
@@ -84,11 +100,11 @@ Distance Shorthand
 
 **Gale** *Slashing* Choose a direction. The area is difficult terrain when moving against that direction, and creatures spend no movement when moving with it.
 
-**Image** *INT* Any visual effect of your choice is created in the area.
+**Image** *ACU* Any visual effect of your choice is created in the area.
 
 **Immolate** *Burn* Targets take damage for duration.
 
-**Invigorate** Targets have +1 speed and to strikes for every Strain spent to do so. Lasts for duration.
+**Invigorate** *Special* Target's Stamina is healed equal to damage.
 
 **Melt** *Acid* Targets take one damage die when taking other Physical damage.
 
@@ -102,11 +118,11 @@ Distance Shorthand
 
 **See** Creatures seeing into the area have Blindsight.
 
-**Shock** *Lightning* Targets adjacent to other targets take one damage die.
+**Shock** *Volt* Targets adjacent to other targets take one damage die.
 
-**Slow** *DEX* Targets have Slow for the duration.
+**Slow** *AGI* Targets have Slow for the duration.
 
-**Spine** *Piercing* The area is difficult terrain and Targets take the damage again in d4s for every 1m moved.
+**Spine (Piercing).** The area becomes difficult terrain. For every 1m a target moves through the area, it takes 1d4 damage.
 
 **Static** *Numb* Targets cannot focus.
 
@@ -118,12 +134,13 @@ Distance Shorthand
 
 **Wither** *Necrotic* Targets take 1 damage die when taking the Attack or Cast action.
 
+# Rituals
 
-## Rituals
+Rituals are magical workings that require time, materials, or particular acts to perform. Unlike ordinary spells, they need not follow a common formula or delivery. Each ritual describes what is required to cast it and what happens when it is complete.
 
-Some ritual spells can be cast as an action if you store them within a spell focus, this is only applicable to spells which use ruby dust (probably another, cheaper component). This lets us specify and balance.
+A ritual's **Casting Time** describes how long the working takes, while its **Components** describe the materials required. Unless a ritual states otherwise, follow its own instructions for how these materials are used and what effects the ritual produces.
 
-A magic circle is a 3m cube of Enchanter's chalk.
+A **Magic Circle** always occupies a 3m cube and is inscribed using Enchanter's Chalk. The chalk is consumed as the circle is drawn.
 
 
 ### Detect Thoughts

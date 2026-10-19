@@ -107,15 +107,8 @@ Characters can become exceptional, but should remain physically and narratively 
 
 Player power should reach roughly the level of Pathfinder characters around level 13 rather than escalating indefinitely toward extremely high heroic fantasy.
 
-<<<<<<< Updated upstream
 Effective survivability is intended to increase only modestly over 20 levels. The current target is approximately **4× effective health across the full progression**, while still keeping characters vulnerable enough to become underdogs.
 
-Ultimately though this game draws from a smattering of media
-
----
-=======
-This game's genre should best be described as "Mortal Fantasy"
->>>>>>> Stashed changes
 
 # 2. Core Resolution
 
@@ -218,9 +211,8 @@ The defender rolls **1d20 + relevant stat** against the DT, which is determine
 
 The DT of an effect is either determined by the GM, or the attacker's relevant ability score. Almost every saving throw is Binary, so depending on your roll you will either succeed or fail.
 
-<<<<<<< Updated upstream
-> **1d20 + relevant Ability Modifier + Training**
-=======
+ **1d20 + relevant Ability Modifier + Training**
+
 | Degree       | Outcome |
 | ------------ | ------- |
 | **Miss**     | Failure |
@@ -228,7 +220,6 @@ The DT of an effect is either determined by the GM, or the attacker's relevant a
 | **Moderate** | Success |
 | **Major**    | Success |
 ## Damage
->>>>>>> Stashed changes
 
 Roll damage and compare the total to the target’s relevant Defense.
 
@@ -238,9 +229,8 @@ Roll damage and compare the total to the target’s relevant Defense.
 | Total ≥ D    | Minor           | 1 HP           |
 | Total ≥ 2× D | Moderate        | 2 HP           |
 | Total ≥ 3× D | Major           | 3 HP           |
-Apply damage to the appropriate pool. Physical damage goes **Stamina → Flesh → Vitality**. Mental and Spiritual damage go to their own tracks.
+Apply damage to the appropriate pool. Physical damage goes **Stamina → Flesh → Vitality**. Mental damage goes to its own track.
 
-<<<<<<< Updated upstream
 ### Binary Checks
 
 - Miss: fail
@@ -275,14 +265,12 @@ The degree directly determines the quality of the outcome.
 |   7 | Hard       |
 |   8 | Very Hard  |
 |   9 | Heroic     |
-=======
->>>>>>> Stashed changes
+
 
 ---
 
 ### Opposed Checks
 
-<<<<<<< Updated upstream
 A Save is generally rolled by the defender.
 
 The defender rolls:
@@ -332,15 +320,14 @@ The relevant Defense may be:
 
 When two creatures directly oppose one another:
 
-- both roll 1d10 + bonuses;
+- both roll 1d20 + bonuses;
     
 - the higher result wins;
     
 - ties are rolled again.
     
-=======
+
 When two creatures oppose each other, both roll **1d20 + bonuses**. The higher total wins. If creatures tie then creatures roll again.
->>>>>>> Stashed changes
 
 ---
 
@@ -408,9 +395,9 @@ Instinct represents **immediate perception, intuition, and awareness of living s
 
 Presence represents **social force and the ability to affect other people**. It governs convincing, deceiving, intimidating, entertaining, inspiring, and otherwise shaping how others respond to the character.
 
-### Understanding (UND)
+### Acumen (ACU)
 
-Understanding represents **knowledge, comprehension, and deliberate reasoning**. It governs recalling information, interpreting evidence, understanding systems, applying learned knowledge, and figuring out why something is happening.
+Acumen represents **knowledge, comprehension, and deliberate reasoning**. It governs recalling information, interpreting evidence, understanding systems, applying learned knowledge, and figuring out why something is happening.
 
 # 10. Distance
 
@@ -530,27 +517,26 @@ This creates a self-reinforcing injury system where serious wounds reduce the cr
 
 Current physical damage types include:
 
-| Blunt     |
-| --------- |
-| Slashing  |
-| Piercing  |
-| Acid      |
-| Cold      |
-| Fire      |
-| Lightning |
-| Toxic     |
-| Necrotic  |
-| Radiant   |
-| Force     |
+| Name     |
+| -------- |
+| Blunt    |
+| Slash    |
+| Pierce   |
+| Acid     |
+| Cold     |
+| Burn     |
+| Volt     |
+| Toxic    |
+| Necrotic |
+| Radiant  |
+| Force    |
 # 14. Mental Health
-
-Mosat creatures have a Mental Health track.
 
 Current working baseline:
 
 > **9 Mental Health**
 
-A standard baseline Mental Defense is currently around **MD 5**, but MD remains open for later balancing.
+Mental Defense (MD) is the creature's Mental Modifier (highest mental ability score)
 
 Mental health represents:
 
@@ -591,9 +577,7 @@ Current draft:
 - Distressed: -2
     
 - Miserable: -3
-    
 
-**[Unresolved]** Exact breakpoints and final wording for these mental thresholds are not yet fully standardized.
 
 ---
 
@@ -601,8 +585,9 @@ Current draft:
 
 Current mental damage types include:
 
-| Pain   | Persistent wounds                  |
+| Name   | Persistent wounds                  |
 | ------ | ---------------------------------- |
+| Pain   | Persistent wounds                  |
 | Numb   | Psychic assaults, the unfathomable |
 | Stress | Extreme circumstances, fatigue     |
 
@@ -904,7 +889,7 @@ A spell can be understood as:
 
 By default:
 
-- a spell with a damage base deals **1d6 damage**;
+- a spell with a damage base deals **2d6 damage**;
     
 - a spell with an effect applies that effect;
     
@@ -1002,18 +987,16 @@ The latest standardized list does not currently include the previously proposed 
 
 A spell normally lasts until the **start of the caster's next turn**.
 
-The caster may extend it one additional turn by using their **Turn Start Action** to maintain Focus.
+The caster may extend it one additional turn by spending 1 Strain to maintain Focus.
 
 Taking either:
 
 - **Major damage**, or
     
 - **Moderate Mental damage**
-    
+
 
 breaks the spell's Focus.
-
-Focus is intended to be an action-economy and narrative mechanic rather than a separate Concentration mini-game.
 
 ---
 
@@ -1668,10 +1651,7 @@ An LLM generating Mordschlag content should treat the following as **open design
 ## Defenses
 
 - Baseline mortal PD currently starts at **2 + AGI**.
-    
-- MD values are not finalized.
-    
-- Defense scaling across levels is not finalized.
+
 
 ## Rest Recovery
 
@@ -1875,8 +1855,11 @@ When generating a new Mordschlag rule, perk, spell, monster, class feature, or s
 - Can the rule be stated in a few sentences?
     
 
----
 
-# 43. One-Sentence System Summary
+# (side notes from the designer)
 
-**Mordschlag** is a Mortal Fantasy tabletop RPG about capable people facing dangerous situations through skill, preparation, and tactical thinking. Combat is built around positioning, timing, teamwork, and anticipating what your enemies will do rather than simply having the strongest character build, while the game's wounds, exhaustion, resources, and recovery are designed to make physical consequences matter. Characters grow primarily by learning new techniques, developing specialized fighting styles, and gaining new ways to solve problems rather than becoming vastly more powerful or durable. Outside of combat, the world matters just as much: where you sleep, how you travel, what your party does with its downtime, who helps each other, and how you use the environment can all affect your chances of success. Magic is powerful but constrained, injuries are meaningful, and even experienced characters can still find themselves outmatched—Mordschlag is a fantasy of **becoming exceptionally capable without ever becoming invulnerable**.
+When writing I like to stay out of bulleted lists, and instead keep a more conversationalist attitude to rule writing.
+
+Ultimately this game draws from a smattering of media, many of the elements in this RPG have a purpose, especially those such as divine favor and the rest system. Like many other RPGs this one aims to represent the players in a fantastical world, and the main way they interact with that world is through killing. While undeniably this system has a focus on combat, the mechanics all should want to instill a sense of life within the players and GM. While the LLM which created this document did fine explaining the mechanics, it is up to you to decide where they all fit into this thematic approach.
+
+Everyone should feel the mortality of the moment in this game, this includes the fear, the companionship, the zealotry, the pain, the hope, and the will to come out on top for those around you. For this reason I am defining this game's genre as "Mortal Fantasy"

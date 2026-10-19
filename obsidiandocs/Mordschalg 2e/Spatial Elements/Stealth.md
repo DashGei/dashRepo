@@ -86,3 +86,72 @@ A creature ceases to be Hidden when it chooses to stop hiding or when circumstan
 Being located by one observer does not necessarily end Hidden status against all other observers. Instead, the creature loses the benefit of uncertain positioning against the observers who have located it.
 
 If the creature becomes plainly visible or otherwise perceptible to everyone relevant, it is no longer Hidden.
+
+
+# Stealth
+
+Stealth is the art of concealing one’s presence and obscuring one’s precise position. A hidden creature is not necessarily stationary, nor does being hidden make them impossible to perceive. Rather, their position remains uncertain until an observer locates them or the creature does something that reveals where they are.
+
+## Sneak
+
+**Sneak {AA} — DT 6 Agility Check**
+
+You attempt to conceal your presence and make your position difficult to determine. The result of your Check establishes a **Hidden Sphere** centered on your position. Its radius depends on your degree of success.
+
+|Degree of Success|Hidden Sphere Radius|
+|---|---|
+|Miss|No sphere|
+|Minor|2 m|
+|Moderate|4 m|
+|Major|6 m|
+
+On a Miss, you fail to establish a Hidden Sphere. On any success, you become **hidden** and establish a sphere of the indicated radius.
+
+A Hidden Sphere represents the area in which your actual position may plausibly be located. It is not a physical barrier, an illusion, or a space in which you can teleport freely. You remain physically present in the world, subject to its obstacles and limitations, but observers who have not located you cannot be certain of your precise position.
+
+You cannot establish a Hidden Sphere if your circumstances make concealment impossible, such as standing in plain view under direct observation with nowhere to hide.
+
+## Hidden Movement
+
+At the start of each of your turns while hidden, you may choose a new position within your current Hidden Sphere. This position becomes the center of a new Hidden Sphere of the same radius, replacing the previous one.
+
+You may instead remain where you are.
+
+Your chosen position must be physically plausible. You cannot pass through walls, cross impassable terrain, or move farther than your physical movement allows. The route you take need not be apparent to observers, however, provided they do not perceive you moving along it.
+
+This uncertainty allows you to cross exposed ground without automatically revealing your precise position. It does not make the movement itself unreal: if an observer actually perceives you crossing the space, or circumstances make your movement unmistakable, you may be located.
+
+Replacing a Hidden Sphere does not erase an observer’s knowledge of your position. Once an observer has located you, you do not regain the benefit of uncertain positioning against them merely because your sphere moves. You must break their ability to track you or otherwise create circumstances in which your position becomes uncertain again.
+
+## Search
+
+**Search {AA} — DT 6 Instinct Check**
+
+You carefully search for a hidden creature whose presence or approximate location you suspect.
+
+Compare your degree of success on the Search Check with the degree of success the creature most recently achieved on its Sneak Check.
+
+- **Lower degree:** You fail to locate the creature. Its precise position remains uncertain.
+    
+- **Equal or higher degree:** You locate the creature. Choose a physically plausible position for it within its current Hidden Sphere; that position becomes its established location for you.
+    
+
+The chosen position must make sense in the surrounding fiction. Search does not let you discover a creature in a place it could not physically occupy or reach.
+
+Locating a creature reveals its position to you, not automatically to everyone else. You may communicate what you found to allies, provided they can receive and understand the information. They do not gain that knowledge simply because you did.
+
+## Revealing Actions
+
+Some actions make your position apparent. A Strike, a loud noise, or an interaction that clearly exposes your location may reveal you to observers capable of perceiving it.
+
+When an action reveals your position, establish your location at a plausible point from which you could have performed that action. The action itself determines what positions are possible: an observer who hears you speak from behind a door may know where the voice came from, while an observer who sees you make a Strike can locate you at the point of the attack.
+
+Not every action automatically reveals you. The GM determines whether an action is perceptible under the circumstances. Quietly manipulating a concealed mechanism, for example, need not reveal your position if there is no perceptible sign of your activity.
+
+A revealing action only exposes you to observers who could reasonably perceive it. A creature on the other side of a thick wall does not learn your location from a sound it cannot hear.
+
+## Knowing Your Position
+
+An observer who has established your location knows where you are, even if you remain hidden from other creatures. You lose the benefit of uncertain positioning against observers who have located you, but you may remain hidden from everyone else.
+
+An observer retains their knowledge of your position until something in the fiction makes that knowledge unreliable. Your Hidden Sphere moving doe

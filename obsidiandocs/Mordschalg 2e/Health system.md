@@ -43,19 +43,19 @@ Physical damage is applied in this order:
 
 ### Damage Types
 
-| Name      | Examples         |
-| --------- | ---------------- |
-| Blunt     | Blunt trauma     |
-| Slashing  | Claws, Axes      |
-| Piercing  | Stabbing, Teeth  |
-| Acid      | Corrosives       |
-| Cold      | Frostbite        |
-| Fire      | Flames, Scalding |
-| Lightning | Shocks           |
-| Toxic     | Venom, Poison    |
-| Necrotic  | Withering        |
-| Radiant   | Holy fire        |
-| Force     | Raw magic        |
+| Name     | Examples         |
+| -------- | ---------------- |
+| Blunt    | Blunt trauma     |
+| Slash    | Claws, Axes      |
+| Pierce   | Stabbing, Teeth  |
+| Acid     | Corrosives       |
+| Cold     | Frostbite        |
+| Burn     | Flames, Scalding |
+| Volt     | Electricity      |
+| Toxic    | Venom, Poison    |
+| Necrotic | Withering        |
+| Radiant  | Holy fire        |
+| Force    | Raw magic        |
 
 ### Stamina
 

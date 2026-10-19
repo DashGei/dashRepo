@@ -1,4 +1,4 @@
-# Ranger
+# The Ranger
 
 
 Armed with the lightest of blades and bows, the green cloaks of Rênge partisans comb the undergrowth.
@@ -13,7 +13,7 @@ Many Rangers wander the world, drifting from community to community
 
 Rangers are hunters, scouts, guides, and wardens. They know how to find what others cannot, survive where others cannot, and bring down prey that would be difficult to face directly.
 
-A Ranger does not need to be a woodsman, archer, or spellcaster. A Ranger is defined by the **hunt**: identifying a quarry, learning its weaknesses, controlling the circumstances of the encounter, and exploiting the moment when it falters.
+A Ranger does not need to be a woodsman, archer, or spellcaster. A Ranger is defined by the hunt: identifying a quarry, learning its weaknesses, controlling the circumstances of the encounter, and exploiting the moment when it falters.
 
 **Iconic Rangers:** Aragorn, San, Robin Hood
 
@@ -66,13 +66,19 @@ A Ranger begins with 3 Vitality, 1 Flesh, 8 Stamina, and 9 Mental Health with a 
 
 **Skills:** Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
 
-# Physical and Mental Modifiers
+## Physical and Mental Modifiers
 
-Some Ranger features refer to your **Physical Modifier** or **Mental Modifier**.
+Some Ranger features will refer to your **Physical Modifier** or **Mental Modifier**, and you will need to choose which Ability of yours represents you best for each.
 
-Your Physical Modifier is your Might or Dexterity Modifier.
+Your Physical Modifier is your Might or Agility Modifier.
 
-Your Mental Modifier is your Instinct or Understanding Modifier.
+Your Mental Modifier is your Instinct or Acumen Modifier.
+
+### Perks
+
+Perks grant talents, techniques, and specialized capabilities that customize your character. Each Perk has a degree which is either Minor, Moderate, or Major, and may have tags or prerequisites that determine who can choose it and how it works.
+
+At 1st level, choose one Minor Perk for which you meet the prerequisites.
 
 # Stance
 

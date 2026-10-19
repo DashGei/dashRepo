@@ -1,5 +1,13 @@
 https://www.reddit.com/user/julio_draws/
 
+# New Name?
+
+System needs a new name and identity based off the pursuit of dreams and the struggle of life.
+
+Dreamborne?
+
+Thy Dream Realized
+
 
 ### s1
 
