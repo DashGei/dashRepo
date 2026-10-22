@@ -6,8 +6,8 @@
 | Dagger                   | 1d8 (S, P)  | Finesse, Light, Thrown         | Mo.    | 2 GP   | 1 (4/14)    |
 | Greatclub                | 2d6 (B)     | Two-Handed                     | Ma.    | 2 SP   | 2<br>       |
 | Handaxe                  | 1d12 (S)    | Light, Thrown                  | Mo.    | 5 GP   | 1<br>(3/12) |
-| Light Hammer             | 1d12 (B)    | Light, Thrown                  | Mo.    | 2 GP   | 1<br>(2/12) |
-| Mace                     | 1d12 (B)    | -                              | Ma.    | 5 GP   | 1           |
+| Light Hammer             | 1d12 (B)    | Light, Thrown                  | Mo.    | 2 GP   | 1<br>(3/12) |
+| Mace                     | 1d10 (B)    | -                              | Ma.    | 5 GP   | 1           |
 | Quarterstaff             | 1d8 (B)     | Versatile (2d4)                | Ma.    | 2 SP   | 2           |
 | Short Spear              | 1d8 (P)     | Thrown, Versatile (1d10)       | Ma.    | 1 GP   | 2 (8/32)    |
 | Spear                    | 1d12 (P)    | Two-Handed                     | Ma.    | 2 GP   | 3           |
@@ -16,41 +16,42 @@
 | _Simple Ranged Weapons_  |             |                                |        |        |             |
 | Dart                     | 1d4 (P)     | Finesse, Thrown                | Mo.    | 5 CP   | 8/32        |
 | Light Crossbow           | 1d12 (P)    | Finesse, Two-Handed, Hunker    | Ma.    | 25 GP  | 20/40       |
-| Shortbow                 | 1d8 (P)     | Finesse, Two-Handed            | Ma.    | 25 GP  | 16/64       |
+| Shortbow                 | 1d10 (P)    | Finesse, Two-Handed            | Ma.    | 25 GP  | 16/64       |
 | Sling                    | 1d4 (B)     | -                              | Mi.    | 1 SP   | 6/24        |
 | Musket                   | 3d6 (P)     | Matchlock, Two-Handed          | Ma.    | 200 GP | 30/60       |
 | _Martial Melee Weapons_  |             |                                |        |        |             |
-| Battleaxe                | 1d12 (P)    | Versatile (2d6)                | Ma.    | 10 GP  | 2           |
+| Battleaxe                | 1d12 (P)    | Versatile (2d8)                | Ma.    | 10 GP  | 2           |
 | Flail                    | 1d12 (B)    | -                              | Ma.    | 10 GP  | 3           |
-| Glaive                   | 3d42 (S)    | Heavy, Two-Handed              | Ma.    | 20 GP  | 3           |
+| Glaive                   | 2d6 (S)     | Heavy, Two-Handed              | Ma.    | 20 GP  | 3           |
 | Greataxe                 | 2d10 (S)    | Heavy, Two-Handed              | Ma.    | 30 GP  | 2           |
 | Greatsword               | 2d10 (S, P) | Heavy, Two-Handed              | Ma.    | 50 GP  | 2           |
-| Halberd                  | 3d4 (S, P)  | Heavy, Two-Handed              | Ma.    | 20 GP  | 3           |
-| Longsword                | 1d12 (S, P) | Versatile (2d6)                | Ma.    | 15 GP  | 2           |
-| Lucerne                  | 3d4 (B, P)  | Heavy, Two-Handed              | Ma.    | 20 GP  | 3           |
+| Halberd                  | 2d6 (S, P)  | Heavy, Two-Handed              | Ma.    | 20 GP  | 3           |
+| Longsword                | 1d12 (S, P) | Versatile (2d8)                | Ma.    | 15 GP  | 2           |
+| Lucerne                  | 2d6 (B, P)  | Heavy, Two-Handed              | Ma.    | 20 GP  | 3           |
 | Maul                     | 2d10 (B)    | Heavy, Two-Handed              | Ma.    | 10 GP  | 2           |
 | Morningstar              | 3d4 (B, P)  | -                              | Ma.    | 15 GP  | 2           |
-| Pike                     | 2d10 (P)    | Heavy, Two-Handed              | Ca.    | 5 GP   | 4/1         |
+| Pike                     | 2d10 (P)    | Heavy, Two-Handed              | Ca.    | 5 GP   | 4/1*        |
 | Rapier                   | 1d12 (P, S) | Finesse                        | Ma.    | 25 GP  | 2           |
 | Saber                    | 1d12 (S)    | Finesse                        | Ma.    | 10 GP  | 2           |
 | Shortsword               | 1d12 (S, P) | Finesse, Light                 | Mo.    | 10 GP  | 1           |
-| Trident                  | 1d12 (P)    | Thrown, Versatile (d10)        | Ma.    | 15 GP  | 2 (4/16)    |
-| Warhammer                | 1d12 (B)    | Versatile (2d6)                | Ma.    | 15 GP  | 2           |
+| Trident                  | 1d12 (P)    | Thrown, Versatile (2d6)        | Ma.    | 15 GP  | 2 (4/16)    |
+| Warhammer                | 1d12 (B)    | Versatile (2d8)                | Ma.    | 15 GP  | 2           |
 | Whip                     | 1d4 (S)     | Finesse                        | Ma.    | 2 GP   | 3           |
 | _Martial Ranged Weapons_ |             |                                |        |        |             |
 | Blowgun                  | 1d4 (P)     | Finesse                        | Mo.    | 10 GP  | 5/20        |
 | Hand Crossbow            | 1d8 (P)     | Finesse, Light, Hunker         | Mo.    | 75 GP  | 6/24        |
-| Crossbow                 | 3d4 (P)     | Heavy, Two-Handed, Hunker      | Ma.    | 50 GP  | 40/80       |
-| Longbow                  | 3d4 (P)     | Heavy, Two-Handed              | Ma.    | 50 GP  | 30/120      |
+| Crossbow                 | 2d8 (P)     | Heavy, Two-Handed, Hunker      | Ma.    | 50 GP  | 40/80       |
+| Longbow                  | 2d8 (P)     | Heavy, Two-Handed              | Ma.    | 50 GP  | 30/120      |
 | Pistol                   | 2d12 (P)    | Ammunition, Finesse, Matchlock | Mo.    | 80 GP  | 10/20       |
 
-| Name            | Base PD | Max AGI Bonus |       |                 |
-| --------------- | ------- | ------------- | ----- | --------------- |
-| No Armor        | 0       | All           |       |                 |
-| Light Armor     | 4       | 2             |       |                 |
-| Heavy Armor     | 5       | No addition   |       |                 |
+| Name         | Base PD | Max AGI Bonus |
+| ------------ | ------- | ------------- |
+| No Armor     | 0       | All           |
+| Light Armor  | 1       | All           |
+| Medium Armor | 4       | 2             |
+| Heavy Armor  | 7       | No addition   |
 
-
+`dice: 2d8+5` 2d8
 
 | Damage roll    | Minor  | Moderate | Major | Average HP lost |
 | -------------- | ------ | -------- | ----- | --------------- |

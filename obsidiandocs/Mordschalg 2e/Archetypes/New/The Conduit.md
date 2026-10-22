@@ -1,6 +1,6 @@
-To be a Warlock is to draw hushed whispers from passersby. Your very essence is likely an affront to at least one god's teachings, and the actions of those who precede you can be devastating. So keep your head, if not for your own sake, then for those who look upon you.
+To be a Conduit is to draw hushed whispers from passersby. Your very essence is likely an affront to at least one god's teachings, and the actions of those who precede you can be devastating. So keep your head, if not for your own sake, then for those who look upon you.
 
-Unlike other spellcasters a Warlock's relationship with their powers is tenuous. Some make bargains with incredible beings and some are unwilling, their powers and charge bestowed upon them by blood or speculative proclamations that they are indeed the chosen.
+Unlike other spellcasters a Conduit's relationship with their powers is tenuous. Some make bargains with incredible beings and some are unwilling, their powers and charge bestowed upon them by blood or speculative proclamations that they are indeed the chosen.
 
 Iconic Warlocks:
 
@@ -8,39 +8,39 @@ Iconic Warlocks:
 - Gandalf -Lord of the Rings
 - Aleister Crowley -Real life
 
-| Level | Boon                        | Features           |
-| ----- | --------------------------- | ------------------ |
-| 1st   | Stance/4 Spells, Minor Perk | Power Unbound      |
-| 2nd   | Moderate Perk               | Mind as Kindling   |
-| 3rd   | Major Perk                  |                    |
-| 4th   | Stance/New Spell            |                    |
-| 5th   | 2 Minor Perks               | Instability        |
-| 6th   | +1 Stamina                  | 2ndary Upgrade     |
-| 7th   | Major Perk                  |                    |
-| 8th   | Stance/New Spell            |                    |
-| 9th   | Moderate Perk               |                    |
-| 10th  | +1 Flesh                    | Instability Option |
-| 11th  | 2 Minor Perks               | 2ndary Upgrade     |
-| 12th  | Stance/New Spell            |                    |
-| 13th  | Major Perk                  |                    |
-| 14th  | +1 Stamina                  | Instability Option |
-| 15th  | 2 Minor Perks               | 2ndary Upgrade     |
-| 16th  | Stance/New Spell            |                    |
-| 17th  | Moderate Perk               |                    |
-| 18th  | +1 Stamina                  | Instability Option |
-| 19th  | Major Perk                  |                    |
-| 20th  | Stance/New Spell            | Capstone           |
+| Level | Boon                 | Features           |
+| ----- | -------------------- | ------------------ |
+| 1st   | 3 Spells, Minor Perk | Power Unbound      |
+| 2nd   | Moderate Perk        | Mind as Kindling   |
+| 3rd   | Major Perk           |                    |
+| 4th   | New Spell            |                    |
+| 5th   | 2 Minor Perks        | Instability        |
+| 6th   | +1 Stamina           | 2ndary Upgrade     |
+| 7th   | Major Perk           |                    |
+| 8th   | New Spell            |                    |
+| 9th   | Moderate Perk        |                    |
+| 10th  | +1 Flesh             | Instability Option |
+| 11th  | 2 Minor Perks        | 2ndary Upgrade     |
+| 12th  | New Spell            |                    |
+| 13th  | Major Perk           |                    |
+| 14th  | +1 Stamina           | Instability Option |
+| 15th  | 2 Minor Perks        | 2ndary Upgrade     |
+| 16th  | New Spell            |                    |
+| 17th  | Moderate Perk        |                    |
+| 18th  | +1 Stamina           | Instability Option |
+| 19th  | Major Perk           |                    |
+| 20th  | New Spell            | Capstone           |
 ## Physical and Mental Modifiers: 0
 
-Choose **Might** or **Agility** to determine your Physical Modifier. Then choose **Acumen**, **Instinct**, or **Presence** to determine your Mental Modifier. Use the corresponding Ability Modifier whenever one of your Warlock features refers to your Physical Modifier or Mental Modifier.
+Choose **Might** or **Agility** to determine your Physical Modifier. Then choose **Acumen**, **Instinct**, or **Presence** to determine your Mental Modifier. Use the corresponding Ability Modifier whenever one of your Conduit features refers to your Physical Modifier or Mental Modifier.
 
 ## Health: 0
 
-A Warlock begins with 4 Vitality, 6 Stamina, and 9 Mental Health.
+A Conduit begins with 4 Vitality, 7 Stamina, and 9 Mental Health.
 
-| V   | V   | V   | V   | S   | S   | S   | S   | S   | S   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     |     |     |     |     |     |     |     |     |
+| V   | V   | V   | V   | S   | S   | S   | S   | S   | S   | S   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     |     |     |     |     |     |     |     |     |     |
 
 | M   | M   | M   | M   | M   | M   | M   | M   | M   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -56,7 +56,7 @@ As a Warlock, you have Training in a few areas according to the list below:
 
 ## Spellcasting: 0
 
-At 1st level, you learn four Spell Formulas and one Ritual of your choice. You learn additional formulas and rituals as specified by your class features.
+At 1st level, you learn three Spell Formulas and one Ritual of your choice. You learn additional formulas and rituals as specified by your class features.
 
 You cast spells by combining a Formula with a Delivery. The Formula determines the spell's effect, while the Delivery determines its targets or area. Casting takes at least 1 Action, and for each Action you devote to casting, you may invest up to 2 Strain. Each Strain spent on damage deals 1d6 damage of the spell's type, while a spell's effect requires 1 Strain to activate. You may also spend Strain to modify a spell's Delivery. The spell takes effect when you finish casting.
 
@@ -110,11 +110,11 @@ A 2m-radius Aura of the spell's Formula manifests around you until the start of 
 
 ### Roaming
 
-If the spell creates an area, that area persists for 1 minute, regardless of focus. At the start of each turn you roll a d4. The are then moves 2m in a direction determined by the d4, where rolling a 1 is North, 2 is East, and so on.
+If the spell creates an area, that area persists for 1 minute, regardless of focus. At the start of each turn you roll a d4. The area then moves 2m in a direction determined by the d4, where rolling a 1 is North, 2 is East, and so on.
 
 ### Confluence
 
-Choose another Formula you know. Its effect is also applied to the original spell's targets or area without additional Strain. The additional Formula does not add another damage roll or damage dice. Any associated Saves and other requirements still apply.
+Determine a random spell formula of yours. Its effect is also applied to the original spell's targets or area without additional Strain. The additional Formula does not add another damage roll or damage dice. Any associated Saves and other requirements still apply.
 
 ### Devastation
 

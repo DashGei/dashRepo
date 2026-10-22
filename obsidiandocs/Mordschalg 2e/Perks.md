@@ -121,7 +121,7 @@ This reveals only the general tendency of the outcome, not how events will unfol
 
 (PRE:3){A}**Smooth Talker** Target one creature who can hear or see you, that creature must succeed a Mental DT PRE Save or be Charmed by you for 10 minutes or until you or an ally attacks the creature.
 
-{A}**Stealth Tactics** Spend an Action guiding up to five willing creatures within Close (3m) through a concealed route. For the next minute, you and those creatures have Weal on Stealth Checks and leave no obvious tracks or other traces of your passage, provided you remain together and travel cautiously.
+{AA}**Stealth Tactics** Spend an Action guiding up to five willing creatures within Close (3m) through a concealed route. For the next minute, you and those creatures have Weal on Stealth Checks and leave no obvious tracks or other traces of your passage, provided you remain together and travel cautiously.
 
 {F}**Suggestion** When you Charm one creature with the Charm spell, you can suggest a basic course of action that will not cause immediate harm to another creature, nor does it go directly against the creature's ideals. For the next hour, the creature tries its best to complete said activity 
 

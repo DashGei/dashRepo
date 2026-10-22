@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d40cf7b5a7a944be",
+            "id": "3b7e95ca2e698188",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mordschalg 2e/network.md",
+                "file": "Mordschalg 2e/Archetypes/New/The Ranger.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "network"
-            }
-          },
-          {
-            "id": "d3db59278f169c6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mordschalg 2e/Classes/New/The Ranger, 2.0.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Ranger, 2.0"
+              "title": "The Ranger"
             }
           }
         ]
@@ -180,6 +166,16 @@
               "icon": "lucide-list",
               "title": "Outline of Deities, Favor, and Religion"
             }
+          },
+          {
+            "id": "8de5a22d96dbff8f",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
           }
         ]
       }
@@ -200,98 +196,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "floating": {
-    "id": "b266ee283512676b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "0f40bf7b69d2d820",
-        "type": "window",
-        "children": [
-          {
-            "id": "4fb6c57b19a1a7f5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "06dae6414164f8d5",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Mordschalg 2e/Health system.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Health system"
-                }
-              },
-              {
-                "id": "b0e86f04b4709237",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Mordschalg 2e/Resolution.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Resolution"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 1280,
-        "y": 0,
-        "width": 1279,
-        "height": 1440,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "d40cf7b5a7a944be",
+  "active": "3b7e95ca2e698188",
   "lastOpenFiles": [
-    "Mordschalg 2e/GMG/Regions.md",
-    "Mordschalg 2e/GMG/Untitled.md",
-    "Campaigns/Players create.md",
-    "Mordschalg 2e/GMG",
-    "SRD.md",
-    "Mordschalg 2e/Classes/New/The Warlock.md",
-    "Mordschalg 2e/Perks.md",
-    "Mordschalg 2e/Classes/Progression Basics.md",
+    "Mordschalg 2e/Archetypes/New/The Champion.md",
+    "Mordschalg 2e/Archetypes/New/The Ranger.md",
+    "Mordschalg 2e/Archetypes/New/The Faithful.md",
+    "Mordschalg 2e/Archetypes/New/The Berserker.md",
+    "Mordschalg 2e/Archetypes/New/The Conduit.md",
+    "Mordschalg 2e/Archetypes/New/The Sovereign.md",
+    "Mordschalg 2e/Archetypes/New/The Rogue.md",
+    "Mordschalg 2e/Archetypes/New/The Wizard.md",
     "Mordschalg 2e/Spells.md",
-    "Mordschalg 2e/Classes/New/The Ranger, 2.0.md",
-    "Mordschalg 2e/Races.md",
-    "Mordschalg 2e/stats.md",
-    "Mordschalg 2e/Classes/New/The Wizard.md",
-    "Mordschalg 2e/Classes/New/The Berserker 2.0.md",
-    "Mordschalg 2e/Space.md",
-    "Mordschalg 2e/Hostiles/Arani/Arani Elite.md",
-    "Mordschalg 2e/Hostiles/Arani/Arani.md",
+    "Mordschalg 2e/Martial Equipment and Basics/Stances.md",
     "Mordschalg 2e/Resolution.md",
-    "Mordschalg 2e/Health system.md",
+    "Mordschalg 2e/Adversaries/Drow Stat block.md",
+    "Mordschalg 2e/Adversaries/Cryptids.md",
+    "Mordschalg 2e/Dice.md",
     "Mordschalg 2e/Equipment/Weapons and Armor.md",
-    "Mordschalg 2e/Party Systems/Divine Favor.md",
-    "Mordschalg 2e/Party Systems/Rest.md",
-    "Mordschalg 2e/Party Systems",
-    "Mordschalg 2e/Classes/New",
-    "Mordschalg 2e/Classes/Old",
-    "Mordschalg 2e/Equipment/Inventory System.md",
-    "Mordschalg 2e/Standard Monster Actions.md",
-    "Mordschalg 2e/network.md",
-    "Mordschalg 2e/Spatial Elements/Movement.md",
+    "Mordschalg 2e/Perks.md",
+    "Mordschalg 2e/Adversaries/Corpses.md",
+    "Mordschalg 2e/GMG/Regions/The Woods/The Woods.md",
     "Mordschalg 2e/Actions.md",
-    "Mordschalg 2e/Spatial Elements",
+    "Campaigns/Players create.md",
+    "Untitled 1.md",
+    "Mordschalg 2e/GMG/Regions/Regions.md",
+    "Mordschalg 2e/Party Systems/Rest.md",
+    "Mordschalg 2e/Party Systems/Divine Favor.md",
+    "Mordschalg 2e/Space.md",
+    "Mordschalg 2e/Races.md",
+    "Mordschalg 2e/GMG/Regions/The Woods",
+    "Mordschalg 2e/GMG/Regions",
+    "Mordschalg 2e/Party Systems",
+    "Mordschalg 2e/GMG",
+    "Mordschalg 2e/Archetypes/Old",
+    "Mordschalg 2e/Archetypes/New",
     "Campaigns/Atlantis",
     "Mordschalg 2e/Hostiles/Arani",
     "Mordschalg 2e/Hostiles",
     "Da Lore",
-    "Campaigns/New Frontiers",
     "Pasted image 20260722203102.png",
     "Pasted image 20260621165511.png",
     "southyvalm.png",

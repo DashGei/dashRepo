@@ -98,6 +98,18 @@ When rolling with Weal you increase the tests outcome by one step to a maximum o
 
 When rolling with Woe you decrease the tests outcome by one step to a minimum of Miss
 
+### Critical
+
+When rolling Critical, the maximum result for the Threshold test is 2x the original. This changes the effect of the roll as well.
+
+| Roll          | Ability Check | Damage Roll  |
+| ------------- | ------------- | ------------ |
+| Total < DT    |               | 4 HP         |
+| Total ≥ DT    |               | 5 HP         |
+| Total ≥ 2× DT |               | 6 HP         |
+| Total ≥ 3× DT |               | Instant Kill |
+
+
 ### Gate
 
 A Gate modifier can either be Moderate or Major, and it means you must roll at least that high to have an effect.

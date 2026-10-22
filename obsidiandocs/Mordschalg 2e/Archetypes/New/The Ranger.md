@@ -19,68 +19,60 @@ A Ranger does not need to be a woodsman, archer, or spellcaster. A Ranger is def
 
 ## Class Features
 
-|Level|Boon|Hunter's Mark|Feature|
-|--:|---|---|---|
-|1|Stance|1d4|Hunter's Mark|
-|2|Moderate Perk|1d4|Trailcraft|
-|3|Major Perk|1d4|Analyzed|
-|4|Stance|1d4|—|
-|5|Minor Perk|1d6|Mortal Reminder|
-|6|+1 Stamina|1d6|Hit List|
-|7|Major Perk|1d6|—|
-|8|Stance|1d6|Killer Instincts|
-|9|Moderate Perk|1d6|—|
-|10|+1 Flesh|1d8|Bloodhound|
-|11|Minor Perk|1d8|Campcraft|
-|12|Stance / New Spell|1d8|—|
-|13|Major Perk|1d8|Analyzed II|
-|14|+1 Stamina|1d8|Relentless Hunt|
-|15|Minor Perk|2d4|Lord of the Land|
-|16|Stance|2d4|—|
-|17|Moderate Perk|2d4|—|
-|18|+1 Stamina|2d4|Feral Senses|
-|19|Major Perk|2d4|—|
-|20|Stance|2d6|Capstone|
+| Level | Boon               | Hunter's Mark | Feature          |
+| ----: | ------------------ | ------------- | ---------------- |
+|     1 | Stance, Minor Perk | 1d4           | Hunter's Mark    |
+|     2 | Moderate Perk      | 1d4           | Trailcraft       |
+|     3 | Major Perk         | 1d4           |                  |
+|     4 | Stance             | 1d4           | Analyzed         |
+|     5 | 2 Minor Perks      | 1d6           | Mortal Reminder  |
+|     6 | +1 Stamina         | 1d6           | Hit List         |
+|     7 | Major Perk         | 1d6           |                  |
+|     8 | Stance             | 1d6           | Killer Instincts |
+|     9 | Moderate Perk      | 1d6           |                  |
+|    10 | +1 Flesh           | 1d8           | Bloodhound       |
+|    11 | 2 Minor Perks      | 1d8           | Campcraft        |
+|    12 | Stance             | 1d8           |                  |
+|    13 | Major Perk         | 1d8           | Analyzed II      |
+|    14 | +1 Stamina         | 1d8           | Relentless Hunt  |
+|    15 | 2 Minor Perks      | 2d4           | Lord of the Land |
+|    16 | Stance             | 2d4           |                  |
+|    17 | Moderate Perk      | 2d4           |                  |
+|    18 | +1 Stamina         | 2d4           | Feral Senses     |
+|    19 | Major Perk         | 2d4           |                  |
+|    20 | Stance             | 2d6           | Capstone         |
 
-The exact placement of Core and Secondary Features may change during development.
+## Physical and Mental Modifiers: 0
 
-# Ranger Statistics
+Choose **Might** or **Agility** for your Physical Modifier. Then choose **Acumen** or **Instinct** as your Mental Modifier. Use the corresponding Ability Modifier whenever one of your Warlock features refers to your Physical Modifier or Mental Modifier.
 
 ## Health
 
-A Ranger begins with 3 Vitality, 1 Flesh, 8 Stamina, and 9 Mental Health with a MD of 6.
+A Ranger begins with 3 Vitality, 1 Flesh, 9 Stamina, and 9 Mental Health
 
-| V   | V   | V   | F   | S   | S   | S   | S   | S   | S   | S   | S   |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     |     |     |     |     |     |     |     |     |     |     |
+| V   | V   | V   | F   | S   | S   | S   | S   | S   | S   | S   | S   | S   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|     |     |     |     |     |     |     |     |     |     |     |     |     |
 
 | M   | M   | M   | M   | M   | M   | M   | M   | M   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |     |     |     |     |     |     |     |     |     |
 
-## Proficiencies
+## Training
+
+As a Ranger, you have Training in a few areas according to the list below: 
 
 **Armor:** Light armor, Medium armor, Shields
-
 **Weapons:** Simple Weapons, Martial Weapons
-
 **Skills:** Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
 
-## Physical and Mental Modifiers
-
-Some Ranger features will refer to your **Physical Modifier** or **Mental Modifier**, and you will need to choose which Ability of yours represents you best for each.
-
-Your Physical Modifier is your Might or Agility Modifier.
-
-Your Mental Modifier is your Instinct or Acumen Modifier.
-
-### Perks
+## Perks: 1
 
 Perks grant talents, techniques, and specialized capabilities that customize your character. Each Perk has a degree which is either Minor, Moderate, or Major, and may have tags or prerequisites that determine who can choose it and how it works.
 
 At 1st level, choose one Minor Perk for which you meet the prerequisites.
 
-# Stance
+## Stance
 
 At level one, you gain access to a Stance of your choosing. While active, you have all features of that Stance. At later levels you will gain new Stances which you may swap between on a Minor Rest. Losing the old features and gaining the new until you choose to swap back to that Stance.
 
@@ -96,14 +88,14 @@ When you reduce a marked creature to 0 Vitality with an attack, you may immediat
 
 The mark lasts until you finish a rest, the creature reaches 0 Vitality, or you end it as an action. The creature has no way of knowing it’s marked.
 
-# Trailcraft
+## Trailcraft
 
 A good Ranger can make even the shabbiest of grounds into a camp.
 
 When the party prepares to rest in an outdoor location, you may spend two hours of that rest choosing and preparing the campsite.
 For the purpose of the Rest Test, increase the total quality of the resting place by **one step**, to a maximum of **Nice**.
 
-# Analyzed
+## Analyzed
 
 You learn to study and terrify your quarry while fighting it.
 
@@ -111,7 +103,7 @@ Whenever you deal damage to your marked creature, you immediately learn whether 
 
 Additionally, whenever you roll Hunter's Mark damage, you may choose to deal **Stress damage** instead of Force damage. When you do so, add your **Mental Modifier** to the Hunter's Mark damage roll.
 
-# Mortal Reminder
+## Mortal Reminder
 
 Your quarry becomes more vulnerable as the hunt wears it down. 
 
@@ -119,7 +111,7 @@ For every minute which passes, a marked creature takes Stress damage equal to yo
 
 When you Strike a marked creature that is **Distressed**, maximize your Hunter's Mark dice instead of rolling them.
 
-# Hit List
+## Hit List
 
 Your hunt no longer ends with a single quarry.
 
@@ -129,21 +121,19 @@ Additionally, whenever you Strike a creature, you may move the center of your Hu
 
 This does not allow you to maintain multiple independent Hunter's Marks. It simply allows your mark to rapidly move between targets during a fight.
 
-# Killer Instincts
+## Killer Instincts
 
 You know when a wounded creature has nothing left to give.
 
-Once per turn, when you Strike a marked creature, if the resulting damage would leave that creature at **1 Vitality**, you may spend **1 Strain** to deal 1 additional point of Vitality damage.
+Once per turn, when you Strike a marked creature, if the resulting damage would leave that creature at **1 Vitality**, that Strike deals 1 additional point of Vitality damage.
 
-This feature represents a deliberate finishing blow rather than increasing the Ranger's ordinary damage output.
-
-# Bloodhound
+## Bloodhound
 
 Your connection to a quarry extends beyond ordinary senses.
 
 You are never **Blind** when sensing creatures marked by you, and when you use Hunters Mark, you can choose to mark the closest non-allied creature within 15m. You do not need to be aware of where the creature is. 
 
-# Analyzed II
+## Analyzed II
 
 Your understanding of your quarry becomes precise enough to exploit its defenses directly.
 
@@ -153,7 +143,7 @@ If you do, choose one resistance the creature possesses against a damage type de
 
 That resistance is ignored until the start of your next turn.
 
-# Relentless Hunt
+## Relentless Hunt
 
 Your prey cannot shake you off once you have committed to the hunt.
 
@@ -163,18 +153,18 @@ Additionally, when you lose sight of your marked creature, the mark remains acti
 
 Your Hunter's Mark can therefore continue functioning through ordinary breaks in line of sight.
 
-# Lord of the Land
+## Lord of the Land
 
 All perks with the **Exploration** tag require 2 less Strain when used.
 
 Additionally, you can use 3 Strain and 10 minutes to mark a 30 meter radius location with your Hunter's mark feature. While in this radius, you have Weal on Stealth and Perception checks, and all creatures of your choice are marked by you while in this area, and the area disappears if you end the mark as a free action.
 
-# Feral Senses
+## Feral Senses
 
 Your senses have developed beyond ordinary mortal limits.
 
 
-# Capstone
+## Capstone
 
 The Ranger's 20th-level capstone should complete the Hunter's Mark progression rather than simply adding another unrelated combat ability.
 

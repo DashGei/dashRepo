@@ -47,5 +47,5 @@ All rolls under the Modifier are set instead to that Modifier
 
 ### Re-Rolled
 
-All rolls equal or under the modifier are re-rolled once.
+All rolls equal or under the Modifier are re-rolled once.
 

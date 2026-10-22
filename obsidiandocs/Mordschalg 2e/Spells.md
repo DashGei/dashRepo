@@ -84,7 +84,7 @@ Distance Shorthand
 
 **Dark** *Necrotic* The area is filled with Darkness.
 
-**Door** *MIT* Two linked 1m portals appear in the area. A creature who occupies the space of one portal appears next to the other, and a projectile continues from one portal to the next in the same direction it was when entering.
+**Door** *MIG* Two linked 1m portals appear in the area. A creature who occupies the space of one portal appears next to the other, and a projectile continues from one portal to the next in the same direction it was when entering.
 
 **Dispel** A magic effects are targets and dispelled.
 
@@ -110,9 +110,9 @@ Distance Shorthand
 
 **Mist** *Cold* A cloud of heavy fog appears in the area, which is Obscured. 
 
-**Levitate** *MIT* Targets rise to the ceiling of the area, or by 1m.
+**Levitate** *MIG* Targets rise to the ceiling of the area, or by 1m.
 
-**Plague** *Toxic* *MIT*  Targets are Poisoned for the duration.
+**Plague** *Toxic* *MIG*  Targets are Poisoned for the duration.
 
 **Quiet** *Numb* Targets make no sound.
 
@@ -122,7 +122,7 @@ Distance Shorthand
 
 **Slow** *AGI* Targets have Slow for the duration.
 
-**Spine (Piercing).** The area becomes difficult terrain. For every 1m a target moves through the area, it takes 1d4 damage.
+**Spine** *Pierce* . The area becomes difficult terrain. For every 1m a target moves through the area, it takes 1d4 damage.
 
 **Static** *Numb* Targets cannot focus.
 
@@ -130,7 +130,7 @@ Distance Shorthand
 
 **Ward** Targets reduce Major damage to Moderate damage.
 
-**Wave** *Blunt* *MIT* Targets are pushed 2m away from the origin and fall Prone.
+**Wave** *Blunt* *MIG* Targets are pushed 2m away from the origin and fall Prone.
 
 **Wither** *Necrotic* Targets take 1 damage die when taking the Attack or Cast action.
 
