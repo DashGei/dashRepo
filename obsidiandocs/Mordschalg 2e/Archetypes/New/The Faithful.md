@@ -6,7 +6,7 @@ Iconic Faithful:
 
 - Wrys -Fire Emblem
 - Erandur -The Elder Scrolls
-- Aleister Crowley -Real life
+- The Pythia -Real life
 
 | Level | Boon                 | Features            |
 | ----- | -------------------- | ------------------- |

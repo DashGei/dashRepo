@@ -134,7 +134,9 @@ Try to soak in all facets of this system and think about what assumptions you ar
 A creature starts their turn with two actions and a reaction.
 
 
+# Instant Kills
 
+Dealing damage equal to a creature's maximum Stamina + Health + Flesh instantly brings the creature to 0 Hit Points
 
 
 

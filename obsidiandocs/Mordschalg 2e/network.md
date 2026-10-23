@@ -8,8 +8,7 @@ Dreamborne?
 
 Thy Dream Realized
 
-Realm of Twilight (I like this one)
-
+Twilight Realm
 
 ### s1
 
@@ -22,3 +21,7 @@ AD&D project overview
 
 
 Parse/Narrative/Strategic Culling and how decreasing the parse time also decreases the strategic and narrative aspects. As game designers we should strive to find a balance. Elegant design means having the least amount of narrative and strategic culling whilst also limiting the parse culling.
+
+#### Also DM ideas?
+
+Instead of Monster A, B, C. Each enemy is simply named by a defining physical trait. You could even have this go alphabetically

@@ -3,31 +3,31 @@
 Iconic Champions:
 
 - Beowulf -English Mythology
-- Sir Lacelot -Arthurian Legend
+- Finn -Adventure Time
 - Taigen -Blue Eye Samurai
 
-| Level | Boon                | Features                                          |
-| ----- | ------------------- | ------------------------------------------------- |
-| 1st   | Stances, Minor Perk | Technique                                         |
-| 2nd   | Moderate Perk       | Action Surge, Martial Feats                       |
-| 3rd   | Major Perk          | Martial Archetype                                 |
-| 4th   | Stance              | Ability Score Improvement                         |
-| 5th   | 2 Minor Perks       | Martial Fatigue Resistance                        |
-| 6th   | +1 Stamina          | Overpowering Strike, Experienced                  |
-| 7th   | Major Perk          | Stamina Surge                                     |
-| 8th   | 2 Stances           | Ability Score Improvement                         |
-| 9th   | Moderate Perk       | Indomitable (1 use)                               |
-| 10th  | +1 Flesh            | Stamina II                                        |
-| 11th  | 2 Minor Perks       | Expert Combatant                                  |
-| 12th  | Stance              | Ability Score Improvement                         |
-| 13th  | Major Perk          | Stamina III, Indomitable (2 uses)                 |
-| 14th  | +1 Stamina          | Martial Archetype Feature, Overpowering Strike II |
-| 15th  | 2 Minor Perks       | Stamina Surge II                                  |
-| 16th  | Stance              | Ability Score Improvement                         |
-| 17th  | Moderate Perk       | Indomitable (3 uses)                              |
-| 18th  | +1 Stamina          | Stamina IV                                        |
-| 19th  | Major Perk          | Ability Score Improvement                         |
-| 20th  | 2 Stances           | Martial Archetype Capstone, Weapon Master         |
+| Level | Boon                | Features       |
+| ----- | ------------------- | -------------- |
+| 1st   | Stances, Minor Perk | -              |
+| 2nd   | Moderate Perk       | Technique      |
+| 3rd   | Major Perk          |                |
+| 4th   | Stance              |                |
+| 5th   | 2 Minor Perks       | Core Upgrade   |
+| 6th   | +1 Stamina          | 2ndary Upgrade |
+| 7th   | Major Perk          |                |
+| 8th   | 2 Stances           |                |
+| 9th   | Moderate Perk       |                |
+| 10th  | +1 Flesh            | Core Upgrade   |
+| 11th  | 2 Minor Perks       | 2ndary Upgrade |
+| 12th  | Stance              |                |
+| 13th  | Major Perk          |                |
+| 14th  | +1 Stamina          | Core Upgrade   |
+| 15th  | 2 Minor Perks       | 2ndary Upgrade |
+| 16th  | Stance              |                |
+| 17th  | Moderate Perk       | Core Upgrade   |
+| 18th  | +1 Stamina          |                |
+| 19th  | Major Perk          |                |
+| 20th  | 2 Stances           | Capstone       |
 
 ## Physical and Mental Modifiers: 0
 
@@ -53,59 +53,62 @@ As a Champion, you have Training in a few areas according to the list below:
 **Weapons:** Simple weapons, martial weapons
 **Skills:** Choose two from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
 
-## Technique: 1
+## Stances: 1
 
-As a Champion you can center yourself in combat and choose to enhance certain moves you do, adding a d4 to their result. You can do so freely on any turn at any time, and after you use this feature you may not do so until the start of your next turn.
+At level one, you gain access to 2 Stances of your choosing. While active, you have all features of one Stance, and you can swap between them as an action which loses the old features and gaining the new until you choose to swap back to that Stance. At later levels you will gain new Stances which you can also swap between as an Action. 
 
-You can add the result of the d4 to any of the following:
+Any perk you gain which requires a Stance is only ever active while that Stance is active.
+
+## Technique: 2
+
+As a Champion you can center yourself in combat and choose to enhance certain moves you do, adding a d6 to their result. You can do so freely on any turn at any time, and after you use this feature you may not do so until the start of your next turn.
+
+You can add the result of the d6 to any of the following:
 
  - A Strike's damage
  - Any of your current speeds
  - A Save
  - Subtract the result from one damage instance you take
 
+## Power Through: 3
 
-## Stances
+When you make a Rest Test, you can choose to gain the benefits of the next degree of Rest. (ex: Minor →Moderate) However when you do so you gain the benefits of the next worse degree the next time you take a rest.
 
-At level one, you gain access to 2 Stances of your choosing. While active, you have all features of one Stance, and you can swap between them as an action which loses the old features and gaining the new until you choose to swap back to that Stance. At later levels you will gain new Stances which you can also swap between as an Action. 
+## Eye for Victory: 4
 
-Any perk you gain which requires a Stance is only ever active while that Stance is active.
+As an Action, spend 2 Strain and choose up to 4 creatures you can see within 12m. You then learn their maximum and current Mental Health.
 
-## Perseverance: 4
+Using this Action outside of combat gives you different information on the 4 creatures. The GM tells you their current disposition of you and eagerness to start combat.
+
+## Technique Enhancements: 7
+
+Your Technique die becomes a d8 instead of a d6
 
 ## Overpowering Strike: 6
 
-When you make a weapon attack, you can choose to replace the attack roll by forcing the target to make a **Physical DT** Agility Save. On a failure, the attack hits.
+When you make a Strike, you can choose to replace the enemies PD with their AGI Modifier. For example using this feature and rolling
 
-## Experienced: 6
+## Experienced: 
 
 Choose a fifth character creation Experience.
 
-## Stamina Surge: 7
+## Battlefield Intuition: 9
 
-When you use your Action Surge, you regain one expended **Feat Slot**.
+When you use Eye for Victory out of combat, the GM also gives you their estimation of how likely your group is to walk away from combat and in what condition. 
 
-At 15th level, this increases to two expended **Feat Slots**.
-
-## Indomitable: 9
-
-You can reroll a saving throw that you fail. If you do so, you must use the new roll, and you can't use this feature again until you finish a long rest. You can use this feature twice between long rests starting at 13th level and three times starting at 17th level.
+Being able to accurately read them also means that using this feature also tells you whether or not there are more enemies than you can't currently see, and whether or not they have a trick up their sleeve you aren't prepared for. It does not tell you how many enemies, nor what that advantage could be.
 
 ## Stamina II: 10
 
-You have become significantly more efficient in combat. When you roll a 1 on a **Stamina Die**, you may reroll the die, but you must take the second result. Additionally, when you start your turn, you can expend one **Stamina Die** to increase your speed for that round by 10 feet.
+Your Technique Dice increase in size to d10.
 
-## Expert Combatant: 11
+## Expert Technique:13
 
-Choose a fighting style, you gain the non-health bonus benefits of that fighting style along with the level 7 free feat feature of that fighting style.
+When you start your turn, you can choose to either gain one d10 Technique Die, or two d4 Technique dice to spend individually.
 
-## Stamina III: 13
+## Disciplined Footwork
 
-Your Stamina Dice increase in size to d6.
-
-## Overpowering Strike II: 14
-
-Your Overpowering Strike becomes more devastating. When a creature succeeds on its saving throw against your Overpowering Strike, it still takes half damage. Additionally, if the creature rolls a 1 on its saving throw, the attack is considered a critical hit for damage.
+When you use an Action to swap between stances, you gain your choice of 1d10 or 2d4 Technique dice.
 
 ## Stamina IV: 18
 

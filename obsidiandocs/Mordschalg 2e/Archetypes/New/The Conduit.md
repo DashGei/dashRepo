@@ -6,7 +6,7 @@ Iconic Warlocks:
 
 - Ghost -Hollow Knight
 - Gandalf -Lord of the Rings
-- Aleister Crowley -Real life
+- Aang -Avatar: The Last Airbender
 
 | Level | Boon                 | Features           |
 | ----- | -------------------- | ------------------ |
