@@ -16,6 +16,8 @@ Perks are the minute aspects and abilities that make up a mortal's social and co
 
 {P}**Cook** When you are the Cook, a **Miss** on your Recreation Test counts as a **Minor** instead.
 
+{F}**Death Drop** When you fall from a height and land on a creature, you can cause up to 5d6 of the damage you take from the fall to instead be dealt to the creature below you.
+
 {A}**Defensive Positions** You can prepare a 3m cube as a defensive position by taking 10 min to set up barricades, trenches, or other structures. Creatures in the position can take the Defend action as one action, and they have Half Cover against all Strikes and effects from outside the position. A 2m border around the edge of the area is difficult terrain, you may add sections which are not difficult terrain.
 
 {F}**Detonate** When you reduce a creature to 0 Vitality with **Immolate**, and that spell was delivered via Bolt, the target explodes and all creatures within 3m take 3d6 Burn.

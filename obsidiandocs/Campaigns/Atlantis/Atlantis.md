@@ -6,9 +6,69 @@ in the year 70 P.A (Pre Atlantis), after 930 years of prehistoric civilization, 
 
 Her plan here is to create enough scholars well versed in conjuration to tear a space in reality and open a gate through the prison that traps Leviathan. However this process is slow, and incredibly difficult. When a creature dies their soul moves between the planes, eventually ending up on an outer plane that aligns with their life. This creates a small hole in the fabric of space, and in one of the first use cases of the dark arts, Sorin figures if she kills enough people at once, a she can tear a gate similarly to the one that would require tens of thousands of high accomplishing wizards. She turns the entire city into a death circle and begins a ritual that would siphon all souls in the city. However the god of omens, fate, and fear Tenebris notices this, and as the ritual is completed he fouls it. This results in the city becoming stuck between the elemental plane of water and ours, and Sorin becoming the first Lich.
 
-In the year 1450 A.A (After Atlantis) An Aboleth finds this space between dimensions and figures it a suitable home. 10 years later our campaign starts. Innenza Blang, our Sea Dragonborn Soulknife rogue, she stole an artifact held by Nerelith because she believed its necromantic properties could resurrect her brother. This ring buried itself into her hand on contact, and it is now giving her necrotic powers while corrupting her body. Deep Sea Elf and necromancer Nibin Mahi was sent by his queen to help the party further some goal, but neither his queen nor him know exactly what he must do. Anadine the stars druid is a follower of Leviathan, though she worships nature more, and really only him by extension. The sharkfolk fighter and barbarian Churchill and Callahan are also within the party, but their backstories aren’t tied to Act 1.
+In the year 1450 A.A (After Atlantis) An Aboleth named Yahl finds this space between dimensions and figures it a suitable home. 10 years later our campaign starts. Innenza Blang, our Sea Dragonborn Soulknife rogue, she stole an artifact held by Nerelith because she believed its necromantic properties could resurrect her brother. This ring buried itself into her hand on contact, and it is now giving her necrotic powers while corrupting her body. Deep Sea Elf and necromancer Nibin Mahi was sent by his queen to help the party further some goal, but neither his queen nor him know exactly what he must do. Anadine the stars druid is a follower of Leviathan, though she worships nature more, and really only him by extension. The sharkfolk fighter and barbarian Churchill and Callahan are also within the party, but their backstories aren’t tied to Act 1.
 
-In our first session our players escaped prison when it slipped into the far realm after Innenza touched a tablet with her ring waking Leviathan. None of the townsfolk know they are prisoners for now, and the group was hired by a local blacksmith couple to rescue their cousin who was transporting supplies and was caught by the Cult of Sleep. Our next session they will reach the compound
+In our first session our players escaped prison, and across 2 others infiltrated Yahl's cult whos compound stood above Atlantis and was a front for excavation and Blayne's research regarding the working's of Sorin Velthrea.
+
+Project Lance is the codename for a operation lead by agents in the Sym government. The project’s goal is to prevent the gods from interacting with Gaia. Current relevant members are Yahl, Vericellion, Blayne, and Ahmrose + her Diamond Teeth.
+
+Vericellion is a 357 Year old Green Dragon and one of the more powerful beings on the plane. She isn't particularly interested in Atlantis as she is more focused on her own projects surrounding the subjugation of her home nation, so she really just wants the rest to be done with their respective works.
+
+Ahmrose Elwei is a 80 year old sea elf from Koar Tai who has shifted her father’s mining business into a brutal mercenary company, at first it was focused on putting down various miner unions for different syndicates, but it quickly expanded to renown and infamy across the East Boils Sea and parts of Eaor’valm. The company known as the Elwei Mining Co. to civilians and Diamond Teeth by people who know what they really get up to. Ahmrose has been labeled as a global terrorist by nearly every nation, but a fair chunk of those same nations including the Sym, Garrenon, and Rimeweil find her useful anyhow, and regularly purchase her mercenaries for PMC use.
+
+Blayne is a half-siren like Anadine, and is currently Ahmrose's second in command and friend. He's vain, petty, and quite the megalomaniac. He does however hold large interest in Anadine, her being the only other half-siren he has met. He wishes to be her mentor and genuinely does want her to thrive in the world, although according to his dog eat dog philosophy.
+
+
+To sum up the sessions since entering Atlantis:
+
+The party falls into Atlantis during combat with a simulacrum of Blayne Horvath.
+
+The party has explored ruins, fighting a few left over remnants and discovering a teleporter which can be used to access the lower part of the school (likely where we could put Sorin). They listened to a conversation between Ahmrose and Vericellion and know they exist. They killed Blayne's clone, after which he visited Anadine in a dream and is trying to get her more comfortable with the idea of supporting his side.
+
+The teleporter requires 3 cut rubies, which they currently have 1 of.
+
+They then see an under-boat (think an airship for aquatic peoples) approaching. To avoid it they seek refuge in the ruined library, where they are ambushed by members of the Diamond Teeth. The story is currently at the immediate end of this encounter.
+
+The next session, we will introduce two new characters supplementary to the party. Habel Garren, and Lathos. 
+
+Habel is a stocky, loud, and brash Triton. Born to Jacel Ulmellug Garren (87) and unknown mother, currently 27
+20 siblings, 13 of them half, 6 of them step siblings Habel has met 5 of them including Her older brother and half-sister Jacel Jr. (JJ) (35) and Ginny (38)
+Jacel is one of the richest men on Gaia, being co-founder of Garren,  Rockmund, and Zalthbash. A leading engineering conglomerate responsible for many breakthroughs in steam related technology, and aquatic firearms. 
+Habel met Emile 5 years ago while on a post grad gap year on the surface. They planned to get married 1 and a half years prior, but an attempted assassination on Jacel's life made him take as many of his kids as he could back home (Koar Tai). 
+After the separation, Jacel got Habel into a job with the Diamond Teeth, and is currently on an expedition to Atlantis where she is serving as head mechanic for the under-boat they use to transport equipment. 
+Habel has a high degree with the Steam Guild (also a little bit of a nepo baby, but shes good)
+
+Lathos is the childhood friend of Anadine created by her player. As children they were brought together by their shared interest in the night sky, however Lathos' research consumed him, and they grew distant. Lathos has been researching the relationships between stars (dead souls suspended in the sky), and 
+
+
+We need to get the party from Atlantis Ko'ar Tai in order to initiate fun story elements like:
+
+Garren,  Rockmund, and Zalthbash + Habel's relationship with her father
+
+Innenza's parental relationship.
+
+Fun Diamond Teeth encounters
+
+##### Arc II, Ko'ar Tai
+
+Ko'ar Tai is a massive and powerful undersea nation built around a vented trench. This trench allows them to be an aquatic nation with the power to both mine and smelt metals, making that their primary and incredibly lucrative trade. The city is ruled by 4 families who own their own syndicates, mobs, industries, and neighborhoods: the Blaang, the Elwei, the Zalthbash, and the Kelps. 
+
+The Blaang family deals heavily in gem trades with surface nations, but their family is in disarray as the heir Reven was killed before being married to a member of the Kelp family. This was a massive political event, secretly orchestrated by Ahmrose Elwei who seeks to undermine both families and take more control of the nation. 
+
+Taking down the Diamond Teeth, Blayne, and Ahmrose.
+
+The Diamond Teeth are quickly assuming control of the Blaang's city territory, as patriarch Zeke has fallen into himself after the death of his son Reven and disappearance of daughter Innenza. He has been cheating on Grace with multiple courtesans since she left the estate to live temporarily with her parents.  
+
+I want the arc to end in a fun encounter involving either the storming of the Blaang estate on defense, or the party attacking Ahmrose's compound. But that's for much later
+
+
+
+
+
+
+
+
+Our next session they will reach the compound
 
 Led by Nartoth the Dreamer, an Aberrant Cultist The cult of sleep compound is built inside of a cave built on top of the ruins of Atlantis (Now taken over by Aboleth Yahl). The cult was founded by Nartoth, a doctor who promoted a therapy of inhaling fumes from the caves. These fumes are psychedelics, causing those who inhale them to have vivid dream-like hallucinations of the far realm. Inhaling the fumes cures insomnia for a week, but patients also reported seeing impossible geometry in the corners of their eyes, and the immediate dreams turned into horrible nightmares. Nartoth became intrigued by this, and one day disappeared into the caves, never to return. During this time he spent a full week in one of the fume caves, eventually making contact with the trapped aboleth via dreams. He now leads a cult dedicated to feeding this creature dreams. His Locathah subjects ambush caravans of people in the swamp, peering into their heads, seeing who has the most vivid dreams, kidnapping them and killing the rest. The captured are chained in the rooms where they are exposed to the fumes and kept dreaming.
 
@@ -174,10 +234,6 @@ Callahan
 Anadine
 
 Nibin
-
-
-
-
 
 
 
