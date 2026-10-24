@@ -1,4 +1,4 @@
-To a Champion combat emulates art, each stroke of the blade, arrow tracing the air, and enemy outsmarted falls upon the canvas of battle.
+To a Champion combat emulates art, each stroke of the blade, arrow tracing the air, and enemy outsmarted falls upon the canvas of battle. Honing a keen instinct and talent to push through the most impossible of odds
 
 Iconic Champions:
 
@@ -6,28 +6,28 @@ Iconic Champions:
 - Finn -Adventure Time
 - Taigen -Blue Eye Samurai
 
-| Level | Boon                | Features                  |
-| ----- | ------------------- | ------------------------- |
-| 1st   | Stances, Minor Perk | Technique                 |
-| 2nd   | Moderate Perk       | Power Through             |
-| 3rd   | Major Perk          |                           |
-| 4th   | Stance              |                           |
-| 5th   | 2 Minor Perks       | Eye for Victory           |
-| 6th   | +1 Stamina          | Overpowering Strike       |
-| 7th   | Major Perk          |                           |
-| 8th   | Stance              | Technique Enhancements    |
-| 9th   | Moderate Perk       |                           |
-| 10th  | +1 Flesh            | Battlefield Intuition     |
-| 11th  | 2 Minor Perks       | Technique Enhancements II |
-| 12th  | 2 Stances           |                           |
-| 13th  | Major Perk          |                           |
-| 14th  | +1 Stamina          | Expert Technique          |
-| 15th  | 2 Minor Perks       | Power Through II          |
-| 16th  | Stance              |                           |
-| 17th  | Moderate Perk       | Disciplined Footwork      |
-| 18th  | +1 Stamina          |                           |
-| 19th  | Major Perk          |                           |
-| 20th  | 2 Stances           | Capstone                  |
+| Level | Boon                | Features               |
+| ----- | ------------------- | ---------------------- |
+| 1st   | Stances, Minor Perk | Technique              |
+| 2nd   | Moderate Perk       | Power Through          |
+| 3rd   | Major Perk          |                        |
+| 4th   | Stance              |                        |
+| 5th   | 2 Minor Perks       | Eye for Victory        |
+| 6th   | +1 Stamina          | Overpowering Strike    |
+| 7th   | Major Perk          |                        |
+| 8th   | Stance              | Technique Enhancements |
+| 9th   | Moderate Perk       |                        |
+| 10th  | +1 Flesh            | Battlefield Intuition  |
+| 11th  | 2 Minor Perks       | All Out Heroics        |
+| 12th  | 2 Stances           |                        |
+| 13th  | Major Perk          |                        |
+| 14th  | +1 Stamina          | Expert Technique       |
+| 15th  | 2 Minor Perks       | Power Through II       |
+| 16th  | Stance              |                        |
+| 17th  | Moderate Perk       | Disciplined Footwork   |
+| 18th  | +1 Stamina          |                        |
+| 19th  | Major Perk          |                        |
+| 20th  | 2 Stances           | The Equalizer          |
 
 ## Physical and Mental Modifiers: 0
 
@@ -55,7 +55,7 @@ As a Champion, you have Training in a few areas according to the list below:
 
 ## Stances: 1
 
-At level one, you gain access to 2 Stances of your choosing. While active, you have all features of one Stance, and you can swap between them as an action which loses the old features and gaining the new until you choose to swap back to that Stance. At later levels you will gain new Stances which you can also swap between as an Action. 
+At level one, you gain access to 2 Stances of your choosing. While active, you have all features of one Stance, and you can swap between them as an Action which loses the old features and gaining the new until you choose to swap back to that Stance. At later levels you will gain new Stances which you can also swap between as an Action. 
 
 Any perk you gain which requires a Stance is only ever active while that Stance is active.
 
@@ -96,18 +96,23 @@ When you use Eye for Victory out of combat, the GM also gives you their estimati
 
 Being able to accurately read them also means that using this feature also tells you whether or not there are more enemies than you can't currently see, and whether or not they have a trick up their sleeve you aren't prepared for. It does not tell you how many enemies, nor what that advantage could be.
 
-## Technique Enhancements II: 11
+## All Out Heroics: 11
 
-Your Technique Dice increase in size to d10.
+Once per Major rest when you start your turn, you can choose to gain 2 additional actions and the benefits of a Moderate Rest. These benefits last for one minute, after which you lose all of your Strain, along with 3 Mental Health and Stamina.
 
 ## Expert Technique: 14
 
 When you start your turn, you can choose to either gain one d10 Technique Die, or two d4 Technique dice to spend individually.
 
-## Power Through II: 2
+## Power Through II: 15
 
 When you are not **Miserable**, you can sacrifice 1 HP of Mental Health in order to ignore the effects of being **Distressed** or **Irate** for the next minute.
 
 ## Disciplined Footwork: 17
 
 When you use an Action to swap between stances, you gain your choice of 1d10 or 2d4 Technique dice.
+
+## The Equalizer
+
+Your inner strength and wholeness overcomes lesser attempts to alter the reality around you.
+You gain magic resistance. You have Weal on Saves against all magical effects, and you are immune to all spell damage where the damage dice are d6 or lower.

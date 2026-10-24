@@ -1387,7 +1387,6 @@ The current shorthand used in drafts includes:
 - **{F}** — Free/timing-independent activation
     
 - **{P}** — Passive
-    
 
 This shorthand is provisional.
 
