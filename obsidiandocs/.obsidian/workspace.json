@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Mordschalg 2e/Archetypes/New/The Champion.md",
+=======
+                "file": "Campaigns/Atlantis/random story notes.md",
+>>>>>>> fbc82c8aba98b0d385d7151fff5ea67c2c7c7cb6
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "The Champion"
+=======
+              "title": "random story notes"
+>>>>>>> fbc82c8aba98b0d385d7151fff5ea67c2c7c7cb6
             }
           }
         ]
@@ -198,6 +206,7 @@
   },
   "active": "455de93420197b42",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Mordschalg 2e/Archetypes/New/The Conduit.md",
     "Mordschalg 2e/Archetypes/New/The Champion.md",
     "Mordschalg 2e/Archetypes/New/The Wizard.md",
@@ -211,6 +220,17 @@
     "Mordschalg 2e/Archetypes/New/The Busker.md",
     "Mordschalg 2e/Archetypes/New/The Faithful.md",
     "Mordschalg 2e/Archetypes/New/The Hexblood.md",
+=======
+    "Campaigns/Atlantis/Habel Garren.md",
+    "Mordschalg 2e/Party Systems/Divine Favor.md",
+    "Mordschalg 2e/Health system.md",
+    "Mordschalg 2e/Initiative.md",
+    "Mordschalg 2e/stats.md",
+    "Mordschalg 2e/Resolution.md",
+    "Mordschalg 2e/Races.md",
+    "Mordschalg 2e/Archetypes/New/The Paladin.md",
+    "Mordschalg 2e/Archetypes/New/The Conduit.md",
+>>>>>>> fbc82c8aba98b0d385d7151fff5ea67c2c7c7cb6
     "Campaigns/Atlantis/Atlantis.md",
     "Mordschalg 2e/Party Systems/Inspiration.md",
     "Campaigns/Atlantis/random story notes.md",
@@ -220,10 +240,20 @@
     "DIGIT 110.md",
     "Mordschalg 2e/Perks.md",
     "Mordschalg 2e/Archetypes/New/The Vigilante.md",
+<<<<<<< HEAD
     "Mordschalg 2e/Archetypes/New/The Paladin.md",
     "Mordschalg 2e/Archetypes/New/The Druid.md",
     "Mordschalg 2e/Spells.md",
     "Mordschalg 2e/Martial Equipment and Basics/Stances.md",
+=======
+    "Mordschalg 2e/Archetypes/New/The Spellblade.md",
+    "Mordschalg 2e/Archetypes/New/The Hexblood.md",
+    "Mordschalg 2e/Archetypes/New/The Druid.md",
+    "Mordschalg 2e/Archetypes/New/The Busker.md",
+    "Mordschalg 2e/Archetypes/New/The Champion.md",
+    "Mordschalg 2e/Archetypes/New/The Faithful.md",
+    "Mordschalg 2e/Archetypes/New/The Berserker.md",
+>>>>>>> fbc82c8aba98b0d385d7151fff5ea67c2c7c7cb6
     "Mordschalg 2e/GMG/Regions/The Woods",
     "Mordschalg 2e/GMG/Regions",
     "Mordschalg 2e/Party Systems",
