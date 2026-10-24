@@ -2,7 +2,7 @@ To be a Conduit is to draw hushed whispers from passersby. Your very essence is 
 
 Unlike other spellcasters a Conduit's relationship with their powers is tenuous. Some make bargains with incredible beings and some are unwilling, their powers and charge bestowed upon them by blood or speculative proclamations that they are indeed the chosen.
 
-Iconic Warlocks:
+Iconic Conduits:
 
 - Ghost -Hollow Knight
 - Gandalf -Lord of the Rings
@@ -47,7 +47,7 @@ A Conduit begins with 4 Vitality, 7 Stamina, and 9 Mental Health.
 |     |     |     |     |     |     |     |     |     |
 ## Training: 0
 
-As a Warlock, you have Training in a few areas according to the list below: 
+As a Conduit, you have Training in a few areas according to the list below: 
 
 **Armor:** None
 **Weapons:** Simple weapons

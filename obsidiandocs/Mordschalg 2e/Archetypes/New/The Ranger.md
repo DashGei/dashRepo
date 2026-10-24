@@ -44,7 +44,7 @@ A Ranger does not need to be a woodsman, archer, or spellcaster. A Ranger is def
 
 ## Physical and Mental Modifiers: 0
 
-Choose **Might** or **Agility** for your Physical Modifier. Then choose **Acumen** or **Instinct** as your Mental Modifier. Use the corresponding Ability Modifier whenever one of your Warlock features refers to your Physical Modifier or Mental Modifier.
+Choose **Might** or **Agility** for your Physical Modifier. Then choose **Acumen** or **Instinct** as your Mental Modifier. Use the corresponding Ability Modifier whenever one of your Ranger features refers to your Physical Modifier or Mental Modifier.
 
 ## Health
 

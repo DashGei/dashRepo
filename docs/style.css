@@ -153,6 +153,14 @@ body {
     cursor: url("images/cursorpassive.png"), auto;
 }
 
+strong {
+    line-height: 22px;
+    font-family: Bookerly, Draconis;
+    font-size: 20px;
+    color: #eceed8;
+    cursor: url("images/cursorpassive.png"), auto;
+}
+
 img {
     width: 100%;
     max-width: 500px;

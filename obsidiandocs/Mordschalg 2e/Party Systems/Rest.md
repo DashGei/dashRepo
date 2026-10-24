@@ -44,12 +44,12 @@ So resting for 7 hours in a mediocre inn (Nice) will allow the party to add 4d8 
 
 The degree of the Rest Test determines how much the party recovers.
 
-| Rest       | Effect                                                              |
-| ---------- | ------------------------------------------------------------------- |
-| Miss       | Restore all Stamina, 1 Strain, 1 Mental                             |
-| Minor      | Restore all Stamina, Flesh, 5 Strain, 2 Mental                      |
-| Moderate   | Restore all Stamina, Flesh, 10 Strain, 5 Mental, 2 Vitality         |
-| Major Rest | Restore all Hit Points and Strain +2 Maximum Strain until next rest |
+| Rest       | Effect                                                      |
+| ---------- | ----------------------------------------------------------- |
+| Miss       | Restore all Stamina, 1 Strain                               |
+| Minor      | Restore all Stamina, Flesh, 5 Strain, 2 Mental              |
+| Moderate   | Restore all Stamina, Flesh, 10 Strain, 4 Mental, 2 Vitality |
+| Major Rest | Restore all Hit Points and Strain +2 Extra Strain           |
 ## Recreation
 
 After a party has rested for at least **4 hours**, its members may spend their remaining time on **Downtime Activities**.
@@ -60,7 +60,7 @@ Below are the common activities completable by anyone, but some characters may g
 
 No more than one character proficient with Cooking Tools may serve as the party's **Cook**, provided they have suitable ingredients and a place to prepare the food.
 
-The Cook makes a **DT 5 Threshold Test** using their Mental modifier. Add a die to the Rest Pool based on the result.
+The Cook makes a **DT 6 Threshold Test** using their Mental modifier. Add a die to the Rest Pool based on the result.
 
 | Result       | Rest Die |
 | ------------ | -------- |
@@ -72,7 +72,7 @@ The Cook makes a **DT 5 Threshold Test** using their Mental modifier. Add a die 
 
 A character proficient in **Performance** or **Persuasion** may serve as the party's **Director**.
 
-The Director makes a **DT 5 Threshold Test** using their Mental modifier. Add a die to the Rest Pool based on the result.
+The Director makes a **DT 6 Threshold Test** using their Mental modifier. Add a die to the Rest Pool based on the result.
 
 | Result       | Rest Die |
 | ------------ | -------- |
