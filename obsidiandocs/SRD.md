@@ -696,14 +696,14 @@ Current rest progression:
 
 The quality of the resting location determines the die used for every Time Die.
 
-|Quality|Time Die|Example|
-|---|---|---|
-|**Awful**|d2|Sewers|
-|**Poor**|d4|Undergrowth|
-|**Fine**|d6|Bedroll|
-|**Good**|d8|Cot|
-|**Great**|d10|Made bed|
-|**Excellent**|d12|Fancy room|
+| Quality   | Time Die | Example     |
+| --------- | -------- | ----------- |
+| **Awful** | d2       | Sewers      |
+| **Poor**  | d4       | Undergrowth |
+| **Fine**  | d6       | Bedroll     |
+| **Nice**  | d8       | Cot         |
+| **Good**  | d10      | Made bed    |
+| **Great** | d12      | Fancy room  |
 
 Example:
 
@@ -1137,28 +1137,28 @@ Mordschlag uses a 20-level progression.
 
 The current general progression template is:
 
-| Level | Boon Features      | Class Features     |
-| ----- | ------------------ | ------------------ |
-| 1     | Stance / 4 Spells  | Core Class Feature |
-| 2     | Moderate Perk      | Secondary Feature  |
-| 3     | Major Perk         | —                  |
-| 4     | Stance / New Spell | —                  |
-| 5     | Minor Perk         | Core Upgrade       |
-| 6     | +1 Stamina         | Secondary Upgrade  |
-| 7     | Major Perk         | —                  |
-| 8     | Stance / New Spell | —                  |
-| 9     | Moderate Perk      | —                  |
-| 10    | +1 Flesh           | Core Upgrade       |
-| 11    | Minor Perk         | Secondary Upgrade  |
-| 12    | Stance / New Spell | —                  |
-| 13    | Major Perk         | —                  |
-| 14    | +1 Stamina         | Core Upgrade       |
-| 15    | Minor Perk         | Secondary Upgrade  |
-| 16    | Stance / New Spell | —                  |
-| 17    | Moderate Perk      | Core Upgrade       |
-| 18    | +1 Stamina         | —                  |
-| 19    | Major Perk         | —                  |
-| 20    | Stance / New Spell | Capstone           |
+| Level | Boon Features                   | Class Features     |
+| ----- | ------------------------------- | ------------------ |
+| 1     | Stance / 4 Spells, l Minor perk | Core Class Feature |
+| 2     | Moderate Perk                   | Secondary Feature  |
+| 3     | Major Perk                      | —                  |
+| 4     | Stance / New Spell              | —                  |
+| 5     | 2 Minor Perks                   | Core Upgrade       |
+| 6     | +1 Stamina                      | Secondary Upgrade  |
+| 7     | Major Perk                      | —                  |
+| 8     | Stance / New Spell              | —                  |
+| 9     | Moderate Perk                   | —                  |
+| 10    | +1 Flesh                        | Core Upgrade       |
+| 11    | 2 Minor Perks                   | Secondary Upgrade  |
+| 12    | Stance / New Spell              | —                  |
+| 13    | Major Perk                      | —                  |
+| 14    | +1 Stamina                      | Core Upgrade       |
+| 15    | 2 Minor Perks                   | Secondary Upgrade  |
+| 16    | Stance / New Spell              | —                  |
+| 17    | Moderate Perk                   | Core Upgrade       |
+| 18    | +1 Stamina                      | —                  |
+| 19    | Major Perk                      | —                  |
+| 20    | Stance / New Spell              | Capstone           |
 
 The exact placement of individual class features may change.
 
@@ -1853,7 +1853,121 @@ When generating a new Mordschlag rule, perk, spell, monster, class feature, or s
     
 - Can the rule be stated in a few sentences?
     
+# 43. Rules Language and Formatting Standards
 
+All new and revised Mordschlag content should follow the language and formatting conventions described here. The purpose is to make rules easy to read, consistent across the game, and precise enough that players and GMs can understand how an ability works without having to infer its intended behavior.
+
+These conventions are intended to standardize the presentation of rules, not to make every rule sound identical. Mordschlag should retain a conversational writing style wherever possible. Mechanics should be explained in natural language, with lists and structured fields used when they make a rule easier to reference or resolve.
+
+## General Writing Style
+
+Prefer clear, direct sentences that describe what a character can do and what happens as a result. A rule should explain its mechanical effect without unnecessary repetition, while retaining enough context for the reader to understand its purpose.
+
+Prefer familiar terminology already established by the system over inventing new terminology for an existing mechanic. A new ability should reuse Threshold Tests, Weal and Woe, Actions, Reactions, Strain, Stamina, existing conditions, and other established systems wherever possible.
+
+Requirements, triggers, costs, and effects should be kept distinct. A requirement describes what must be true to use an ability. A trigger describes the event that allows its use. An activation describes the action or timing required. A cost describes what the character must expend. An effect describes what happens when the ability is used.
+
+Not every feature needs to present these elements as separate labels. A short passive feature may be clearest as a single sentence. A complex Reaction or limited-use ability may benefit from explicitly separating its trigger, cost, and effect.
+
+## Terminology and Capitalization
+
+Use established game terms consistently. When referring to a defined mechanic, use its established name rather than an informal substitute.
+
+Capitalize formal resolution mechanics such as **Threshold Test**, **Check**, **Save**, **Strike**, and **Rest Test** when referring to those specific mechanics. Capitalize **Action** and **Reaction** when referring to the defined action types. Use **Weal** and **Woe** consistently, including when describing their application to a roll.
+
+Capitalize the names of abilities, resources, and conditions when referring to their formal game-defined forms. These include **Stamina**, **Flesh**, **Vitality**, **Mental Health**, **Strain**, **Focus**, and conditions such as **Irate**, **Distressed**, and **Miserable**.
+
+Use ordinary lowercase wording when a term is not being used as a specific game mechanic. Capitalization should help distinguish defined rules concepts from ordinary prose, not serve as general emphasis.
+
+Use the same name for the same mechanic throughout a document. Do not alternate between expressions such as "Technique die," "Technique Dice," and "Technique resource" when their intended meanings are identical. If a distinction exists between these concepts, define it explicitly.
+
+When an abbreviation is necessary, introduce the full term first. For example, write "Physical Defense (PD)" before using "PD" in the remainder of the relevant section. Use the established abbreviation consistently thereafter.
+
+## Numbers, Units, and Resources
+
+Use numerals for mechanical quantities, including ability costs, ranges, durations, resource changes, damage values, and numbers of targets. Write distances with a space between the number and the unit, such as **12 m**. Use consistent notation for dice, such as **1d6**, **2d4**, and **1d10**.
+
+When describing resource expenditure or recovery, name the resource and state the change directly. Prefer "spend 2 Strain," "restore 1 Vitality," or "lose 1 Mental Health" over ambiguous expressions such as "pay 2 points" or "lose 1 HP of Mental Health."
+
+Distinguish direct changes to a resource from damage that is resolved through the damage rules. If an effect inflicts damage, use the appropriate damage terminology. If an effect directly reduces a resource, say so explicitly. Do not assume that losing a resource point and taking damage are interchangeable.
+
+When a resource change depends on a roll, specify whether the change occurs before or after the roll's result is determined. If the timing affects a Strike's damage degree, a Defense comparison, or a condition, explain the interaction directly.
+
+## Actions, Triggers, and Timing
+
+Use **Action** and **Reaction** consistently when referring to the action economy. State the required activation explicitly when it matters. For example, "As an Action, you can..." or "When a creature you can see leaves your reach, you can use your Reaction to..."
+
+Distinguish between an action's activation and its trigger. A Reaction should identify the event that permits its use. A feature that activates at the start of a turn should say so explicitly rather than relying on a general phrase such as "on your turn."
+
+Specify timing whenever an effect can expire, be used again, or interrupt another event. Phrases such as "until the start of your next turn," "until the end of its next turn," "once per turn," and "once per Major Rest" should be used deliberately and consistently.
+
+If an effect lasts for a duration, state when that duration begins and ends whenever the distinction matters. If an ability grants multiple uses, dice, or actions, explain whether they may be used together or separately and whether they share any normal usage restrictions.
+
+Do not use vague timing expressions such as "at any time" when the rules permit a more precise description. Specify whether an ability can be used on another creature's turn, during an existing roll, in response to an event, or only during the character's own turn.
+
+## Tests, Rolls, and Degrees of Success
+
+Distinguish between modifying a roll's numerical total and changing its degree of success. These are not interchangeable effects.
+
+When a feature adds or subtracts a die, bonus, or penalty, state which roll or total it modifies. If the effect changes a Strike's damage, specify whether the modification occurs before the target's Defense is compared against the result.
+
+When a feature changes a degree of success, state whether it changes the degree directly or modifies the underlying total. Do not leave the distinction implicit.
+
+Use the established terms **Miss**, **Minor**, **Moderate**, and **Major** when referring to the four degrees of success. Apply the existing Weal and Woe rules unless a feature explicitly states that it modifies them.
+
+When using a Defense or Difficulty Total, identify the relevant value. For example, use "the target's Physical Defense (PD)" rather than an ambiguous phrase such as "the enemy's defense" when the particular Defense matters.
+
+Examples should demonstrate the general rule without accidentally narrowing or contradicting it. If a result means a target takes at least 1 HP of damage, the example should not imply that the target necessarily takes exactly 1 HP when a higher degree is achieved.
+
+## Targets, Ranges, and Effects
+
+State the target, range, and relevant restrictions of an ability whenever they affect its use. Prefer formulations such as "choose up to 4 creatures you can see within 12 m" over shorter phrases that leave the target count or line of sight ambiguous.
+
+Use "target" when discussing the creature or object selected by an ability. Use "creature" when the effect can apply to any creature, regardless of allegiance. Use "ally," "enemy," or "hostile creature" only when the distinction is mechanically relevant.
+
+If an ability affects multiple targets, clarify whether its effect applies independently to each target or collectively to the group. If an area or effect continues to operate over time, specify when creatures are affected, using the existing spell and condition conventions where applicable.
+
+When a feature replaces a value, state what is replaced and for which resolution. When it grants a bonus, state what receives that bonus. When it grants immunity, state precisely which effects are excluded. Avoid broad phrases such as "magic resistance" unless the term has a defined mechanical meaning.
+
+## Feature Names and Headings
+
+Use the feature name as the heading. Do not append the feature's level to the name unless a document-wide format explicitly requires it. The progression table should communicate when the feature is acquired.
+
+For example, use:
+
+### Technique
+
+rather than:
+
+### Technique: 1
+
+The body of the feature should explain its mechanics. Avoid placing important rules only in the heading, table, or descriptive text if the reader needs them to resolve the ability.
+
+When a feature improves an existing ability, explicitly identify the ability being modified and describe how the new rule changes it. Do not require the reader to compare several disconnected sections to determine whether the new feature replaces, supplements, or removes an earlier benefit.
+
+## Bold, Italics, and Emphasis
+
+Use headings to distinguish sections and features. Feature names do not need to be repeatedly bolded within their own descriptions.
+
+**Bold** is to be used any time a player might need to quickly reference the document. What is the area? Oh its **12m**, what condition does this apply again? **Frightened**.
+
+Use _italics_ primarily for flavor text, quotations, and other descriptive material that is intentionally separated from the mechanical rule. Flavor text may establish a feature's tone, cultural context, or fictional explanation, but it must not introduce mechanical requirements or effects that are absent from the rules text.
+
+Keep mechanical instructions in normal text unless a specific emphasis is needed. Avoid using bold and italics together for ordinary rules, and do not rely on formatting alone to communicate an important distinction.
+
+Tables should be used for information that benefits from direct comparison, such as progression, costs, damage categories, or options. Tables should not replace the explanation of a rule when the reader needs additional context to understand how its entries operate.
+
+## Unresolved Rules and Mechanical Dependencies
+
+A language edit must not silently resolve an unresolved mechanical question. If the intended operation of a feature is uncertain, identify the uncertainty and preserve it for a design decision rather than inventing a rule through wording alone.
+
+When a feature interacts with another system, use that system's established terminology and behavior unless the feature explicitly introduces an exception. If the interaction is not defined, specify what requires a design decision.
+
+Mark provisional or uncertain rules using the established **[Working]**, **[Prototype]**, or **[Unresolved]** conventions where appropriate. Do not present a proposed interpretation as an established rule until it has been accepted.
+
+A final review should verify that the wording is grammatically correct, the timing and resource costs are clear, all referenced mechanics exist, and the examples match the rule as written.
+
+The ultimate goal is for a reader to understand not only what an ability allows a character to do, but also when it can be used, what it costs, what it changes, and how it interacts with the rest of Mordschlag.
 
 # (side notes from the designer)
 

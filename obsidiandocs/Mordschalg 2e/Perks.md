@@ -109,8 +109,6 @@ The effect ends early if you Strike a different enemy, cast a spell against a di
 
 **{A} Hurl** When you have a creature Grappled, you can attempt to throw it. The creature must be no more than one size larger than you and must make a Physical DT Might Save. On a failure, you throw it up to Close (3m) into an unoccupied space you can see, and it falls Prone. On a successful Save, the Grappled condition ends and the creature is not thrown.
 
-{P}**Intensifier** The damage dice of spells you focus on increases by 1 (maximum d12) for every round you focus on them.
-
 {A}**Just The Thing** As an action you can procure an item from your person which you just remembered you packed. You expend one strain for every Silver the item costs.
 
 {AA}**Power Shot** Creatures within a 1m-wide straight line extending up to your weapon's normal range are hit with a Strike using a weapon you hold. The Strike only deals damage equal to the die rolled + your Ability Modifier with no other bonuses or dice.
@@ -120,6 +118,8 @@ The effect ends early if you Strike a different enemy, cast a spell against a di
 {A}**Read the Signs** Spend one minute observing your surroundings, reflecting on the available evidence, or consulting appropriate tools. Choose a specific course of action you could take within the next hour. The GM tells you whether the likely outcome would bring Weal, Woe, or both.
 
 This reveals only the general tendency of the outcome, not how events will unfold or what specific consequences will occur. You can use this perk once per Moderate Rest.
+
+{R}**Reflexive Strike** When you take a reaction that doesn't deal damage, you can make a Strike as part of that reaction.
 
 (PRE:3){A}**Smooth Talker** Target one creature who can hear or see you, that creature must succeed a Mental DT PRE Save or be Charmed by you for 10 minutes or until you or an ally attacks the creature.
 

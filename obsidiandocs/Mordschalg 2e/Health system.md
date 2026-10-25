@@ -107,7 +107,21 @@ At certain breakpoints, a creature suffers negative penalties to Mental Saves an
 
 When a creature takes any amount of Vitality damage, they take 1d20 Pain damage for each hit point removed.
 
-## 5. Recovery
+## 5. Healing
+
+When a creature is healed, a Healing Test is made. This test is different in that rolling less than or equal to the DT 
+
+The DT for a Healing Test is always 5.
+
+| Result     | Healing Category | Points Regained |
+| ---------- | ---------------- | --------------- |
+| Total < PD | Miss             | o HP            |
+| PDx1       | Minor            | 1 HP            |
+| PDx2       | Moderate         | 2 HP            |
+| PDx3       | Major            | 2 HP            |
+
+
+## 6. Recovery
 
 | Rest                 | Effect                                                                    |
 | -------------------- | ------------------------------------------------------------------------- |
@@ -119,7 +133,7 @@ Sometimes when a creature takes Vitality damage the bar becomes blocked from hea
 
 A blocked wound can be removed with a successful DT 2 Medicine check with Healer's tools. Doing so results in 1d12 Pain damage.
 
-## 6. Dying
+## 7. Dying
 
 When a creature reaches 0 Vitality Points it is incapacitated, can only crawl, and will die within after 10 rounds unless it receives aid. 
 

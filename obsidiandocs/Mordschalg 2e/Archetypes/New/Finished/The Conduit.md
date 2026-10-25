@@ -10,26 +10,26 @@ Iconic Conduits:
 
 | Level | Boon                 | Features           |
 | ----- | -------------------- | ------------------ |
-| 1st   | 3 Spells, Minor Perk | Power Unbound      |
-| 2nd   | Moderate Perk        | Mind as Kindling   |
-| 3rd   | Major Perk           |                    |
-| 4th   | New Spell            |                    |
-| 5th   | 2 Minor Perks        | Instability        |
-| 6th   | +1 Stamina           | 2ndary Upgrade     |
-| 7th   | Major Perk           |                    |
-| 8th   | New Spell            |                    |
-| 9th   | Moderate Perk        |                    |
-| 10th  | +1 Flesh             | Instability Option |
-| 11th  | 2 Minor Perks        | 2ndary Upgrade     |
-| 12th  | New Spell            |                    |
-| 13th  | Major Perk           |                    |
-| 14th  | +1 Stamina           | Instability Option |
-| 15th  | 2 Minor Perks        | 2ndary Upgrade     |
-| 16th  | New Spell            |                    |
-| 17th  | Moderate Perk        |                    |
-| 18th  | +1 Stamina           | Instability Option |
-| 19th  | Major Perk           |                    |
-| 20th  | New Spell            | Capstone           |
+| 1     | 3 Spells, Minor Perk | Power Unbound      |
+| 2     | Moderate Perk        | Mind as Kindling   |
+| 3     | Major Perk           |                    |
+| 4     | New Spell            |                    |
+| 5     | 2 Minor Perks        | Instability        |
+| 6     | +1 Stamina           | Aberrant Casting   |
+| 7     | Major Perk           |                    |
+| 8     | New Spell            |                    |
+| 9     | Moderate Perk        | Affliction         |
+| 10    | +1 Flesh             | Instability Option |
+| 11    | 2 Minor Perks        | Unleashed          |
+| 12    | New Spell            |                    |
+| 13    | Major Perk           |                    |
+| 14    | +1 Stamina           | Instability Option |
+| 15    | 2 Minor Perks        | Secrets Revealed   |
+| 16    | New Spell            |                    |
+| 17    | Moderate Perk        | Apotheosis         |
+| 18    | +1 Stamina           | Instability Option |
+| 19    | Major Perk           |                    |
+| 20    | New Spell            | Control            |
 ## Physical and Mental Modifiers: 0
 
 Choose **Might** or **Agility** to determine your Physical Modifier. Then choose **Acumen**, **Instinct**, or **Presence** to determine your Mental Modifier. Use the corresponding Ability Modifier whenever one of your Conduit features refers to your Physical Modifier or Mental Modifier.
@@ -84,9 +84,7 @@ At 1st level, choose one Minor Perk for which you meet the prerequisites.
 
 ## Power Unbound: 1
 
-As an Action, you unleash the power within you and become Empowered for 1 Minute. While Empowered, your Mental Modifier increases by 1, and you may invest up to 3 Strain for each Action you spend casting a spell.
-
-When you become Empowered, roll on the Warlock Instability table using the die determined by your current Mental Health. If your Mental Health falls into a lower Instability band while Empowered, roll again using the new die. The new result replaces your previous Instability effect.
+As an Action, you unleash the power within you and become Empowered for 1 Minute. While Empowered, you may invest up to 3 Strain for each Action you spend casting a spell.
 
 ## Mind as Kindling: 2
 
@@ -98,11 +96,11 @@ While Empowered, whenever you cast a spell, roll a number of d10 determined by y
 
 Whenever a die rolls a 10, its assigned effect occurs. If multiple dice roll a 10, resolve each triggered effect in an order of your choice. An Instability effect can occur only once per casting, even if multiple dice assigned to it roll a 10.
 
-You learn one Instability effect at 5th level and learn another at 10th, 14th, and 17th level. When you finish aa rest, you can change which Instability effect is applied when you roll a 10.
+You learn one Instability effect at 5th level and learn another at 10th, 14th, and 18th level. When you finish aa rest, you can change which Instability effect is applied when you roll a 10.
 
 ### Magnification
 
-The spell's Delivery doubles in scale. Double the radius of a Sphere or Aura, the length of a Cone or Line, or volume of a Cube.
+The spell's Delivery doubles in scale. Double the radius of a Sphere or Aura, the length of a Cone or Line, or size of a Cube's side.
 
 ### Emanation
 
@@ -114,13 +112,42 @@ If the spell creates an area, that area persists for 1 minute, regardless of foc
 
 ### Confluence
 
-Determine a random spell formula of yours. Its effect is also applied to the original spell's targets or area without additional Strain. The additional Formula does not add another damage roll or damage dice. Any associated Saves and other requirements still apply.
+Choose the last spell you learned. Its effect is also applied to the original spell's targets or area without additional Strain. The additional Formula does not add another damage roll or damage dice. Any associated Saves and other requirements still apply.
 
 ### Devastation
 
-For a spell which deals damage, targets take an additional 2d6 damage. You take 1d6 force damage for every Strain you spent on the spell.
+For a spell which deals damage, you add an additional 2d6 damage. You then take 1d6 force damage for every Strain you spent on the spell.
 
+## Aberrant Casting: 6
 
+You are not bound by the arcane laws which other must abide by. Choose either Verbal or Somatic components, you do not need to use them in order to cast spell Formulas.
 
-## Apotheosis
+## Affliction: 9
 
+When  you are Empowered, you have resistance to one damage type of your choosing, and your speed increases by 2m. The damage type must be the same as a spell Formula you know.
+
+## Unleashed: 11
+
+When you lose Focus on a spell because of damage, all targets take 3d6 of the spell's damage type. 
+
+## Secrets Revealed: 15
+
+Choose 4 Spell Formulas which you do not know, when you start your turn roll a d4. Whatever spell you rolled, you know for that turn. Fill in those Spell Formulas below.
+
+| Roll | Spell |
+| ---- | ----- |
+| 1    | -     |
+| 2    | -     |
+| 3    | -     |
+| 4    | -     |
+## Apotheosis: 17
+
+Once per rest, when you reach 0 Vitality or Mental Health you can immediately release a devastating wave of energy.
+
+All creatures of your choice within 30m take 4d6 damage. The damage type must be the same as a spell Formula you know.
+
+## Control: 20
+
+At last, you have achieved some semblance of control over yourself. When you take a Rest, you can choose to restore up to 4 more Mental Health. Additionally you can spend 1 Strain to regain or lose 1 Mental Health.
+
+When you use Secrets Revealed, you can re-roll the die once and must use the new result.

@@ -10,22 +10,22 @@ Iconic Rogue:
 
 | Level | Boon               | Sneak Attack | Features                                         |
 | ----- | ------------------ | ------------ | ------------------------------------------------ |
-| 1st   | Stance, Minor Perk | 2d6          | Fighting Style, Sneak Attack, Jack of all Trades |
-| 2nd   | Moderate Perk      | 2d6          | Cunning Action, Martial Feats                    |
-| 3rd   | Major Perk         | 2d6          | Roguish Archetype, Quick Feet                    |
-| 4th   | Stance             | 2d6          | Ability Score Improvement                        |
-| 5th   | 2 Minor Perks      | 2d8          | Uncanny Dodge                                    |
-| 6th   | +1 Stamina         | 2d8          | Exploit                                          |
-| 7th   | Major Perk         | 2d8          | Roguish Archetype Feature                        |
-| 8th   | Stance             | 2d8          | Ability Score Improvement, Expertise             |
+| 1st   | Stance, Minor Perk | 2d4          | Fighting Style, Sneak Attack, Jack of all Trades |
+| 2nd   | Moderate Perk      | 2d4          | Cunning Action, Martial Feats                    |
+| 3rd   | Major Perk         | 2d4          | Roguish Archetype, Quick Feet                    |
+| 4th   | Stance             | 2d4          | Ability Score Improvement                        |
+| 5th   | 2 Minor Perks      | 2d6          | Uncanny Dodge                                    |
+| 6th   | +1 Stamina         | 2d6          | Exploit                                          |
+| 7th   | Major Perk         | 2d6          | Roguish Archetype Feature                        |
+| 8th   | Stance             | 2d6          | Ability Score Improvement, Expertise             |
 | 9th   | Moderate Perk      | 2d8          | Evasion                                          |
-| 10th  | +1 Flesh           | 2d10         | Quick Feet II                                    |
-| 11th  | 2 Minor Perks      | 2d10         | Reliable Talent                                  |
-| 12th  | Stance             | 2d10         | Ability Score Improvement, Opportunistic Strike  |
+| 10th  | +1 Flesh           | 2d8          | Quick Feet II                                    |
+| 11th  | 2 Minor Perks      | 2d8          | Reliable Talent                                  |
+| 12th  | Stance             | 2d8          | Ability Score Improvement, Opportunistic Strike  |
 | 13th  | Major Perk         | 2d10         | Skill Specialization                             |
 | 14th  | +1 Stamina         | 2d10         | Roguish Archetype Feature                        |
-| 15th  | 2 Minor Perks      | 2d12         | Blindsense, Dirty Tactics                        |
-| 16th  | Stance             | 2d12         | Ability Score Improvement                        |
+| 15th  | 2 Minor Perks      | 2d10         | Blindsense, Dirty Tactics                        |
+| 16th  | Stance             | 2d10         | Ability Score Improvement                        |
 | 17th  | Moderate Perk      | 2d12         | Slippery Mind                                    |
 | 18th  | +1 Stamina         | 2d12         | Elusive                                          |
 | 19th  | Major Perk         | 2d12         | Ability Score Improvement                        |

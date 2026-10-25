@@ -21,3 +21,4 @@
 **Restrained** Its speed is 0. Strikes against it have Weal, and its own Strikes have Woe.
 
 **Slow** -1 to speed and reactions.
+

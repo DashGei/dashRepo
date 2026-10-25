@@ -1,3 +1,15 @@
+# Types
+
+## Action
+
+## Reaction
+
+## Free Action
+
+Unless otherwise stated, a creature can take a Free Action at any time on their own or another creatures turn. A creature can take as many Free Actions as they want to.
+
+
+
 ## Strike
 
 Make a weapon strike against a creature within the weapon's range.
@@ -33,3 +45,4 @@ When a creature Strikes you at range, or you are subjected  you can use your rea
 Using this reaction grants you the benefits of the Defend action against the offending action.
 This prevents Vitality damage and reduces Stamina damage by 1 HP. 
 You can also take this reaction any time on your turn, regardless of current speed.
+

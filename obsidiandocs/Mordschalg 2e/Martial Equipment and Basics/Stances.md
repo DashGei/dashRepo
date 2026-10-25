@@ -4,7 +4,7 @@
 
 *And if thy opponent hath the gall to strike at this time, set his sword to the side and let him mind your own!*
 
-**Parry** {R*} When struck with a strike dealing physical damage, you can make a strike with their weapon as the target. If your strike deals more damage then theirs, their strike becomes a miss.
+**Parry** {R*} When Struck with a Strike dealing physical damage, you can make a strike with their weapon as the target. If your strike deals more damage then theirs, their strike becomes a miss.
 
 **Flourish** Once per round when you strike an enemy you either deal an additional 1d4 damage, or subtract 1d4 from their next strike, your choice.
 
@@ -20,9 +20,9 @@
 
 *This High Elven practice is generally attributed to shortbow, but the same general principles can be used in polearm techniques. -Orvin Gulmed "Learnings From Other Lands"*
 
-**Suppress** {R*} When a creature you can see strikes another creature, you can use your reaction to strike against the attacker with a 1d8 penalty. This strike also reduces the attacker's strike by the roll on the d8.
+**Suppress** {R*} When a creature you can see strikes another creature, you can use your reaction to Strike against the attacker with a 1d8 penalty. This strike also reduces the attacker's Strike by the roll on the d8.
 
-**Pin** When any of your strikes do at least Minor damage, the target’s speed is reduced by 1 meter until the end of its next turn.
+**Pin** When any of your Strikes do at least Minor damage, the target’s speed is reduced by 1m until the end of its next turn.
 
 ### Sentinel
 
@@ -99,7 +99,7 @@ When you finish a short rest you can change the range of the sweet spot to any 3
 
 **Scuttle** {R*} When a creature within 2 meters of you moves, you can move 4 meters as a reaction.
 
-**Hit and Run** When you start your turn with no enemy creatures within 2 meters, you add 1d6 to the next strike before the end of your turn.
+**Hit and Run** When you start your turn with no enemy creatures within 2 meters, you have Weal on your next Strike before the end of your turn.
 
 
 

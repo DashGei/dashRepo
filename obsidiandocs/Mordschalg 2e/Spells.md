@@ -44,7 +44,7 @@ A spell's Delivery determines its initial range, shape, and number of targets. Y
 
 - **Cube** - A 1-meter cube 
 
-- **Imbue** - Targets a weapon held by a willing creature within 12m. A creature struck with the weapon suffers the spell's effects and damage, although the damage dice are reduced by one level.
+- **Imbue** - Targets a weapon held by a willing creature within 12m. A creature struck with the weapon becomes targeted by the spell, but the damage dice are one size smaller.
 
 - **Line** - A 1m-wide, 4m-long, 2m-tall area extending from you.
 
@@ -84,6 +84,16 @@ Distance Shorthand
 
 **Dark** *Necrotic* The area is filled with Darkness.
 
+**Cantrip** *Force* Targets have Woe when rolling damage for spells.
+
+**Charm** *Numb* *PRE* Targets are Charmed for the duration.
+
+**Cloak** Targets are Invisible for the duration or until they Strike or Cast.
+
+**Command** *PRE* On their turn, targets must either move in a direction, or Strike a creature of your choice once.
+
+**Dark** *Necrotic* The area is filled with Darkness.
+
 **Door** *MIG* Two linked 1m portals appear in the area. A creature who occupies the space of one portal appears next to the other, and a projectile continues from one portal to the next in the same direction it was when entering.
 
 **Dispel** A magic effects are targets and dispelled.
@@ -104,7 +114,7 @@ Distance Shorthand
 
 **Immolate** *Burn* Targets take damage for duration.
 
-**Invigorate** *Special* Target's Stamina is healed equal to damage.
+**Invigorate** Targets are healed for 1 Stamina for every 2 Strain spent to do so.
 
 **Melt** *Acid* Targets take one damage die when taking other Physical damage.
 
@@ -118,7 +128,7 @@ Distance Shorthand
 
 **See** Creatures seeing into the area have Blindsight.
 
-**Shock** *Volt* Targets adjacent to other targets take one damage die.
+**Shock** *Volt* Targets within 1m of other targets take one damage die.
 
 **Slow** *AGI* Targets have Slow for the duration.
 

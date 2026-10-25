@@ -17,8 +17,6 @@ A Ranger does not need to be a woodsman, archer, or spellcaster. A Ranger is def
 
 **Iconic Rangers:** Aragorn, San, Robin Hood
 
-## Class Features
-
 | Level | Boon               | Hunter's Mark | Feature          |
 | ----: | ------------------ | ------------- | ---------------- |
 |     1 | Stance, Minor Perk | 1d4           | Hunter's Mark    |
@@ -76,38 +74,41 @@ At 1st level, choose one Minor Perk for which you meet the prerequisites.
 
 At level one, you gain access to a Stance of your choosing. While active, you have all features of that Stance. At later levels you will gain new Stances which you may swap between on a Minor Rest. Losing the old features and gaining the new until you choose to swap back to that Stance.
 
-Any perk you gain which requires that Stance is only ever active while that Stance is active.
+A perk with a Stance prerequisite is active only while its associated Stance is active.
 
-# Hunter's Mark
+## Hunter's Mark
+
+## Hunter's Mark
 
 You learn to designate a creature as your quarry.
 
-As an action, designate a creature you can see within 30 meters as your quarry. While marked, you have Weal on Instinct (Perception or Survival) checks to find or track it. When you hit the marked creature with an attack you add additional dice in Force damage. The dice added are determined by your level as shown in the features table.
+As an Action, designate a creature you can see within 30 m as your marked creature. You have Weal on Instinct Checks using Perception or Survival to find or track it.
 
-When you reduce a marked creature to 0 Vitality with an attack, you may immediately apply **Hunter's Mark** to a new creature without using an action.
+When you Strike your marked creature, add your Hunter's Mark dice, as shown in the class progression table, to the Strike's damage roll as additional Force damage.
 
-The mark lasts until you finish a rest, the creature reaches 0 Vitality, or you end it as an action. The creature has no way of knowing it’s marked.
+When you reduce your marked creature to 0 Vitality with a Strike, you may immediately mark another creature without spending an Action.
+
+Your mark lasts until you finish a rest, the marked creature reaches 0 Vitality, or you end the mark as an Action. The creature does not know that it is marked.
 
 ## Trailcraft
 
 A good Ranger can make even the shabbiest of grounds into a camp.
 
-When the party prepares to rest in an outdoor location, you may spend two hours of that rest choosing and preparing the campsite.
-For the purpose of the Rest Test, increase the total quality of the resting place by **one step**, to a maximum of **Nice**.
+When the party prepares to rest outdoors, you may spend 2 hours of that rest choosing and preparing the campsite. For the Rest Test, increase the quality of the resting place by **one step**, to a maximum of **Nice**.
 
 ## Analyzed
 
-You learn to study and terrify your quarry while fighting it.
+You learn to study your quarry and exploit what you discover.
 
-Whenever you deal damage to your marked creature, you immediately learn whether it has any **resistances, immunities, or vulnerabilities**.
+Whenever you deal damage to your marked creature, you immediately learn whether it has any **resistances, immunities, or vulnerabilities**, including which damage types they apply to.
 
-Additionally, whenever you roll Hunter's Mark damage, you may choose to deal **Stress damage** instead of Force damage. When you do so, add your **Mental Modifier** to the Hunter's Mark damage roll.
+Additionally, when you Strike your marked creature, you may choose to deal your Hunter's Mark damage as **Stress damage** instead of adding the Hunter's Mark dice as Force damage to the Strike's damage roll. If you do, roll your Hunter's Mark dice separately, add your Mental Modifier to the result, and resolve the result as a Stress damage roll against the target's Mental Defense.
 
 ## Mortal Reminder
 
-Your quarry becomes more vulnerable as the hunt wears it down. 
+Your quarry becomes more vulnerable as the hunt wears it down.
 
-For every minute which passes, a marked creature takes Stress damage equal to your Hunters Mark + your Mental Modifier. This persists until the creature is Distressed.
+For every minute that passes, your marked creature takes Stress damage equal to a roll of your Hunter's Mark dice plus your Mental Modifier. This effect persists until the creature becomes **Distressed**.
 
 When you Strike a marked creature that is **Distressed**, maximize your Hunter's Mark dice instead of rolling them.
 
@@ -125,44 +126,43 @@ This does not allow you to maintain multiple independent Hunter's Marks. It simp
 
 You know when a wounded creature has nothing left to give.
 
-Once per turn, when you Strike a marked creature, if the resulting damage would leave that creature at **1 Vitality**, that Strike deals 1 additional point of Vitality damage.
+When you Strike a marked creature, if the resulting damage would leave that creature at **1 Vitality**, that Strike deals 1 additional point of Vitality damage.
 
 ## Bloodhound
 
 Your connection to a quarry extends beyond ordinary senses.
 
-You are never **Blind** when sensing creatures marked by you, and when you use Hunters Mark, you can choose to mark the closest non-allied creature within 15m. You do not need to be aware of where the creature is. 
+You can sense the direction of your marked creature even while you are **Blind**. And your Strikes never suffer Woe if you cannot see a creature marked by you.
+
+Additionally, when you use Hunter's Mark, you may instead mark the closest enemy creature within 15 m, even if you do not know where it is. You do not need to see the creature to mark it this way.
 
 ## Analyzed II
 
 Your understanding of your quarry becomes precise enough to exploit its defenses directly.
 
-When you Strike your marked creature, you may forgo the additional damage from Hunter's Mark.
-
-If you do, choose one resistance the creature possesses against a damage type dealt by the Strike.
-
-That resistance is ignored until the start of your next turn.
+When you Strike your marked creature, you may forgo the additional damage from Hunter's Mark. If you do, choose one resistance the creature has to a damage type dealt by that Strike. That resistance is ignored for the triggering Strike and until the start of your next turn.
 
 ## Relentless Hunt
 
 Your prey cannot shake you off once you have committed to the hunt.
 
-When your marked creature would benefit from being **Hidden** from you, you may still use your Hunter's Mark information to track its direction and movement.
-
-Additionally, when you lose sight of your marked creature, the mark remains active rather than ending.
-
-Your Hunter's Mark can therefore continue functioning through ordinary breaks in line of sight.
+When your marked creature would otherwise be **Hidden** from you, you can still use Hunter's Mark to track its direction and movement.
 
 ## Lord of the Land
 
-All perks with the **Exploration** tag require 2 less Strain when used.
+You know how to turn the wilderness itself into an extension of your hunt.
 
-Additionally, you can use 3 Strain and 10 minutes to mark a 30 meter radius location with your Hunter's mark feature. While in this radius, you have Weal on Stealth and Perception checks, and all creatures of your choice are marked by you while in this area, and the area disappears if you end the mark as a free action.
+All Perks with the **[Exploration]** tag cost 2 less Strain to use, to a minimum cost of 0 Strain.
+
+Additionally, you can spend 3 Strain and 10 minutes to mark a location with Hunter's Mark, creating a 30m radius area. While you are within this area, you have Weal on Stealth and Perception Checks.
+
+While this area persists, creatures you choose within it are marked by you for as long as they remain in the area. You can end the mark sustaining this area as a free action, causing the area to disappear.
 
 ## Feral Senses
 
 Your senses have developed beyond ordinary mortal limits.
 
+You gain **Veilsight** and **Blindsight** out to 6m.
 
 ## Capstone
 

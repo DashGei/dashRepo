@@ -10,26 +10,26 @@ Iconic Faithful:
 
 | Level | Boon                 | Features            |
 | ----- | -------------------- | ------------------- |
-| 1st   | 3 Spells, Minor Perk | Power Unbound       |
-| 2nd   | Moderate Perk        | Declaration         |
-| 3rd   | Major Perk           |                     |
-| 4th   | New Spell            |                     |
-| 5th   | 2 Minor Perks        | -                   |
-| 6th   | +1 Stamina           | 2ndary Upgrade      |
-| 7th   | Major Perk           |                     |
-| 8th   | New Spell            |                     |
-| 9th   | Moderate Perk        |                     |
-| 10th  | +1 Flesh             | Divine Intervention |
-| 11th  | 2 Minor Perks        | 2ndary Upgrade      |
-| 12th  | New Spell            |                     |
-| 13th  | Major Perk           |                     |
-| 14th  | +1 Stamina           | -                   |
-| 15th  | 2 Minor Perks        | 2ndary Upgrade      |
-| 16th  | New Spell            |                     |
-| 17th  | Moderate Perk        |                     |
-| 18th  | +1 Stamina           | -                   |
-| 19th  | Major Perk           |                     |
-| 20th  | New Spell            | Light in the Black  |
+| 1     | 3 Spells, Minor Perk | Power Unbound       |
+| 2     | Moderate Perk        | Declaration         |
+| 3     | Major Perk           |                     |
+| 4     | New Spell            |                     |
+| 5     | 2 Minor Perks        | -                   |
+| 6     | +1 Stamina           | 2ndary Upgrade      |
+| 7     | Major Perk           |                     |
+| 8     | New Spell            |                     |
+| 9     | Moderate Perk        |                     |
+| 10    | +1 Flesh             | Divine Intervention |
+| 11    | 2 Minor Perks        | 2ndary Upgrade      |
+| 12    | New Spell            |                     |
+| 13    | Major Perk           |                     |
+| 14    | +1 Stamina           | -                   |
+| 15    | 2 Minor Perks        | 2ndary Upgrade      |
+| 16    | New Spell            |                     |
+| 17    | Moderate Perk        |                     |
+| 18    | +1 Stamina           | -                   |
+| 19    | Major Perk           |                     |
+| 20    | New Spell            | Light in the Black  |
 ## Physical and Mental Modifiers: 0
 
 Choose **Might** or **Agility** to determine your Physical Modifier. Then choose **Acumen**, **Instinct**, or **Presence** to determine your Mental Modifier. Use the corresponding Ability Modifier whenever one of your Faithful features refers to your Physical Modifier or Mental Modifier.
