@@ -1,4 +1,4 @@
-To a Champion combat emulates art, each stroke of the blade, arrow tracing the air, and enemy outsmarted falls upon the canvas of battle. Honing a keen instinct and talent to push through the most impossible of odds
+To a Champion combat emulates art, each stroke of the blade, arrow tracing the air, and enemy outsmarted falls upon the canvas of battle. Honing a keen instinct and talent to push through the most impossible of odds.
 
 Iconic Champions:
 

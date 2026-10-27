@@ -17,30 +17,30 @@ A Ranger does not need to be a woodsman, archer, or spellcaster. A Ranger is def
 
 **Iconic Rangers:** Aragorn, San, Robin Hood
 
-| Level | Boon               | Hunter's Mark | Feature          |
-| ----: | ------------------ | ------------- | ---------------- |
-|     1 | Stance, Minor Perk | 1d4           | Hunter's Mark    |
-|     2 | Moderate Perk      | 1d4           | Trailcraft       |
-|     3 | Major Perk         | 1d4           |                  |
-|     4 | Stance             | 1d4           | Analyzed         |
-|     5 | 2 Minor Perks      | 1d6           | Mortal Reminder  |
-|     6 | +1 Stamina         | 1d6           | Hit List         |
-|     7 | Major Perk         | 1d6           |                  |
-|     8 | Stance             | 1d6           | Killer Instincts |
-|     9 | Moderate Perk      | 1d6           |                  |
-|    10 | +1 Flesh           | 1d8           | Bloodhound       |
-|    11 | 2 Minor Perks      | 1d8           | Campcraft        |
-|    12 | Stance             | 1d8           |                  |
-|    13 | Major Perk         | 1d8           | Analyzed II      |
-|    14 | +1 Stamina         | 1d8           | Relentless Hunt  |
-|    15 | 2 Minor Perks      | 2d4           | Lord of the Land |
-|    16 | Stance             | 2d4           |                  |
-|    17 | Moderate Perk      | 2d4           |                  |
-|    18 | +1 Stamina         | 2d4           | Feral Senses     |
-|    19 | Major Perk         | 2d4           |                  |
-|    20 | Stance             | 2d6           | Capstone         |
+| Level | Boon               | Hunter's Mark | Feature              |
+| ----: | ------------------ | ------------- | -------------------- |
+|     1 | Stance, Minor Perk | 1d4           | Hunter's Mark        |
+|     2 | Moderate Perk      | 1d4           | Trailcraft           |
+|     3 | Major Perk         | 1d4           |                      |
+|     4 | Stance             | 1d4           |                      |
+|     5 | 2 Minor Perks      | 1d6           | Mortal Reminder      |
+|     6 | +1 Stamina         | 1d6           | Hit List             |
+|     7 | Major Perk         | 1d6           |                      |
+|     8 | Stance             | 1d6           |                      |
+|     9 | Moderate Perk      | 1d6           | Killer Instincts     |
+|    10 | +1 Flesh           | 1d8           | Predatory Perception |
+|    11 | 2 Minor Perks      | 1d8           | Trailcraft II        |
+|    12 | Stance             | 1d8           |                      |
+|    13 | Major Perk         | 1d8           |                      |
+|    14 | +1 Stamina         | 1d8           | Relentless Hunt      |
+|    15 | 2 Minor Perks      | 1d10          | Setup                |
+|    16 | Stance             | 1d10          |                      |
+|    17 | Moderate Perk      | 1d10          | Analyzed             |
+|    18 | +1 Stamina         | 1d10          | Feral Senses         |
+|    19 | Major Perk         | 1d10          |                      |
+|    20 | Stance             | 1d12          | Lord of the Land     |
 
-## Physical and Mental Modifiers: 0
+## Physical and Mental Modifiers
 
 Choose **Might** or **Agility** for your Physical Modifier. Then choose **Acumen** or **Instinct** as your Mental Modifier. Use the corresponding Ability Modifier whenever one of your Ranger features refers to your Physical Modifier or Mental Modifier.
 
@@ -78,8 +78,6 @@ A perk with a Stance prerequisite is active only while its associated Stance is 
 
 ## Hunter's Mark
 
-## Hunter's Mark
-
 You learn to designate a creature as your quarry.
 
 As an Action, designate a creature you can see within 30 m as your marked creature. You have Weal on Instinct Checks using Perception or Survival to find or track it.
@@ -92,19 +90,19 @@ Your mark lasts until you finish a rest, the marked creature reaches 0 Vitality,
 
 ## Trailcraft
 
-A good Ranger can make even the shabbiest of grounds into a camp.
+A good Ranger is a master of traversal.
 
 When the party prepares to rest outdoors, you may spend 2 hours of that rest choosing and preparing the campsite. For the Rest Test, increase the quality of the resting place by **one step**, to a maximum of **Nice**.
 
-## Analyzed
+Additionally, your Speed increases by 1m and you gain your choice of either a 2m Climbing Speed, or 4m Swimming Speed.
+
+## Analyzed: 4
 
 You learn to study your quarry and exploit what you discover.
 
 Whenever you deal damage to your marked creature, you immediately learn whether it has any **resistances, immunities, or vulnerabilities**, including which damage types they apply to.
 
-Additionally, when you Strike your marked creature, you may choose to deal your Hunter's Mark damage as **Stress damage** instead of adding the Hunter's Mark dice as Force damage to the Strike's damage roll. If you do, roll your Hunter's Mark dice separately, add your Mental Modifier to the result, and resolve the result as a Stress damage roll against the target's Mental Defense.
-
-## Mortal Reminder
+## Mortal Reminder: 5
 
 Your quarry becomes more vulnerable as the hunt wears it down.
 
@@ -112,64 +110,61 @@ For every minute that passes, your marked creature takes Stress damage equal to 
 
 When you Strike a marked creature that is **Distressed**, maximize your Hunter's Mark dice instead of rolling them.
 
-## Hit List
+## Hit List: 6
 
-Your hunt no longer ends with a single quarry.
+You become more adept wearing down and switching between opponents.
 
-A creature within **2 meters** of your marked creature is also considered marked for the purpose of your Ranger features.
+Whenever you Strike a creature, you may move the center of your Hunter's Mark to that creature without spending an Action.
 
-Additionally, whenever you Strike a creature, you may move the center of your Hunter's Mark to that creature without spending an Action.
+Additionally, when you Strike your marked creature, you can choose to not do Force damage with Hunter's Mark.
+If you do, roll your Hunter's Mark dice separately and add your Mental Modifier to the result, the target takes that much Stress damage.
 
-This does not allow you to maintain multiple independent Hunter's Marks. It simply allows your mark to rapidly move between targets during a fight.
-
-## Killer Instincts
+## Killer Instincts: 9
 
 You know when a wounded creature has nothing left to give.
 
 When you Strike a marked creature, if the resulting damage would leave that creature at **1 Vitality**, that Strike deals 1 additional point of Vitality damage.
 
-## Bloodhound
+## Predatory Perception: 10
 
 Your connection to a quarry extends beyond ordinary senses.
 
 You can sense the direction of your marked creature even while you are **Blind**. And your Strikes never suffer Woe if you cannot see a creature marked by you.
 
-Additionally, when you use Hunter's Mark, you may instead mark the closest enemy creature within 15 m, even if you do not know where it is. You do not need to see the creature to mark it this way.
+Additionally, when you use Hunter's Mark, you may instead mark the closest enemy creature within 15m, even if you do not know where it is. You do not need to see the creature to mark it this way.
 
-## Analyzed II
+## Trailcraft II: 11
 
-Your understanding of your quarry becomes precise enough to exploit its defenses directly.
+You add your Hunter's Mark die to all rolls you make during a Rest. (except for the Rest Test itself)
 
-When you Strike your marked creature, you may forgo the additional damage from Hunter's Mark. If you do, choose one resistance the creature has to a damage type dealt by that Strike. That resistance is ignored for the triggering Strike and until the start of your next turn.
+Additionally your speed increases by an additional 1m, and you also gain whichever speed you did not choose for Trailcraft I.
 
-## Relentless Hunt
+## Relentless: 14
 
 Your prey cannot shake you off once you have committed to the hunt.
 
 When your marked creature would otherwise be **Hidden** from you, you can still use Hunter's Mark to track its direction and movement.
 
-## Lord of the Land
+## Setup: 15
 
 You know how to turn the wilderness itself into an extension of your hunt.
 
-All Perks with the **[Exploration]** tag cost 2 less Strain to use, to a minimum cost of 0 Strain.
-
-Additionally, you can spend 3 Strain and 10 minutes to mark a location with Hunter's Mark, creating a 30m radius area. While you are within this area, you have Weal on Stealth and Perception Checks.
+You can spend 3 Strain and 10 minutes to mark a location with Hunter's Mark, creating a 10m radius area. 
 
 While this area persists, creatures you choose within it are marked by you for as long as they remain in the area. You can end the mark sustaining this area as a free action, causing the area to disappear.
 
-## Feral Senses
+## Analyzed: 17
+
+Your understanding of your quarry becomes precise enough to exploit its defenses directly.
+
+When you Strike your marked creature, you learn any damage or condition resistances that creature has.
+
+## Feral Senses: 18
 
 Your senses have developed beyond ordinary mortal limits.
 
 You gain **Veilsight** and **Blindsight** out to 6m.
 
-## Capstone
+## Lord of the Land: 20
 
-The Ranger's 20th-level capstone should complete the Hunter's Mark progression rather than simply adding another unrelated combat ability.
-
-It should ideally answer the question:
-
-> **What does a master hunter do that an ordinary hunter cannot?**
-
-The capstone remains intentionally open during initial development.
+When you use Setup, the area is instead 30m, and, you have Weal on Stealth and Perception Checks when within the area.

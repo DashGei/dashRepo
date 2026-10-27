@@ -277,16 +277,6 @@ When you are the Director and have an instrument available, a **Miss** on your R
 This gives the musical character a role-specific analogue to Chef.
 
 ---
-
-### Encouraging Presence
-
-_Minor • Social • Rest • Passive_  
-**Prerequisite:** Proficiency in Persuasion
-
-When you are the Director, the party may choose to add your Recreation Die to the Rest Pool before the Cook's Recreation Die instead of after it.
-
-This one is intentionally modest and may ultimately be unnecessary, but it establishes a useful design space around the order in which party contributions are resolved.
-
 ---
 
 ### Campfire Stories

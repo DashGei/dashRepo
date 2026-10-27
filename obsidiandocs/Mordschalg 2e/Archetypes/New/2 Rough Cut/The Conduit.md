@@ -142,9 +142,9 @@ Choose 4 Spell Formulas which you do not know, when you start your turn roll a d
 | 4    | -     |
 ## Apotheosis: 17
 
-Once per rest, when you reach 0 Vitality or Mental Health you can immediately release a devastating wave of energy.
+Once per rest, when you reach 0 Vitality or Mental Health you can choose to release a devastating wave of energy.
 
-All creatures of your choice within 30m take 4d6 damage. The damage type must be the same as a spell Formula you know.
+When one of the above conditions is met, you can choose to designate all creatures of your choice within 30m. The targets take 3d12 damage, the type must be the same as a spell Formula you know.
 
 ## Control: 20
 

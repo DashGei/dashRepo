@@ -8,28 +8,28 @@ Iconic Rogue:
 
 ## Class Features
 
-| Level | Boon               | Sneak Attack | Features                                         |
-| ----- | ------------------ | ------------ | ------------------------------------------------ |
-| 1st   | Stance, Minor Perk | 2d4          | Fighting Style, Sneak Attack, Jack of all Trades |
-| 2nd   | Moderate Perk      | 2d4          | Cunning Action, Martial Feats                    |
-| 3rd   | Major Perk         | 2d4          | Roguish Archetype, Quick Feet                    |
-| 4th   | Stance             | 2d4          | Ability Score Improvement                        |
-| 5th   | 2 Minor Perks      | 2d6          | Uncanny Dodge                                    |
-| 6th   | +1 Stamina         | 2d6          | Exploit                                          |
-| 7th   | Major Perk         | 2d6          | Roguish Archetype Feature                        |
-| 8th   | Stance             | 2d6          | Ability Score Improvement, Expertise             |
-| 9th   | Moderate Perk      | 2d8          | Evasion                                          |
-| 10th  | +1 Flesh           | 2d8          | Quick Feet II                                    |
-| 11th  | 2 Minor Perks      | 2d8          | Reliable Talent                                  |
-| 12th  | Stance             | 2d8          | Ability Score Improvement, Opportunistic Strike  |
-| 13th  | Major Perk         | 2d10         | Skill Specialization                             |
-| 14th  | +1 Stamina         | 2d10         | Roguish Archetype Feature                        |
-| 15th  | 2 Minor Perks      | 2d10         | Blindsense, Dirty Tactics                        |
-| 16th  | Stance             | 2d10         | Ability Score Improvement                        |
-| 17th  | Moderate Perk      | 2d12         | Slippery Mind                                    |
-| 18th  | +1 Stamina         | 2d12         | Elusive                                          |
-| 19th  | Major Perk         | 2d12         | Ability Score Improvement                        |
-| 20th  | Stance             | 2d12         | Roguish Archetype Capstone                       |
+| Level | Boon               | Sneak Attack | Features                         |
+| ----- | ------------------ | ------------ | -------------------------------- |
+| 1     | Stance, Minor Perk | 2d4          | Sneak Attack, Jack of all Trades |
+| 2     | Moderate Perk      | 2d4          | Cunning Action                   |
+| 3     | Major Perk         | 2d4          |                                  |
+| 4     | Stance             | 2d4          |                                  |
+| 5     | 2 Minor Perks      | 2d6          | Uncanny Dodge                    |
+| 6     | +1 Stamina         | 2d6          | Exploit                          |
+| 7     | Major Perk         | 2d6          |                                  |
+| 8     | Stance             | 2d6          |                                  |
+| 9     | Moderate Perk      | 2d8          | Evasion                          |
+| 10    | +1 Flesh           | 2d8          | Quick Feet II                    |
+| 11    | 2 Minor Perks      | 2d8          | Reliable Talent                  |
+| 12    | Stance             | 2d8          | Opportunistic Strike             |
+| 13    | Major Perk         | 2d10         | Skill Specialization             |
+| 14    | +1 Stamina         | 2d10         |                                  |
+| 15    | 2 Minor Perks      | 2d10         | Blindsense, Dirty Tactics        |
+| 16    | Stance             | 2d10         |                                  |
+| 17    | Moderate Perk      | 2d12         | Slippery Mind                    |
+| 18    | +1 Stamina         | 2d12         | Elusive                          |
+| 19    | Major Perk         | 2d12         |                                  |
+| 20    | Stance             | 2d12         |                                  |
 ## Physical and Mental Modifiers: 0
 
 **Agility** is your Physical Modifier. Then choose **Acumen**, **Instinct** or **Presence** as your Mental Modifier. Use the corresponding Ability Modifier whenever one of your Warlock features refers to your Physical Modifier or Mental Modifier.
@@ -68,27 +68,17 @@ Any perk you gain which requires that Stance is only ever active while that Stan
 
 ## Sneak Attack: 1
 
-Once per turn when you Strike with Weal, you can sacrifice that Weal in order to make the Strike Critical, and do extra damage.
+Once per turn, you can deal extra damage to one creature you Strike if you have Weal on the Strike. 
 
-Once per turn, you can deal extra damage to one creature you Strike if you have Weal on the Strike. The Strike must be made with Agility. You don't need advantage if another enemy of the target is within 1m of it, that enemy isn't incapacitated, and you don't have Woe on the Strike.
+The extra damage starts at 2d4 and increases as shown in the Sneak Attack column of the Rogue table. The damage type is the same as the weapon's type.
 
-The extra damage starts at 1d6 and increases as shown in the Sneak Attack column of the Rogue table. The damage type is the same as the weapon's type.
-
-## Jack of all Trades: 1
+## Adroit : 1
 
 You can add half your **Proficiency Bonus** to any ability check you make that doesn't already include your **Proficiency Bonus**. Additionally, choose two of your skill proficiencies to gain expertise in.
 
-## Roguish Archetype: 3
-
-_You choose a [Roguish Archetype](sc_rogue.html) that emulates your approach to roguery._ Your choice grants you features at 3rd level, and then again at 7th, 14th, and 20th level.
-
 ## Quick Feet: 3
 
-When you take the **Dash action**, you gain an additional 15 feet of movement for that turn.
-
-## Ability Score Improvement
-
-At 4th, 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 1. You can't increase an ability score above 5 using this feature.
+When you take the **Dash Move**, you gain an additional 3m Speed from that Dash.
 
 ## Uncanny Dodge: 5
 
@@ -138,4 +128,4 @@ Your cunning mind is difficult to assault. You gain proficiency in **Wisdom savi
 
 ## Elusive: 18
 
-No attack roll has **advantage** against you while you aren't **incapacitated**.
+No Strike has Weal against you.

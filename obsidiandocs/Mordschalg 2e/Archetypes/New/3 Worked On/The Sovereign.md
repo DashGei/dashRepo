@@ -9,12 +9,12 @@
 | 6     | +1 Stamina         | 1d8       | Recuperate                 |
 | 7     | Major Perk         | 1d8       |                            |
 | 8     | Stance             | 1d8       |                            |
-| 9     | Moderate Perk      | 1d8       | Warlord’s Expertise        |
+| 9     | Moderate Perk      | 1d8       | Unbreakable Will           |
 | 10    | +1 Flesh           | 1d8       | Advanced Leadership        |
-| 11    | 2 Minor Perks      | 1d10      | Unbreakable Will           |
+| 11    | 2 Minor Perks      | 1d10      | Double Time                |
 | 12    | Stance             | 1d10      |                            |
-| 13    | Major Perk         | 1d10      | Sovereign Intuition        |
-| 14    | +1 Stamina         | 1d10      |                            |
+| 13    | Major Perk         | 1d10      |                            |
+| 14    | +1 Stamina         | 1d10      | Sovereign Intuition        |
 | 15    | 2 Minor Perks      | 1d10      | Warlord’s Expertise II     |
 | 16    | Stance             | 1d12      |                            |
 | 17    | Moderate Perk      | 1d12      | Tireless Leader            |
@@ -124,11 +124,10 @@ Choose one of the following benefits. You may change your choice when you finish
 
 ## Recuperate: 6
 
-When you are the Director or Cook, you add your Order Die to the result of your Recreation Test.
+When you are the Director, you add your Order Die to the result of your Recreation Test.
+## Unbreakable Will: 9
 
-## Warlord’s Expertise: 9
-
-Choose one skill in which you have Training. You gain Expertise in that skill.
+You have **Weal** on Saves made to resist or end the **Charmed** or **Frightened** conditions.
 
 ## Advanced Leadership: 10
 
@@ -136,17 +135,17 @@ As two Actions, you can apply an Advanced Maneuver to creatures of your choosing
 
 Each target receives the Stamina recovery and benefit of the chosen Advanced Maneuver.
 
-## Unbreakable Will: 11
+## Double Time: 11
 
-You have **Weal** on Saves made to resist or end the **Charmed** or **Frightened** conditions.
+When you are the Director, you add one more Time Die to the party's Rest Test.
 
-## Sovereign Intuition: 13
+## Sovereign Intuition: 14
 
 Choose a Minor Perk with the **Social** tag. You gain that Perk without spending one of your Perk choices.
 
-## Warlord’s Expertise II: 15
+## Moment of Inspiration: 15
 
-Choose one skill in which you have Training. You gain Expertise in that skill.
+Once per Major Rest as two Actions, you can give yourself and up to 4 creatures within 12m of you the benefits of a.
 
 ## Tireless Leader: 17
 
@@ -161,3 +160,4 @@ Additionally, when a Sovereign feature restores Stamina to a creature, that crea
 ## Advanced Leadership II: 20
 
 Advanced Leadership now costs **one Action**, and its radius increases to **6m**.
+
