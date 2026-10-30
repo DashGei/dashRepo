@@ -148,6 +148,6 @@ When one of the above conditions is met, you can choose to designate all creatur
 
 ## Control: 20
 
-At last, you have achieved some semblance of control over yourself. When you take a Rest, you can choose to restore up to 4 more Mental Health. Additionally you can spend 1 Strain to regain or lose 1 Mental Health.
+At last, you have achieved some semblance of control over yourself. When you take a Rest, you can choose to restore up to 4 more Mental Health. Additionally when your group starts their turn, you can spend 1 Strain to regain or lose 1 Mental Health.
 
 When you use Secrets Revealed, you can re-roll the die once and must use the new result.
