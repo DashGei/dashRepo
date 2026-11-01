@@ -10,6 +10,8 @@ Thy Dream Realized
 
 Twilight Realm
 
+Here Be Valor
+
 ### s1
 
 Release 1e Mordschlag classes and feats as 5e homebrew and be nice and cool on the internet and such

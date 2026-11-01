@@ -21,11 +21,11 @@ Iconic Champions:
 | 11    | 2 Minor Perks       | All Out Heroics        |
 | 12    | 2 Stances           |                        |
 | 13    | Major Perk          |                        |
-| 14    | +1 Stamina          | Expert Technique       |
+| 14    | +1 Stamina          | Leading by Example     |
 | 15    | 2 Minor Perks       | Power Through II       |
 | 16    | Stance              |                        |
 | 17    | Moderate Perk       | Disciplined Footwork   |
-| 18    | +1 Stamina          |                        |
+| 18    | +1 Stamina          | Expert Technique       |
 | 19    | Major Perk          |                        |
 | 20    | 2 Stances           | The Equalizer          |
 
@@ -106,9 +106,9 @@ You also learn whether additional enemies are present but out of sight, and whet
 
 Once per Major rest when you start your turn, you can choose to gain 2 additional Actions and the benefits of a Moderate Rest. These benefits last for **one minute**, after which you lose all of your Strain, along with 3 Mental Health and Stamina.
 
-## Expert Technique: 14
+## Leading by Example: 14
 
-When your group takes their turn, you can choose to either gain one d10 Technique Die, or two d4 Technique dice to spend individually.
+When you succeed on a Save, all Friendlies within 3m have Weal on the next Strike or Save they make before the start of your group's next turn.
 
 ## Power Through II: 15
 
@@ -117,6 +117,10 @@ As a Free Action when you are not **Miserable**, you can sacrifice 1 Mental Heal
 ## Disciplined Footwork: 17
 
 When you use an Action to swap between stances, you gain your choice of one d10 or two d4 Technique dice. This allows you to have more Technique dice than normally possible, but you still lose all of them on your next group turn.
+
+## Expert Technique: 18
+
+When your group takes their turn, you can choose to either gain one d10 Technique Die, or two d4 Technique dice to spend individually.
 
 ## The Equalizer: 20
 
