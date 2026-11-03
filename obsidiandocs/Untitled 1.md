@@ -1,16 +1,10 @@
-**
-
 
 | Sex | Race | Attributes | Class | Allignment |     |     |
 | --- | ---- | ---------- | ----- | ---------- | --- | --- |
 |     |      |            |       |            |     |     |
 
-  
-
-
 | Race | Sex | Attributes | Allignment | Class |
 | ---- | --- | ---------- | ---------- | ----- |
-
 ## Martial Maneuvers
 
 Martial Maneuvers represent specialized techniques, combat maneuvers, and trained abilities that martial characters can perform in battle.
