@@ -74,7 +74,7 @@ You can add the result of the **d8** to any of the following:
  - A Strike's damage roll
  - The speed you gain when taking the Dash Action
  - A Save
- - Subtract the result from one damage roll against you.
+ - Subtract the result from one damage roll against an Ally within 1m.
 
 If you do not use your Technique die before your next group turn, it is lost.
 
@@ -108,7 +108,7 @@ Once per Major rest when you start your turn, you can choose to gain 2 additiona
 
 ## Leading by Example: 14
 
-When you succeed on a Save, all Friendlies within 3m have Weal on the next Strike or Save they make before the start of your group's next turn.
+When you succeed on a Save, all Friendlies within 3m who are making the same Save as you have Weal on their Save.
 
 ## Power Through II: 15
 
@@ -116,11 +116,11 @@ As a Free Action when you are not **Miserable**, you can sacrifice 1 Mental Heal
 
 ## Disciplined Footwork: 17
 
-When you use an Action to swap between stances, you gain your choice of one d10 or two d4 Technique dice. This allows you to have more Technique dice than normally possible, but you still lose all of them on your next group turn.
+When you use an Action to swap between stances, you gain one Technique Die. This allows you to have more Technique dice than normally possible, but you still lose all of them on your next group turn.
 
 ## Expert Technique: 18
 
-When your group takes their turn, you can choose to either gain one d10 Technique Die, or two d4 Technique dice to spend individually.
+When your group takes their turn, one Friendly group member of your choice gains a Technique Die for themselves.
 
 ## The Equalizer: 20
 

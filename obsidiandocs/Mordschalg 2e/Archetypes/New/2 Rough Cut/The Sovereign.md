@@ -34,10 +34,9 @@ A Sovereign begins with **4 Vitality, 8 Stamina, and 9 Mental Health**.
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |||||||||||||
 
-|M|M|M|M|M|M|M|M|M|
-|---|---|---|---|---|---|---|---|---|
-||||||||||
-
+| M   | M   | M   | M   | M   | M   | M   | M   | M   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| M   |     |     | D   |     |     | I   |     |     |
 ## Training
 
 As a Sovereign, you have Training in the following areas:

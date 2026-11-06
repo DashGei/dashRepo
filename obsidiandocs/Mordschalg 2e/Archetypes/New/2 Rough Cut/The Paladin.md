@@ -34,41 +34,32 @@ Choose **Might** or **Agility** for your Physical Modifier. Then choose **Acumen
 
 ## Health: 0
 
-A Paladin begins with 2 Vitality, 2 Flesh, 9 Stamina, and 9 Mental Health
+A Paladin begins with 3 Vitality, 1 Flesh, 9 Stamina, and 9 Mental Health
 
-| V   | V   | F   | F   | S   | S   | S   | S   | S   | S   | S   | S   | S   |
+| V   | V   | V   | F   | S   | S   | S   | S   | S   | S   | S   | S   | S   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |     |     |     |     |     |     |     |     |     |     |     |     |     |
 
 | M   | M   | M   | M   | M   | M   | M   | M   | M   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | M   |     |     | D   |     |     | I   |     |     |
-## Training: 0
+## Training
 
 As a Paladin, you have Training in a few areas according to the list below: 
 
-**Armor:** Light Armor, Medium Armor
-**Weapons:** Simple weapons
-**Tools:** None
+**Armor:** All armor, Shields
+**Weapons:** Simple weapons, Martial Weapons
 **Skills:** Choose two from Athletics, Insight, Intimidation, Medicine, Persuasion, and Religion.
 
-## Perks: 1
+## Perks
 
 Perks grant talents, techniques, and specialized capabilities that customize your character. Each Perk has a degree which is either Minor, Moderate, or Major, and may have tags or prerequisites that determine who can choose it and how it works.
 
 At 1st level, choose one Minor Perk for which you meet the prerequisites.
 
-## Training: 1
-
-As a Paladin, you have Training in a few areas according to the list below: 
-
-**Armor:** All armor, shields
-**Weapons:** Simple weapons, martial weapons
-**Skills:** Choose two from Athletics, Insight, Intimidation, Medicine, Persuasion, and Religion
-
 ## Aura of Zeal: 1
 
-You emanate a protective aura that extends **2m** from you in all directions. Enemies within it never have Weal when Striking allied creatures **other than you**.
+You emanate a protective aura that extends **3m** from you in all directions. Enemies within it never have Weal when Striking allied creatures **other than you**.
 
 ### Zeal Dice
 
@@ -96,7 +87,7 @@ Additionally, when you use Zealous Benediction to heal an ally, you also regain 
 
 ## Aura of Protection: 6
 
-While your aura is active, you and friendly creatures within it add your **Mental Modifier** (minimum +1) to all saving throws.
+While your aura is active, you and friendly creatures within it add your **Mental Modifier** to all saving throws.
 
 ## Abjure Foes: 9
 
@@ -124,7 +115,7 @@ At the start of your turn, you gain one **Zeal Die** for each friendly creature 
 
 ## Aura Expansion: 18
 
-Your aura radius increases to 6m.
+Your aura radius increases to 5m.
 
 ## Righteous Conviction: 20
 

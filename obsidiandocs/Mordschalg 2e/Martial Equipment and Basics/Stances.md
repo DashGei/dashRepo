@@ -54,10 +54,10 @@
 
 *"Well surely she couldn't." -Last words of  Samuel Haart. Killed at 350m. Flight arrow.*
 
-**Sweet Spot** {R*} When a creature ends their turn within 6-8 meters from you, you can strike that creature as a reaction.
+**Sweet Spot** {R*} When a creature ends their turn within 6-8 meters from you, you can Strike that creature as a Reaction.
 When you finish a short rest you can change the range of the sweet spot to any 3 meter range between 2-30 meters.
 
-**Precision Strikes** When you miss a strike, you can add 1d6 to the roll's total.
+**Precision Strikes** When you roll Miss on a Strike, you can add 1d6 to the roll's total.
 
 ### Warrior
 

@@ -39,7 +39,6 @@ A Ranger does not need to be a woodsman, archer, or spellcaster. A Ranger is def
 |    18 | +1 Stamina         | 1d10          | Feral Senses         |
 |    19 | Major Perk         | 1d10          |                      |
 |    20 | Stance             | 1d12          | Lord of the Land     |
-
 ## Physical and Mental Modifiers
 
 Choose **Might** or **Agility** for your Physical Modifier. Then choose **Acumen** or **Instinct** as your Mental Modifier. Use the corresponding Ability Modifier whenever one of your Ranger features refers to your Physical Modifier or Mental Modifier.
@@ -64,7 +63,7 @@ As a Ranger, you have Training in a few areas according to the list below:
 **Weapons:** Simple Weapons, Martial Weapons
 **Skills:** Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
 
-## Perks: 1
+## Perks
 
 Perks grant talents, techniques, and specialized capabilities that customize your character. Each Perk has a degree which is either Minor, Moderate, or Major, and may have tags or prerequisites that determine who can choose it and how it works.
 

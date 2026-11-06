@@ -15,18 +15,18 @@ Iconic Faithful:
 | 3     | Major Perk           |                     |
 | 4     | New Spell            |                     |
 | 5     | 2 Minor Perks        | -                   |
-| 6     | +1 Stamina           | 2ndary Upgrade      |
+| 6     | +1 Stamina           | -                   |
 | 7     | Major Perk           |                     |
 | 8     | New Spell            |                     |
-| 9     | Moderate Perk        |                     |
+| 9     | Moderate Perk        | -                   |
 | 10    | +1 Flesh             | Divine Intervention |
-| 11    | 2 Minor Perks        | 2ndary Upgrade      |
+| 11    | 2 Minor Perks        | -                   |
 | 12    | New Spell            |                     |
 | 13    | Major Perk           |                     |
 | 14    | +1 Stamina           | -                   |
-| 15    | 2 Minor Perks        | 2ndary Upgrade      |
+| 15    | 2 Minor Perks        | -                   |
 | 16    | New Spell            |                     |
-| 17    | Moderate Perk        |                     |
+| 17    | Moderate Perk        | -                   |
 | 18    | +1 Stamina           | -                   |
 | 19    | Major Perk           |                     |
 | 20    | New Spell            | Light in the Black  |
@@ -38,7 +38,7 @@ Choose **Might** or **Agility** to determine your Physical Modifier. Then choose
 
 A Faithful begins with 4 Vitality, 7 Stamina, and 9 Mental Health.
 
-| V   | V   | V   | V   | S   | S   | S   | S   | S   | S   | S   |
+| V   | V   | V   | F   | S   | S   | S   | S   | S   | S   | S   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |     |     |     |     |     |     |     |     |     |     |     |
 

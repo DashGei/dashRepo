@@ -1,14 +1,10 @@
+# Angels
 
-
-
-
-
+# Constructs
 
 # Corpses
 
-# Drakes
-
-##
+# Cryptids
 
 # Fiends
 
@@ -17,3 +13,13 @@
 ## Devils
 
 ## Gryres
+
+# Flora
+
+# Mortals
+
+# Primordials
+
+# Strangers
+
+

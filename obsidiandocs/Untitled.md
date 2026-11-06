@@ -1,0 +1,1 @@
+Mario Galaxy icons for text

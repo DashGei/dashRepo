@@ -48,6 +48,8 @@ Perks are the minute aspects and abilities that make up a mortal's social and co
 
 {P}**Heliomancy** All light you create with spells is Daylight.
 
+{P} **Honorable** Once per Moderate rest when you defeat someone in a 1 on 1 duel, you gain 2 Strain.
+
 {R}**Interception** When a creature within 1m of you is targeted by a physical Strike, you can use your Reaction to interpose yourself. You become the target of the Strike instead. Resolve the Strike against your Physical Defense rather than the original target's.
 
 {F}**Lockdown** When a creature rolls Miss on a MIG save to avoid being grappled by you, they are Restrained.

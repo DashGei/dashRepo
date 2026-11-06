@@ -10,6 +10,7 @@
     cursor: url("images/cursoractive.png"), auto;
     list-style: none;
 
+
     padding-bottom: 6px;
 }
 
@@ -144,13 +145,26 @@ li {
 }
 
 body {
-    background: url(images/wallpaperfgif.gif);
+
+    background: url("images/starfall.gif") fixed;
     background-attachment: fixed;
+    background-size: 125%;
+    animation: scroll 80s linear infinite;
     line-height: 22px;
     font-family: Bookerly, Draconis;
     font-size: 20px;
     color: #eaebe2;
     cursor: url("images/cursorpassive.png"), auto;
+}
+
+@keyframes scroll
+{ 
+    100% {
+        background-position: 0 0;
+}
+    0% {
+        background-position: 100% 20%;
+    }
 }
 
 strong {
@@ -159,6 +173,7 @@ strong {
     font-size: 20px;
     color: #eceed8;
     cursor: url("images/cursorpassive.png"), auto;
+    text-shadow: 0 0px 10px #6d5cc9a1
 }
 
 img {
@@ -196,10 +211,10 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #104a6c;
+    background-color: #072231;
     padding: 10px;
     border-radius: 5px;
-    box-shadow: 0 5px 10px #03456e;
+    box-shadow: 0 5px 10px #030f16;
     max-width: 900px;
     min-width: 300px;
     margin: 10px auto 0
@@ -210,11 +225,12 @@ img {
 }
 
 .text-frame {
-    background-color: #104a6c;
+    background-color: #072231ef
+;
     padding-top: 10px;
     padding: 10px;
     border-radius: 5px;
-    box-shadow: 0 5px 10px #03456e
+    box-shadow: 0 5px 10px #030f16
 }
 
 .centered {
@@ -235,7 +251,7 @@ figure.block {
     padding: 20px;
     max-width: 350px;
     border-radius: 5px;
-    box-shadow: 0 5px 10px #062131
+    box-shadow: 0 5px 10px #030f16
 }
 
 figure.block:hover {
@@ -253,7 +269,7 @@ figure.block:hover {
     transform: scale(1.4);
     transition-duration: 0.2s;
     transition-property: all;
-    box-shadow: 0 7px 15px #036e47
+    box-shadow: 0 7px 15px #030f16
 }
 
 hr {
@@ -281,8 +297,9 @@ a {
     font: Bookerly;
     width: 100%;
     max-width: 100%;
-    box-shadow: 0 5px 10px #062131;
-    background-color: #1b5b80;
+    box-shadow: 0 5px 10px #030f16;
+    background-image: linear-gradient(to right, #0e2f44, #092333);
+
     color: #eaebe2;
 
     text-align: left;
@@ -294,11 +311,12 @@ a {
 .table-scroll {
     overflow-x: auto;
     break-inside: avoid;
-    box-shadow: 0 5px 10px #062131;
+    box-shadow: 0 5px 10px #030f16;
 }
 
 .styled-table tbody tr:nth-child(odd) {
-    background-color: #104a6c;
+    background-color: #072231
+;
 }
 
 .styled-table td,
@@ -309,11 +327,6 @@ a {
 .styled-table tr.active-row {
     background-color: #114360;
 }
-
-
-
-
-
 
 button {
     cursor: url("images/cursoractive.png"), auto;
