@@ -2,7 +2,7 @@
 | Name                     | Damage      | Properties                     | Weight | Cost   | Range       |
 | ------------------------ | ----------- | ------------------------------ | ------ | ------ | ----------- |
 | _Simple Melee Weapons_   |             |                                |        |        |             |
-| Club                     | 1d4 (B)     | Light                          | Mo.    | 1 SP   | 1           |
+| Club                     | 1d6(B)      | Light                          | Mo.    | 1 SP   | 1           |
 | Dagger                   | 1d8 (S, P)  | Finesse, Light, Thrown         | Mo.    | 2 GP   | 1 (4/14)    |
 | Greatclub                | 2d6 (B)     | Two-Handed                     | Ma.    | 2 SP   | 2<br>       |
 | Handaxe                  | 1d12 (S)    | Light, Thrown                  | Mo.    | 5 GP   | 1<br>(3/12) |
@@ -40,8 +40,8 @@
 | _Martial Ranged Weapons_ |             |                                |        |        |             |
 | Blowgun                  | 1d4 (P)     | Finesse                        | Mo.    | 10 GP  | 5/20        |
 | Hand Crossbow            | 1d8 (P)     | Finesse, Light, Hunker         | Mo.    | 75 GP  | 6/24        |
-| Crossbow                 | 2d8 (P)     | Heavy, Two-Handed, Hunker      | Ma.    | 50 GP  | 40/80       |
-| Longbow                  | 2d8 (P)     | Heavy, Two-Handed              | Ma.    | 50 GP  | 30/120      |
+| Crossbow                 | 2d6 (P)     | Heavy, Two-Handed, Hunker      | Ma.    | 50 GP  | 40/80       |
+| Longbow                  | 2d6 (P)     | Heavy, Two-Handed              | Ma.    | 50 GP  | 30/120      |
 | Pistol                   | 2d12 (P)    | Ammunition, Finesse, Matchlock | Mo.    | 80 GP  | 10/20       |
 
 | Name         | Base PD | Max AGI Bonus |
@@ -50,8 +50,8 @@
 | Light Armor  | 1       | All           |
 | Medium Armor | 4       | 2             |
 | Heavy Armor  | 7       | No addition   |
-
 `dice: 2d8+5` 2d8
+`dice: 1d12+5` 1d12
 
 | Damage roll    | Minor  | Moderate | Major | Average HP lost |
 | -------------- | ------ | -------- | ----- | --------------- |

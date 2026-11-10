@@ -6,9 +6,9 @@
 | ----- | ----------------- | ---------------------------------------------- |
 | 1st   | +1                | Fighting Style, Expertise, Aura of Spontaneity |
 | 2nd   | +2                | Spellcasting, Rites Passed Down                |
-| 3rd   | +2                | Busker College, Magical Secrets                |
-| 4th   | +2                | Ability Score Improvement                      |
-| 5th   | +3                | Versatile Fatigue Resistance, Magical Secrets  |
+| 3rd   | +2                | Magical Secrets                                |
+| 4th   | +2                |                                                |
+| 5th   | +3                | Magical Secrets                                |
 | 6th   | +3                | Epics                                          |
 | 7th   | +3                | Busker College feature, Transmogrification     |
 | 8th   | +3                | Ability Score Improvement                      |

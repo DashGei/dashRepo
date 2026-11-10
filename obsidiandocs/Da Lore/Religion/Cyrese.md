@@ -1,8 +1,8 @@
-## Ilmater
+# Cyrese
 
 _The Hanged Man, Patron of Mercy_
 
-Ilmater teaches that true strength is measured by compassion that is freely given, forgiveness that is sincerely offered, and burdens are to be carried without expectation of reward. His shrines are simple places where the sick are tended, prisoners are fed, and even enemies receive care.
+Cyrese teaches that true strength is measured by compassion that is freely given, forgiveness that is sincerely offered, and burdens are to be carried without expectation of reward. His shrines are simple places where the sick are tended, prisoners are fed, and even enemies receive care.
 
 **Domains:** Mercy, compassion, endurance, healing, forgiveness  
 **Worship Method:** Ideals
@@ -42,6 +42,7 @@ Ilmater teaches that true strength is measured by compassion that is freely give
 
 ## Telthan
 
-A Syncretic sect, who's followers combine 
+A Syncretic sect in Dvalum who's members follow the teachings of First Saint Telthan and his legendary banishment of Miloth
 
 ## Unimeric
+

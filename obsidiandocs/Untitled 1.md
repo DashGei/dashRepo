@@ -1,3 +1,13 @@
+Mario Galaxy icons for text
+
+
+
+
+tungsten 3200
+
+flour 4000
+
+sun 5600
 
 | Sex | Race | Attributes | Class | Allignment |     |     |
 | --- | ---- | ---------- | ----- | ---------- | --- | --- |

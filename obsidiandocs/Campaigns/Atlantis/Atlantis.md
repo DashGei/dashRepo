@@ -50,7 +50,7 @@ We need to get the party from Atlantis to Ko’ar Tai in order to initiate fun s
 
 ## Arc II: Ko’ar Tai
 
-Ko’ar Tai is a massive and powerful undersea nation built around a vented trench. This trench allows it to be an aquatic nation with the power to both mine and smelt metals, making metalwork its primary and incredibly lucrative trade. The city is ruled by four families who own their own syndicates, mobs, industries, and neighborhoods: the Blaang, the Elwei, the Zalthbash, and the Kelps.
+Ko’ar Tai is a massive and powerful undersea nation built around a vented trench. This trench allows it to be an aquatic nation with the power to both mine and smelt metals, making metalwork its primary and incredibly lucrative trade. The city is ruled by four families who own their own syndicates, mobs, industries, and neighborhoods: the Blaang, the Elwei, the Rockmund, and the Kelps.
 
 The Blaang family deals heavily in gem trades with surface nations, but the family is in disarray because the heir, Reven, was killed before he could marry a member of the Kelp family. This was a massive political event, secretly orchestrated by Ahmrose Elwei, who seeks to undermine both families and take more control of the nation.
 

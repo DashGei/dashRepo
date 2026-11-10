@@ -79,8 +79,6 @@ The under-boat is a Diamond Teeth vessel—a sleek, steam-and-magic-powered subm
 - To Habel: *"You were always a liability, Garren. Your father's money bought you a position, but it couldn't buy you competence. I should have left you in Ko'ar Tai."*
 - To Callahan: *"Ahmrose spoke of you. She said you were stubborn. She didn't mention you were a fool."*
 
----
-
 ## The Six Crew Members
 
 The crew are experienced Diamond Teeth operatives—not raw recruits. They are loyal to Ahmrose (and by extension, Vaelis), but their morale breaks if Vaelis flees or dies.
@@ -147,8 +145,6 @@ The under-boat has crashed into the ruins adjacent to the library. The crew emer
 - **Unstable Floor:** Parts of the library are flooded; difficult terrain. A *thunderwave* or similar spell could collapse the floor entirely (DM discretion).
 - **Magical Books:** A stray spell might activate a random book (roll on a minor wild magic table or have it cast *grease* or *silent image*).
 
----
-
 ## Social & Roleplay Opportunities
 
 ### Habel's Plea
@@ -162,8 +158,6 @@ Lathos can identify Vaelis as a transmuter (Arcana DC 15) and warn the party abo
 
 ### Vaelis's Obsession
 If Vaelis sees Innenza use the ring's necrotic powers, he becomes fixated. He will offer to spare the party if they hand over Innenza and Lathos: *"The thief and the scientist. The rest of you can walk away. Ahmrose doesn't care about you."* This is a lie—he'll try to kill them anyway—but it creates a moral dilemma.
-
----
 
 ## Aftermath & Loot
 
@@ -343,7 +337,155 @@ If the party attunes to the ruby (requires a short rest and a DC 15 Arcana check
 *End of Ship & Ruby Details*
 
 
+## Step 1: The Aftermath (Post-Combat)
 
+After the fight with Vaelis and the crew, the party is left in the ruined library with:
+
+- The wrecked under-boat
+    
+- Possibly Vaelis's body (or his escape route)
+    
+- Prisoners (Voss, Sessa, or others if they surrendered)
+    
+- Scattered debris, including Vaelis's spellbook (if he died) or dropped items (if he fled)
+    
+
+**No exposition dump.** Instead, plant **clues** the party can find:
+
+### Clue A: Vaelis's Spellbook (if recovered)
+
+- Contains a page with a **coded phrase** and a diagram of a teleportation circle. The phrase is written in cipher. **DC 14 Arcana** or **DC 15 Investigation** to decode.
+    
+- Margin note in Vaelis's handwriting: _"Circle resets at moonrise. Ahmrose insists on weekly maintenance. Tedious."_
+    
+- This tells the party: there's a circle, it's nearby, and it's on a timer.
+    
+
+### Clue B: The Ship's Log
+
+- In the under-boat's cockpit. **DC 13 Investigation** to find.
+    
+- Last entry: _"Commander Thorn, orders from Elwei: secure the prisoner and return via the scriptorium circle. Do not use the main gate. The ruins are compromised."_
+    
+- This tells the party: Ahmrose and Blayne left via a circle in the scriptorium, and the main gate is dangerous.
+    
+
+### Clue C: Interrogation (Voss or Sessa)
+
+- If captured, they crack under pressure (**DC 12 Intimidation** or **DC 14 Persuasion**).
+    
+- Voss: _"I don't know the phrase! Only Vaelis and the command staff do. But the circle's in the scriptorium—down the collapsed stair, past the flooded archives. It'll still be glowing if they left recently."_
+    
+- Sessa (if she's still alive and not hostile): _"Habel knows the way. She's been here before. Ask her."_
+    
+
+### Clue D: Environmental Observation
+
+- **Perception (DC 13):** The party notices fresh footprints in the dust leading toward a collapsed staircase on the far side of the library.
+    
+- **Arcana (DC 15):** A faint hum of transmutation magic pulses from below the floor—the signature of an active teleportation circle.
+    
+- **Investigation (DC 14):** Drag marks and discarded gear (a Diamond Teeth insignia, a torn map fragment showing the scriptorium) point the way.
+    
+
+**Habel and Lathos don't speak up unless asked.** They're dealing with their own shit:
+
+- Habel is furious about the crash, worried about her crew (even the ones who attacked her), and scared of what her father will say when he finds out she's a fugitive.
+    
+- Lathos is overwhelmed—he was a prisoner, he's free now, and he doesn't trust anyone. He's also intensely curious about Innenza's ring and may be distracted by it.
+
+## Step 2: The Party Decides
+
+The party now has enough information to make a choice. They can:
+
+1. **Follow Ahmrose and Blayne through the circle** (if they find it and can activate it).
+    
+2. **Repair the under-boat** and sail to Ko'ar Tai (takes 2–3 days, more dangerous, but no magical failsafes).
+    
+3. **Find another way** (unlikely—they're in a ruin in Atlantis with no other transport).
+    
+4. **Ask Habel and Lathos what they know** (which triggers the exposition naturally, as a response to player agency).
+    
+
+**DM Note:** If the party asks Habel directly, she says: _"There's a circle in the scriptorium. Ahmrose and Blayne use it to come and go. If we can activate it, we can follow them. But it's keyed to their command staff—we'd need a key and the phrase. And it resets soon."_ This is now **earned** information, not a handout.
+
+---
+
+## Step 3: Locating the Scriptorium
+
+The scriptorium is a sub-level beneath the library, accessible via a collapsed staircase (DC 12 Athletics to climb down safely) or a hole in the floor (DC 14 Perception to spot).
+
+**Navigation (Skill Challenge: 3 successes before 2 failures)**
+
+|Skill|DC|Success|
+|---|---|---|
+|Investigation|14|Find the clearest path through the rubble|
+|Perception|13|Spot the faint blue glow of the circle through a collapsed wall|
+|Arcana|15|Follow the magical signature of the circle|
+|Athletics|12|Clear debris blocking the way|
+
+**Complications (on failure):**
+
+- Collapsing floor (DC 13 Dex save or 1d6 bludgeoning).
+    
+- A **glyph of warding** left by Ahmrose (DC 15 Perception to spot; DC 14 _dispel magic_ or DC 15 Thieves' Tools to disable; otherwise 2d8 fire damage in a 10-ft. radius).
+    
+- A **water elemental** (CR 5) bound to guard the scriptorium—it's gone berserk after years of isolation. It attacks anything that enters.
+    
+
+**The Scriptorium:**  
+A flooded, circular chamber with a domed ceiling. Broken shelves line the walls, and scattered scrolls float in the murky water. In the center, a **10-foot-diameter teleportation circle** glows with faint blue light. The edges flicker—it's active but unstable. Three **cut rubies** are set into the perimeter; one slot is empty (Ahmrose took the key). A **command pedestal** stands nearby with a slot for a transmutation key.
+
+---
+
+## Step 4: Activating the Circle
+
+The party must complete three tasks. Each can be discovered through investigation or trial and error.
+
+### A. Find the Command Phrase
+
+Options:
+
+- **Vaelis's Spellbook** (if recovered): Decode the cipher (**DC 14 Arcana** or **DC 15 Investigation**). Phrase: _"The current carries us home."_
+    
+- **Ship's Log**: **DC 13 Investigation** to find the entry.
+    
+- **Interrogation**: Voss or Sessa know the phrase (DC 12 Intimidation or DC 14 Persuasion).
+    
+- **Trial and Error**: The pedestal has faint etchings of previous phrases. **DC 16 Arcana** to deduce the pattern. Failure triggers a harmless but loud chime (may attract attention).
+    
+
+### B. Provide the Transmutation Key
+
+The pedestal has a slot shaped for a **cut ruby** or a **transmuter's stone**. Options:
+
+- **Vaelis's Transmuter's Stone** (if recovered): Works perfectly.
+    
+- **One of the cut rubies** (from the ship's engine or the party's inventory): Works, but the ruby is **consumed** (destroyed).
+    
+- **Habel's Bypass**: She can rig a bypass with **DC 16 Tinker's Tools** (1 minute). On success, the circle activates without consuming a key. On failure, the circle sparks and deals 2d6 force damage to everyone within 10 ft. (DC 13 Dex save for half), and she must try again.
+    
+
+### C. Speak the Phrase
+
+Once the key is in place, someone must speak the phrase clearly. **No check required**—but the circle takes **1 round** to fully activate. During that round, the party can position themselves.
+
+**Total Time:** 5–10 minutes (careful) or 2 rounds (rushed, with disadvantage on checks).
+
+---
+
+## Step 5: The Failsafe
+
+As the circle activates, a **delayed blast** triggers—Ahmrose's paranoia made manifest.
+
+- **Spot it:** DC 15 Perception to notice a flickering red rune on the circle's edge.
+    
+- **Disable it:** DC 15 Thieves' Tools or _dispel magic_.
+    
+- **If not disabled:** 3d6 fire damage to everyone on the circle (DC 15 Dex save for half). The damage occurs _after_ teleportation, so they arrive in Ko'ar Tai wounded.
+    
+
+**Alternative (if the party is already hurt):** The failsafe triggers a _hypnotic pattern_ (DC 15 Wis save) instead of damage, incapacitating anyone who fails for 1 minute. This is a setback, not a TPK.
 
 
 

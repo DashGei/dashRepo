@@ -58,7 +58,7 @@ You can enter your Rage by spending 2 Strain as an Action. You gain the benefits
     
 - **Physical Resistance.** You have Resistance to Blunt, Pierce, and Slash damage.
 
-**Duration.** Rage lasts for **10 minutes**, or it ends early if you take an action.
+**Duration.** Rage lasts for **10 minutes**, or it ends early if you take an action to do so.
 
 **Critical Hit Range Reset.** When you score a Critical Hit, your crit range resets to 12.
 
@@ -66,15 +66,9 @@ You can enter your Rage by spending 2 Strain as an Action. You gain the benefits
 
 While you are wearing any armor, your PD = your MIG + your AGI.
 
-## Incredible Strength: 3
-
-When raging and you roll for an Athletics or Brawn Check, you also roll your bonus d12 critical die. Rolling a 12 elevates your roll to Major, and lets you complete that Check as a feat of incredible strength if you so choose.
-
-This is one such as pushing through a foot of masoned stone, tearing iron bars from their place, or holding a door shut against a hoard.
-
 ## Adrenaline Rush: 5
 
-Your speed increases by 1m, and whenever a creature other than you within **2m** takes an Action which increases their Speed, your Speed increases by **3m**.
+Your speed increases by 1m, and whenever a creature other than you within **2m** takes an Action which increases their Speed, your Speed increases by **3m** until the start of your next turn.
 
 ## Furious: 6
 
@@ -108,7 +102,7 @@ When rolling with Weal or Woe, you roll one additional critical d12.
 
 ## Insurmountable: 17
 
-When you are hit with an attack that also applies an effect (such as fear, poison, or a condition), you can take **1 Stamina damage** to make a DT**4 MIG Save**. On a success, you take the damage but suffer none of the additional effect.
+When you are hit with an attack that also applies an effect (such as fear, poison, or a condition), you can take **1 Stamina damage** to make a DT **4 MIG Save**. On a success, you take the damage but suffer none of the additional effect.
 
 ## Indomitable Might: 20
 

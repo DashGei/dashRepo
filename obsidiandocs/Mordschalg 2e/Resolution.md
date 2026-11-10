@@ -1,6 +1,3 @@
-
-
-
 # Core Resolution
 
 Whenever a creature attempts something with an uncertain outcome, you run a Threshold Test to determine the outcome. There are three main Threshold Tests, (Saves, Checks, and Damage) and they always follow this formula:

@@ -1,75 +1,11 @@
 
 
 
-Gelagu
-
-A Gelag is characterized by their stocky frame, light scales across the body, and neck gills. Gelagu evolved on the extradimensional plane of water, but they make up a large portion of aquatic and even occasionally surface society.
-
-Most Gelagu are strong headed and stubborn. Their connection to the primeval world persuades them to rarely bother with political careers, preferring the company of a mill or plowed field. Tales of old describe how Gelagu bested great aquatic threats like Krakens or Serpents, and many long to make a legend of their people again.
-
-Gelagu Traits
-
-- **Size**: Medium (about 5'6" - 5'9")
-
-- **Age**: Gelagu typically live 80-100 years
-
-- **Speed**: 6m walking, swimming
-
-- **Aquatic Adaptations**: You can breathe air along with water. You have Thermal sight out to 6m.
-
-- **Primordial**: You can communicate simple ideas to any Beast, or Elemental. It can understand your words, though you have no special ability to understand it in return.
-
-Optional Character Traits and Trivia
-
-Gelagu are the only mortals capable of seeing the color "Bome"
-
-Stout
-
-Primarily residing in the west of their home continent Dvalum, Stouts tend to their gardens and hearths. Stories are spun of their unfathomable ability to remain content and happy with the simple pleasures of life.
-
-Halflings are rarely known to take up adventuring, so they may expect the odd glance from other travelers. Despite these stigmas Stouts can be extraordinarily capable, their small frame and nature disguises an indomitable fervor for life.
-
-Stout Traits
-
-- **Size**: Small (about 3'3" – 4'6")
-
-- **Age**: Stouts typically live 60-80 years
-
-- **Speed**: 6m walking
-
-- **Naturally Stealthy**: You can take the hide action when within 5 feet of another creature who is larger than you.
-
-- **Hospitality**: When you serve as the Director or Cook,
-
-
 # Races and people of the world
 
 The planet of Gaia is a diverse one, and since the gods arrived to the world they created a plethora of intelligent humanoids to fill its corners.
 
-When choosing a race, it is recommended to pick one which highlights important parts of your character's traits. For example your big hearted and larger than life Paladin of Sol may be significantly enhanced if you choose to make them an Orc. Your practical naturalist may have a much more graspable character if they are a Moor Elf or Human, leading to meaningful interactions with the world.Human
-
-Spanning every continent, humans are the most diverse and ancient of all mortals. Humankind first evolved from apes, eventually spreading throughout the world and creating the first glimmers of society.
-
-Being one of the two populations not born of gods, humans typically value self determination, resourcefulness, and the natural world. In fact while humans make up about 65% of all surface dwellers, they're only roughly 30% of city dwellers, preferring to stick to hunter gatherer communities and small townships.Human Traits
-
-- **Size**: Medium (about 5'3" – 5'10")
-
-- **Age**: Humans typically live 50-70 years
-
-- **Speed**: 30 feet walking
-
-- **Resourceful**: Increase any ability score by 1, gain proficiency in one skill which uses said ability score.
-
-- **Primordial**: You can communicate simple ideas to any Beast, or Elemental. It can understand your words, though you have no special ability to understand it in return.
-
-Optional Character Traits and Trivia
-
-- Many humans do not believe in fate.
-
-- Many humans wear face and body paints to connect themselves with the Primordial titans.
-
-- Some humans may despise their natural origins and seek religious rebirth.
-
+When choosing a race, it is recommended to pick one which highlights important parts of your character's traits. For example your big hearted and larger than life Paladin of Sol may be significantly enhanced if you choose to make them an Orc. Your practical naturalist may have a much more graspable character if they are a Moor Elf or Human, leading to meaningful interactions with the world.
 Halfling
 
 Primarily residing in the west of their home continent Dvalum, Halflings tend to their gardens and hearths. Stories are spun of their unfathomable ability to remain content and happy with the simple pleasures of life.
