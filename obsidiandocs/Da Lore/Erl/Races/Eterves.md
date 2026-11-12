@@ -1,6 +1,6 @@
 # Eterves
 
-Eterves are slim, tall folk, with short noses and short grey fur covering their bodies. 
+Eterves are slim, tall folk, with antenna like eyebrows, bovine noses, and short, barely iridescent gray fur covering their body. 
 
 
 
@@ -18,6 +18,7 @@ Equally sage-like and enigmatic, Firbolg are sometimes approached with caution a
 
 - **Fey Aspect**: If you know the full and true birth name of any creature, you have advantage on Insight and Persuasion checks against it. You know the Thaumaturgy cantrip and one cantrip from the Druid spell list, when you finish a long rest you can swap that cantrip out with another from the Druid spell list.
 
-- **Wood Walker**: You gain proficiency in the Animal Handling or Medicine skills.
+- **Rainbow Walker**: You gain proficiency in the Animal Handling or Medicine skills.
 
 Optional Character Traits and Trivia
+

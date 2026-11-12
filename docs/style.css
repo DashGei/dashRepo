@@ -138,11 +138,32 @@ li {
   line-height: 27px;
 }
 
+
+
+
+
+.tt {
+display: none;
+
+    position: absolute;
+    transform: translateZ(+50%);
+
+}
+
+.tt.vis {
+    display: block;
+}
+
+
+
+
+
 @font-face {
     font-family: Bookerly;
     src: url(font/Bookerly.ttf);
 
 }
+
 
 body {
 

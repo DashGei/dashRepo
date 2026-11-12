@@ -1,5 +1,3 @@
-
-
 # Gelague
 
 A Gelag is characterized by their stocky frame, light scales across the body, and neck gills. Gelague evolved on the extradimensional plane of water, but they make up a large portion of aquatic and even occasionally surface society.

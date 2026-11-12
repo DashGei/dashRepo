@@ -1,25 +1,16 @@
-const counter = document.getElementById("counter");
-const addButton = document.getElementById("addButton");
-const resetButton = document.getElementById("resetButton");
+document.querySelectorAll("[data-tt]").forEach(trigger => {
 
-let saved = localStorage.getItem("counterValue");
-counter.innerHTML = saved ? saved : "0";
+    const ttId = trigger.dataset.tt;
+    const tt = document.getElementById(ttId);
 
-addButton.addEventListener("click", () => {
-    let current = Number(counter.innerHTML);
-    current++;
-    counter.innerHTML = current;
-    const audio = new Audio('images/gain.mp3');
-    audio.play();
-    localStorage.setItem("counterValue", current.toString());
+    if (!tt) return;
+
+    trigger.addEventListener("mouseenter", () => {
+        tt.classList.add("vis");
+    });
+
+    trigger.addEventListener("mouseleave", () => {
+        tt.classList.remove("vis");
+    });
+
 });
-
-resetButton.addEventListener("click", () => {
-    let zero = 0;
-    
-    counter.innerHTML = 0;
-    const audio = new Audio('images/register.mp3');
-    audio.play();
-    localStorage.setItem("counterValue", zero.toString());
-});
-
