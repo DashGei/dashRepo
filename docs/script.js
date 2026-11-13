@@ -5,7 +5,7 @@ document.querySelectorAll("[data-tt]").forEach(trigger => {
 
     if (!tt) return;
 
-    trigger.addEventListener("mouseenter", () => {
+    trigger.addEventListener("mouseover", () => {
         tt.classList.add("vis");
     });
 

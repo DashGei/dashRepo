@@ -142,20 +142,57 @@ li {
 
 
 
-.tt {
-display: none;
-
-    position: absolute;
-    transform: translateZ(+50%);
-
+.tooltip-trigger {
+    position: relative;
+    background-image: linear-gradient(to right, #d6b0da, #e0bae4, #dfabdf);
+    background-clip: text;
+    font-family: Bookerly, Draconis;
+    font-weight: 50px;
+    color: transparent;
+    cursor: url("images/cursoractive.png"), auto;
+    text-decoration: none;
+    text-shadow: 0 0px 8px #6d5cc9a1
 }
 
-.tt.vis {
+.tooltip-trigger:hover .tt-frame {
     display: block;
+
 }
 
+span.tt-frame {
+    
+    display: none;
+    background-color: #4c6280;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 5px 10px #030f16;
+    position: absolute;
+    z-index: 100;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 500px;
+    padding: 8px;
+    color: #FFFFEB;
+    animation: fadeIn 0.15s ease-in-out forwards;
+}
 
+span.tt-cont {
+    
+    display: block;
+    border: 3px solid;
+    border-image: linear-gradient(to top left, #c1ba86, #B5A642, #758e42) 1;
+    padding: 8px;
+}
 
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
 
 
 @font-face {
@@ -192,9 +229,9 @@ strong {
     line-height: 22px;
     font-family: Bookerly, Draconis;
     font-size: 20px;
-    color: #eceed8;
+    color: #c7dfd9;
     cursor: url("images/cursorpassive.png"), auto;
-    text-shadow: 0 0px 10px #6d5cc9a1
+    text-shadow: 0 0px 8px #5cc99286
 }
 
 img {
