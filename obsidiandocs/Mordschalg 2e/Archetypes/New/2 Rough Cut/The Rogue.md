@@ -67,7 +67,7 @@ Any perk you gain which requires that Stance is only ever active while that Stan
 
 Once per turn, you can deal extra damage to one creature you Strike if you have Weal on the Strike. 
 
-The extra damage starts at 2d4 and increases as shown in the Sneak Strike column of the Rogue table. The damage type is the same as the weapon's type.
+The extra damage starts at 2d4 and increases as shown in the Sneak Strike column of the Rogue table. The damage type is the same as the weapon's type, and the roll is always **Limitless**.
 
 ## Quick Feet: 2
 

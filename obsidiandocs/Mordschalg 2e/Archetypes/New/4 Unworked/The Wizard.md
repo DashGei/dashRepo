@@ -47,12 +47,11 @@ A Wizard begins with 4 Vitality, 6 Stamina, and 9 Mental Health.
 |     |     |     |     |     |     |     |     |     |
 ## Training: 0
 
-As a Warlock, you have Training in a few areas according to the list below: 
+As a Wizard, you have Training in a few areas according to the list below: 
 
 **Armor:** None
-**Weapons:** Simple weapons
-**Tools:** None
-**Skills:** Choose two from Arcana, Deception, Lore, Persuasion, Intimidation, Insight, and Investigation
+**Weapons:** Daggers, quarterstaffs
+**Skills:** Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
 
 ## Spellcasting: 0
 
