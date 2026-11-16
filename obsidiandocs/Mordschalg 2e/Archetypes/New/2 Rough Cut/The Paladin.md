@@ -63,13 +63,13 @@ You emanate a protective aura that extends **3m** from you in all directions. En
 
 ### Zeal Dice
 
-**Zeal Dice.** You have a pool of **Zeal Dice** that fuel your divine abilities. Your **Zeal Dice** start as d2s, and they improve at higher levels. You can hold a maximum of **4 Zeal Dice** which disappear when you finish a short or long rest.
+**Zeal Dice.** You have a pool of Zeal Dice that fuel your divine abilities. Your Zeal Dice start as d2s, and they improve at higher levels. You can hold a maximum of **4 Zeal Dice** which disappear when you finish a rest.
 
-At the start of each of your turns, you gain one **Zeal Die** for each hostile creature within your aura. You can use these Dice to do two things:
+At the start of each of your turns, you gain one Zeal Die for each hostile creature within your aura. You can use these Dice to do two things:
 
-**Divine Smite.** When you Strike, you can expend any number of **Zeal Dice**. The Strike deals additional **Radiant** damage equal to the total rolled.
+**Divine Smite.** When you Strike, you can expend any number of Zeal Dice. The Strike deals additional Radiant damage equal to the total rolled.
 
-**Zealous Benediction.** When you Strike, you can expend two **Zeal Dice** to heal a creature within your aura for 1 Stamina or Flesh (including possibly yourself).
+**Zealous Benediction.** When you Strike, you can expend two Zeal Dice to heal a creature within your aura for **1 Stamina or Flesh** (including possibly yourself).
 
 ## Spellcasting: 2
 
@@ -91,7 +91,7 @@ While your aura is active, you and friendly creatures within it add your **Menta
 
 ## Abjure Foes: 9
 
-By spending 2 Strain as an **Action**, you target up to 4 creatures that you can see within 12m. Each must succeed on a **Mental DC PRE** saving throw or be **Frightened** of you for 1 minute. While Frightened in this way, a creature cannot take **Reactions**.
+By spending 2 Strain as an Action, you target up to 4 creatures that you can see within **12m**. Each must succeed on a **Mental DC PRE** saving throw or be **Frightened** of you for 1 minute. While Frightened in this way, a creature cannot take **Reactions**.
 
 ## Aura of Courage: 10
 
@@ -103,23 +103,23 @@ As an Action, you can cause your aura to emanate from a point you can see within
 
 ## Seek Out The Profane : 14
 
-By spending 2 Strain as an Action, you can detect celestials, fiends, and undead. For the next 10 minutes, you know the direction of any creature of those types within 12m of you. You also know if there is a place or object within 6m that has been consecrated or desecrated.
+By spending **2 Strain** as an Action, you can detect celestials, fiends, and undead. For the next **10 minutes**, you know the direction of any creature of those types within **12m** of you. You also know if there is a place or object within **6m** that has been consecrated or desecrated.
 
 ## Zeal Overflow: 15
 
-When you would gain a **Zeal Die** and are already at your maximum, your aura increases in size by **1m** until the start of your next turn.
+When you would gain a Zeal Die and are already at your maximum, your aura increases in size by **1m** until the start of your next turn.
 
 ## Bulwark: 17
 
-At the start of your turn, you gain one **Zeal Die** for each friendly creature within your aura. Your maximum number of **Zeal Dice** increases by your **Mental Modifier**.
+At the start of your turn, you gain one Zeal Die for each friendly creature within your aura. Your maximum number of Zeal Dice increases by 2.
 
 ## Aura Expansion: 18
 
-Your aura radius increases to 5m.
+Your aura radius increases to **5m**.
 
 ## Righteous Conviction: 20
 
-Spend 5 Strain as two Actions to invert the protective magics which fill your aura, and turn them against your enemies. The effects last until the start of your next turn..
+Spend **5 Strain** as two Actions to invert the protective magics which fill your aura, and turn them against your enemies. The effects last until the start of your next turn..
 
 All enemies within your aura **lose any resistances** they have, and take an additional **2d6 Radiant** damage whenever they take damage.
 

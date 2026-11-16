@@ -15,7 +15,10 @@ Rangers are hunters, scouts, guides, and wardens. They know how to find what oth
 
 A Ranger does not need to be a woodsman, archer, or spellcaster. A Ranger is defined by the hunt: identifying a quarry, learning its weaknesses, controlling the circumstances of the encounter, and exploiting the moment when it falters.
 
-**Iconic Rangers:** Aragorn, San, Robin Hood
+**Iconic Rangers:**
+- Aragorn -Lord of the Rings
+- San -Princess Mononoke
+- Robin Hood -English Myth
 
 | Level | Boon               | Hunter's Mark | Feature              |
 | ----: | ------------------ | ------------- | -------------------- |
@@ -75,19 +78,19 @@ At level one, you gain access to a Stance of your choosing. While active, you ha
 
 A perk with a Stance prerequisite is active only while its associated Stance is active.
 
-## Hunter's Mark
+## Hunter's Mark: 1
 
-You learn to designate a creature as your quarry.
+A defining quality of a Ranger is their ability to track and keep targets.
 
-As an Action, designate a creature you can see within 30 m as your marked creature. You have Weal on Instinct Checks using Perception or Survival to find or track it.
+As an Action, designate a creature you can see within **30m** as your marked creature. You have Weal on Instinct Checks using Perception or Survival to find or track it.
 
-When you Strike your marked creature, add your Hunter's Mark dice, as shown in the class progression table, to the Strike's damage roll as additional Force damage.
+When you Strike your marked creature, add your Hunter's Mark dice, as shown in the class progression table, to the Strike's damage roll as Force damage.
 
 When you reduce your marked creature to 0 Vitality with a Strike, you may immediately mark another creature without spending an Action.
 
-Your mark lasts until you finish a rest, the marked creature reaches 0 Vitality, or you end the mark as an Action. The creature does not know that it is marked.
+Your mark lasts until the marked creature reaches 0 Vitality, or you end the mark as an Action. The creature does not know that it is marked.
 
-## Trailcraft
+## Trailcraft: 2
 
 A good Ranger is a master of traversal.
 
@@ -128,9 +131,9 @@ When you Strike a marked creature, if the resulting damage would leave that crea
 
 Your connection to a quarry extends beyond ordinary senses.
 
-You can sense the direction of your marked creature even while you are **Blind**. And your Strikes never suffer Woe if you cannot see a creature marked by you.
+You can sense the direction of your marked creature even while you are Blind. And your Strikes against a marked target never suffer Woe if you cannot see a creature marked by you.
 
-Additionally, when you use Hunter's Mark, you may instead mark the closest enemy creature within 15m, even if you do not know where it is. You do not need to see the creature to mark it this way.
+Additionally, when you use Hunter's Mark, you may instead mark the closest enemy creature within **15m**, even if you do not know where it is. You do not need to see the creature to mark it this way.
 
 ## Trailcraft II: 11
 
@@ -148,7 +151,7 @@ When your marked creature would otherwise be **Hidden** from you, you can still 
 
 You know how to turn the wilderness itself into an extension of your hunt.
 
-You can spend 3 Strain and 10 minutes to mark a location with Hunter's Mark, creating a 10m radius area. 
+You can spend 3 Strain and 10 minutes to mark a location with Hunter's Mark, creating a **10m** radius area. 
 
 While this area persists, creatures you choose within it are marked by you for as long as they remain in the area. You can end the mark sustaining this area as a free action, causing the area to disappear.
 
@@ -166,4 +169,4 @@ You gain **Veilsight** and **Blindsight** out to 6m.
 
 ## Lord of the Land: 20
 
-When you use Setup, the area is instead 30m, and, you have Weal on Stealth and Perception Checks when within the area.
+When you use Setup, the area is instead **30m**, and, you have Weal on Stealth and Perception Checks when within the area.

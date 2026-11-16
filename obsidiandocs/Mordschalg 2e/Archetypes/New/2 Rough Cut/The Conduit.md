@@ -5,7 +5,7 @@ Unlike other spellcasters a Conduit's relationship with their powers is tenuous.
 Iconic Conduits:
 
 - Ghost -Hollow Knight
-- Gandalf -Lord of the Rings
+- Aleister Crowley -Real life
 - Aang -Avatar: The Last Airbender
 
 | Level | Boon                 | Features           |

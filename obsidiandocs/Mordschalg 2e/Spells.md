@@ -66,73 +66,83 @@ Distance Shorthand
 | Distant  | 30 meters |
 ## Spell Formulas
 
+**Banish** _INS_ Targets must use their movement to leave the area.
+
+**Bane** _INS_ Targets subtract 1d4 from Saves and Strikes for the duration.
+
 **Bless** Targets add 1d4 to Saves and Strikes for the duration.
 
-**Banish** *INS* Targets must use their movement to leave the area.
+**Bright** _Radiant_ Targets shed light for 6m.
 
-**Bane** *INS* Targets subtract 1d4 from Saves and Strikes for the duration.
+**Cantrip** _Force_ Targets have Woe when rolling damage for spells.
 
-**Bright** *Radiant* Targets shed light for 6m.
-
-**Cantrip** *Force* Targets have Woe when rolling damage for spells.
-
-**Charm** *Numb* *PRE* Targets are Charmed for the duration.
+**Charm** _Numb_ _PRE_ Targets are Charmed for the duration.
 
 **Cloak** Targets are Invisible for the duration or until they Strike or Cast.
 
-**Command** *PRE* On their turn, targets must either move in a direction, or Strike a creature of your choice once.
+**Command** _PRE_ On their turn, targets must either move in a direction, or Strike a creature of your choice once.
 
-**Dark** *Necrotic* The area is filled with Darkness.
+**Cantrip** _Force_ Targets have Woe when rolling damage for spells.
 
-**Cantrip** *Force* Targets have Woe when rolling damage for spells.
+**Charm** _Numb_ _PRE_ Targets are Charmed for the duration.
 
-**Charm** *Numb* *PRE* Targets are Charmed for the duration.
+**Clairvoyance** You can see everything a target sees.
 
 **Cloak** Targets are Invisible for the duration or until they Strike or Cast.
 
-**Command** *PRE* On their turn, targets must either move in a direction, or Strike a creature of your choice once.
+**Command** _PRE_ On their turn, targets must either move in a direction, or Strike a creature of your choice once.
 
-**Dark** *Necrotic* The area is filled with Darkness.
+**Crush** _Blunt MIG_ Targets are prone and flying targets fall to the ground.
 
-**Door** *MIG* Two linked 1m portals appear in the area. A creature who occupies the space of one portal appears next to the other, and a projectile continues from one portal to the next in the same direction it was when entering.
+**Dark** _Necrotic_ The area is filled with Darkness.
+
+**Door** _MIG_ Two linked 1m portals appear in the area. A creature who occupies the space of one portal appears next to the other, and a projectile continues from one portal to the next in the same direction it was when entering.
+
+**Dream** _INS_ Targets fall unconscious until pushed or damaged.
+
+**Dirge** _Necrotic_ Target do not benefit from healing magic and are Deaf.
 
 **Dispel** A magic effects are targets and dispelled.
 
-**Dream** *INS* Targets fall unconscious until pushed or damaged.
+**Entangle** _Blunt_ Targets are Grappled.
 
-**Entangle** *Blunt* Targets are Grappled.
-
-**Fear** *Stress* *INS* Targets are Frightened for the duration.
+**Fear** _Stress_ _INS_ Targets are Frightened for the duration.
 
 **Faux** Medium, dead, Mortal targets are raised as Zombies under your control.
 
-**Freeze** *Cold* Targets have a -1 to speed for every Strain spent to do so.
+**Freeze** _Cold_ Targets have a -1 to speed for every Strain spent to do so.
 
-**Gale** *Slashing* Choose a direction. The area is difficult terrain when moving against that direction, and creatures spend no movement when moving with it.
+**Gale** _Slash_ Choose a direction. The area is difficult terrain when moving against that direction, and creatures spend no movement when moving with it.
 
-**Image** *ACU* Any visual effect of your choice is created in the area.
+**Heat** _Burn_ _MIG_ Creatures in contact with metal targets must remove them or take the damage.
 
-**Immolate** *Burn* Targets take damage for duration.
+**Image** _ACU_ Any visual effect of your choice is created in the area.
 
-**Invigorate** Targets are healed for 1 Stamina for every 2 Strain spent to do so.
+**Immolate** _Burn_ Targets take damage for duration.
 
-**Melt** *Acid* Targets take one damage die when taking other Physical damage.
+**Invigorate** Targets are healed for 1 Stamina for every 2 Strain you spend to do so.
 
-**Mist** *Cold* A cloud of heavy fog appears in the area, which is Obscured. 
+**Melt** _Acid_ Targets take one damage die when taking other Physical damage.
 
-**Levitate** *MIG* Targets rise to the ceiling of the area, or by 1m.
+**Mist** _Cold_ The area is Obscured.
 
-**Plague** *Toxic* *MIG*  Targets are Poisoned for the duration.
+**Levitate** _MIG_ Targets rise to the ceiling of the area, or by 1m.
 
-**Quiet** *Numb* Targets make no sound.
+**Plague** _Toxic_ Breathing targets are Poisoned for the duration.
+
+**Quiet** _Numb_ Targets make no sound.
 
 **See** Creatures seeing into the area have Blindsight.
 
-**Shock** *Volt* Targets within 1m of other targets take one damage die.
+**Seize** _Volt_ Targets have Woe on AGI and MIG Saves.
 
-**Slow** *AGI* Targets have Slow for the duration.
+**Shock** _Volt_ Targets within 1m of other targets take two damage dice.
 
-**Spine** *Pierce* . The area becomes difficult terrain. For every 1m a target moves through the area, it takes 1d4 damage.
+**Slick** _Acid AGI_ Creatures gripping targets drop them.
+
+**Slow** _AGI_ Targets have Slow for the duration.
+
+**Spine** _Pierce_ A creature moving across targeted ground takes one damage die for every 1m moved.
 
 **Static** *Numb* Targets cannot focus.
 

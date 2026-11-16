@@ -445,10 +445,6 @@ These represent qualitatively different kinds of harm.
 
 ## Stamina
 
-Current PC baseline:
-
-> **10 Stamina**
-
 Stamina represents:
 
 - dodging;
@@ -487,10 +483,6 @@ Flesh does not impose the penalties associated with missing Vitality.
 Frontline-oriented characters may have additional Flesh.
 
 ## Vitality
-
-Current starting PC baseline:
-
-> **4 Vitality**
 
 Vitality represents serious bodily injury:
 
@@ -531,10 +523,6 @@ Current physical damage types include:
 | Radiant  |
 | Force    |
 # 14. Mental Health
-
-Current working baseline:
-
-> **9 Mental Health**
 
 Mental Defense (MD) is the creature's Mental Modifier (highest mental ability score)
 

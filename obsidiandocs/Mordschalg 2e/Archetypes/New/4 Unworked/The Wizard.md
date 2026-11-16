@@ -4,7 +4,7 @@ Unlike other spellcasters a Warlock's relationship with their powers is tenuous.
 
 Iconic Wizards:
 
-- Aleister Crowley -Real life
+
 - Merlin -Arthurian Legend
 - Roy Mustang -Full Metal Alchemist
 
