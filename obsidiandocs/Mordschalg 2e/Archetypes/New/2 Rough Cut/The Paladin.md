@@ -6,28 +6,28 @@ Iconic Champions:
 - Finn -Adventure Time
 - Taigen -Blue Eye Samurai
 
-| Level | Boon                    | Zeal Dice | Features             |
-| ----- | ----------------------- | --------- | -------------------- |
-| 1     | Minor Perk              | d4        | Aura of Zeal         |
-| 2     | Moderate Perk, 2 Spells | d4        | Spellcasting         |
-| 3     | Major Perk              | d4        |                      |
-| 4     | New Spell               | d4        |                      |
-| 5     | 2 Minor Perks           | d4        | Resilient Zeal       |
-| 6     | +1 Stamina              | d4        | Aura of Protection   |
-| 7     | Major Perk              | d6        |                      |
-| 8     | New Spell               | d6        |                      |
-| 9     | Moderate Perk           | d6        | Abjure Foes          |
-| 10    | +1 Flesh                | d6        | Aura of Courage      |
-| 11    | 2 Minor Perks           | d6        | Consecrated Ground   |
-| 12    | New Spell               | d6        |                      |
-| 13    | Major Perk              | d6        |                      |
-| 14    | +1 Stamina              | d6        | Seek The Profane     |
-| 15    | 2 Minor Perks           | d8        | Zeal Overflow        |
-| 16    | New Spell               | d8        |                      |
-| 17    | Moderate Perk           | d8        | Bulwark              |
-| 18    | +1 Stamina              | d8        | Aura Expansion       |
-| 19    | Major Perk              | d8        |                      |
-| 20    | New Spell               | d8        | Righteous Conviction |
+| Level | Boon                    | Zeal Dice | Features           |
+| ----- | ----------------------- | --------- | ------------------ |
+| 1     | Minor Perk              | d4        | Aura of Zeal       |
+| 2     | Moderate Perk, 2 Spells | d4        | Spellcasting       |
+| 3     | Major Perk              | d4        |                    |
+| 4     | New Spell               | d4        |                    |
+| 5     | 2 Minor Perks           | d4        | Resilient Zeal     |
+| 6     | +1 Stamina              | d4        | Aura of Protection |
+| 7     | Major Perk              | d6        |                    |
+| 8     | New Spell               | d6        |                    |
+| 9     | Moderate Perk           | d6        | Abjure Foes        |
+| 10    | +1 Flesh                | d6        | Aura of Courage    |
+| 11    | 2 Minor Perks           | d6        | Consecrated Ground |
+| 12    | New Spell               | d6        |                    |
+| 13    | Major Perk              | d6        |                    |
+| 14    | +1 Stamina              | d6        | Seek The Profane   |
+| 15    | 2 Minor Perks           | d8        | Zeal Overflow      |
+| 16    | New Spell               | d8        |                    |
+| 17    | Moderate Perk           | d8        | Bulwark            |
+| 18    | +1 Stamina              | d8        | Aura Expansion     |
+| 19    | Major Perk              | d8        |                    |
+| 20    | New Spell               | d8        | Holy Diver         |
 ## Physical and Mental Modifiers: 0
 
 Choose **Might** or **Agility** for your Physical Modifier. Then choose **Acumen**, **Instinct**, or **Presence** as your Mental Modifier. Use the corresponding Ability Modifier whenever one of your Paladin features refers to your Physical Modifier or Mental Modifier.
@@ -117,7 +117,7 @@ At the start of your turn, you gain one Zeal Die for each friendly creature with
 
 Your aura radius increases to **5m**.
 
-## Righteous Conviction: 20
+## Holy Diver: 20
 
 Spend **5 Strain** as two Actions to invert the protective magics which fill your aura, and turn them against your enemies. The effects last until the start of your next turn..
 

@@ -105,8 +105,6 @@ When rolling Critical, the maximum result for the Threshold test is 2x the origi
 | Total ≥ DT    |               | 5 HP         |
 | Total ≥ 2× DT |               | 6 HP         |
 | Total ≥ 3× DT |               | Instant Kill |
-
-
 ### Gate
 
 A Gate modifier can either be Moderate or Major, and it means you must roll at least that high to have an effect.

@@ -10,28 +10,28 @@ Iconic Faithful:
 
 ## Class Progression
 
-| Level | Boon                         | Features              |
-| ----- | ---------------------------- | --------------------- |
-| 1     | 3 Spell Formulas, Minor Perk | Divine Declaration    |
-| 2     | Moderate Perk                | Pastoral Rites        |
-| 3     | Major Perk                   |                       |
-| 4     | New Spell                    |                       |
-| 5     | 2 Minor Perks                | Expanded Repertoire   |
-| 6     | +1 Stamina                   | Swift Proclamation    |
-| 7     | Major Perk                   |                       |
-| 8     | New Spell                    |                       |
-| 9     | Moderate Perk                | Resonant Voice        |
-| 10    | +1 Flesh                     | Divine Intervention   |
-| 11    | 2 Minor Perks                | Expanded Repertoire   |
-| 12    | New Spell                    |                       |
-| 13    | Major Perk                   |                       |
-| 14    | +1 Stamina                   | Potent Words          |
-| 15    | 2 Minor Perks                | Twin Proclamation     |
-| 16    | New Spell                    |                       |
-| 17    | Moderate Perk                | Expanded Repertoire   |
-| 18    | +1 Stamina                   | Across Time and Space |
-| 19    | Major Perk                   |                       |
-| 20    | New Spell                    | Word of Creation      |
+| Level | Boon                         | Features            |
+| ----- | ---------------------------- | ------------------- |
+| 1     | 3 Spell Formulas, Minor Perk | Words of Creation   |
+| 2     | Moderate Perk                | Pastoral Rites      |
+| 3     | Major Perk                   |                     |
+| 4     | New Spell                    |                     |
+| 5     | 2 Minor Perks                | Prayers             |
+| 6     | +1 Stamina                   | Swift Proclamation  |
+| 7     | Major Perk                   |                     |
+| 8     | New Spell                    |                     |
+| 9     | Moderate Perk                | Deep Connection     |
+| 10    | +1 Flesh                     | Divine Intervention |
+| 11    | 2 Minor Perks                | Shepherd            |
+| 12    | New Spell                    |                     |
+| 13    | Major Perk                   |                     |
+| 14    | +1 Stamina                   | Utmost Devotion     |
+| 15    | 2 Minor Perks                | Sermon              |
+| 16    | New Spell                    |                     |
+| 17    | Moderate Perk                | Empowered Words     |
+| 18    | +1 Stamina                   | Act of Apostle      |
+| 19    | Major Perk                   |                     |
+| 20    | New Spell                    | Divine Declaration  |
 ## Physical and Mental Modifiers
 
 Choose **Might** or **Agility** to determine your Physical Modifier. Then choose **Acumen**, **Instinct**, or **Presence** to determine your Mental Modifier. Use the corresponding Ability Modifier whenever one of your Faithful features refers to your Physical Modifier or Mental Modifier.
@@ -81,116 +81,91 @@ Perks grant talents, techniques, and specialized capabilities that customize you
 
 At 1st level, choose one Minor Perk for which you meet the prerequisites.
 
-## Words of Creation: Level 1
+## Words of Creation: 1
 
 Through your connection to the divine, you are allotted some of the incredible power that was used to shape the world of mortal kind.
 
-You know three Chants, chosen from the Chants listed below.
+As an Action, you may Proclaim one Chant from the list below. The Chant remains in power for the next minute, **or until** an allied creature within **10m** of you echoes it on their turn as a Free Action. The effects of reciting the chant depends on what chant you orated.
 
-As an Action, you may Proclaim one Chant you know. The Chant remains in power for the next minute, **or until** an allied creature within **10m** of you echoes it on their turn as a Free Action. The effects of reciting the chant depends on what chant you orated.
+### Chants
 
-### Words of Creation
+The following Chants are available to the Faithful. What hymns and psalms you recite and their religious significance however is up to you.
 
-The following Words are available to the Faithful. What hymns and psalms you recite and their religious significance however is up to you.
-
-**Word of Ruin**
-
-You recount a Chant of destruction.
-
+**Word of Conviction**
 When Echoed, the creature deals an additional 1d6 damage with their next Strike. The damage type is any from a spell you know.
 
 **Word of Renewal**
+When Echoed, the creature gains 1 Stamina and is relieved of the Poisoned Condition
 
-When Echoed, the creature gains 1 Stamina.
-
-**Word of Cleansing**
-
-When Echoed, the creature is relieved of the Poisoned Condition.
-
-**Word of Shelter**
-
-When Echoed, the creature chooses another creature within 2m, who then has a 1d4 penalty to their next Save.
+**Word of Ruin**
+When Echoed, the creature chooses another creature within **2m**, who then has a 1d4 penalty to their next Save.
 
 **Word of Soothing**
-
-When Echoed the creature has Resistance to Pain and Stress damage until the start of their next turn..
-
-**Chant of Passage**
-
-When Echoed, the creature's speed increases by 3m.
+When Echoed the creature has Resistance to Pain and Stress damage until the start of their next turn.
 
 **Chant of Warding**
+When Echoed, the creature chooses another creature within **2m**, who then cannot willingly move towards the ally until that ally's next turn.
 
-When Echoed, the creature chooses another creature within 2m, who then cannot willingly move towards the ally until that ally's next turn.
+## Pastoral Rites: 2
 
-## Pastoral Rites: Level 2
-
-You are trained in the ceremonies and traditions of your faith. You can officiate funerals, marriages, blessings, rites of passage, ceremonies of remembrance, and other religious observances.
+You are trained in the ceremonies and traditions of your faith.
 
 When the party takes a Moderate rest and has not gained Divine Favor with any gods during the current day, you can spend your rest action to gain 1 Divine Favor with a god of your choosing.
 
-## Expanded Repertoire: Levels 5, 11, and 17
+## Prayers: 5
 
-Your understanding of the Words of Creation deepens.
+You can offer rich prayers to your companions to guide and aid them.
 
-At each of these levels, learn one additional Word of Creation from the available list.
+Spend 2 Strain as two Actions to offer a prayer to an ally you know of. For the rest of the day, that ally can then recite that prayer while making a Check, adding 1d6 to their result.
 
-You know six Words of Creation by level 17.
-
-## Words Instilled: Level 6
+## Words Instilled: 6
 
 You have learned to speak the Words of Creation with greater efficiency.
 
-When you voice a Chant, an ally can echo that chant as a Reaction.
+When you voice a Chant, an ally can echo that Chant as a Reaction.
 
-## Utmost Devotion: 9
-
-When you take a rest, you can choose to take the next lowest degree of rest in order to refresh one Divine Favor feature with limited uses.
-
-## Resonant Voice: Level 9
-
-The power of your words reaches farther.
-
-The radius of your Divine Declaration increases from 10m to 15m.
-
-## Divine Intervention: Level 10
-
-Across your adventures and exploits, you have truly made a name for yourself among divinity, and although the divine rarely interact with the mortal realm
-
-As two Actions spend any amount of Favor with one god. Roll a number of d8 equal to the amount of Favor you spent. Creatures of your choice within **12m** of you are either healed equal to the roll, or take damage equal to the roll (damage type is any from a spell you know). 
-
-Once you use this feature, you cannot do so until you finish a Major Rest. 
-
-## Deep Connection: Level 14
+## Deep Connection: 9
 
 Choose one of the following features:
 
-**Righteous Strikes**: Once per round you may add 1d10 damage to one of your Strikes. The damage type is any from a spell you know.
+**Righteous Strikes**: Once per round you may add 1d10 damage to one of your melee Strikes. The damage type is any from a spell you know.
 
-**Doom**: The damage Word of Ruin deals is increased to a d8.
+**Doom**: The damage Word of Conviction deals is increased to a d8.
 
-**Blessed**: Allies within 
+## Divine Intervention: 10
 
-## Twin Proclamation: Level 15
+Across your adventures and exploits, you have truly made a name for yourself among divinity, and although the divine rarely interact with the mortal realm
 
-You have learned to speak more than one Word in a single Proclamation.
+As two Actions spend up to 5 Favor with one god. Roll a number of d6 equal to the amount of Favor you spent. Creatures of your choice within **12m** of you are either healed equal to the roll, or take damage equal to the roll (damage type is any from a spell you know). 
 
-When you Proclaim a Word, you may choose two different Words you know instead of one. Both Words become active together and share the same duration and radius.
+Once you use this feature, you cannot do so until you finish a Major Rest. 
 
-Each ally may Echo one of the two Words once during the Proclamation. They choose which Word to Echo when they use their Action.
+## Shepherd : 11
 
-Proclaiming a new set of Words ends the previous Proclamation.
+When an ally uses a prayer, they can use it against a Save instead of a Check.
 
-## Across Time and Space: 18
+Additionally, two allies can echo a Chant before it loses its power.;
+
+## Utmost Devotion: 14
+
+When you take a rest, you can choose to take the next lowest degree of rest in order to refresh one Divine Favor feature with limited uses.
+
+## Sermon: 15
+
+You can use Words of Creation as two Actions to voice a sermon. When you do so an echoing ally can choose from any of your Chants, and the chant can be echoed up to four times.
+
+## Empowered Words: 17
+
+The bonus added from prayers is a d10.
+
+## Act of Apostle: 18
 
 The transcendent nature of Divine Power is also yours to wield.
 
-You can use Chant as two Actions and designate a creature you know in order to give them a 
+You can use Chant as two Actions and designate a creature you know who can then recite the words within the next day to use them. You do not need to know where the creature is, and they do not need to be within any distance of you, they simply know that you gave them the Chant and they may recite it.
 
-## Word of Creation: Level 20
+## Divine Declaration: 20
 
 You have mastered the language that shaped the world.
 
-When you use Twin Proclamation, each ally may Echo both Proclaimed Words once, rather than choosing only one. Each Echo requires its own Action.
-
-An ally may Echo the two Words in either order, provided the Proclamation remains active and they are within its radius.
+As two Actions, you can expend 5 Strain, Mental Health, or Physical Health along with 5 Divine Favor with one god. One creature of your choice that you can see regains all Hit Points and Stamina. If the creature was dead, they come back to life.

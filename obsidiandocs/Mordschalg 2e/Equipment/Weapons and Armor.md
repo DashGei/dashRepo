@@ -11,13 +11,13 @@
 | Quarterstaff             | 1d8 (B)     | Versatile (2d4)                | Ma.    | 2 SP   | 2           |
 | Short Spear              | 1d8 (P)     | Thrown, Versatile (1d10)       | Ma.    | 1 GP   | 2 (8/32)    |
 | Spear                    | 1d12 (P)    | Two-Handed                     | Ma.    | 2 GP   | 3           |
-| Unarmed                  | 1d2 (B)     | -                              | -      | -      | 1           |
-| Buckler                  | 1d4 (B)     | -                              | Mo     | 1 Gp   | 1           |
+| Unarmed                  | 1d4 (B)     | -                              | -      | -      | 1           |
+| Buckler                  | 1d6 (B)     | -                              | Mo     | 1 Gp   | 1           |
 | _Simple Ranged Weapons_  |             |                                |        |        |             |
-| Dart                     | 1d4 (P)     | Finesse, Thrown                | Mo.    | 5 CP   | 8/32        |
+| Dart                     | 1d6 (P)     | Finesse, Thrown                | Mo.    | 5 CP   | 8/32        |
 | Light Crossbow           | 1d12 (P)    | Finesse, Two-Handed, Hunker    | Ma.    | 25 GP  | 20/40       |
 | Shortbow                 | 1d10 (P)    | Finesse, Two-Handed            | Ma.    | 25 GP  | 16/64       |
-| Sling                    | 1d4 (B)     | -                              | Mi.    | 1 SP   | 6/24        |
+| Sling                    | 1d6 (B)     | -                              | Mi.    | 1 SP   | 6/24        |
 | Musket                   | 3d6 (P)     | Matchlock, Two-Handed          | Ma.    | 200 GP | 30/60       |
 | _Martial Melee Weapons_  |             |                                |        |        |             |
 | Battleaxe                | 1d12 (P)    | Versatile (2d8)                | Ma.    | 10 GP  | 2           |

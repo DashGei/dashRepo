@@ -1873,7 +1873,7 @@ When an abbreviation is necessary, introduce the full term first. For example, w
 
 ## Numbers, Units, and Resources
 
-Use numerals for mechanical quantities, including ability costs, ranges, durations, resource changes, damage values, and numbers of targets. Write distances with a space between the number and the unit, such as **12 m**. Use consistent notation for dice, such as **1d6**, **2d4**, and **1d10**.
+Use numerals for mechanical quantities, including ability costs, ranges, durations, resource changes, damage values, and numbers of targets. Write distances as **12m**. Use consistent notation for dice, such as **1d6**, **2d4**, and **1d10**.
 
 When describing resource expenditure or recovery, name the resource and state the change directly. Prefer "spend 2 Strain," "restore 1 Vitality," or "lose 1 Mental Health" over ambiguous expressions such as "pay 2 points" or "lose 1 HP of Mental Health."
 

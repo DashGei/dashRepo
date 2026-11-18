@@ -30,11 +30,11 @@ Iconic Wizards:
 | 18th  | +1 Stamina           | Instability Option |
 | 19th  | Major Perk           |                    |
 | 20th  | 2 New Spells         | Capstone           |
-## Physical and Mental Modifiers: 0
+## Physical and Mental Modifiers
 
 Choose **Might** or **Agility** to determine your Physical Modifier. Then use **Acumen** as your Mental Modifier. Use the corresponding Ability Modifier whenever one of your Warlock features refers to your Physical Modifier or Mental Modifier.
 
-## Health: 0
+## Health
 
 A Wizard begins with 4 Vitality, 6 Stamina, and 9 Mental Health.
 
@@ -45,7 +45,7 @@ A Wizard begins with 4 Vitality, 6 Stamina, and 9 Mental Health.
 | M   | M   | M   | M   | M   | M   | M   | M   | M   |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |     |     |     |     |     |     |     |     |     |
-## Training: 0
+## Training
 
 As a Wizard, you have Training in a few areas according to the list below: 
 
@@ -53,7 +53,7 @@ As a Wizard, you have Training in a few areas according to the list below:
 **Weapons:** Daggers, quarterstaffs
 **Skills:** Choose two from Arcana, History, Insight, Investigation, Medicine, and Religion
 
-## Spellcasting: 0
+## Spellcasting
 
 At 1st level, you learn three Spell Formulas and one Ritual of your choice. You learn additional formulas and rituals as specified by your class features.
 
@@ -67,7 +67,7 @@ A spell normally lasts until the start of your next turn. You may spend 1 Strain
 
 Rituals are distinct magical workings, each with its own Casting Time, Components, and effects. Unlike spells, rituals need not follow the standard rules for Formula and Delivery. Follow each ritual's description to perform it and resolve its effects. Ritual components are consumed when the ritual specifies.
 
-## Physical and Mental Modifiers: 0
+## Physical and Mental Modifiers
 
 Some abilities and features refer to your **Physical Modifier** or **Mental Modifier**. These are not separate ability scores. Instead, each represents one of your existing Ability Modifiers, allowing you to use your strongest relevant attribute.
 

@@ -36,3 +36,12 @@ Parse/Narrative/Strategic Culling and how decreasing the parse time also decreas
 #### Also DM ideas?
 
 Instead of Monster A, B, C. Each enemy is simply named by a defining physical trait. You could even have this go alphabetically
+
+
+##### "Rule 2 Of Dungeons and Dragons"
+
+Rule 1 of RPGs is that ultimately an RPG is defined as an RPG because the base of the game is a player describing their actions, and then the GM tells you what happens.
+
+Rule 2 is that ultimately the reason for players sitting down to play an RPG is to create cool moments with their friends.
+
+For some players this involves deeply complex characters being brought to life, for more combat orientated players it might take shape in outmaneuvering their opponents, or simply just feeling really strong narratively.
