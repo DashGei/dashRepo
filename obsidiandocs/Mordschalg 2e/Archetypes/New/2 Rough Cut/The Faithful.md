@@ -53,7 +53,6 @@ As a Cleric, you have Training in a few areas according to the list below:
 
 **Armor:** Light Armor, Medium Armor
 **Weapons:** Simple weapons
-**Skills:** Choose two from Arcana, Deception, Lore, Persuasion, Intimidation, Insight, and Investigation
 
 ## Spellcasting
 

@@ -52,7 +52,6 @@ As a Conduit, you have Training in a few areas according to the list below:
 **Armor:** None
 **Weapons:** Simple weapons
 **Tools:** None
-**Skills:** Choose two from Arcana, Deception, Lore, Persuasion, Intimidation, Insight, and Investigation
 
 ## Spellcasting: 0
 

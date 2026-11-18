@@ -6,21 +6,21 @@
 | 3     | Major Perk         | 1d4        |                     |
 | 4     | Stance             | 1d4        |                     |
 | 5     | 2 Minor Perks      | 1d4        | Adrenaline Rush     |
-| 6     | +1 Stamina         | 1d6        | Furious             |
+| 6     | +1 Stamina         | 1d4        | Furious             |
 | 7     | Major Perk         | 1d6        |                     |
 | 8     | Stance             | 1d6        |                     |
 | 9     | Moderate Perk      | 1d6        | Brutal Criticals    |
 | 10    | +1 Flesh           | 1d6        | Adrenaline Rush II  |
-| 11    | 2 Minor Perks      | 1d8        | All In              |
-| 12    | Stance             | 1d8        |                     |
-| 13    | Major Perk         | 1d8        |                     |
-| 14    | +1 Stamina         | 1d8        | Relentless Rage     |
+| 11    | 2 Minor Perks      | 1d6        | All In              |
+| 12    | Stance             | 1d6        |                     |
+| 13    | Major Perk         | 1d6        |                     |
+| 14    | +1 Stamina         | 1d6        | Relentless Rage     |
 | 15    | 2 Minor Perks      | 1d8        | For The Fences      |
-| 16    | Stance             | 1d10       |                     |
-| 17    | Moderate Perk      | 1d10       | Insurmountable      |
-| 18    | +1 Stamina         | 1d10       | Unstoppable         |
-| 19    | Major Perk         | 1d10       |                     |
-| 20    | Stance             | 1d10       | Indomitable Might   |
+| 16    | Stance             | 1d8        |                     |
+| 17    | Moderate Perk      | 1d8        | Insurmountable      |
+| 18    | +1 Stamina         | 1d8        | Unstoppable         |
+| 19    | Major Perk         | 1d8        |                     |
+| 20    | Stance             | 1d8        | Indomitable Might   |
 ## Physical and Mental Modifiers: 0
 
 Choose **Might** or **Agility** for your Physical Modifier. Then choose **Acumen**, **Instinct**, or **Presence** as your Mental Modifier. Use the corresponding Ability Modifier whenever one of your Champion features refers to your Physical Modifier or Mental Modifier.
@@ -42,7 +42,6 @@ As a Berserker, you have Training in a few areas according to the list below:
 
 **Armor:** Light armor, Medium armor, Shields
 **Weapons:** Simple Weapons, Martial Weapons
-**Skills:** Choose two from Athletics, Intimidation, Brawling, Acrobatics, Stealth, Perception, Survival, Insight.
 
 ## Rage: 1
 

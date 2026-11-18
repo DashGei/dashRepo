@@ -51,7 +51,6 @@ As a Vigilante, you have Training in a few areas according to the list below:
 
 **Armor:** Light armor, medium armor, shields
 **Weapons:** Simple weapons, martial weapons
-**Skills:** Choose any two skills.
 
 ## Perks: 1
 

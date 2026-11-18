@@ -64,7 +64,6 @@ As a Ranger, you have Training in a few areas according to the list below:
 
 **Armor:** Light armor, Medium armor, Shields
 **Weapons:** Simple Weapons, Martial Weapons
-**Skills:** Choose three from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, and Survival
 
 ## Perks
 

@@ -49,7 +49,6 @@ As a Rogue, you have Training in a few areas according to the list below:
 
 **Armor:** Light armor
 **Weapons:** Simple weapons, hand crossbows, light crossbows, scimitars, rapiers, shortswords
-**Skills:** Choose four from Acrobatics, Athletics, Deception, Insight, Intimidation, Investigation, Perception, Performance, Persuasion, Sleight of Hand, and Stealth
 
 ## Perks
 

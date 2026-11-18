@@ -50,7 +50,6 @@ As a Spellblade, you have Training in a few areas according to the list below:
 
 **Armor:** Light armor, Medium Armor, Shields
 **Weapons:** Simple weapons, Martial Weapons
-**Skills:** Choose two from Acrobatics, Arcana, Athletics, History, Insight, Investigation, and Perception
 
 ## Spellcasting: 2
 

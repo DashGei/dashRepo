@@ -49,7 +49,6 @@ As a Paladin, you have Training in a few areas according to the list below:
 
 **Armor:** All armor, Shields
 **Weapons:** Simple weapons, Martial Weapons
-**Skills:** Choose two from Athletics, Insight, Intimidation, Medicine, Persuasion, and Religion.
 
 ## Perks
 

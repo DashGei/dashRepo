@@ -51,7 +51,6 @@ As a Champion, you have Training in a few areas according to the list below:
 
 **Armor:** All armor, shields
 **Weapons:** Simple weapons, martial weapons
-**Skills:** Choose two from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
 
 ## Perks: 1
 
