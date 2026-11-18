@@ -4,7 +4,7 @@
 
 **Charmed** It cannot willingly harm the charmer. Charmer has Weal on Presence checks against creature.
 
-**Grappled** Its speed is 0.
+**Grappled** Its speed is 0. It can take an Action to try and break the condition's DT.
 
 **Drunk** It has Resistance to Pain and Stress. It is Poisoned, and has Woe on Dexterity Saves.
 
@@ -12,13 +12,13 @@
 
 **Frightened** It takes 1d12 Stress damage on turn start. It has Woe on Checks and Strikes. It cannot walk towards the source of fear.
 
-**Incapacitated** It cannot focus, take actions, or reactions. It fails all Might and Dexterity Checks. Strikes against it have Weal.
+**Incapacitated** It cannot focus, take actions, or reactions. It fails all Might and Dexterity Checks. It is Impaired.
 
 **Poisoned** It has Woe on Checks and Strikes.
 
 **Prone** It has Woe on Strikes. Ranged Strikes against it have Woe, Melee Strikes against it have Weal. One can fall or stand from Prone by expending 2 speed.
 
-**Restrained** Its speed is 0. Strikes against it have Weal, and its own Strikes have Woe.
+**Impaired** Strikes against it have Weal, and its own Strikes have Woe.
 
-**Slow** -1 to speed and reactions.
+**Slow** -1 to speed and has no reactions.
 

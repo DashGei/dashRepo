@@ -26,19 +26,11 @@ Sometimes a feature or circumstance will apply Weal or Woe to one of your Thresh
 
 Weal and Woe cancel each other one-for-one. They never stack, and nothing can rise above Major or fall below Miss.
 
-### Training
+## Checks
 
-Sometimes when you make a Threshold Test, you add your Training bonus to the roll's result. This is either determined by what features you have chosen as part of your class or background, or if the GM decides that you have experience with the action you are taking.
+When a creature takes an action interacting with the world, and the result of that action is unsure, the GM will call for a Check.
 
-If you are **Trained**, you add +1 to the total.
-
-If you are an **Expert**, you add +3 to the total.
-
-## Ability Checks
-
-When a creature takes an action interacting with the world, and the result of that action is unsure, the GM will call for a Ability Check, or Check.
-
-When a creature makes a Check, they roll **1d20**, and then add a relevant ability modifier as well as training.
+When a creature makes a Check, they roll **1d20**, and then add a relevant ability modifier along with an **Experience Die** if applicable.
 Before making a Check, a player may also describe one way in which they are using the world around them to aid their roll, adding 1d4 to the total.
 
 There are two types of Checks, **Binary**, and **Graded**
@@ -56,6 +48,13 @@ Typical DTs:
 | 7   | Hard       |
 | 8   | Very Hard  |
 | 10  | Heroic     |
+
+### Experience Dice
+
+Drawing from your background and lived experiences. When a creature makes a Check and both the GM and player feel that their experience is relevant in a beneficial way, a d4 die is added to the Check's total. 
+
+Only one of these dice can be added 
+
 ## Saving Throws
 
 The defender rolls **1d20 + relevant stat** against the DT, which is determined by the attacker's Physical or Mental modifier.
@@ -83,7 +82,6 @@ Apply damage to the appropriate pool. Physical damage goes **Stamina → Flesh 
 ### Opposed Checks
 
 When two creatures oppose each other, both roll **1d20 + bonuses**. The higher total wins. If creatures tie then creatures roll again.
-
 
 ## Test Modifiers
 
